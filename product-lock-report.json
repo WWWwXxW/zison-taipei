@@ -1,0 +1,13 @@
+{
+  "before": 192,
+  "after": 192,
+  "removed": 0,
+  "removed_names": [],
+  "policy": "Keep all food types (incl. 團膳/會議便當) when merchant-owned order channel exists. Soft-exclude only pickup-only / platform-only / no channel — none matched.",
+  "copy_updated": [
+    "index.html",
+    "about.html"
+  ],
+  "pages_regenerated": false,
+  "note": "No generator script found; district/cuisine counts unchanged at 192."
+}

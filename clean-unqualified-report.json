@@ -1,0 +1,35 @@
+{
+  "before": 192,
+  "after": 191,
+  "removed": 1,
+  "removed_entries": [
+    {
+      "id": "scout-b1-35",
+      "name": "ABV Bar & Kitchen Delivery",
+      "orderUrl": "https://www.abv.com.tw/abv-delivery/",
+      "reason": "ABV: delivery page 404; site only exposes inline.app/booking (table reservation)"
+    }
+  ],
+  "policy": "REMOVE if primary orderUrl is inline.app/booking, openrice reservation, Google Maps only, or Uber Eats/foodpanda only. KEEP merchant channels (own web order, Oddle, LINE, phone delivery, iCHEF, etc.). ABV removed: abv-delivery/ is 404; brand site only offers inline.app/booking.",
+  "pages_touched": [
+    "restaurants.json",
+    "data.js",
+    "district/daan.html",
+    "index.html",
+    "district/zhongzheng.html",
+    "district/datong.html",
+    "district/zhongshan.html",
+    "district/songshan.html",
+    "district/daan.html",
+    "district/wanhua.html",
+    "district/xinyi.html",
+    "district/shilin.html",
+    "district/beitou.html",
+    "district/neihu.html",
+    "district/nangang.html",
+    "district/wenshan.html"
+  ],
+  "cuisine_regen": "not required for ABV (not listed on cuisine pages); cards stripped if present",
+  "sitemap": "unchanged (no page added/removed; district/cuisine URLs same)",
+  "pushed": false
+}

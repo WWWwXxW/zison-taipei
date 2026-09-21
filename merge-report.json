@@ -1,0 +1,403 @@
+{
+  "before": 147,
+  "after": 192,
+  "added": 45,
+  "added_names": [
+    "Lins Burger 林斯漢堡美式餐廳（信義店）",
+    "比比拌韓式拌飯",
+    "Bonjour 朋廚烘焙坊",
+    "TakeOut Burger & Cafe",
+    "GUSTO PIZZA",
+    "OUVERT SEOUL TAIPEI",
+    "馬友友印度廚房 Mayur",
+    "餵 way",
+    "金山客家小館（創始店）",
+    "池先生 Kopitiam（公館店）",
+    "梁記雞肉飯",
+    "田園海鮮餐廳",
+    "蝦老爹美式海鮮 The Shrimp Daddy",
+    "輪流請客 TOGO（信義店）",
+    "Goodie Foodie",
+    "知己知米私廚餐盒",
+    "蛋裡找茶",
+    "源芳魚翅餐廳",
+    "森高砂咖啡（中山店）",
+    "萬國滷味專賣店",
+    "鑫吉野烤肉飯（信義永吉店）",
+    "MeatLove 橡木炭火韓式燒肉（信義店）",
+    "二和珍傳統餅舖（萬華總店）",
+    "范姐健康廚房（西門／健康餐盒）",
+    "私廚房 Snuggles Kitchen（蔬食）",
+    "八藤家日式料理",
+    "韓香渟料理",
+    "洪樓（洪樓小館）",
+    "太朗飯糰 TARO ONIGIRI",
+    "啾啾哥",
+    "明記大塊雞排（木柵直營店）",
+    "初越 新越南河粉",
+    "Rollspresso 喀義屋（內科西湖）",
+    "Pizza CreAfe’ 客意直火比薩・烤雞（內科店）",
+    "艾媽咪鄉村派（瑞光門市）",
+    "Sugar Miss（內湖門市）",
+    "C果多（內湖店）",
+    "閑茗樓（內湖店）",
+    "高雄五福扁食 K.H.Wufu（內湖港墘店）",
+    "佳元蔥油餅舖（台北內湖總店）",
+    "阿嬤的灶腳",
+    "北投雞腿達人",
+    "非常泰",
+    "1010湘",
+    "時時香"
+  ],
+  "added_ids": [
+    "scout-b3-59",
+    "scout-b3-60",
+    "scout-b3-61",
+    "scout-b3-62",
+    "scout-b3-63",
+    "scout-b3-64",
+    "scout-b3-65",
+    "scout-b3-66",
+    "scout-b3-67",
+    "scout-b3-68",
+    "scout-b3-69",
+    "scout-b3-70",
+    "scout-b3-71",
+    "scout-b3-72",
+    "scout-b3-73",
+    "scout-b3-74",
+    "scout-b3-75",
+    "scout-b3-76",
+    "scout-b3-77",
+    "scout-b3-78",
+    "scout-b3-79",
+    "scout-b3-80",
+    "scout-b4-81",
+    "scout-b4-82",
+    "scout-b4-83",
+    "scout-b4-84",
+    "scout-b4-85",
+    "scout-b4-86",
+    "scout-b4-87",
+    "scout-b4-88",
+    "scout-b4-89",
+    "scout-b4-90",
+    "scout-b4-91",
+    "scout-b4-92",
+    "scout-b4-93",
+    "scout-b4-94",
+    "scout-b4-95",
+    "scout-b4-96",
+    "scout-b4-97",
+    "scout-b4-98",
+    "scout-b4-99",
+    "scout-b4-100",
+    "scout-b4-101",
+    "scout-b4-102",
+    "scout-b4-103"
+  ],
+  "skipped_dups": [
+    {
+      "num": 1,
+      "name": "蘇杭餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 2,
+      "name": "瑪莉珍披薩 Maryjane Pizza",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 3,
+      "name": "京城烤鴨",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 4,
+      "name": "DA ANTONIO 義大利餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 5,
+      "name": "漁聞樂日式海鮮料理",
+      "reason": "name+district"
+    },
+    {
+      "num": 6,
+      "name": "椒心苑麻辣鍋",
+      "reason": "name+district"
+    },
+    {
+      "num": 7,
+      "name": "ED's Diner 美式BBQ",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 8,
+      "name": "Jim's Pizza 南港店",
+      "reason": "name+district"
+    },
+    {
+      "num": 9,
+      "name": "華西街台南擔仔麵",
+      "reason": "name+district"
+    },
+    {
+      "num": 10,
+      "name": "涮辛酸麻辣火鍋",
+      "reason": "name+district"
+    },
+    {
+      "num": 11,
+      "name": "Pang Taco 胖塔可",
+      "reason": "name+district"
+    },
+    {
+      "num": 12,
+      "name": "欣葉台菜 忠孝店",
+      "reason": "name+district"
+    },
+    {
+      "num": 13,
+      "name": "欣葉台菜 創始店",
+      "reason": "name+district"
+    },
+    {
+      "num": 14,
+      "name": "池先生 Kopitiam（大安店）",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 15,
+      "name": "台北老爺大酒店（餐點外帶外送）",
+      "reason": "name+district"
+    },
+    {
+      "num": 16,
+      "name": "Ruikee 瑞記海南雞飯",
+      "reason": "name+district"
+    },
+    {
+      "num": 17,
+      "name": "必勝客 Pizza Hut",
+      "reason": "name+district"
+    },
+    {
+      "num": 18,
+      "name": "達美樂 Domino's",
+      "reason": "name+district"
+    },
+    {
+      "num": 19,
+      "name": "肯德基 KFC",
+      "reason": "name+district"
+    },
+    {
+      "num": 20,
+      "name": "德克士 Dicos",
+      "reason": "name+district"
+    },
+    {
+      "num": 21,
+      "name": "彭園婚宴會館－台北館",
+      "reason": "name+district"
+    },
+    {
+      "num": 22,
+      "name": "烤東西",
+      "reason": "name+district"
+    },
+    {
+      "num": 23,
+      "name": "大來小館",
+      "reason": "name+district"
+    },
+    {
+      "num": 24,
+      "name": "家味軒精緻食堂",
+      "reason": "name+district"
+    },
+    {
+      "num": 25,
+      "name": "桃屋便當",
+      "reason": "name+district"
+    },
+    {
+      "num": 26,
+      "name": "御品軒",
+      "reason": "name+district"
+    },
+    {
+      "num": 27,
+      "name": "弁當工場",
+      "reason": "name+district"
+    },
+    {
+      "num": 28,
+      "name": "鉅登團膳",
+      "reason": "name+district"
+    },
+    {
+      "num": 29,
+      "name": "鴻城食堂",
+      "reason": "name+district"
+    },
+    {
+      "num": 30,
+      "name": "蔡老師蔬食",
+      "reason": "brand-prefix:蔡老師蔬食・松江店"
+    },
+    {
+      "num": 31,
+      "name": "騷豆花",
+      "reason": "name+district"
+    },
+    {
+      "num": 32,
+      "name": "WAYNE'S Lobster & Steak House",
+      "reason": "brand-name:WAYNE'S Lobster & Steak"
+    },
+    {
+      "num": 33,
+      "name": "咖啡弄 Coffee Alley",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 34,
+      "name": "麥當勞歡樂送 McDelivery",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 35,
+      "name": "ABV Bar & Kitchen（ABV Delivery 美味直送）",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 36,
+      "name": "詠豐堂",
+      "reason": "name+district"
+    },
+    {
+      "num": 37,
+      "name": "The Slice Shop（信義安和店）",
+      "reason": "name+district"
+    },
+    {
+      "num": 38,
+      "name": "KiKi餐廳（ATT4FUN店）",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 39,
+      "name": "鄉間小路粵式燒臘茶餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 40,
+      "name": "青樓中式餐酒館",
+      "reason": "name+district"
+    },
+    {
+      "num": 41,
+      "name": "林居sushi日本料理",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 42,
+      "name": "Lacuz 泰食-樂",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 43,
+      "name": "瞞著爹丼飯店",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 44,
+      "name": "Jolly 手工釀啤酒泰食餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 45,
+      "name": "頌丹樂 Somtum Der",
+      "reason": "name+district"
+    },
+    {
+      "num": 46,
+      "name": "Japoli 義大利餐酒館",
+      "reason": "name+district"
+    },
+    {
+      "num": 47,
+      "name": "樂漢堡 Lovss Burger（大安店）",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 48,
+      "name": "三個傻瓜 Toast & Curry（3 Idiots）",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 49,
+      "name": "BalleBalle 巴雷巴雷印度餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 50,
+      "name": "Oye Punjabi 哦耶!!旁遮普印度餐廳",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 51,
+      "name": "小倉屋鰻魚飯",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 52,
+      "name": "黑武士老火鍋",
+      "reason": "name+district"
+    },
+    {
+      "num": 53,
+      "name": "UMAI 沖繩飯糰",
+      "reason": "name+district"
+    },
+    {
+      "num": 54,
+      "name": "UNCLE RAY 串燒·牛飲·咖喱",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 55,
+      "name": "青葉台灣料理",
+      "reason": "name+district"
+    },
+    {
+      "num": 56,
+      "name": "飴盛禾 I Cheng He",
+      "reason": "name+district"
+    },
+    {
+      "num": 57,
+      "name": "兩喜號 Liang Xi Hao",
+      "reason": "orderUrl"
+    },
+    {
+      "num": 58,
+      "name": "撈王鍋物料理－信義店",
+      "reason": "orderUrl"
+    }
+  ],
+  "parse_issues": [],
+  "new_districts": [
+    "北投區",
+    "文山區"
+  ],
+  "chains_tagged": [
+    "非常泰",
+    "1010湘",
+    "時時香"
+  ],
+  "upload_dir": "/home/box/Downloads/zison-upload",
+  "site_dir": "/workspace/zison-taipei-site"
+}

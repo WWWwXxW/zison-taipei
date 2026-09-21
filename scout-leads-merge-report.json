@@ -1,0 +1,392 @@
+{
+  "before": 358,
+  "after": 440,
+  "added": 82,
+  "leads_parsed": 261,
+  "skipped": 177,
+  "skip_reasons": {
+    "dup_name_district": 104,
+    "dup_order_url": 63,
+    "no_channel": 9,
+    "known_unqualified": 1
+  },
+  "added_ids": [
+    "scout-lead-112",
+    "scout-lead-113",
+    "scout-lead-114",
+    "scout-lead-115",
+    "scout-lead-116",
+    "scout-lead-117",
+    "scout-lead-118",
+    "scout-lead-119",
+    "scout-lead-120",
+    "scout-lead-129",
+    "scout-lead-130",
+    "scout-b6-132",
+    "scout-b6-134",
+    "scout-b6-139",
+    "scout-b6-140",
+    "scout-b6-141",
+    "scout-b6-142",
+    "scout-b6-143",
+    "scout-b6-144",
+    "scout-b6-145",
+    "scout-b6-146",
+    "scout-b6-147",
+    "scout-b7-148",
+    "scout-b7-149",
+    "scout-b7-150",
+    "scout-b7-151",
+    "scout-b7-153",
+    "scout-b7-154",
+    "scout-b7-155",
+    "scout-b7-156",
+    "scout-b7-157",
+    "scout-b7-161",
+    "scout-b8-177",
+    "scout-b8-178",
+    "scout-b8-179",
+    "scout-b8-181",
+    "scout-b8-182",
+    "scout-b9-203",
+    "scout-b9-204",
+    "scout-b9-205",
+    "scout-b9-206",
+    "scout-b10-207",
+    "scout-b10-209",
+    "scout-b10-210",
+    "scout-b10-211",
+    "scout-b10-212",
+    "scout-b10-213",
+    "scout-b10-214",
+    "scout-b10-215",
+    "scout-b10-216",
+    "scout-b10-217",
+    "scout-b10-218",
+    "scout-b10-219",
+    "scout-b10-220",
+    "scout-b10-221",
+    "scout-b10-222",
+    "scout-b11-228",
+    "scout-b11-229",
+    "scout-b11-230",
+    "scout-b11-231",
+    "scout-b11-232",
+    "scout-b11-233",
+    "scout-b11-234",
+    "scout-b11-235",
+    "scout-b11-236",
+    "scout-b11-238",
+    "scout-b11-239",
+    "scout-b11-240",
+    "scout-b12-243",
+    "scout-b12-244",
+    "scout-b12-245",
+    "scout-b12-246",
+    "scout-b12-247",
+    "scout-b12-248",
+    "scout-b12-249",
+    "scout-b12-250",
+    "scout-b12-251",
+    "scout-b12-252",
+    "scout-b12-253",
+    "scout-b12-254",
+    "scout-b12-255",
+    "scout-b12-256"
+  ],
+  "added_names": [
+    "小班韓式烤腸",
+    "常常好食（健康制作所）",
+    "延平紅廚排骨便當",
+    "森波 Simple Food",
+    "養心茶樓（松江店）",
+    "雙月食品社",
+    "上享庭園餐廳",
+    "李鴻記餐盒（飽福餐飲）",
+    "WOW哇獨享鍋",
+    "緯大雞排",
+    "林文必涼麵（大直店）",
+    "烤食煮盒（民生店）",
+    "咖食堂",
+    "良食堂",
+    "阿鴻知高飯",
+    "紅燈榮麵舖（大安店）",
+    "勝口味大腸蚵仔麵線（龍江店）",
+    "家餚（台北宅配晚餐）",
+    "想饗宅配晚餐",
+    "菁英餐盒（大安外送店）",
+    "呷便當",
+    "師大第一腿（甄品味泰式碳烤・總店）",
+    "糜家莊潮式砂鍋粥",
+    "大烹小饌 福客粥（八德店）",
+    "甘擔廚房",
+    "好味盒餐",
+    "金品園便當",
+    "老天祿（武昌街總店）",
+    "Homey 烘米餐廚",
+    "黑滷 魯肉便當專賣店",
+    "五十味豬腳",
+    "北投滷味小棧",
+    "九六餐盒",
+    "OL健康餐盒",
+    "烤食煮盒（南港店）",
+    "小劉排骨飯專賣店（士林店）",
+    "隨主飡（內湖）",
+    "大興隆燒臘粵菜",
+    "幸福食堂（吳興街）",
+    "興隆現炒鐵板城",
+    "無限廚房 Infinity Kitchen（內湖）",
+    "陳季炸雞（石牌店）",
+    "一品軒排骨店",
+    "喬園二店",
+    "伊豆賞",
+    "華娜飯盒",
+    "排骨王（文山指南）",
+    "小當家食堂",
+    "君王排骨店（寶興）",
+    "六九盒餐",
+    "蛋白盒子（萬華寶興店）",
+    "虎記（蔥香魯肉）",
+    "豪翔精緻燒臘",
+    "水晶魯肉飯",
+    "大南港粥殿",
+    "鎮興燒臘",
+    "一級排骨",
+    "80(松岡)便當",
+    "松岡精緻盒餐",
+    "真味香精緻盒餐",
+    "東京日式餐盒",
+    "池上原味香便當（保儀店）",
+    "廣豐燒臘",
+    "隆騰燒臘館",
+    "將之味製造所",
+    "老公老婆｜餐盒（北投創始店）",
+    "佳家日式香香鍋",
+    "便當王",
+    "波羅蜜素菜館（松江店）",
+    "東萊便當",
+    "峰味燒臘",
+    "滿足飽中式餐坊",
+    "豐城燒臘",
+    "九記燒臘",
+    "品香紅糟排骨飯",
+    "房旺旺正宗香港燒臘",
+    "扶旺號（復興店）",
+    "豐米田咖哩",
+    "星野家丼飯",
+    "蝦粉健康便當",
+    "赤牛城",
+    "台妹小吃店"
+  ],
+  "skipped_sample": [
+    {
+      "num": 1,
+      "name": "蘇杭餐廳",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 2,
+      "name": "瑪莉珍披薩 Maryjane Pizza",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 3,
+      "name": "京城烤鴨",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 4,
+      "name": "DA ANTONIO 義大利餐廳",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 5,
+      "name": "漁聞樂日式海鮮料理",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 6,
+      "name": "椒心苑麻辣鍋",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 7,
+      "name": "ED's Diner 美式BBQ",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 8,
+      "name": "Jim's Pizza 南港店",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 9,
+      "name": "華西街台南擔仔麵",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 10,
+      "name": "涮辛酸麻辣火鍋",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 11,
+      "name": "Pang Taco 胖塔可",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 12,
+      "name": "欣葉台菜 忠孝店",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 13,
+      "name": "欣葉台菜 創始店",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 14,
+      "name": "池先生 Kopitiam（大安店）",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 15,
+      "name": "台北老爺大酒店（餐點外帶外送）",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 16,
+      "name": "Ruikee 瑞記海南雞飯",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 17,
+      "name": "必勝客 Pizza Hut",
+      "reason": "no_channel"
+    },
+    {
+      "num": 18,
+      "name": "達美樂 Domino's",
+      "reason": "no_channel"
+    },
+    {
+      "num": 19,
+      "name": "肯德基 KFC",
+      "reason": "no_channel"
+    },
+    {
+      "num": 20,
+      "name": "德克士 Dicos",
+      "reason": "no_channel"
+    },
+    {
+      "num": 21,
+      "name": "彭園婚宴會館－台北館",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 22,
+      "name": "烤東西",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 23,
+      "name": "大來小館",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 24,
+      "name": "家味軒精緻食堂",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 25,
+      "name": "桃屋便當",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 26,
+      "name": "御品軒",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 27,
+      "name": "弁當工場",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 28,
+      "name": "鉅登團膳",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 29,
+      "name": "鴻城食堂",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 31,
+      "name": "騷豆花",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 33,
+      "name": "咖啡弄 Coffee Alley",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 34,
+      "name": "麥當勞歡樂送 McDelivery",
+      "reason": "no_channel"
+    },
+    {
+      "num": 35,
+      "name": "ABV Bar & Kitchen（ABV Delivery 美味直送）",
+      "reason": "known_unqualified"
+    },
+    {
+      "num": 36,
+      "name": "詠豐堂",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 37,
+      "name": "The Slice Shop（信義安和店）",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 38,
+      "name": "KiKi餐廳（ATT4FUN店）",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 39,
+      "name": "鄉間小路粵式燒臘茶餐廳",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 40,
+      "name": "青樓中式餐酒館",
+      "reason": "dup_name_district"
+    },
+    {
+      "num": 41,
+      "name": "林居sushi日本料理",
+      "reason": "dup_order_url"
+    },
+    {
+      "num": 42,
+      "name": "Lacuz 泰食-樂",
+      "reason": "dup_name_district"
+    }
+  ],
+  "cleanup": {
+    "removed_near_dups": [
+      "scout-b1-30",
+      "scout-lead-32"
+    ],
+    "demoted_directory_order_urls": 2,
+    "cleaned_unknown_hours": 6,
+    "dropped_no_channel_after_demote": []
+  }
+}
