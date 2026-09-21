@@ -1,9 +1,9 @@
-# 自送台北（zison-taipei）
+# 自送（zisong）／zison-taipei
 
-免費、可上傳的靜態網站：搜尋台北「餐廳官方外送／宅配」通道。  
-品牌名：**自送台北**。純 HTML／CSS／JS，不需 `npm build`。
+免費、可上傳的靜態網站：全台店家官方點餐／外送目錄（先覆蓋台北，陸續全台）。  
+品牌名：**自送**（zisong）。口號：找店家官方點餐與外送｜少吃平台價。純 HTML／CSS／JS，不需 `npm build`。
 
-倉庫：https://github.com/WWWwXxW/zison-taipei
+倉庫資料夾名暫維持 `zison-taipei`（不改 GitHub repo 名）：https://github.com/WWWwXxW/zison-taipei
 
 ## 本機預覽
 
@@ -31,7 +31,7 @@ python3 -m http.server 8080
    - `data.js`
    - `restaurants.json`
    - `README.md`
-4. Commit 訊息可寫：`Publish 自送台北 static site`，然後 **Commit changes**。
+4. Commit 訊息可寫：`Publish 自送 (zisong) static site`，然後 **Commit changes**。
 5. （可選）Settings → Pages → Build and deployment → Source 選 **Deploy from a branch**，Branch 選 `main`／`/`，儲存後數分鐘即可用 `https://wwwwxxw.github.io/zison-taipei/` 之類網址開啟。
 
 也可上傳整包 zip 後在 GitHub 網頁解不開——請解壓後上傳**檔案**，不要只丟一個 zip。

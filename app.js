@@ -165,7 +165,7 @@
         '<p>請回到<a href="index.html">首頁</a>重新搜尋。</p></div>';
       return;
     }
-    document.title = r.name + '｜自送台北';
+    document.title = r.name + '｜自送';
 
     function row(label, value, html) {
       if (value == null || value === '') return '';
