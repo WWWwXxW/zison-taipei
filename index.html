@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="自送台北：搜尋可用餐廳官方網站、LINE 或電話直接外送／宅配的台北店家，不經外送平台。" />
+  <title>自送台北｜餐廳官方外送目錄</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <div class="brand">
+        <h1>自送台北</h1>
+        <span class="tag">官方通道・直接訂</span>
+      </div>
+      <p class="tagline">找得到餐廳自己的外送／宅配管道。本站不代訂、不收款，點進去就到店家官網或 LINE。</p>
+      <nav class="nav" aria-label="主要">
+        <a class="active" href="index.html">店家目錄</a>
+        <a href="about.html">關於本站</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="filters" aria-label="搜尋與篩選">
+      <div class="row">
+        <div>
+          <label for="q">搜尋店名、料理、地址</label>
+          <input id="q" type="search" placeholder="例如：大同、甜點、LINE…" autocomplete="off" />
+        </div>
+        <div>
+          <label for="district">行政區</label>
+          <select id="district">
+            <option value="">全部行政區</option>
+          </select>
+        </div>
+        <div>
+          <label for="cuisine">料理類型</label>
+          <select id="cuisine">
+            <option value="">全部類型</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <div class="meta-bar">
+      <div id="count">載入中…</div>
+      <div>資料為人工核對目錄，條件以店家官方頁為準</div>
+    </div>
+
+    <section id="list" class="cards" aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="inner">
+      <p>© 自送台北 — 免費公開目錄。訂單與配送請直接與餐廳聯繫。</p>
+      <p><a href="about.html">目錄說明</a> · 原始資料來源含公開官網／LINE／訂餐頁核對</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
