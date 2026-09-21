@@ -50,7 +50,6 @@
     const badges = [];
     badges.push('<span class="badge district">' + escapeHtml(r.district || '台北') + '</span>');
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
-    if (r.featured) badges.push('<span class="badge">精選</span>');
 
     const actions = [];
     const oh = orderHref(r);
@@ -128,9 +127,7 @@
       setParams({ q: q || null, district: district || null, cuisine: cuisine || null });
 
       const filtered = data.filter(function (r) { return matches(r, q, district, cuisine); });
-      // featured first, then name
       filtered.sort(function (a, b) {
-        if (!!b.featured - !!a.featured) return (!!b.featured) - (!!a.featured);
         return (a.name || '').localeCompare(b.name || '', 'zh-Hant');
       });
 

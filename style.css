@@ -209,3 +209,31 @@ img { max-width: 100%; }
 .prose li { margin: .35rem 0; }
 
 .hidden { display: none !important; }
+
+/* SEO browse blocks + landing extras */
+.browse-blocks {
+  display: grid;
+  gap: .85rem;
+  margin: .85rem 0 .25rem;
+}
+@media (min-width: 640px) {
+  .browse-blocks { grid-template-columns: 1fr 1fr; }
+}
+.browse-block { padding: .9rem 1rem; }
+.browse-block h2 { margin: 0 0 .55rem; font-size: 1rem; }
+.browse-list {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-wrap: wrap; gap: .35rem .7rem;
+  font-size: .88rem;
+}
+.browse-list .muted { color: var(--muted); font-size: .8rem; margin-left: .15rem; }
+.district-intro .district-actions {
+  display: flex; flex-wrap: wrap; gap: .45rem;
+  margin: 1rem 0 0;
+}
+.district-nav { margin-top: 1.25rem; margin-bottom: 2rem; }
+.district-link-list {
+  display: flex; flex-wrap: wrap; gap: .35rem .85rem;
+  list-style: none; padding: 0; margin: .5rem 0 0;
+}
+.district-link-list li { margin: 0; }
