@@ -2910,23 +2910,6 @@
     "orderUrl": "https://www.mcdonalds.com/tw/zh-tw/digital/mcdelivery.html"
   },
   {
-    "id": "scout-b1-35",
-    "slug": "abv-bar-kitchen-delivery",
-    "name": "ABV Bar & Kitchen Delivery",
-    "district": "大安區",
-    "cuisine": "餐酒館",
-    "cuisineTags": [
-      "餐酒館"
-    ],
-    "evidence": "品牌自有配送頁",
-    "source": "曾404待複查",
-    "chain": false,
-    "featured": false,
-    "origin": "scout",
-    "confidence": "abv.com.tw",
-    "orderUrl": "https://www.abv.com.tw/abv-delivery/"
-  },
-  {
     "id": "scout-b1-36",
     "slug": "詠豐堂",
     "name": "詠豐堂",
