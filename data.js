@@ -1,4 +1,4 @@
-window.RESTAURANTS = [
+window.RESTAURANTS =[
   {
     "id": "cg-1",
     "slug": "小酌之家",
@@ -4161,12 +4161,10 @@ window.RESTAURANTS = [
     "origin": "scout",
     "confidence": "high",
     "hours": "一–五約 13:00–19:00；六日休",
-    "orderUrl": "https://page.line.me/611wxwrv",
     "phone": "0928-076-810",
     "address": "文德路53號",
     "evidence": "LINE OA：Delivery (restaurant)；分距運費（0–3 km 低消800／運費120，滿1400免運 等）",
-    "source": "LINE OA 目錄摘要",
-    "lineUrl": "https://page.line.me/611wxwrv"
+    "source": "LINE OA 目錄摘要"
   },
   {
     "id": "scout-b4-99",
