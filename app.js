@@ -46,9 +46,59 @@
     return r.orderUrl || r.lineUrl || null;
   }
 
+  function isLineUrl(u) {
+    if (!u) return false;
+    return /line\.me|lin\.ee|line\.naver/i.test(u);
+  }
+
+  function isOddleUrl(u) {
+    if (!u) return false;
+    return /oddle\.me/i.test(u);
+  }
+
+  /** Channel chips inferred from existing fields only (電話 / LINE / Oddle / 官網). */
+  function channelChips(r) {
+    var chips = [];
+    if (r.phone) {
+      chips.push('<span class="channel phone">電話</span>');
+    }
+    var hasLine = !!(r.lineUrl || r.lineId) || isLineUrl(r.orderUrl);
+    if (hasLine) {
+      chips.push('<span class="channel line">LINE</span>');
+    }
+    if (isOddleUrl(r.orderUrl)) {
+      chips.push('<span class="channel oddle">Oddle</span>');
+    } else if (r.orderUrl && !isLineUrl(r.orderUrl)) {
+      chips.push('<span class="channel web">官網</span>');
+    }
+    if (!chips.length) return '';
+    return '<div class="channels" aria-label="訂餐通道">' + chips.join('') + '</div>';
+  }
+
+
+  /** Up to 2 delivery-condition chips from deliveryMinLabel + optional free threshold. */
+  function deliveryChips(r) {
+    var chips = [];
+    var label = r.deliveryMinLabel;
+    if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN') {
+      chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
+    }
+    var ft = r.freeDeliveryThreshold;
+    if (typeof ft === 'number' && isFinite(ft) && ft > 0) {
+      var freeLabel = '滿 $' + ft + ' 免運';
+      var labelHasFree = !!(label && String(label).indexOf('免運') !== -1);
+      var amountEqualsFree = r.deliveryMinType === 'amount' && Number(r.deliveryMinValue) === Number(ft);
+      if (!labelHasFree && !amountEqualsFree && chips.length > 0 && chips.length < 2) {
+        chips.push('<span class="badge delivery-free">' + escapeHtml(freeLabel) + '</span>');
+      }
+    }
+    return chips;
+  }
+
   function cardHtml(r) {
     const badges = [];
     badges.push('<span class="badge district">' + escapeHtml(r.district || '台北') + '</span>');
+    deliveryChips(r).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
 
     const actions = [];
@@ -65,6 +115,7 @@
       '<article class="card" data-id="' + escapeHtml(r.id) + '">' +
         '<div class="badges">' + badges.join('') + '</div>' +
         '<h2><a href="detail.html?id=' + encodeURIComponent(r.id) + '">' + escapeHtml(r.name) + '</a></h2>' +
+        channelChips(r) +
         (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
         (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
         (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
@@ -132,6 +183,10 @@
       });
 
       countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家';
+      var heroStats = $('#hero-stats');
+      if (heroStats) {
+        heroStats.innerHTML = '目前收錄 <strong>' + data.length + '</strong> 家店家自送通道';
+      }
       if (!filtered.length) {
         listEl.innerHTML = '<div class="empty">找不到符合條件的店家，請調整關鍵字或篩選。</div>';
         return;
@@ -175,6 +230,7 @@
 
     const badges = [];
     badges.push('<span class="badge district">' + escapeHtml(r.district || '') + '</span>');
+    deliveryChips(r).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">全國／大型連鎖</span>');
 
     const actions = [];
@@ -204,11 +260,12 @@
 
     root.innerHTML =
       '<div class="detail-card">' +
-        '<p style="margin:0 0 .5rem"><a href="index.html">← 回目錄</a></p>' +
+        '<a class="back-link" href="index.html">← 回目錄</a>' +
         '<div class="badges">' + badges.join('') + '</div>' +
         '<h1>' + escapeHtml(r.name) + '</h1>' +
-        '<div class="notice">本站不代訂、不收款。請直接在餐廳官方網站／LINE／電話下單。</div>' +
-        '<div class="actions" style="display:flex;flex-wrap:wrap;gap:.45rem;margin:.5rem 0 1rem">' +
+        channelChips(r) +
+        '<div class="notice">本站不代訂、不收款。請直接在餐廳官方網站／LINE／電話下單。外送門檻與運費以店家官方結帳頁為準。</div>' +
+        '<div class="actions">' +
           actions.join('') +
         '</div>' +
         '<dl>' +
@@ -223,6 +280,7 @@
           row('免運門檻（參考）', freeText || null) +
           row('運費（參考）', feeText || null) +
           row('最後核對', r.checkedAt) +
+          row('外送條件備註', r.deliveryNotes) +
           row('說明／條件摘要', r.terms) +
           row('收錄依據摘要', r.evidence) +
         '</dl>' +
