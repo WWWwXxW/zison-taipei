@@ -85,17 +85,15 @@
   function deliveryChips(r) {
     var chips = [];
     var label = r.deliveryMinLabel;
+    // founder: hide 免運門檻 — high free-shipping thresholds scare users; keep 起送 mins only
+    if (label && String(label).indexOf('免運') !== -1) {
+      label = null;
+    }
     if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN') {
       chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
     }
-    var ft = r.freeDeliveryThreshold;
-    if (typeof ft === 'number' && isFinite(ft) && ft > 0) {
-      var freeLabel = '滿 $' + ft + ' 免運';
-      var labelHasFree = !!(label && String(label).indexOf('免運') !== -1);
-      var amountEqualsFree = r.deliveryMinType === 'amount' && Number(r.deliveryMinValue) === Number(ft);
-      if (!labelHasFree && !amountEqualsFree && chips.length > 0 && chips.length < 2) {
-        chips.push('<span class="badge delivery-free">' + escapeHtml(freeLabel) + '</span>');
-      }
+    /* founder: do not show 免運門檻 chips — thresholds are usually too high */
+    var ft = r.freeDeliveryThreshold; // kept in data, not rendered on cards
     }
     return chips;
   }
@@ -103,13 +101,12 @@
   function cardHtml(r) {
     const badges = [];
     badges.push('<span class="badge district">' + escapeHtml(r.district || '台北') + '</span>');
-    deliveryChips(r).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
 
     const actions = [];
     const oh = orderHref(r);
     if (oh) {
-      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往訂餐</a>');
+      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐 ↗</a>');
     }
     if (r.phone) {
       actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
@@ -124,6 +121,7 @@
         (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
         (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
         (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
+        '<div class="delivery-conditions" aria-label="外送門檻">' + (deliveryChips(r).join('') || '<span class="condition-unknown">外送門檻未提供，請洽店家</span>') + '</div>' +
         '<div class="actions">' + actions.join('') + '</div>' +
       '</article>'
     );

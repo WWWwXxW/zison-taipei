@@ -8,27 +8,18 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css?v=20260922c" />
+  <link rel="stylesheet" href="style.css?v=20260922-warm1" />
 </head>
-<body>
+<body class="page-about">
+  <a class="skip-link" href="#main">跳至主要內容</a>
   <header class="site-header">
     <div class="inner">
-      <div class="brand">
-        <span class="brand-mark" aria-hidden="true">送</span>
-        <div class="brand-text">
-          <h1>自送</h1>
-          <span class="tag">關於</span>
-        </div>
-      </div>
-      <p class="tagline">找店家官方點餐與外送｜先覆蓋台北，陸續全台。少吃平台價。</p>
-      <nav class="nav" aria-label="主要">
-        <a href="index.html">店家目錄</a>
-        <a class="active" href="about.html">關於本站</a>
-      </nav>
+      <a class="brand" href="index.html" aria-label="自送 zisong 首頁"><span class="brand-name">自送</span><span class="brand-roman">zisong</span></a>
+      <nav class="nav" aria-label="主要導覽"><a href="index.html">店家目錄</a><a href="about.html" aria-current="page">關於自送</a></nav>
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="wrap" id="main">
     <article class="prose">
       <h1>目錄怎麼運作</h1>
       <p>「自送」（zisong）是全台店家自有點餐／外送通道目錄——先覆蓋台北，陸續全台。幫你<strong>找店家官方點餐與外送</strong>（官網訂餐、Oddle、官方 LINE、品牌商城、電話等），給<strong>不想用 Uber、foodpanda</strong>、想<strong>少吃平台價</strong>的人用。料理類型不限——餐廳、便當、團膳、手搖、甜點都可，重點是有商家自己的訂餐入口。</p>
@@ -59,12 +50,19 @@
       <p>資料彙整自公開的 Google 商家頁、品牌官網與官方訂餐／LINE 頁之人工核對（含 ChatGPT 研究交接與 Restaurant Scout 批次），並盡量去重。電話或網址若來源未公開則<strong>不會虛構</strong>，詳情頁即省略該欄。</p>
       <p>目前以台北市為主（行政區涵蓋仍偏重大同、中山與部分其他區），尚未宣稱全市掃完；之後會陸續擴及其他縣市。條件可能變動，下單前請再確認官方頁。</p>
 
+      <h2>首頁圖片</h2><p>首頁使用 Kirill Tonkikh 的 <a href="https://unsplash.com/photos/NFQi_2HUNRI" target="_blank" rel="noopener noreferrer">Unsplash 授權照片</a>，經 AI 編修構圖與排版。圖片僅為餐點情境，不代表任何收錄店家的實際商品。<a href="https://unsplash.com/license" target="_blank" rel="noopener noreferrer">授權說明</a></p>
       <h2>分類落地頁</h2>
       <p>亦可從首頁的「依行政區／依料理瀏覽」進入靜態落地頁，例如 <a href="district/daan.html">大安區自送餐廳</a>、<a href="cuisine/cafe-dessert.html">咖啡甜點</a>。</p>
 
       <p style="margin-top:1.5rem"><a class="btn btn-primary" href="index.html">回到店家目錄</a></p>
     </article>
-  </main>
+  
+<section class="prose">
+  <h2>為什麼付運費也划算</h2>
+  <p>很多店家的「免運門檻」訂得很高，我們不特別強調免運。重點是：店家自送通常<strong>餐點沒有被 Uber／foodpanda 大幅加價</strong>，也不用再付一堆平台服務費。付一點運費，總帳往往還是比較甜。</p>
+</section>
+
+</main>
 
   <footer class="site-footer">
     <div class="inner">
