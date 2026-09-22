@@ -2,8 +2,73 @@
   'use strict';
 
   const DISTRICTS = [
-    '大同區','中山區','中正區','萬華區','大安區','松山區',
-    '信義區','內湖區','南港區','士林區','北投區','文山區','台北多區'
+    '大同區','中山區','中正區','萬華區','大安區','松山區','信義區',
+    '內湖區','南港區','士林區','北投區','文山區','台北多區','板橋區',
+    '中和區','永和區','新莊區','三重區','蘆洲區','土城區','樹林區',
+    '淡水區','林口區','汐止區','新店區','八里區','深坑區','三峽區',
+    '五股區','鶯歌區','瑞芳區','金山區','三芝區','石門區','坪林區',
+    '貢寮區','萬里區','雙溪區','平溪區','烏來區','石碇區','泰山區',
+    '新北多區',
+    '中區',
+    '東區',
+    '南區',
+    '西區',
+    '北區',
+    '北屯區',
+    '西屯區',
+    '南屯區',
+    '太平區',
+    '大里區',
+    '霧峰區',
+    '烏日區',
+    '豐原區',
+    '后里區',
+    '石岡區',
+    '東勢區',
+    '和平區',
+    '新社區',
+    '潭子區',
+    '大雅區',
+    '神岡區',
+    '大肚區',
+    '沙鹿區',
+    '龍井區',
+    '梧棲區',
+    '清水區',
+    '大甲區',
+    '外埔區',
+    '台中大安區',
+    '台中多區',
+    '三民區',
+    '鳳山區',
+    '左營區',
+    '苓雅區',
+    '新興區',
+    '楠梓區',
+    '前鎮區',
+    '鼓山區',
+    '小港區',
+    '仁武區',
+    '前金區',
+    '鹽埕區',
+    '岡山區',
+    '路竹區',
+    '大社區',
+    '彌陀區',
+    '旗山區',
+    '旗津區',
+    '鳥松區',
+    '林園區',
+    '湖內區',
+    '茄萣區',
+    '橋頭區',
+    '燕巢區',
+    '梓官區',
+    '大寮區',
+    '大樹區',
+    '美濃區',
+    '高雄多區'
+
   ];
 
   function $(sel, root) { return (root || document).querySelector(sel); }
@@ -76,35 +141,38 @@
   }
 
 
-  /** Up to 2 delivery-condition chips from deliveryMinLabel + optional free threshold. */
+    /** Delivery chips: 起送 primary; 免運 secondary (never the hero). */
   function deliveryChips(r) {
     var chips = [];
     var label = r.deliveryMinLabel;
-    if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN') {
+    var isFreeLabel = label && String(label).indexOf('免運') !== -1;
+    // Primary: 起送 / min order (not free-shipping)
+    if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN' && !isFreeLabel) {
       chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
     }
-    var ft = r.freeDeliveryThreshold;
-    if (typeof ft === 'number' && isFinite(ft) && ft > 0) {
-      var freeLabel = '滿 $' + ft + ' 免運';
-      var labelHasFree = !!(label && String(label).indexOf('免運') !== -1);
-      var amountEqualsFree = r.deliveryMinType === 'amount' && Number(r.deliveryMinValue) === Number(ft);
-      if (!labelHasFree && !amountEqualsFree && chips.length > 0 && chips.length < 2) {
-        chips.push('<span class="badge delivery-free">' + escapeHtml(freeLabel) + '</span>');
-      }
+    // Secondary: 免運門檻 — muted chip only
+    var freeLabel = null;
+    if (isFreeLabel) {
+      freeLabel = String(label).trim();
+    } else if (r.freeDeliveryThreshold != null && r.freeDeliveryThreshold !== '') {
+      var n = Number(r.freeDeliveryThreshold);
+      freeLabel = isFinite(n) ? ('滿 $' + n + ' 免運') : null;
     }
-    return chips;
+    if (freeLabel) {
+      chips.push('<span class="badge delivery-free" title="免運門檻通常較高，付運費往往仍划算">' + escapeHtml(freeLabel) + '</span>');
+    }
+    return chips.slice(0, 2);
   }
 
   function cardHtml(r) {
     const badges = [];
     badges.push('<span class="badge district">' + escapeHtml(r.district || '台北') + '</span>');
-    deliveryChips(r).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
 
     const actions = [];
     const oh = orderHref(r);
     if (oh) {
-      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往訂餐</a>');
+      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐 ↗</a>');
     }
     if (r.phone) {
       actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
@@ -119,6 +187,7 @@
         (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
         (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
         (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
+        (function(){ var dc=deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
         '<div class="actions">' + actions.join('') + '</div>' +
       '</article>'
     );
