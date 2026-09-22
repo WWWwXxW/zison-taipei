@@ -2822,25 +2822,6 @@
     "phone": "02-8771-8901"
   },
   {
-    "id": "scout-b1-32",
-    "slug": "wayne-s-lobster-steak",
-    "name": "WAYNE'S Lobster & Steak",
-    "district": "中山區",
-    "cuisine": "牛排／龍蝦",
-    "cuisineTags": [
-      "牛排",
-      "龍蝦"
-    ],
-    "hours": "午 11:30–15:00／晚 17:00–22:00",
-    "evidence": "電話接單",
-    "source": "medium",
-    "chain": false,
-    "featured": false,
-    "origin": "scout",
-    "confidence": "waynes.com.tw",
-    "phone": "02-2541-9530"
-  },
-  {
     "id": "scout-b1-33",
     "slug": "咖啡弄-coffee-alley",
     "name": "咖啡弄 Coffee Alley",
