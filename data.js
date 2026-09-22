@@ -1184,32 +1184,6 @@ window.RESTAURANTS = [
     "origin": "chatgpt"
   },
   {
-    "id": "cg-47",
-    "slug": "源作食堂-重慶店",
-    "name": "源作食堂・重慶店",
-    "district": "大同區",
-    "address": "重慶北路二段109號1樓",
-    "cuisine": "台式便當、排骨飯、控肉飯",
-    "cuisineTags": [
-      "台式便當",
-      "排骨飯",
-      "控肉飯"
-    ],
-    "phone": "00057405731",
-    "orderUrl": "https://www.facebook.com/people/%E6%BA%90%E4%BD%9C%E9%A3%9F%E5%A0%82-%E5%BC%81%E7%95%B6%E5%B0%88%E9%96%80%E5%BA%97/100057405731579/",
-    "hours": "固定接單、預訂與送達時段未公開；請由官方電話確認當日接單與送達時間。",
-    "range": "配送範圍未公開",
-    "terms": "Range: 配送範圍未公開；請由官方電話確認地址；Minimum / shipping: 最低訂購金額與免運門檻未公開；請由官方電話確認當日外送條件。；Free-delivery threshold: UNKNOWN；Delivery fee: UNKNOWN",
-    "freeDeliveryThreshold": null,
-    "deliveryFee": null,
-    "evidence": "Google Maps單店頁核對重慶北路二段109號1樓、02-2553-8876與店家Facebook。2026-09-17實際開啟官方Facebook頁，頁面同時列出同址、電話及Delivery服務，且有2026-09-14新菜單；可透過官方電話洽訂外送。配送範圍、最低訂購、運費、免運門檻及固定預訂時段未公開。",
-    "source": "https://www.facebook.com/people/%E6%BA%90%E4%BD%9C%E9%A3%9F%E5%A0%82-%E5%BC%81%E7%95%B6%E5%B0%88%E9%96%80%E5%BA%97/100057405731579/；Checked: 2026-09-17；Batch: 20260917-0848",
-    "checkedAt": "2026-09-17",
-    "chain": false,
-    "featured": false,
-    "origin": "chatgpt"
-  },
-  {
     "id": "cg-48",
     "slug": "時飴-approprié-赤峰店",
     "name": "時飴 Approprié・赤峰店",
@@ -1509,7 +1483,6 @@ window.RESTAURANTS = [
       "下午茶"
     ],
     "phone": "02-2592-2204",
-    "orderUrl": "https://www.instagram.com/p/DX-yLfgkyWC/",
     "hours": "固定接單、預訂與送達時段未公開；請先電話確認。",
     "range": "企業訂餐可外送",
     "terms": "Range: 企業訂餐可外送；實際配送地址與距離須由官方電話確認；Minimum / shipping: 最低訂購金額、外送費及免運門檻未公開；請提供地址與訂單內容向店家確認。；Free-delivery threshold: UNKNOWN；Delivery fee: UNKNOWN",
@@ -1704,7 +1677,6 @@ window.RESTAURANTS = [
       "素食蔬食"
     ],
     "phone": "02-2542-0627",
-    "orderUrl": "https://www.vegetsai.com.tw/orderinfo.html",
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "中山區、大同區、松山區",
@@ -1729,7 +1701,6 @@ window.RESTAURANTS = [
       "素食蔬食"
     ],
     "phone": "02-2738-0949",
-    "orderUrl": "https://www.vegetsai.com.tw/orderinfo.html",
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "大安區、信義區、文山區、松山區",
@@ -1754,7 +1725,6 @@ window.RESTAURANTS = [
       "素食蔬食"
     ],
     "phone": "02-2343-2192",
-    "orderUrl": "https://www.vegetsai.com.tw/orderinfo.html",
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "中正區、萬華區",
@@ -1779,7 +1749,6 @@ window.RESTAURANTS = [
       "素食蔬食"
     ],
     "phone": "02-2799-6280",
-    "orderUrl": "https://www.vegetsai.com.tw/orderinfo.html",
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "內湖區、中山區",
@@ -1973,7 +1942,6 @@ window.RESTAURANTS = [
       "手搖飲料"
     ],
     "phone": "02-2555-7551",
-    "orderUrl": "https://instagram.com/whitealley.shuanglian",
     "lineId": "@339umtxx",
     "hours": "分店營業時間平日10:00–22:00、假日11:00–22:00；外送接單與送達時段未另外公開。",
     "range": "目前完整配送範圍未公開",
@@ -4161,12 +4129,10 @@ window.RESTAURANTS = [
     "origin": "scout",
     "confidence": "high",
     "hours": "一–五約 13:00–19:00；六日休",
-    "orderUrl": "https://page.line.me/611wxwrv",
     "phone": "0928-076-810",
     "address": "文德路53號",
     "evidence": "LINE OA：Delivery (restaurant)；分距運費（0–3 km 低消800／運費120，滿1400免運 等）",
-    "source": "LINE OA 目錄摘要",
-    "lineUrl": "https://page.line.me/611wxwrv"
+    "source": "LINE OA 目錄摘要"
   },
   {
     "id": "scout-b4-99",
@@ -8594,7 +8560,6 @@ window.RESTAURANTS = [
     "evidence": "官網明示各店「外送專線／訂購電話」＋外送最低金額依地區；萬華薄區有店；街邊炸物外送；新北汐止等分店不計主列",
     "source": "http://www.xn--pss65vplvszw.tw/about.html；緯大雞排官網",
     "checkedAt": "2026-09-21",
-    "orderUrl": "http://www.xn--pss65vplvszw.tw/about.html",
     "phone": "02-2578-5306"
   },
   {
@@ -9997,9 +9962,9 @@ window.RESTAURANTS = [
     "confidence": "high",
     "hours": "外送訂餐窗約 09:30–16:30；每月最後一個星期二公休（官網）",
     "evidence": "品牌官網外送專區：大台北均可外送；提前約一週電話預訂；不限金額可送、自付運費，滿約 NT$8000 免運（Lalamove／計程車）；復興南路一段133-2號；Maps 大安復興南路一段本街（相對已掃122巷）",
-    "source": "https://www.fullwant.com.tw/delivery.html；fullwant.com.tw",
+    "source": null,
     "checkedAt": "2026-09-21",
-    "orderUrl": "https://www.fullwant.com.tw/delivery.html",
+    "orderUrl": null,
     "phone": "02-2771-5736",
     "address": "復興南路一段133-2號"
   },
