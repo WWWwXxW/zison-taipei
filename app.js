@@ -72,15 +72,70 @@
     });
   }
 
-  function cuisineOptions(list) {
-    var set = new Set();
-    list.forEach(function (r) {
-      (r.cuisineTags || []).forEach(function (t) { if (t) set.add(t); });
-      if (r.cuisine) set.add(r.cuisine.split(/[、,/／]/)[0].trim());
-    });
-    return Array.from(set).filter(Boolean).sort(function (a, b) {
-      return a.localeCompare(b, 'zh-Hant');
-    });
+  /**
+   * Curated cuisine filters (~20). Dropdown shows these labels only.
+   * Matching is keyword substring against cuisine + cuisineTags (casefold),
+   * not exact raw-tag equality. A venue may match multiple filters.
+   */
+  var CUISINE_FILTERS = [
+    { label: '便當／快餐', keywords: ['便當', '快餐', '飯包', '盒餐', '會議便當', '會議餐盒', '池上', '自助餐', '簡餐', '排骨飯', '烤肉飯', '雞腿', '排骨', '鐵路便當', '鐵道便當'] },
+    { label: '健康餐盒', keywords: ['健康餐盒', '健康低卡', '健康便當', '低卡', '舒肥', '循環盒', '健身餐', '輕盈'] },
+    { label: '燒臘', keywords: ['燒臘', '燒鴨', '烤鴨', '叉燒', '油雞'] },
+    { label: '麵食', keywords: ['麵食', '涼麵', '牛肉麵', '刀削', '麵線', '義大利麵', '拉麵', '陽春麵', '担担', '擔擔', '鍋燒', '炒麵', '湯麵', '水餃', '鍋貼', '餛飩', '義麵'] },
+    { label: '蓋飯／丼', keywords: ['蓋飯', '丼飯', '丼', '滷肉飯', '雞肉飯', '咖哩飯', '燒肉飯'] },
+    { label: '火鍋', keywords: ['火鍋', '麻辣鍋', '涮鍋', '鍋物', '部隊鍋', '麻辣', '石頭火鍋', '小火鍋'] },
+    { label: '小吃', keywords: ['小吃', '滷味', '鹹水雞', '蔥油餅', '肉羹', '滷肉', '臭豆腐', '刈包', '鹽酥雞', '路邊'] },
+    { label: '早午餐', keywords: ['早午餐', '輕食', '三明治', 'Brunch', 'brunch', '吐司', '蛋餅'] },
+    { label: '咖啡／甜點', keywords: ['咖啡', '甜點', '蛋糕', '可麗露', '烘焙', '甜品', '布丁', '糕點', '私房甜點', '蛋糕甜點', '豆花', '巧克力', '糕餅', '麵包', '伴手禮'] },
+    { label: '手搖飲', keywords: ['手搖', '茶飲', '手搖飲', '手搖飲料', '手搖茶飲', '飲料店', '珍奶', '珍珠奶茶'] },
+    { label: '日式', keywords: ['日式', '日本和食', '和食', '壽司', '拉麵', '鰻魚', '定食', '丼', '刺身', '居酒屋', '日式便當', '丼飯', '握壽司'] },
+    { label: '韓式', keywords: ['韓式', '韓國', '韓定食', '部隊鍋', '石鍋拌飯', '韓式炸雞'] },
+    { label: '泰式／東南亞', keywords: ['泰式', '南洋', '海南雞', '越南', '印尼', '马来', '馬來', '咖哩', '叻沙', '新加坡'] },
+    { label: '義式／西式', keywords: ['義式', '披薩', 'pizza', 'Pizza', '義大利', '義法', '西式', '歐式', '美式', '漢堡', '牛排', 'Pasta', 'pasta', '西餐廳'] },
+    { label: '中式／台菜', keywords: ['中式', '台菜', '台式', '中港', '川菜', '粵菜', '湘菜', '合菜', '熱炒', '客家', '江浙', '上海', '家常', '港式', '粵式', '魯肉'] },
+    { label: '蔬食／素食', keywords: ['蔬食', '素食', '素食蔬食', '蔬食友善', '純素', '奶蛋素', '植物肉'] },
+    { label: '炸物', keywords: ['炸物', '炸雞', '雞排', '鹽酥雞', '唐揚', '炸豬排', '卡啦'] },
+    { label: '其他', keywords: [] } // special: venues matching no other filter
+  ];
+
+  function cuisineBlob(r) {
+    return ((r.cuisine || '') + ' ' + (r.cuisineTags || []).join(' ')).toLowerCase();
+  }
+
+  function filterByKeywords(blob, keywords) {
+    for (var i = 0; i < keywords.length; i++) {
+      if (blob.indexOf(String(keywords[i]).toLowerCase()) !== -1) return true;
+    }
+    return false;
+  }
+
+  function matchesCuisineFilter(r, cuisineLabel) {
+    if (!cuisineLabel) return true;
+    var blob = cuisineBlob(r);
+    var filter = null;
+    for (var i = 0; i < CUISINE_FILTERS.length; i++) {
+      if (CUISINE_FILTERS[i].label === cuisineLabel) {
+        filter = CUISINE_FILTERS[i];
+        break;
+      }
+    }
+    if (!filter) {
+      // Legacy URL / unknown label: fall back to substring on label itself
+      return blob.indexOf(cuisineLabel.toLowerCase()) !== -1;
+    }
+    if (filter.label === '其他') {
+      for (var j = 0; j < CUISINE_FILTERS.length; j++) {
+        var f = CUISINE_FILTERS[j];
+        if (f.label === '其他') continue;
+        if (filterByKeywords(blob, f.keywords)) return false;
+      }
+      return true;
+    }
+    return filterByKeywords(blob, filter.keywords);
+  }
+
+  function cuisineOptions(_list) {
+    return CUISINE_FILTERS.map(function (f) { return f.label; });
   }
 
   function orderHref(r) {
@@ -185,10 +240,7 @@
   function matches(r, q, city, district, cuisine) {
     if (city && r.city !== city) return false;
     if (district && r.district !== district) return false;
-    if (cuisine) {
-      var blob = ((r.cuisine || '') + ' ' + (r.cuisineTags || []).join(' ')).toLowerCase();
-      if (blob.indexOf(cuisine.toLowerCase()) === -1) return false;
-    }
+    if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
     if (q) {
       var hay = [
         r.name, r.city, r.district, r.address, r.cuisine,
