@@ -127,6 +127,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/yuanlin.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/zhongxi.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +206,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/linkou.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/changhua-city.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -439,6 +451,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/lukang.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/longtan.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -481,6 +499,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/xiushui.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/zhudong.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -500,6 +524,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/rende.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/beidou.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -530,6 +560,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/baoshan.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/xihu.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -595,7 +631,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/heme.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/pinglin.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/puxin.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -685,6 +733,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/tianzhong.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/shiding.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -698,6 +752,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/shengang.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/huatan.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -751,13 +811,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/cafe-dessert.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/healthy-box.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/healthy-box.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/cafe-dessert.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -787,13 +847,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/麵.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/hotpot.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/hotpot.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/麵.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -883,25 +943,25 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/中式便當.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/丼飯.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/american.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/中式便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/丼.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/american.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -920,6 +980,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/家常.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒臘便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -949,7 +1015,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒臘便當.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/自助餐.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -968,6 +1034,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康低卡餐盒.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -997,7 +1069,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/自助餐.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/日式便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1010,6 +1082,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/簡餐.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/素食.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1033,25 +1111,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/素食.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/飯包.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康低卡餐盒.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/日式便當.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/豬腳.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1069,7 +1135,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/豬腳.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/麵線.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1099,12 +1171,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康便當.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/american-meals.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1117,12 +1183,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/麵線.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/低卡.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1130,6 +1190,18 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/thai-cuisine.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/滷味.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/炸物.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1183,6 +1255,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/排骨飯.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/meeting-bento.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1190,12 +1268,6 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/池上飯包.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/炸物.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1237,13 +1309,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/european.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/japanese-tag.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/滷味.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/european.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1261,13 +1333,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/排骨飯.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/japanese-tag.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/團膳.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1291,13 +1357,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康餐.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/低gi.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/團膳.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/健康餐.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1333,7 +1399,25 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/鴨肉飯.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/mala-hotpot.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/咖哩飯.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/池上便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1363,6 +1447,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉丼.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/爌肉飯.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/蛋包飯.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1382,12 +1484,6 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/下午茶.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/低gi.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1471,12 +1567,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/池上便當.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/海苔飯捲.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1495,19 +1585,25 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/港式燒臘便當.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/烏龍麵.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉便當.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉丼.html</loc>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒鴨.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1520,6 +1616,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/牛排.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/當歸鴨.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1627,12 +1729,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/咖哩飯.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/商務餐盒.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -1664,6 +1760,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/小火鍋.html</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/拌飯.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1724,18 +1826,6 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/煎餃.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒肉便當.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/燒鴨.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1844,12 +1934,6 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/飲品.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://wwwwxxw.github.io/zison-taipei/cuisine/鴨肉飯.html</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
