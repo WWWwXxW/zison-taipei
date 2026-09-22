@@ -237,22 +237,77 @@
     );
   }
 
-  function matches(r, q, city, district, cuisine) {
+
+  /** Longest-first food terms for splitting CJK queries without spaces. */
+  var SEARCH_TERMS = [
+    '健康餐盒','手搖飲料','手搖茶飲','早午餐','牛肉麵','滷肉飯','雞肉飯','火雞肉飯',
+    '牛排','便當','盒餐','餐盒','燒臘','燒鴨','火鍋','拉麵','壽司','丼飯','蓋飯',
+    '小吃','麵食','涼麵','水餃','鍋貼','炸雞','雞排','鹽酥雞','咖哩','定食','居酒屋',
+    '韓式','日式','泰式','義式','西餐','咖啡','甜點','蛋糕','飲料','茶飲','手搖',
+    '素食','蔬食','自助餐','熱炒','合菜','鐵板','排骨','雞腿','豬排','魚排'
+  ];
+
+  function tokenizeQuery(q) {
+    q = String(q || '').toLowerCase().trim();
+    if (!q) return [];
+    if (/\s/.test(q)) return q.split(/\s+/).filter(Boolean);
+    var found = [];
+    var rest = q;
+    var terms = SEARCH_TERMS.slice().sort(function (a, b) { return b.length - a.length; });
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i].toLowerCase();
+      if (t.length >= 2 && rest.indexOf(t) !== -1) {
+        found.push(t);
+        rest = rest.split(t).join('\u0001');
+      }
+    }
+    if (!found.length) return [q];
+    var seen = {};
+    var out = [];
+    for (var j = 0; j < found.length; j++) {
+      if (!seen[found[j]]) { seen[found[j]] = 1; out.push(found[j]); }
+    }
+    return out;
+  }
+
+  function haystackOf(r) {
+    return [
+      r.name, r.city, r.district, r.address, r.cuisine,
+      (r.cuisineTags || []).join(' '), r.phone, r.evidence
+    ].join(' ').toLowerCase();
+  }
+
+  function tokensMatchAnd(hay, tokens) {
+    for (var i = 0; i < tokens.length; i++) {
+      if (hay.indexOf(tokens[i]) === -1) return false;
+    }
+    return true;
+  }
+
+  function tokensMatchOr(hay, tokens) {
+    for (var i = 0; i < tokens.length; i++) {
+      if (hay.indexOf(tokens[i]) !== -1) return true;
+    }
+    return false;
+  }
+
+  function matches(r, q, city, district, cuisine, softOr) {
     if (city && r.city !== city) return false;
     if (district && r.district !== district) return false;
     if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
     if (q) {
-      var hay = [
-        r.name, r.city, r.district, r.address, r.cuisine,
-        (r.cuisineTags || []).join(' '), r.phone, r.evidence
-      ].join(' ').toLowerCase();
-      var tokens = q.toLowerCase().trim().split(/\s+/);
-      for (var i = 0; i < tokens.length; i++) {
-        if (hay.indexOf(tokens[i]) === -1) return false;
-      }
+      var hay = haystackOf(r);
+      var raw = String(q).toLowerCase().trim();
+      // Prefer exact phrase when present
+      if (hay.indexOf(raw) !== -1) return true;
+      var tokens = tokenizeQuery(q);
+      if (!tokens.length) return true;
+      if (softOr && tokens.length > 1) return tokensMatchOr(hay, tokens);
+      return tokensMatchAnd(hay, tokens);
     }
     return true;
   }
+
 
   function rebuildDistrictSelect(dEl, data, city, selectedDistrict) {
     dEl.innerHTML = '';
@@ -347,15 +402,38 @@
         cuisine: cuisine || null
       });
 
+      var searchRelaxed = false;
       var filtered = data.filter(function (r) {
-        return matches(r, q, cityVal, districtVal, cuisine);
+        return matches(r, q, cityVal, districtVal, cuisine, false);
       });
+      if (q && filtered.length === 0) {
+        var _tok = tokenizeQuery(q);
+        if (_tok.length > 1) {
+          searchRelaxed = true;
+          filtered = data.filter(function (r) {
+            return matches(r, q, cityVal, districtVal, cuisine, true);
+          });
+        }
+      }
       filtered.sort(function (a, b) {
         return (a.name || '').localeCompare(b.name || '', 'zh-Hant');
       });
 
       countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家' +
         (cityVal ? ('（目前：' + escapeHtml(cityVal) + (districtVal ? (' · ' + escapeHtml(districtVal)) : '') + '）') : '');
+      var hint = document.getElementById('search-relaxed-hint');
+      if (!hint && countEl && countEl.parentNode) {
+        hint = document.createElement('p');
+        hint.id = 'search-relaxed-hint';
+        hint.className = 'muted search-relaxed-hint';
+        countEl.parentNode.insertBefore(hint, countEl.nextSibling);
+      }
+      if (hint) {
+        hint.textContent = searchRelaxed
+          ? '找不到同時符合的店，已改為較寬鬆搜尋（符合其中一個詞即可）。'
+          : '';
+        hint.hidden = !searchRelaxed;
+      }
       var heroStats = $('#hero-stats');
       if (heroStats) {
         heroStats.innerHTML = '目前收錄 <strong>' + data.length + '</strong> 家店家自送通道';

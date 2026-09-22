@@ -1,0 +1,16 @@
+# 自送 zisong.tw
+
+> 台灣店家自有外送／官方點餐目錄（非 Uber Eats、foodpanda 平台）。
+
+本站收錄餐廳透過自家外送、官方網站、LINE、Oddle、Inline、訂便當等管道提供外送的店家。
+
+## 主要頁面
+- https://zisong.tw/
+- https://zisong.tw/about.html
+- https://zisong.tw/sitemap.xml
+
+## 使用方式
+以縣市 → 行政區篩選，或搜尋店名／料理。料理類型為合併同義詞後的集中分類。
+
+## 資料
+靜態 JSON／JS：restaurants.json、data.js。每店含 city、district、orderUrl 或電話。
