@@ -24,7 +24,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-2",
@@ -52,7 +53,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000 免運"
+    "deliveryMinLabel": "滿 $1000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-3",
@@ -80,7 +82,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-4",
@@ -106,7 +109,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-5",
@@ -133,7 +137,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-6",
@@ -162,7 +167,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-7",
@@ -191,7 +197,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-8",
@@ -219,7 +226,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-9",
@@ -246,7 +254,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3000,
-    "deliveryMinLabel": "滿 $3000 免運"
+    "deliveryMinLabel": "滿 $3000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-10",
@@ -277,7 +286,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-11",
@@ -306,7 +316,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1499,
-    "deliveryMinLabel": "滿 $1499 免運"
+    "deliveryMinLabel": "滿 $1499 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-12",
@@ -337,7 +348,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-13",
@@ -365,7 +377,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000 免運"
+    "deliveryMinLabel": "滿 $1000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-14",
@@ -393,7 +406,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-15",
@@ -423,7 +437,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-16",
@@ -453,7 +468,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-17",
@@ -481,7 +497,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-18",
@@ -510,7 +527,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3000,
-    "deliveryMinLabel": "滿 $3000 免運"
+    "deliveryMinLabel": "滿 $3000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-19",
@@ -540,7 +558,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-20",
@@ -568,7 +587,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-21",
@@ -596,7 +616,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300"
+    "deliveryMinLabel": "滿 $300",
+    "city": "台北市"
   },
   {
     "id": "cg-22",
@@ -625,7 +646,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-23",
@@ -653,7 +675,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-24",
@@ -681,7 +704,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
-    "deliveryMinLabel": "滿 $350"
+    "deliveryMinLabel": "滿 $350",
+    "city": "台北市"
   },
   {
     "id": "cg-25",
@@ -709,7 +733,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-26",
@@ -737,7 +762,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300"
+    "deliveryMinLabel": "滿 $300",
+    "city": "台北市"
   },
   {
     "id": "cg-27",
@@ -766,7 +792,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-28",
@@ -796,7 +823,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3500,
-    "deliveryMinLabel": "滿 $3500 免運"
+    "deliveryMinLabel": "滿 $3500 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-29",
@@ -826,7 +854,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 800,
-    "deliveryMinLabel": "滿 $800 免運"
+    "deliveryMinLabel": "滿 $800 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-30",
@@ -855,7 +884,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-31",
@@ -883,7 +913,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-32",
@@ -913,7 +944,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-33",
@@ -942,7 +974,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 900,
-    "deliveryMinLabel": "滿 $900 免運"
+    "deliveryMinLabel": "滿 $900 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-34",
@@ -972,7 +1005,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
-    "deliveryMinLabel": "滿 $2000 免運"
+    "deliveryMinLabel": "滿 $2000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-35",
@@ -1001,7 +1035,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3000,
-    "deliveryMinLabel": "滿 $3000 免運"
+    "deliveryMinLabel": "滿 $3000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-36",
@@ -1030,7 +1065,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1300,
-    "deliveryMinLabel": "滿 $1300 免運"
+    "deliveryMinLabel": "滿 $1300 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-37",
@@ -1059,7 +1095,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-38",
@@ -1088,7 +1125,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-39",
@@ -1117,7 +1155,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-40",
@@ -1146,7 +1185,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-41",
@@ -1175,7 +1215,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-42",
@@ -1204,7 +1245,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-43",
@@ -1233,7 +1275,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-44",
@@ -1262,7 +1305,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "cg-45",
@@ -1290,7 +1334,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 200,
-    "deliveryMinLabel": "滿 $200"
+    "deliveryMinLabel": "滿 $200",
+    "city": "台北市"
   },
   {
     "id": "cg-46",
@@ -1319,7 +1364,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-48",
@@ -1347,7 +1393,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-49",
@@ -1375,7 +1422,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-50",
@@ -1403,7 +1451,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-51",
@@ -1432,7 +1481,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-52",
@@ -1461,7 +1511,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
-    "deliveryMinLabel": "滿 $2000 免運"
+    "deliveryMinLabel": "滿 $2000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-53",
@@ -1492,7 +1543,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-54",
@@ -1521,7 +1573,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 200,
-    "deliveryMinLabel": "滿 $200"
+    "deliveryMinLabel": "滿 $200",
+    "city": "台北市"
   },
   {
     "id": "cg-55",
@@ -1549,7 +1602,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-56",
@@ -1579,7 +1633,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300"
+    "deliveryMinLabel": "滿 $300",
+    "city": "台北市"
   },
   {
     "id": "cg-57",
@@ -1608,7 +1663,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-58",
@@ -1639,7 +1695,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "cg-59",
@@ -1667,7 +1724,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-60",
@@ -1696,7 +1754,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1200,
-    "deliveryMinLabel": "滿 $1200"
+    "deliveryMinLabel": "滿 $1200",
+    "city": "台北市"
   },
   {
     "id": "cg-61",
@@ -1724,7 +1783,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-62",
@@ -1752,7 +1812,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-63",
@@ -1780,7 +1841,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-64",
@@ -1806,7 +1868,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-65",
@@ -1832,7 +1895,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-66",
@@ -1859,7 +1923,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-67",
@@ -1886,7 +1951,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300 免運"
+    "deliveryMinLabel": "滿 $300 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-68",
@@ -1913,7 +1979,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300 免運"
+    "deliveryMinLabel": "滿 $300 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-69",
@@ -1940,7 +2007,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300 免運"
+    "deliveryMinLabel": "滿 $300 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-70",
@@ -1967,7 +2035,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
-    "deliveryMinLabel": "滿 $300 免運"
+    "deliveryMinLabel": "滿 $300 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-71",
@@ -1994,7 +2063,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 439,
-    "deliveryMinLabel": "滿 $439 免運"
+    "deliveryMinLabel": "滿 $439 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-72",
@@ -2021,7 +2091,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000 免運"
+    "deliveryMinLabel": "滿 $1000 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-73",
@@ -2048,7 +2119,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-74",
@@ -2076,7 +2148,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-75",
@@ -2103,7 +2176,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
-    "deliveryMinLabel": "滿 $350"
+    "deliveryMinLabel": "滿 $350",
+    "city": "台北市"
   },
   {
     "id": "cg-76",
@@ -2130,7 +2204,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 200,
-    "deliveryMinLabel": "滿 $200"
+    "deliveryMinLabel": "滿 $200",
+    "city": "台北市"
   },
   {
     "id": "cg-77",
@@ -2157,7 +2232,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-78",
@@ -2184,7 +2260,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-79",
@@ -2211,7 +2288,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1400,
-    "deliveryMinLabel": "滿 $1400 免運"
+    "deliveryMinLabel": "滿 $1400 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-80",
@@ -2240,7 +2318,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-81",
@@ -2268,7 +2347,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000"
+    "deliveryMinLabel": "滿 $1000",
+    "city": "台北市"
   },
   {
     "id": "cg-82",
@@ -2297,7 +2377,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-83",
@@ -2326,7 +2407,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-84",
@@ -2353,7 +2435,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "cg-85",
@@ -2381,7 +2464,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-86",
@@ -2410,7 +2494,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-87",
@@ -2437,7 +2522,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1500,
-    "deliveryMinLabel": "滿 $1500 免運"
+    "deliveryMinLabel": "滿 $1500 免運",
+    "city": "台北市"
   },
   {
     "id": "cg-88",
@@ -2467,7 +2553,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-89",
@@ -2494,7 +2581,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-90",
@@ -2521,7 +2609,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "cg-91",
@@ -2549,7 +2638,8 @@ window.RESTAURANTS = [
     "origin": "chatgpt",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-1",
@@ -2571,7 +2661,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://suhung.oddle.me/en_TW",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-2",
@@ -2592,7 +2683,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://maryjanepizza.oddle.me/zh_TW",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-3",
@@ -2614,7 +2706,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://pekingrostduck.oddle.me/zh_TW",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-4",
@@ -2635,7 +2728,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://daantonio.oddle.me/zh_TW/stores",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-5",
@@ -2657,7 +2751,8 @@ window.RESTAURANTS = [
     "phone": "02-2579-2760",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-6",
@@ -2679,7 +2774,8 @@ window.RESTAURANTS = [
     "phone": "02-2501-9955",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-7",
@@ -2701,7 +2797,8 @@ window.RESTAURANTS = [
     "phone": "02-8502-6969",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-8",
@@ -2723,7 +2820,8 @@ window.RESTAURANTS = [
     "phone": "02-2788-6670",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-9",
@@ -2745,7 +2843,8 @@ window.RESTAURANTS = [
     "phone": "02-2308-1123",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-10",
@@ -2767,7 +2866,8 @@ window.RESTAURANTS = [
     "phone": "02-7755-7515",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-11",
@@ -2788,7 +2888,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://pangtaco.oddle.me/zh_TW",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-12",
@@ -2810,7 +2911,8 @@ window.RESTAURANTS = [
     "phone": "02-2752-9299",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-13",
@@ -2832,7 +2934,8 @@ window.RESTAURANTS = [
     "phone": "02-2596-3255",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-14",
@@ -2855,7 +2958,8 @@ window.RESTAURANTS = [
     "phone": "02-2738-9255",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-15",
@@ -2876,7 +2980,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://royal-taipei.oddle.me/zh_TW",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-16",
@@ -2897,7 +3002,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://ruikee.tw/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-17",
@@ -2918,7 +3024,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.pizzahut.com.tw/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-18",
@@ -2939,7 +3046,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dominos.com.tw/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-19",
@@ -2960,7 +3068,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.kfcclub.com.tw/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-20",
@@ -2981,7 +3090,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dicos.com.tw/service/online-order",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-21",
@@ -3001,7 +3111,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://page.line.me/647ylcmu",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-22",
@@ -3022,7 +3133,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://page.line.me/077ngcvw",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-23",
@@ -3044,7 +3156,8 @@ window.RESTAURANTS = [
     "phone": "022357-9678",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-24",
@@ -3065,7 +3178,8 @@ window.RESTAURANTS = [
     "phone": "02-8732-6617",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-25",
@@ -3088,7 +3202,8 @@ window.RESTAURANTS = [
     "phone": "02-2394-3075",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-26",
@@ -3110,7 +3225,8 @@ window.RESTAURANTS = [
     "phone": "02-2732-9397",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-27",
@@ -3132,7 +3248,8 @@ window.RESTAURANTS = [
     "phone": "022788-2067",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-28",
@@ -3154,7 +3271,8 @@ window.RESTAURANTS = [
     "phone": "02-2785-2196",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-31",
@@ -3176,7 +3294,8 @@ window.RESTAURANTS = [
     "phone": "02-8771-8901",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-33",
@@ -3198,7 +3317,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.coffeealley.com.tw/online-delivery/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-34",
@@ -3219,7 +3339,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.mcdonalds.com/tw/zh-tw/digital/mcdelivery.html",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b1-36",
@@ -3239,7 +3360,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.eihodofood.com/",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-35",
@@ -3261,7 +3383,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-36",
@@ -3283,7 +3406,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-37",
@@ -3305,7 +3429,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-38",
@@ -3327,7 +3452,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-39",
@@ -3347,7 +3473,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-40",
@@ -3368,7 +3495,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-41",
@@ -3390,7 +3518,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-42",
@@ -3413,7 +3542,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-43",
@@ -3435,7 +3565,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-44",
@@ -3456,7 +3587,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-45",
@@ -3478,7 +3610,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-46",
@@ -3499,7 +3632,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-47",
@@ -3521,7 +3655,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-48",
@@ -3542,7 +3677,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-49",
@@ -3562,7 +3698,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-50",
@@ -3584,7 +3721,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-51",
@@ -3606,7 +3744,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-52",
@@ -3629,7 +3768,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-53",
@@ -3651,7 +3791,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：Oddle",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-54",
@@ -3674,7 +3815,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：LINE",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-55",
@@ -3696,7 +3838,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：LINE",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b2-56",
@@ -3718,7 +3861,8 @@ window.RESTAURANTS = [
     "evidence": "渠道：LINE",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-59",
@@ -3741,7 +3885,8 @@ window.RESTAURANTS = [
     "source": "linsburger-sy.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-60",
@@ -3766,7 +3911,8 @@ window.RESTAURANTS = [
     "source": "bibimbap.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-61",
@@ -3790,7 +3936,8 @@ window.RESTAURANTS = [
     "source": "bonjour.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-62",
@@ -3814,7 +3961,8 @@ window.RESTAURANTS = [
     "source": "takeoutburger.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-63",
@@ -3838,7 +3986,8 @@ window.RESTAURANTS = [
     "source": "gustopizzatw.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-64",
@@ -3863,7 +4012,8 @@ window.RESTAURANTS = [
     "source": "ouvertseoultw.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-65",
@@ -3886,7 +4036,8 @@ window.RESTAURANTS = [
     "source": "mayurindiankitchen.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-66",
@@ -3909,7 +4060,8 @@ window.RESTAURANTS = [
     "source": "wayway.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-67",
@@ -3932,7 +4084,8 @@ window.RESTAURANTS = [
     "source": "jinshanhakkarestaurant.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-68",
@@ -3956,7 +4109,8 @@ window.RESTAURANTS = [
     "source": "kopitiamgongguan.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-69",
@@ -3980,7 +4134,8 @@ window.RESTAURANTS = [
     "source": "liangji.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-70",
@@ -4004,7 +4159,8 @@ window.RESTAURANTS = [
     "source": "tianyuan.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-71",
@@ -4027,7 +4183,8 @@ window.RESTAURANTS = [
     "source": "theshrimpdaddy.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-72",
@@ -4050,7 +4207,8 @@ window.RESTAURANTS = [
     "source": "iCHEF",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-73",
@@ -4073,7 +4231,8 @@ window.RESTAURANTS = [
     "source": "iCHEF; goodiefoodie.com.tw",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-74",
@@ -4096,7 +4255,8 @@ window.RESTAURANTS = [
     "source": "iCHEF",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-75",
@@ -4120,7 +4280,8 @@ window.RESTAURANTS = [
     "source": "iCHEF",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-76",
@@ -4144,7 +4305,8 @@ window.RESTAURANTS = [
     "source": "iCHEF",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3600,
-    "deliveryMinLabel": "滿 $3600 免運"
+    "deliveryMinLabel": "滿 $3600 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-b3-77",
@@ -4168,7 +4330,8 @@ window.RESTAURANTS = [
     "source": "iCHEF; sancoffee.shop",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500 免運"
+    "deliveryMinLabel": "滿 $500 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-b3-78",
@@ -4191,7 +4354,8 @@ window.RESTAURANTS = [
     "source": "wanguo-luwei.com; dudooeat; LINE OA",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b3-79",
@@ -4214,7 +4378,8 @@ window.RESTAURANTS = [
     "source": "dinbendon; ifoodie/footinder 交叉",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 6,
-    "deliveryMinLabel": "滿 6 個"
+    "deliveryMinLabel": "滿 6 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b3-80",
@@ -4238,7 +4403,8 @@ window.RESTAURANTS = [
     "lineUrl": "https://page.line.me/ord2456o",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-81",
@@ -4262,7 +4428,8 @@ window.RESTAURANTS = [
     "source": "doubleharmony.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-82",
@@ -4286,7 +4453,8 @@ window.RESTAURANTS = [
     "source": "buzzdaily / dinbendon 交叉",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 6,
-    "deliveryMinLabel": "滿 6 個"
+    "deliveryMinLabel": "滿 6 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b4-83",
@@ -4309,7 +4477,8 @@ window.RESTAURANTS = [
     "source": "snuggles.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-84",
@@ -4333,7 +4502,8 @@ window.RESTAURANTS = [
     "source": "yatoka.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-85",
@@ -4356,7 +4526,8 @@ window.RESTAURANTS = [
     "source": "hanxiangting.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-86",
@@ -4380,7 +4551,8 @@ window.RESTAURANTS = [
     "source": "honglou.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-87",
@@ -4403,7 +4575,8 @@ window.RESTAURANTS = [
     "source": "taroonigiri.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-88",
@@ -4427,7 +4600,8 @@ window.RESTAURANTS = [
     "source": "mrchillchill.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-89",
@@ -4451,7 +4625,8 @@ window.RESTAURANTS = [
     "source": "goodg.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-90",
@@ -4474,7 +4649,8 @@ window.RESTAURANTS = [
     "source": "trueviet.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-91",
@@ -4498,7 +4674,8 @@ window.RESTAURANTS = [
     "source": "rollspresso.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-92",
@@ -4522,7 +4699,8 @@ window.RESTAURANTS = [
     "source": "pizzacreafe.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-93",
@@ -4546,7 +4724,8 @@ window.RESTAURANTS = [
     "source": "imomi.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-94",
@@ -4570,7 +4749,8 @@ window.RESTAURANTS = [
     "source": "sugarmiss.oddle.me; sugar-miss.com",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-95",
@@ -4594,7 +4774,8 @@ window.RESTAURANTS = [
     "source": "iCHEF; 目錄交叉",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-96",
@@ -4618,7 +4799,8 @@ window.RESTAURANTS = [
     "source": "iCHEF; footinder 交叉",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-97",
@@ -4642,7 +4824,8 @@ window.RESTAURANTS = [
     "source": "iCHEF; auntie.tw 交叉",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-98",
@@ -4665,7 +4848,8 @@ window.RESTAURANTS = [
     "source": "LINE OA 目錄摘要",
     "deliveryMinType": "amount",
     "deliveryMinValue": 800,
-    "deliveryMinLabel": "滿 $800"
+    "deliveryMinLabel": "滿 $800",
+    "city": "台北市"
   },
   {
     "id": "scout-b4-99",
@@ -4688,7 +4872,8 @@ window.RESTAURANTS = [
     "source": "quickclick case; dinbendon; 美食誌交叉",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-100",
@@ -4709,7 +4894,8 @@ window.RESTAURANTS = [
     "source": "dinbendon; footinder",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-101",
@@ -4730,7 +4916,8 @@ window.RESTAURANTS = [
     "source": "wa10-verythai.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-102",
@@ -4752,7 +4939,8 @@ window.RESTAURANTS = [
     "source": "wa10-1010restaurant.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b4-103",
@@ -4774,7 +4962,8 @@ window.RESTAURANTS = [
     "source": "wa10-shannricebar.oddle.me",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-104",
@@ -4801,7 +4990,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-105",
@@ -4831,7 +5021,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-106",
@@ -4859,7 +5050,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-107",
@@ -4886,7 +5078,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-108",
@@ -4914,7 +5107,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-110",
@@ -4941,7 +5135,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-111",
@@ -4968,7 +5163,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-112",
@@ -4995,7 +5191,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-113",
@@ -5023,7 +5220,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-114",
@@ -5051,7 +5249,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-115",
@@ -5079,7 +5278,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-116",
@@ -5108,7 +5308,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-117",
@@ -5135,7 +5336,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-118",
@@ -5162,7 +5364,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-119",
@@ -5189,7 +5392,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-120",
@@ -5216,7 +5420,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-121",
@@ -5243,7 +5448,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-122",
@@ -5270,7 +5476,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-123",
@@ -5297,7 +5504,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-124",
@@ -5326,7 +5534,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-125",
@@ -5353,7 +5562,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-127",
@@ -5381,7 +5591,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-128",
@@ -5409,7 +5620,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-129",
@@ -5437,7 +5649,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-130",
@@ -5464,7 +5677,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-131",
@@ -5491,7 +5705,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-132",
@@ -5518,7 +5733,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-133",
@@ -5545,7 +5761,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-134",
@@ -5572,7 +5789,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-135",
@@ -5600,7 +5818,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-136",
@@ -5628,7 +5847,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-137",
@@ -5655,7 +5875,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-138",
@@ -5683,7 +5904,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-139",
@@ -5710,7 +5932,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-140",
@@ -5737,7 +5960,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-141",
@@ -5764,7 +5988,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-142",
@@ -5791,7 +6016,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-143",
@@ -5819,7 +6045,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-145",
@@ -5846,7 +6073,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-146",
@@ -5874,7 +6102,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-147",
@@ -5902,7 +6131,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-148",
@@ -5929,7 +6159,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-149",
@@ -5956,7 +6187,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-150",
@@ -5984,7 +6216,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-151",
@@ -6011,7 +6244,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-152",
@@ -6040,7 +6274,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-153",
@@ -6067,7 +6302,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-154",
@@ -6095,7 +6331,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-155",
@@ -6124,7 +6361,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-156",
@@ -6151,7 +6389,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-157",
@@ -6179,7 +6418,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-158",
@@ -6206,7 +6446,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-159",
@@ -6234,7 +6475,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-160",
@@ -6261,7 +6503,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-161",
@@ -6288,7 +6531,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-162",
@@ -6316,7 +6560,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-163",
@@ -6343,7 +6588,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-164",
@@ -6371,7 +6617,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-165",
@@ -6398,7 +6645,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-166",
@@ -6425,7 +6673,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-167",
@@ -6454,7 +6703,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-168",
@@ -6483,7 +6733,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-169",
@@ -6510,7 +6761,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-170",
@@ -6537,7 +6789,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-171",
@@ -6565,7 +6818,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-172",
@@ -6594,7 +6848,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-173",
@@ -6621,7 +6876,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-174",
@@ -6650,7 +6906,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-175",
@@ -6677,7 +6934,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-176",
@@ -6704,7 +6962,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-177",
@@ -6732,7 +6991,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-178",
@@ -6760,7 +7020,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-179",
@@ -6788,7 +7049,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-180",
@@ -6815,7 +7077,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-181",
@@ -6843,7 +7106,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-182",
@@ -6870,7 +7134,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-183",
@@ -6897,7 +7162,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-184",
@@ -6925,7 +7191,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-185",
@@ -6952,7 +7219,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-186",
@@ -6981,7 +7249,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-187",
@@ -7008,7 +7277,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-188",
@@ -7036,7 +7306,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-189",
@@ -7064,7 +7335,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-190",
@@ -7091,7 +7363,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-191",
@@ -7119,7 +7392,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-192",
@@ -7148,7 +7422,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-193",
@@ -7175,7 +7450,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-194",
@@ -7202,7 +7478,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-195",
@@ -7231,7 +7508,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-196",
@@ -7260,7 +7538,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-198",
@@ -7289,7 +7568,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-199",
@@ -7316,7 +7596,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-200",
@@ -7346,7 +7627,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-201",
@@ -7374,7 +7656,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-202",
@@ -7402,7 +7685,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-203",
@@ -7430,7 +7714,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-204",
@@ -7458,7 +7743,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-205",
@@ -7486,7 +7772,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-206",
@@ -7513,7 +7800,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-207",
@@ -7540,7 +7828,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-208",
@@ -7568,7 +7857,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-209",
@@ -7597,7 +7887,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-210",
@@ -7624,7 +7915,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-211",
@@ -7651,7 +7943,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-212",
@@ -7678,7 +7971,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-213",
@@ -7706,7 +8000,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-214",
@@ -7733,7 +8028,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-215",
@@ -7760,7 +8056,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-216",
@@ -7787,7 +8084,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-217",
@@ -7814,7 +8112,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-218",
@@ -7841,7 +8140,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-219",
@@ -7869,7 +8169,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-220",
@@ -7896,7 +8197,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-221",
@@ -7924,7 +8226,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-222",
@@ -7952,7 +8255,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-223",
@@ -7980,7 +8284,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-224",
@@ -8008,7 +8313,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-225",
@@ -8036,7 +8342,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-226",
@@ -8063,7 +8370,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-227",
@@ -8090,7 +8398,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-228",
@@ -8117,7 +8426,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-229",
@@ -8146,7 +8456,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-230",
@@ -8173,7 +8484,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-231",
@@ -8201,7 +8513,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-232",
@@ -8228,7 +8541,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-233",
@@ -8255,7 +8569,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-234",
@@ -8283,7 +8598,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-235",
@@ -8310,7 +8626,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-236",
@@ -8339,7 +8656,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-237",
@@ -8368,7 +8686,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-238",
@@ -8395,7 +8714,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-239",
@@ -8423,7 +8743,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-240",
@@ -8450,7 +8771,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-241",
@@ -8479,7 +8801,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-242",
@@ -8508,7 +8831,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-243",
@@ -8535,7 +8859,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-244",
@@ -8562,7 +8887,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-245",
@@ -8590,7 +8916,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-246",
@@ -8617,7 +8944,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-247",
@@ -8644,7 +8972,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-248",
@@ -8671,7 +9000,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-249",
@@ -8699,7 +9029,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-250",
@@ -8728,7 +9059,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-251",
@@ -8756,7 +9088,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-252",
@@ -8783,7 +9116,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-253",
@@ -8810,7 +9144,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-254",
@@ -8837,7 +9172,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-255",
@@ -8864,7 +9200,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-256",
@@ -8891,7 +9228,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-257",
@@ -8919,7 +9257,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-258",
@@ -8946,7 +9285,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-259",
@@ -8974,7 +9314,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-260",
@@ -9001,7 +9342,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-261",
@@ -9030,7 +9372,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-262",
@@ -9058,7 +9401,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-263",
@@ -9086,7 +9430,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-264",
@@ -9114,7 +9459,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-265",
@@ -9143,7 +9489,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-266",
@@ -9172,7 +9519,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-267",
@@ -9200,7 +9548,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-268",
@@ -9227,7 +9576,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-269",
@@ -9256,7 +9606,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b5-270",
@@ -9283,7 +9634,8 @@ window.RESTAURANTS = [
     "origin": "scout",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-112",
@@ -9307,7 +9659,8 @@ window.RESTAURANTS = [
     "address": "忠孝東路四段216巷11弄6號1F",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-113",
@@ -9332,7 +9685,8 @@ window.RESTAURANTS = [
     "phone": "02-2358-2356",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-114",
@@ -9357,7 +9711,8 @@ window.RESTAURANTS = [
     "address": "延平北路五段170號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-115",
@@ -9381,7 +9736,8 @@ window.RESTAURANTS = [
     "address": "南京東路四段133巷4弄26號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-116",
@@ -9405,7 +9761,8 @@ window.RESTAURANTS = [
     "address": "松江路128號2樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-117",
@@ -9429,7 +9786,8 @@ window.RESTAURANTS = [
     "phone": "02-2895-1818",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-118",
@@ -9454,7 +9812,8 @@ window.RESTAURANTS = [
     "address": "中央北路一段228巷1弄4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-119",
@@ -9478,7 +9837,8 @@ window.RESTAURANTS = [
     "phone": "02-2768-0003",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-120",
@@ -9502,7 +9862,8 @@ window.RESTAURANTS = [
     "address": "指南路二段45巷3號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-129",
@@ -9525,7 +9886,8 @@ window.RESTAURANTS = [
     "phone": "02-2578-5306",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-130",
@@ -9550,7 +9912,8 @@ window.RESTAURANTS = [
     "address": "大直街38號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "scout-b6-132",
@@ -9575,7 +9938,8 @@ window.RESTAURANTS = [
     "address": "民生東路四段55巷14號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-134",
@@ -9601,7 +9965,8 @@ window.RESTAURANTS = [
     "address": "八德路一段82巷9弄13號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-139",
@@ -9625,7 +9990,8 @@ window.RESTAURANTS = [
     "address": "福華路145號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-140",
@@ -9651,7 +10017,8 @@ window.RESTAURANTS = [
     "address": "廣州街245-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-141",
@@ -9676,7 +10043,8 @@ window.RESTAURANTS = [
     "address": "大安路一段19巷4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-142",
@@ -9700,7 +10068,8 @@ window.RESTAURANTS = [
     "address": "五常街87號（榮星花園對面）",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-143",
@@ -9724,7 +10093,8 @@ window.RESTAURANTS = [
     "phone": "0908-339-877",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-144",
@@ -9748,7 +10118,8 @@ window.RESTAURANTS = [
     "phone": "0906-666-892",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-145",
@@ -9770,7 +10141,8 @@ window.RESTAURANTS = [
     "phone": "02-8772-9762",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-146",
@@ -9791,7 +10163,8 @@ window.RESTAURANTS = [
     "phone": "02-2720-5203",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b6-147",
@@ -9815,7 +10188,8 @@ window.RESTAURANTS = [
     "address": "和平東路二段118巷67號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-148",
@@ -9840,7 +10214,8 @@ window.RESTAURANTS = [
     "address": "吉林路226號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-149",
@@ -9865,7 +10240,8 @@ window.RESTAURANTS = [
     "address": "八德路四段229號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-150",
@@ -9891,7 +10267,8 @@ window.RESTAURANTS = [
     "address": "東興路7號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-151",
@@ -9916,7 +10293,8 @@ window.RESTAURANTS = [
     "address": "八德路三段155巷1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-153",
@@ -9940,7 +10318,8 @@ window.RESTAURANTS = [
     "address": "東園街41號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-154",
@@ -9965,7 +10344,8 @@ window.RESTAURANTS = [
     "address": "武昌街二段55號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 5000,
-    "deliveryMinLabel": "滿 $5000 免運"
+    "deliveryMinLabel": "滿 $5000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-b7-155",
@@ -9989,7 +10369,8 @@ window.RESTAURANTS = [
     "address": "長安西路52巷12號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-156",
@@ -10014,7 +10395,8 @@ window.RESTAURANTS = [
     "address": "汀州路二段238號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-157",
@@ -10039,7 +10421,8 @@ window.RESTAURANTS = [
     "address": "崇仁路一段38號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b7-161",
@@ -10063,7 +10446,8 @@ window.RESTAURANTS = [
     "address": "中央北路一段74號（北投國小斜對面）",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b8-177",
@@ -10088,7 +10472,8 @@ window.RESTAURANTS = [
     "address": "玉成街14-8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b8-178",
@@ -10112,7 +10497,8 @@ window.RESTAURANTS = [
     "address": "內湖路一段285巷68弄13號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b8-179",
@@ -10136,7 +10522,8 @@ window.RESTAURANTS = [
     "address": "新民街27號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b8-181",
@@ -10160,7 +10547,8 @@ window.RESTAURANTS = [
     "address": "文林路532號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b8-182",
@@ -10184,7 +10572,8 @@ window.RESTAURANTS = [
     "address": "內湖路一段323巷4弄16號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b9-203",
@@ -10207,7 +10596,8 @@ window.RESTAURANTS = [
     "address": "興隆路二段211號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b9-204",
@@ -10230,7 +10620,8 @@ window.RESTAURANTS = [
     "address": "吳興街48號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b9-205",
@@ -10254,7 +10645,8 @@ window.RESTAURANTS = [
     "address": "辛亥路五段25巷4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b9-206",
@@ -10279,7 +10671,8 @@ window.RESTAURANTS = [
     "address": "洲子街106號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-207",
@@ -10303,7 +10696,8 @@ window.RESTAURANTS = [
     "address": "裕民一路12號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-209",
@@ -10326,7 +10720,8 @@ window.RESTAURANTS = [
     "address": "尊賢街215號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 12,
-    "deliveryMinLabel": "滿 12 個"
+    "deliveryMinLabel": "滿 12 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b10-210",
@@ -10350,7 +10745,8 @@ window.RESTAURANTS = [
     "address": "大業路478號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-211",
@@ -10372,7 +10768,8 @@ window.RESTAURANTS = [
     "address": "石牌路一段166巷118號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 10,
-    "deliveryMinLabel": "滿 10 個"
+    "deliveryMinLabel": "滿 10 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b10-212",
@@ -10395,7 +10792,8 @@ window.RESTAURANTS = [
     "address": "木新路二段227號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-213",
@@ -10418,7 +10816,8 @@ window.RESTAURANTS = [
     "address": "指南路二段119巷8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-214",
@@ -10442,7 +10841,8 @@ window.RESTAURANTS = [
     "address": "辛亥路四段227號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-215",
@@ -10466,7 +10866,8 @@ window.RESTAURANTS = [
     "address": "寶興街91號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-216",
@@ -10490,7 +10891,8 @@ window.RESTAURANTS = [
     "address": "西藏路520號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-217",
@@ -10514,7 +10916,8 @@ window.RESTAURANTS = [
     "address": "寶興街55號1樓",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1200,
-    "deliveryMinLabel": "滿 $1200 免運"
+    "deliveryMinLabel": "滿 $1200 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-b10-218",
@@ -10539,7 +10942,8 @@ window.RESTAURANTS = [
     "address": "南港路一段118號2樓",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 10,
-    "deliveryMinLabel": "滿 10 個"
+    "deliveryMinLabel": "滿 10 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b10-219",
@@ -10561,7 +10965,8 @@ window.RESTAURANTS = [
     "address": "昆陽街5號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-220",
@@ -10584,7 +10989,8 @@ window.RESTAURANTS = [
     "address": "忠孝東路七段621號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-221",
@@ -10607,7 +11013,8 @@ window.RESTAURANTS = [
     "address": "興中路74巷4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b10-222",
@@ -10630,7 +11037,8 @@ window.RESTAURANTS = [
     "address": "研究院路一段106號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-228",
@@ -10654,7 +11062,8 @@ window.RESTAURANTS = [
     "address": "成都路27巷13號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-229",
@@ -10677,7 +11086,8 @@ window.RESTAURANTS = [
     "address": "汀州路一段336號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-230",
@@ -10702,7 +11112,8 @@ window.RESTAURANTS = [
     "address": "汀州路一段336號1樓（與",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-231",
@@ -10726,7 +11137,8 @@ window.RESTAURANTS = [
     "address": "富陽街134號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-232",
@@ -10750,7 +11162,8 @@ window.RESTAURANTS = [
     "address": "富陽街134號（頁面註真味香製作",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-233",
@@ -10774,7 +11187,8 @@ window.RESTAURANTS = [
     "address": "保儀路48號（木柵市場口）",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-234",
@@ -10796,7 +11210,8 @@ window.RESTAURANTS = [
     "address": "舊庄街一段173號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-235",
@@ -10820,7 +11235,8 @@ window.RESTAURANTS = [
     "address": "遼寧街42號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-236",
@@ -10846,7 +11262,8 @@ window.RESTAURANTS = [
     "address": "忠義街113之3號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-238",
@@ -10871,7 +11288,8 @@ window.RESTAURANTS = [
     "address": "中央北路二段157號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-239",
@@ -10895,7 +11313,8 @@ window.RESTAURANTS = [
     "address": "臥龍街151巷76號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b11-240",
@@ -10919,7 +11338,8 @@ window.RESTAURANTS = [
     "address": "南昌路一段74巷18號之3一樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-243",
@@ -10943,7 +11363,8 @@ window.RESTAURANTS = [
     "address": "松江路97巷23號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-244",
@@ -10966,7 +11387,8 @@ window.RESTAURANTS = [
     "address": "崇德街40號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 15,
-    "deliveryMinLabel": "滿 15 個"
+    "deliveryMinLabel": "滿 15 個",
+    "city": "台北市"
   },
   {
     "id": "scout-b12-245",
@@ -10989,7 +11411,8 @@ window.RESTAURANTS = [
     "address": "永安街22巷35號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-246",
@@ -11013,7 +11436,8 @@ window.RESTAURANTS = [
     "address": "辛亥路三段157號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-247",
@@ -11037,7 +11461,8 @@ window.RESTAURANTS = [
     "address": "市民大道四段222號（頁面註鳳城燒臘製作）",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-248",
@@ -11060,7 +11485,8 @@ window.RESTAURANTS = [
     "address": "濟南路二段61-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-249",
@@ -11084,7 +11510,8 @@ window.RESTAURANTS = [
     "address": "福德街64號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-250",
@@ -11107,7 +11534,8 @@ window.RESTAURANTS = [
     "address": "松山路541巷15號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-251",
@@ -11132,7 +11560,8 @@ window.RESTAURANTS = [
     "address": "復興南路一段133-2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-252",
@@ -11157,7 +11586,8 @@ window.RESTAURANTS = [
     "address": "光復北路11巷76號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-253",
@@ -11182,7 +11612,8 @@ window.RESTAURANTS = [
     "address": "光復北路11巷76號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-254",
@@ -11206,7 +11637,8 @@ window.RESTAURANTS = [
     "address": "安和路一段21巷17號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-255",
@@ -11230,7 +11662,8 @@ window.RESTAURANTS = [
     "address": "四維路170巷26號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-b12-256",
@@ -11255,7 +11688,8 @@ window.RESTAURANTS = [
     "address": "錦州街132號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-262",
@@ -11278,7 +11712,8 @@ window.RESTAURANTS = [
     "address": "桂林路246巷42弄20號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-263",
@@ -11303,7 +11738,8 @@ window.RESTAURANTS = [
     "address": "西園路二段140巷23號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-264",
@@ -11327,7 +11763,8 @@ window.RESTAURANTS = [
     "address": "實踐街25號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-266",
@@ -11351,7 +11788,8 @@ window.RESTAURANTS = [
     "address": "裕民二路18號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-267",
@@ -11374,7 +11812,8 @@ window.RESTAURANTS = [
     "address": "致遠二路143之1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-268",
@@ -11399,7 +11838,8 @@ window.RESTAURANTS = [
     "address": "康樂街20巷3號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-269",
@@ -11423,7 +11863,8 @@ window.RESTAURANTS = [
     "address": "康樂街72巷8弄1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-270",
@@ -11447,7 +11888,8 @@ window.RESTAURANTS = [
     "address": "合江街80號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-271",
@@ -11471,7 +11913,8 @@ window.RESTAURANTS = [
     "address": "和平西路三段162號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-272",
@@ -11497,7 +11940,8 @@ window.RESTAURANTS = [
     "address": "立農街一段253號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-278",
@@ -11520,7 +11964,8 @@ window.RESTAURANTS = [
     "address": "向陽路90號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-279",
@@ -11543,7 +11988,8 @@ window.RESTAURANTS = [
     "address": "基湖路10巷48號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-280",
@@ -11567,7 +12013,8 @@ window.RESTAURANTS = [
     "address": "基湖路35",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-281",
@@ -11590,7 +12037,8 @@ window.RESTAURANTS = [
     "address": "麗山街393巷2號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-282",
@@ -11614,7 +12062,8 @@ window.RESTAURANTS = [
     "address": "麗山街393巷1之1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-283",
@@ -11638,7 +12087,8 @@ window.RESTAURANTS = [
     "address": "麗山街393巷4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-284",
@@ -11661,7 +12111,8 @@ window.RESTAURANTS = [
     "address": "麗山街393巷8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-285",
@@ -11684,7 +12135,8 @@ window.RESTAURANTS = [
     "address": "麗山街364巷1號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-286",
@@ -11706,7 +12158,8 @@ window.RESTAURANTS = [
     "address": "內湖路三段79號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-287",
@@ -11730,7 +12183,8 @@ window.RESTAURANTS = [
     "address": "成功路三段169號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-288",
@@ -11753,7 +12207,8 @@ window.RESTAURANTS = [
     "address": "農安街125巷51號1",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
-    "deliveryMinLabel": "滿 5 個"
+    "deliveryMinLabel": "滿 5 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-289",
@@ -11777,7 +12232,8 @@ window.RESTAURANTS = [
     "address": "民權東路二段75號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-290",
@@ -11799,7 +12255,8 @@ window.RESTAURANTS = [
     "address": "洲美街239號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-293",
@@ -11822,7 +12279,8 @@ window.RESTAURANTS = [
     "address": "金龍路39號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-294",
@@ -11845,7 +12303,8 @@ window.RESTAURANTS = [
     "address": "環山路一段3號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-295",
@@ -11869,7 +12328,8 @@ window.RESTAURANTS = [
     "address": "環山路一段9巷7號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-296",
@@ -11892,7 +12352,8 @@ window.RESTAURANTS = [
     "address": "文德路22巷44弄1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-297",
@@ -11916,7 +12377,8 @@ window.RESTAURANTS = [
     "address": "文德路22巷62弄1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-298",
@@ -11940,7 +12402,8 @@ window.RESTAURANTS = [
     "address": "文德路22巷9弄70號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-299",
@@ -11963,7 +12426,8 @@ window.RESTAURANTS = [
     "address": "興隆路四段50-4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-300",
@@ -11985,7 +12449,8 @@ window.RESTAURANTS = [
     "address": "新光路一段48號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-301",
@@ -12007,7 +12472,8 @@ window.RESTAURANTS = [
     "address": "康寧路三段165巷14弄19號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-302",
@@ -12029,7 +12495,8 @@ window.RESTAURANTS = [
     "address": "康寧路三段26巷3號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-303",
@@ -12052,7 +12519,8 @@ window.RESTAURANTS = [
     "address": "行愛路128號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-304",
@@ -12075,7 +12543,8 @@ window.RESTAURANTS = [
     "address": "內湖路一段437巷4弄6號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-305",
@@ -12098,7 +12567,8 @@ window.RESTAURANTS = [
     "address": "內湖路一段285號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 800,
-    "deliveryMinLabel": "滿 $800"
+    "deliveryMinLabel": "滿 $800",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-306",
@@ -12120,7 +12590,8 @@ window.RESTAURANTS = [
     "address": "新明路194號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-307",
@@ -12142,7 +12613,8 @@ window.RESTAURANTS = [
     "address": "成功路四段214巷2弄1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-308",
@@ -12166,7 +12638,8 @@ window.RESTAURANTS = [
     "address": "莊敬路325巷13號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
-    "deliveryMinLabel": "滿 5 個"
+    "deliveryMinLabel": "滿 5 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-309",
@@ -12189,7 +12662,8 @@ window.RESTAURANTS = [
     "address": "莊敬路325巷32號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-310",
@@ -12213,7 +12687,8 @@ window.RESTAURANTS = [
     "address": "松德路169巷23號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-311",
@@ -12236,7 +12711,8 @@ window.RESTAURANTS = [
     "address": "中坡南路88號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 4,
-    "deliveryMinLabel": "滿 4 個"
+    "deliveryMinLabel": "滿 4 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-312",
@@ -12259,7 +12735,8 @@ window.RESTAURANTS = [
     "address": "虎林街82巷29號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-313",
@@ -12285,7 +12762,8 @@ window.RESTAURANTS = [
     "address": "永吉路180巷66弄37號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-314",
@@ -12307,7 +12785,8 @@ window.RESTAURANTS = [
     "address": "大東路125號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-315",
@@ -12330,7 +12809,8 @@ window.RESTAURANTS = [
     "address": "大東路39號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-316",
@@ -12353,7 +12833,8 @@ window.RESTAURANTS = [
     "address": "景興路9號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-317",
@@ -12377,7 +12858,8 @@ window.RESTAURANTS = [
     "address": "木柵路三段102巷3號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-318",
@@ -12401,7 +12883,8 @@ window.RESTAURANTS = [
     "address": "伊通街106巷10號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-319",
@@ -12425,7 +12908,8 @@ window.RESTAURANTS = [
     "address": "伊通街106巷19號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-320",
@@ -12450,7 +12934,8 @@ window.RESTAURANTS = [
     "address": "伊通街83號1",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1200,
-    "deliveryMinLabel": "滿 $1200 免運"
+    "deliveryMinLabel": "滿 $1200 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-321",
@@ -12473,7 +12958,8 @@ window.RESTAURANTS = [
     "address": "吉林路124號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-322",
@@ -12496,7 +12982,8 @@ window.RESTAURANTS = [
     "address": "吉林路161巷10號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-323",
@@ -12519,7 +13006,8 @@ window.RESTAURANTS = [
     "address": "吉林路456巷16-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-324",
@@ -12542,7 +13030,8 @@ window.RESTAURANTS = [
     "address": "錦西街8-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-325",
@@ -12565,7 +13054,8 @@ window.RESTAURANTS = [
     "address": "民生東路一段26號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-326",
@@ -12588,7 +13078,8 @@ window.RESTAURANTS = [
     "address": "民權西路47號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
-    "deliveryMinLabel": "滿 5 個"
+    "deliveryMinLabel": "滿 5 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-327",
@@ -12611,7 +13102,8 @@ window.RESTAURANTS = [
     "address": "臨江街100之17號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-328",
@@ -12634,7 +13126,8 @@ window.RESTAURANTS = [
     "address": "臨江街164號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-329",
@@ -12657,7 +13150,8 @@ window.RESTAURANTS = [
     "address": "信義路四段265巷27號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-330",
@@ -12680,7 +13174,8 @@ window.RESTAURANTS = [
     "address": "南京東路五段66巷4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-331",
@@ -12703,7 +13198,8 @@ window.RESTAURANTS = [
     "address": "和平東路二段311巷43弄26號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-332",
@@ -12727,7 +13223,8 @@ window.RESTAURANTS = [
     "address": "伊通街109-2號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000 免運"
+    "deliveryMinLabel": "滿 $1000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-333",
@@ -12752,7 +13249,8 @@ window.RESTAURANTS = [
     "address": "農安街245號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-334",
@@ -12775,7 +13273,8 @@ window.RESTAURANTS = [
     "address": "民生西路38號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-335",
@@ -12798,7 +13297,8 @@ window.RESTAURANTS = [
     "address": "八德路四段245巷38號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-336",
@@ -12821,7 +13321,8 @@ window.RESTAURANTS = [
     "address": "南京東路五段291巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-337",
@@ -12845,7 +13346,8 @@ window.RESTAURANTS = [
     "address": "興安街53-4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-338",
@@ -12867,7 +13369,8 @@ window.RESTAURANTS = [
     "address": "興安街212號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-339",
@@ -12890,7 +13393,8 @@ window.RESTAURANTS = [
     "address": "興安街51-4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-340",
@@ -12912,7 +13416,8 @@ window.RESTAURANTS = [
     "address": "八德路二段239號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-341",
@@ -12936,7 +13441,8 @@ window.RESTAURANTS = [
     "address": "南京東路四段75巷8號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500"
+    "deliveryMinLabel": "滿 $500",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-342",
@@ -12958,7 +13464,8 @@ window.RESTAURANTS = [
     "address": "民權東路三段103巷9-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-343",
@@ -12982,7 +13489,8 @@ window.RESTAURANTS = [
     "address": "通安街69號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-344",
@@ -13007,7 +13515,8 @@ window.RESTAURANTS = [
     "address": "羅斯福路三段286巷10號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-345",
@@ -13032,7 +13541,8 @@ window.RESTAURANTS = [
     "address": "中山北路二段96巷19號之5",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-346",
@@ -13058,7 +13568,8 @@ window.RESTAURANTS = [
     "address": "吉林路130巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-347",
@@ -13082,7 +13593,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-348",
@@ -13106,7 +13618,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-349",
@@ -13131,7 +13644,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-350",
@@ -13155,7 +13669,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-351",
@@ -13178,7 +13693,8 @@ window.RESTAURANTS = [
     "address": "民生東路二段164巷10號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-352",
@@ -13201,7 +13717,8 @@ window.RESTAURANTS = [
     "address": "遼寧街101巷16號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-353",
@@ -13225,7 +13742,8 @@ window.RESTAURANTS = [
     "address": "寧安街9巷8號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-355",
@@ -13249,7 +13767,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-356",
@@ -13274,7 +13793,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段41巷36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-357",
@@ -13298,7 +13818,8 @@ window.RESTAURANTS = [
     "address": "濟南路三段59-2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-358",
@@ -13321,7 +13842,8 @@ window.RESTAURANTS = [
     "address": "濟南路三段59號之3",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-359",
@@ -13344,7 +13866,8 @@ window.RESTAURANTS = [
     "address": "濟南路三段59-2,3號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-360",
@@ -13367,7 +13890,8 @@ window.RESTAURANTS = [
     "address": "濟南路三段59號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-361",
@@ -13391,7 +13915,8 @@ window.RESTAURANTS = [
     "address": "一江街48號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-362",
@@ -13415,7 +13940,8 @@ window.RESTAURANTS = [
     "address": "吉林路22巷7號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-363",
@@ -13439,7 +13965,8 @@ window.RESTAURANTS = [
     "address": "中山北路一段135巷18-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-364",
@@ -13463,7 +13990,8 @@ window.RESTAURANTS = [
     "address": "新生北路二段108巷20號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-365",
@@ -13487,7 +14015,8 @@ window.RESTAURANTS = [
     "address": "松江路259巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-366",
@@ -13510,7 +14039,8 @@ window.RESTAURANTS = [
     "address": "松江路313巷17號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
-    "deliveryMinLabel": "滿 5 份"
+    "deliveryMinLabel": "滿 5 份",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-367",
@@ -13534,7 +14064,8 @@ window.RESTAURANTS = [
     "address": "民族東路410巷23弄12之1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-368",
@@ -13557,7 +14088,8 @@ window.RESTAURANTS = [
     "address": "大直街46巷10號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-369",
@@ -13581,7 +14113,8 @@ window.RESTAURANTS = [
     "address": "敦化北路4巷45號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-370",
@@ -13604,7 +14137,8 @@ window.RESTAURANTS = [
     "address": "敦化北路165巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-371",
@@ -13627,7 +14161,8 @@ window.RESTAURANTS = [
     "address": "東寧路11號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-372",
@@ -13650,7 +14185,8 @@ window.RESTAURANTS = [
     "address": "東寧路15號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-373",
@@ -13672,7 +14208,8 @@ window.RESTAURANTS = [
     "address": "民生東路三段130巷5弄20號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-374",
@@ -13697,7 +14234,8 @@ window.RESTAURANTS = [
     "address": "南海路24號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-376",
@@ -13722,7 +14260,8 @@ window.RESTAURANTS = [
     "address": "庫倫街48號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-377",
@@ -13746,7 +14285,8 @@ window.RESTAURANTS = [
     "address": "吉林路145號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-378",
@@ -13771,7 +14311,8 @@ window.RESTAURANTS = [
     "address": "南京東路三段335巷13號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-379",
@@ -13795,7 +14336,8 @@ window.RESTAURANTS = [
     "address": "光復南路50號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-380",
@@ -13820,7 +14362,8 @@ window.RESTAURANTS = [
     "address": "和平東路二段265巷64號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-381",
@@ -13844,7 +14387,8 @@ window.RESTAURANTS = [
     "address": "仁愛路四段122巷60號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-382",
@@ -13868,7 +14412,8 @@ window.RESTAURANTS = [
     "address": "復興南路二段151巷29號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-383",
@@ -13892,7 +14437,8 @@ window.RESTAURANTS = [
     "address": "信義路四段54號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-384",
@@ -13915,7 +14461,8 @@ window.RESTAURANTS = [
     "address": "復興南路二段158號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-385",
@@ -13939,7 +14486,8 @@ window.RESTAURANTS = [
     "address": "敦化南路一段187巷45之2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-386",
@@ -13964,7 +14512,8 @@ window.RESTAURANTS = [
     "address": "信義路四段450巷9號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-387",
@@ -13987,7 +14536,8 @@ window.RESTAURANTS = [
     "address": "松隆路231號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-388",
@@ -14011,7 +14561,8 @@ window.RESTAURANTS = [
     "address": "松隆路219號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-389",
@@ -14035,7 +14586,8 @@ window.RESTAURANTS = [
     "address": "林口街80巷32號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-390",
@@ -14059,7 +14611,8 @@ window.RESTAURANTS = [
     "address": "信安街196號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-391",
@@ -14082,7 +14635,8 @@ window.RESTAURANTS = [
     "address": "嘉興街38巷2弄5號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-392",
@@ -14106,7 +14660,8 @@ window.RESTAURANTS = [
     "address": "青島東路7之4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-393",
@@ -14130,7 +14685,8 @@ window.RESTAURANTS = [
     "address": "重慶南路一段46巷8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-394",
@@ -14154,7 +14710,8 @@ window.RESTAURANTS = [
     "address": "武昌街一段23號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-395",
@@ -14178,7 +14735,8 @@ window.RESTAURANTS = [
     "address": "重慶南路一段112號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-396",
@@ -14202,7 +14760,8 @@ window.RESTAURANTS = [
     "address": "民權東路六段296巷5號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-397",
@@ -14226,7 +14785,8 @@ window.RESTAURANTS = [
     "address": "成功路五段79號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-398",
@@ -14250,7 +14810,8 @@ window.RESTAURANTS = [
     "address": "公園路28號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-399",
@@ -14274,7 +14835,8 @@ window.RESTAURANTS = [
     "address": "永吉路332號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-400",
@@ -14298,7 +14860,8 @@ window.RESTAURANTS = [
     "address": "信義路六段89號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-401",
@@ -14321,7 +14884,8 @@ window.RESTAURANTS = [
     "address": "信義路六段95號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-402",
@@ -14345,7 +14909,8 @@ window.RESTAURANTS = [
     "address": "信義路六段104號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-403",
@@ -14369,7 +14934,8 @@ window.RESTAURANTS = [
     "address": "信安街186號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-404",
@@ -14392,7 +14958,8 @@ window.RESTAURANTS = [
     "address": "永吉路230號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-405",
@@ -14416,7 +14983,8 @@ window.RESTAURANTS = [
     "address": "虎林街132巷35號(永春捷運站2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-406",
@@ -14440,7 +15008,8 @@ window.RESTAURANTS = [
     "address": "內湖路一段737巷8弄1號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-407",
@@ -14464,7 +15033,8 @@ window.RESTAURANTS = [
     "address": "光復南路565號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-408",
@@ -14488,7 +15058,8 @@ window.RESTAURANTS = [
     "address": "通化街171巷39號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-409",
@@ -14512,7 +15083,8 @@ window.RESTAURANTS = [
     "address": "大道路8號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-410",
@@ -14536,7 +15108,8 @@ window.RESTAURANTS = [
     "address": "市民大道八段619號(南港展覽館5號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 10,
-    "deliveryMinLabel": "滿 10 個"
+    "deliveryMinLabel": "滿 10 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-411",
@@ -14560,7 +15133,8 @@ window.RESTAURANTS = [
     "address": "市民大道八段619號(南港展覽館5號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000"
+    "deliveryMinLabel": "滿 $1000",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-412",
@@ -14585,7 +15159,8 @@ window.RESTAURANTS = [
     "address": "撫順街39-2號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 250,
-    "deliveryMinLabel": "滿 $250"
+    "deliveryMinLabel": "滿 $250",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-413",
@@ -14609,7 +15184,8 @@ window.RESTAURANTS = [
     "address": "安和路一段78巷35號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-414",
@@ -14633,7 +15209,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段1巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-415",
@@ -14656,7 +15233,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段212巷13弄8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-416",
@@ -14678,7 +15256,8 @@ window.RESTAURANTS = [
     "address": "光復南路473巷11號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-417",
@@ -14702,7 +15281,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段303號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-418",
@@ -14725,7 +15305,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段295號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-419",
@@ -14749,7 +15330,8 @@ window.RESTAURANTS = [
     "address": "和平東路393號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-420",
@@ -14773,7 +15355,8 @@ window.RESTAURANTS = [
     "address": "松山路445號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-421",
@@ -14795,7 +15378,8 @@ window.RESTAURANTS = [
     "address": "松山路441號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-422",
@@ -14818,7 +15402,8 @@ window.RESTAURANTS = [
     "address": "松山路500號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-423",
@@ -14844,7 +15429,8 @@ window.RESTAURANTS = [
     "address": "臨沂街33巷22號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-425",
@@ -14868,7 +15454,8 @@ window.RESTAURANTS = [
     "address": "重慶南路三段83號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-426",
@@ -14892,7 +15479,8 @@ window.RESTAURANTS = [
     "address": "金山南路一段134號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-427",
@@ -14916,7 +15504,8 @@ window.RESTAURANTS = [
     "address": "峨嵋街122號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-428",
@@ -14940,7 +15529,8 @@ window.RESTAURANTS = [
     "address": "昆明街278號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-429",
@@ -14963,7 +15553,8 @@ window.RESTAURANTS = [
     "address": "公館路121號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-430",
@@ -14987,7 +15578,8 @@ window.RESTAURANTS = [
     "address": "民權東路六段99號B2",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-431",
@@ -15011,7 +15603,8 @@ window.RESTAURANTS = [
     "address": "三重路14號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-432",
@@ -15035,7 +15628,8 @@ window.RESTAURANTS = [
     "address": "興華路114巷1弄1號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-433",
@@ -15059,7 +15653,8 @@ window.RESTAURANTS = [
     "address": "木新路三段381號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-434",
@@ -15082,7 +15677,8 @@ window.RESTAURANTS = [
     "address": "羅斯福路六段300號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-435",
@@ -15106,7 +15702,8 @@ window.RESTAURANTS = [
     "address": "尊賢街242巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-437",
@@ -15130,7 +15727,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段72巷6號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-453",
@@ -15154,7 +15752,8 @@ window.RESTAURANTS = [
     "address": "保安街68號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-454",
@@ -15178,7 +15777,8 @@ window.RESTAURANTS = [
     "address": "大龍街35號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-455",
@@ -15202,7 +15802,8 @@ window.RESTAURANTS = [
     "address": "木柵路二段15號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-456",
@@ -15226,7 +15827,8 @@ window.RESTAURANTS = [
     "address": "小東街28號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-457",
@@ -15250,7 +15852,8 @@ window.RESTAURANTS = [
     "address": "麗水街6-1號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-458",
@@ -15274,7 +15877,8 @@ window.RESTAURANTS = [
     "address": "逸仙路50巷8號、10號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-459",
@@ -15300,7 +15904,8 @@ window.RESTAURANTS = [
     "address": "永吉路200巷39號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 600,
-    "deliveryMinLabel": "滿 $600 免運"
+    "deliveryMinLabel": "滿 $600 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-460",
@@ -15324,7 +15929,8 @@ window.RESTAURANTS = [
     "address": "安東街52號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-461",
@@ -15347,7 +15953,8 @@ window.RESTAURANTS = [
     "address": "杭州南路二段73號1",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 4,
-    "deliveryMinLabel": "滿 4 個"
+    "deliveryMinLabel": "滿 4 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-462",
@@ -15371,7 +15978,8 @@ window.RESTAURANTS = [
     "address": "美食街2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-465",
@@ -15395,7 +16003,8 @@ window.RESTAURANTS = [
     "address": "南港路一段137巷1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-466",
@@ -15419,7 +16028,8 @@ window.RESTAURANTS = [
     "address": "長春路406號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-467",
@@ -15442,7 +16052,8 @@ window.RESTAURANTS = [
     "address": "吳興街16號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-468",
@@ -15466,7 +16077,8 @@ window.RESTAURANTS = [
     "address": "石牌路一段36號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-469",
@@ -15490,7 +16102,8 @@ window.RESTAURANTS = [
     "address": "中正路209號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-470",
@@ -15514,7 +16127,8 @@ window.RESTAURANTS = [
     "address": "延吉街166號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-471",
@@ -15538,7 +16152,8 @@ window.RESTAURANTS = [
     "address": "永吉路278巷60號之3",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-472",
@@ -15562,7 +16177,8 @@ window.RESTAURANTS = [
     "address": "德行東路127號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-473",
@@ -15587,7 +16203,8 @@ window.RESTAURANTS = [
     "address": "大安路一段75巷9號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-474",
@@ -15612,7 +16229,8 @@ window.RESTAURANTS = [
     "address": "復興南路一段107巷13號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-475",
@@ -15638,7 +16256,8 @@ window.RESTAURANTS = [
     "address": "永康街37巷12號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-476",
@@ -15662,7 +16281,8 @@ window.RESTAURANTS = [
     "address": "松江路437號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
-    "deliveryMinLabel": "滿 $2000 免運"
+    "deliveryMinLabel": "滿 $2000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-477",
@@ -15686,7 +16306,8 @@ window.RESTAURANTS = [
     "address": "大安路一段31巷31號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-478",
@@ -15710,7 +16331,8 @@ window.RESTAURANTS = [
     "address": "民權東路二段71巷35號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-479",
@@ -15733,7 +16355,8 @@ window.RESTAURANTS = [
     "address": "五常街53巷33號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-480",
@@ -15757,7 +16380,8 @@ window.RESTAURANTS = [
     "address": "遼寧街4號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-481",
@@ -15781,7 +16405,8 @@ window.RESTAURANTS = [
     "address": "汀洲路二段97號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-482",
@@ -15805,7 +16430,8 @@ window.RESTAURANTS = [
     "address": "瑞安街180巷1號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-483",
@@ -15830,7 +16456,8 @@ window.RESTAURANTS = [
     "address": "南港路三段70號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-484",
@@ -15854,7 +16481,8 @@ window.RESTAURANTS = [
     "address": "和平東路三段391巷7弄9號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-485",
@@ -15878,7 +16506,8 @@ window.RESTAURANTS = [
     "address": "基隆路一段24號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
-    "deliveryMinLabel": "滿 5 個"
+    "deliveryMinLabel": "滿 5 個",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-486",
@@ -15903,7 +16532,8 @@ window.RESTAURANTS = [
     "address": "北安路595巷2弄1號1",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
-    "deliveryMinLabel": "滿 $2000 免運"
+    "deliveryMinLabel": "滿 $2000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-487",
@@ -15927,7 +16557,8 @@ window.RESTAURANTS = [
     "address": "研究院路二段33號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-488",
@@ -15951,7 +16582,8 @@ window.RESTAURANTS = [
     "address": "松江路235巷19號1",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
-    "deliveryMinLabel": "滿 $1000"
+    "deliveryMinLabel": "滿 $1000",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-489",
@@ -15975,7 +16607,8 @@ window.RESTAURANTS = [
     "address": "林森北路353巷8號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-490",
@@ -15999,7 +16632,8 @@ window.RESTAURANTS = [
     "address": "瑞安街116號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-491",
@@ -16023,7 +16657,8 @@ window.RESTAURANTS = [
     "address": "長安東路二段39號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-492",
@@ -16048,7 +16683,8 @@ window.RESTAURANTS = [
     "address": "八德路三段122號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-493",
@@ -16072,7 +16708,8 @@ window.RESTAURANTS = [
     "address": "八德路三段158巷20弄30號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-494",
@@ -16096,7 +16733,8 @@ window.RESTAURANTS = [
     "address": "龍江路209巷2號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-495",
@@ -16121,7 +16759,8 @@ window.RESTAURANTS = [
     "address": "仁愛路四段345巷2弄11號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 3000,
-    "deliveryMinLabel": "滿 $3000 免運"
+    "deliveryMinLabel": "滿 $3000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-501",
@@ -16145,7 +16784,8 @@ window.RESTAURANTS = [
     "address": "錦州街325號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-502",
@@ -16169,7 +16809,8 @@ window.RESTAURANTS = [
     "address": "錦州街258號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-503",
@@ -16193,7 +16834,8 @@ window.RESTAURANTS = [
     "address": "吉林路224號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-504",
@@ -16219,7 +16861,8 @@ window.RESTAURANTS = [
     "address": "安和路一段95號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 200,
-    "deliveryMinLabel": "滿 $200"
+    "deliveryMinLabel": "滿 $200",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-505",
@@ -16243,7 +16886,8 @@ window.RESTAURANTS = [
     "address": "瑞光路258巷37號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2380,
-    "deliveryMinLabel": "滿 $2380 免運"
+    "deliveryMinLabel": "滿 $2380 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-511",
@@ -16268,7 +16912,8 @@ window.RESTAURANTS = [
     "address": "中山北路六段736號之2",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500 免運"
+    "deliveryMinLabel": "滿 $500 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-512",
@@ -16293,7 +16938,8 @@ window.RESTAURANTS = [
     "address": "安東街50號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-513",
@@ -16318,7 +16964,8 @@ window.RESTAURANTS = [
     "address": "錦州街200號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1500,
-    "deliveryMinLabel": "滿 $1500 免運"
+    "deliveryMinLabel": "滿 $1500 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-514",
@@ -16343,7 +16990,8 @@ window.RESTAURANTS = [
     "address": "環山路二段48-1號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "scout-lead-515",
@@ -16369,7 +17017,8 @@ window.RESTAURANTS = [
     "address": "中山北路二段18號1",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
-    "deliveryMinLabel": "滿 $2000 免運"
+    "deliveryMinLabel": "滿 $2000 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-516",
@@ -16394,7 +17043,8 @@ window.RESTAURANTS = [
     "address": "仁愛路四段345巷4弄16號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 777,
-    "deliveryMinLabel": "滿 $777 免運"
+    "deliveryMinLabel": "滿 $777 免運",
+    "city": "台北市"
   },
   {
     "id": "scout-lead-517",
@@ -16419,7 +17069,8 @@ window.RESTAURANTS = [
     "address": "漢口街二段75之1號1",
     "deliveryMinType": null,
     "deliveryMinValue": null,
-    "deliveryMinLabel": null
+    "deliveryMinLabel": null,
+    "city": "台北市"
   },
   {
     "id": "nt-scout-lead-1",
@@ -16447,7 +17098,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://ukuko.com.tw/order/delivery",
     "lineUrl": "https://line.me/R/ti/p/@ukuko",
     "phone": "02-2257-6445",
-    "address": "文化路一段188巷44號"
+    "address": "文化路一段188巷44號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-2",
@@ -16473,7 +17125,8 @@ window.RESTAURANTS = [
     "source": "startinghouse.oddle.me",
     "orderUrl": "https://startinghouse.oddle.me/zh_TW/stores",
     "phone": "02-2255-0522",
-    "address": "四維路170號"
+    "address": "四維路170號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-3",
@@ -16500,7 +17153,8 @@ window.RESTAURANTS = [
     "source": "ya-lao.com",
     "orderUrl": "https://www.ya-lao.com/",
     "phone": "02-2926-8865",
-    "address": "文化路48號"
+    "address": "文化路48號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-4",
@@ -16526,7 +17180,8 @@ window.RESTAURANTS = [
     "source": "Ocard theproteinbox/QgaZAK",
     "orderUrl": "https://order.ocard.co/theproteinbox/QgaZAK",
     "phone": "02-8245-9221",
-    "address": "泰和街14號"
+    "address": "泰和街14號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-5",
@@ -16553,7 +17208,8 @@ window.RESTAURANTS = [
     "source": "LINE OA; imenu",
     "orderUrl": "https://page.line.me/914jnxnn",
     "lineUrl": "https://page.line.me/914jnxnn",
-    "address": "建中街32巷10號"
+    "address": "建中街32巷10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-6",
@@ -16579,7 +17235,8 @@ window.RESTAURANTS = [
     "source": "tntsteakhouse.oddle.me",
     "orderUrl": "https://tntsteakhouse.oddle.me/zh_TW/stores",
     "phone": "02-2941-7102",
-    "address": "興南路二段50號"
+    "address": "興南路二段50號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-8",
@@ -16605,7 +17262,8 @@ window.RESTAURANTS = [
     "source": "weilipizza.oddle.me",
     "orderUrl": "https://weilipizza.oddle.me/zh_TW",
     "phone": "02-2982-2989",
-    "address": "重陽路一段113巷1弄35號"
+    "address": "重陽路一段113巷1弄35號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-9",
@@ -16632,7 +17290,8 @@ window.RESTAURANTS = [
     "source": "joyvegerestaurant.oddle.me",
     "orderUrl": "https://joyvegerestaurant.oddle.me/zh_TW",
     "phone": "02-8693-1553",
-    "address": "湖前街117號"
+    "address": "湖前街117號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-10",
@@ -16658,7 +17317,8 @@ window.RESTAURANTS = [
     "source": "關山珍享官網",
     "orderUrl": "https://www.xn--wtq522abrt2t3a.tw/contact-us.html",
     "phone": "02-2928-9999",
-    "address": "永和中正路273號"
+    "address": "永和中正路273號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-11",
@@ -16683,7 +17343,8 @@ window.RESTAURANTS = [
     "evidence": "268web 公用外送頁：**3 個以上可外送**；跨區／車程15分以上電洽",
     "source": "268web Part=220008",
     "phone": "2962-9209",
-    "address": "板新路237號"
+    "address": "板新路237號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-12",
@@ -16710,7 +17371,8 @@ window.RESTAURANTS = [
     "source": "hong-chu.com.tw",
     "orderUrl": "http://hong-chu.com.tw/about.html",
     "phone": "02-8258-8159",
-    "address": "龍泉街106號"
+    "address": "龍泉街106號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-13",
@@ -16737,7 +17399,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.pengyuan.com.tw/news_detail/51",
     "lineUrl": "https://lin.ee/eY5tFLD",
     "phone": "02-2250-7568",
-    "address": "雙十路二段239號4"
+    "address": "雙十路二段239號4",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-14",
@@ -16763,7 +17426,8 @@ window.RESTAURANTS = [
     "source": "iCHEF jCezc8Av",
     "orderUrl": "https://shop.ichefpos.com/store/jCezc8Av/ordering",
     "phone": "02-2946-5879",
-    "address": "安平路134巷1弄1號"
+    "address": "安平路134巷1弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-15",
@@ -16789,7 +17453,8 @@ window.RESTAURANTS = [
     "source": "iCHEF G5pe_JNN",
     "orderUrl": "https://shop.ichefpos.com/store/G5pe_JNN/ordering",
     "phone": "02-2990-5806",
-    "address": "中和街155巷20號"
+    "address": "中和街155巷20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-16",
@@ -16815,7 +17480,8 @@ window.RESTAURANTS = [
     "source": "iCHEF LFJdgAzl",
     "orderUrl": "https://shop.ichefpos.com/store/LFJdgAzl/ordering",
     "phone": "02-2277-1697",
-    "address": "復興路一段5號"
+    "address": "復興路一段5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-17",
@@ -16841,7 +17507,8 @@ window.RESTAURANTS = [
     "source": "iCHEF RNuCrYSi",
     "orderUrl": "https://shop.ichefpos.com/store/RNuCrYSi/ordering",
     "phone": "02-2927-4339",
-    "address": "秀朗路一段11號"
+    "address": "秀朗路一段11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-20",
@@ -16869,7 +17536,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://page.line.me/gzy5506t",
     "lineUrl": "https://page.line.me/gzy5506t",
     "phone": "02-2962-9057",
-    "address": "三民路二段9號(268"
+    "address": "三民路二段9號(268",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-21",
@@ -16893,7 +17561,8 @@ window.RESTAURANTS = [
     "evidence": "店家自營外送：指定永和商圈（比漾／頂溪／樂華／永安市場／四號公園／永和國小一帶）**滿 5 個**；中和部分／景安／南勢角 **滿 10 個**；遠距需前一日預訂",
     "source": "店家 PIXNET 訂餐文 2026-04",
     "phone": "02-2922-2612",
-    "address": "仁愛路30號"
+    "address": "仁愛路30號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-22",
@@ -16919,7 +17588,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明自營外送：**中和區滿 NT$500**；**跨區滿 NT$1,500**（範圍請電洽）",
     "source": "tenjo.tw 食記",
     "phone": "02-2228-1078",
-    "address": "員山路403號"
+    "address": "員山路403號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-23",
@@ -16944,7 +17614,8 @@ window.RESTAURANTS = [
     "evidence": "268web Part：**訂購 3 個以上提供外送**；外送專線公開",
     "source": "268web Part=235005",
     "phone": "02-2222-7755",
-    "address": "建八路122號"
+    "address": "建八路122號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-24",
@@ -16969,7 +17640,8 @@ window.RESTAURANTS = [
     "evidence": "268web Part 解鎖：**4 個以上外送**；跨區／車程15分以上電洽金額（Batch 1 near-miss → 本批收）",
     "source": "268web Part=235006",
     "phone": "02-2953-5611",
-    "address": "民德路3號"
+    "address": "民德路3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-26",
@@ -16995,7 +17667,8 @@ window.RESTAURANTS = [
     "source": null,
     "orderUrl": null,
     "phone": "02-2228-1363",
-    "address": "新生街201號"
+    "address": "新生街201號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-27",
@@ -17021,7 +17694,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**新莊區訂購 10 個以上外送**；外送專線公開",
     "source": "268web／ez-show Part=242004",
     "phone": "02-8521-7430",
-    "address": "化成路371巷1號"
+    "address": "化成路371巷1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-28",
@@ -17046,7 +17720,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**3 個以上外送**；滿10另有優惠敘述",
     "source": "268web Part=247001",
     "phone": "02-2289-6128",
-    "address": "長安街252號"
+    "address": "長安街252號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-31",
@@ -17072,7 +17747,8 @@ window.RESTAURANTS = [
     "source": "hengigi.oddle.me",
     "orderUrl": "https://hengigi.oddle.me/zh_TW/stores",
     "phone": "02-2901-0899",
-    "address": "中正路889-2號"
+    "address": "中正路889-2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-32",
@@ -17101,7 +17777,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/WdzVUhC",
     "lineUrl": "https://lin.ee/WdzVUhC",
     "phone": "02-8985-7747",
-    "address": "自強路二段88號"
+    "address": "自強路二段88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-33",
@@ -17128,7 +17805,8 @@ window.RESTAURANTS = [
     "evidence": "店家公告：**本店滿 NT$600 即可外送**；電話＋LINE 訂餐",
     "source": "foodyas 店家公告 2026",
     "phone": "02-2282-2757",
-    "address": "信義路325號1"
+    "address": "信義路325號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-34",
@@ -17154,7 +17832,8 @@ window.RESTAURANTS = [
     "source": "Ocard wJdZpm",
     "orderUrl": "https://order.ocard.co/theproteinbox/wJdZpm",
     "phone": "02-2984-9678",
-    "address": "重陽路一段59號"
+    "address": "重陽路一段59號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-36",
@@ -17179,7 +17858,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明：**三重／蘆洲滿 5 個可外送**（「如有更改請依照店家為主」）",
     "source": "mecocute.com",
     "phone": "02-2982-3558",
-    "address": "三和路四段22號"
+    "address": "三和路四段22號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-39",
@@ -17205,7 +17885,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**訂購 NT$300 以上附近可外送**；專線公開",
     "source": "268web Part=238002",
     "phone": "02-2681-0469",
-    "address": "保安街一段241號"
+    "address": "保安街一段241號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-40",
@@ -17230,7 +17911,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**樹林區訂購 5 個以上外送**",
     "source": "268web Part=238003",
     "phone": "02-8686-2012",
-    "address": "忠孝街17號"
+    "address": "忠孝街17號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-41",
@@ -17256,7 +17938,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**5 個或 300 元以上外送**；跨區／車程15分以上另洽",
     "source": "268web Part=236005",
     "phone": "0976-164085",
-    "address": "延吉街286號"
+    "address": "延吉街286號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-42",
@@ -17281,7 +17964,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**3 個以上外送**（請提前 1 小時）；前一日訂購10個以上另有優惠",
     "source": "268web Part=236006",
     "phone": "02-8262-1455",
-    "address": "裕民路177號"
+    "address": "裕民路177號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-43",
@@ -17307,7 +17991,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**5 個以上外送**",
     "source": "268web Part=236007",
     "phone": "02-2269-7590",
-    "address": "中央路三段248-3號"
+    "address": "中央路三段248-3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-44",
@@ -17332,7 +18017,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**訂購 10 個以上外送**（Batch 1 deferred → 本批解鎖）",
     "source": "268web Part=236008",
     "phone": "02-2265-3771",
-    "address": "裕民路263之1號"
+    "address": "裕民路263之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-45",
@@ -17357,7 +18043,8 @@ window.RESTAURANTS = [
     "evidence": "新北市環保局不鏽鋼餐盒外送名單：**最低外送數量 5～10**；數量／金額電洽",
     "source": "EPD NTPC 不鏽鋼餐盒外送名單",
     "phone": "02-2270-6393",
-    "address": "金城路三段66號"
+    "address": "金城路三段66號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-46",
@@ -17383,7 +18070,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低 5 個**；備註**滿 NT$400 外送**",
     "source": "EPD NTPC",
     "phone": "02-8261-2680",
-    "address": "中央路二段264號"
+    "address": "中央路二段264號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-47",
@@ -17407,7 +18095,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 6**；小數量歡迎當天詢問",
     "source": "EPD NTPC",
     "phone": "02-2675-6688",
-    "address": "博愛街15號"
+    "address": "博愛街15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-48",
@@ -17433,7 +18122,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5 個**；電話訂餐／自營外送通道",
     "source": "EPD NTPC；dinbendon shop=507343",
     "phone": "02-2929-0031",
-    "address": "中正路676號"
+    "address": "中正路676號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-49",
@@ -17459,7 +18149,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5 個**",
     "source": "EPD NTPC",
     "phone": "02-2929-0828",
-    "address": "文化路90巷3弄1號"
+    "address": "文化路90巷3弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-50",
@@ -17483,7 +18174,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 20**；服務中和／永和；提前訂購",
     "source": "EPD NTPC",
     "phone": "02-8921-0862",
-    "address": "國中街104巷12弄4號1"
+    "address": "國中街104巷12弄4號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-51",
@@ -17507,7 +18199,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10**",
     "source": "EPD NTPC",
     "phone": "02-2620-4579",
-    "address": "中山北路一段106號"
+    "address": "中山北路一段106號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-52",
@@ -17531,7 +18224,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5～10**；視距離電洽",
     "source": "EPD NTPC",
     "phone": "02-2622-9162",
-    "address": "水源街二段92巷5弄6號"
+    "address": "水源街二段92巷5弄6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-53",
@@ -17556,7 +18250,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 6**",
     "source": "EPD NTPC",
     "phone": "02-2629-0063",
-    "address": "北新路182巷41弄6號"
+    "address": "北新路182巷41弄6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-54",
@@ -17580,7 +18275,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：備註**林口地區滿 NT$350 即可外送**；最低數量欄 4",
     "source": "EPD NTPC",
     "phone": "02-2601-6731",
-    "address": "中山路156號"
+    "address": "中山路156號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-55",
@@ -17605,7 +18301,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10**",
     "source": "EPD NTPC",
     "phone": "0983-011278",
-    "address": "大同路二段312巷7號"
+    "address": "大同路二段312巷7號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-56",
@@ -17630,7 +18327,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5 個**",
     "source": "EPD NTPC",
     "phone": "02-8226-8223",
-    "address": "員山路155號"
+    "address": "員山路155號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-57",
@@ -17655,7 +18353,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10**",
     "source": "EPD NTPC",
     "phone": "02-8221-5977",
-    "address": "連城路326號"
+    "address": "連城路326號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-58",
@@ -17680,7 +18379,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10**；需兩天前訂購",
     "source": "EPD NTPC",
     "phone": "02-2288-3998",
-    "address": "復興路131號"
+    "address": "復興路131號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-59",
@@ -17705,7 +18405,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低 10**；備註**兩公里內 4 個以上即外送**",
     "source": "EPD NTPC",
     "phone": "02-2901-3141",
-    "address": "中正路514巷81號"
+    "address": "中正路514巷81號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-60",
@@ -17731,7 +18432,8 @@ window.RESTAURANTS = [
     "evidence": "食記載「聽說**滿 5 個**便可外送，有需求可問店家」；電話公開",
     "source": "irenelife 2021",
     "phone": "02-8985-3737",
-    "address": "正義北路358號"
+    "address": "正義北路358號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-61",
@@ -17756,7 +18458,8 @@ window.RESTAURANTS = [
     "source": "Ocard QR12Lw；theproteinbox.com.tw/stores",
     "orderUrl": "https://order.ocard.co/theproteinbox/QR12Lw",
     "phone": "02-2233-1031",
-    "address": "得和路233之2號1"
+    "address": "得和路233之2號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-62",
@@ -17781,7 +18484,8 @@ window.RESTAURANTS = [
     "source": "Ocard mGe8ow；官網 stores",
     "orderUrl": "https://order.ocard.co/theproteinbox/mGe8ow",
     "phone": "02-8262-7705",
-    "address": "裕民路22號"
+    "address": "裕民路22號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-63",
@@ -17806,7 +18510,8 @@ window.RESTAURANTS = [
     "source": "Ocard mM133m；官網 stores",
     "orderUrl": "https://order.ocard.co/theproteinbox/mM133m",
     "phone": "02-2808-5557",
-    "address": "民族路88號"
+    "address": "民族路88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-64",
@@ -17833,7 +18538,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://page.line.me/182cceas",
     "lineUrl": "https://page.line.me/182cceas",
     "phone": "02-2263-6869",
-    "address": "學成路59號"
+    "address": "學成路59號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-65",
@@ -17860,7 +18566,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=534046",
     "orderUrl": "https://www.dinbendon.net/do/shop/534046",
     "phone": "02-2927-0199",
-    "address": "文化路91號"
+    "address": "文化路91號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-66",
@@ -17886,7 +18593,8 @@ window.RESTAURANTS = [
     "source": "dinbendon；easylife 鏡像",
     "orderUrl": "https://www.dinbendon.net/do/shop/162078",
     "phone": "02-2920-3363",
-    "address": "保平路43號"
+    "address": "保平路43號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-67",
@@ -17912,7 +18620,8 @@ window.RESTAURANTS = [
     "evidence": "2026-02 食記載明店家提供外送：**三份起**即可",
     "source": "mibaoma.tw 2026-02",
     "phone": "02-2949-1421",
-    "address": "興南路二段74號"
+    "address": "興南路二段74號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-68",
@@ -17937,7 +18646,8 @@ window.RESTAURANTS = [
     "source": "xingfubento.weebly；itwmap",
     "orderUrl": "https://xingfubento.weebly.com/",
     "phone": "02-8285-6018",
-    "address": "中山一路200號"
+    "address": "中山一路200號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-69",
@@ -17964,7 +18674,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://sylviepatisserie.oddle.me/zh_TW/stores",
     "lineUrl": "https://line.me/R/ti/p/@808julvh",
     "phone": "02-2928-8977",
-    "address": "中正路746號"
+    "address": "中正路746號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-71",
@@ -17989,7 +18700,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 不鏽鋼餐盒外送名單：**最低外送數量 50**；數量／金額電洽",
     "source": "EPD NTPC",
     "phone": "02-2963-3168",
-    "address": "三民路二段206之2號"
+    "address": "三民路二段206之2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-72",
@@ -18014,7 +18726,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5～10**",
     "source": "EPD NTPC",
     "phone": "02-8994-2323",
-    "address": "中華路一段100號"
+    "address": "中華路一段100號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-73",
@@ -18039,7 +18752,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 30**；提前約 2～5 日",
     "source": "EPD NTPC",
     "phone": "02-2958-4580",
-    "address": "富山街20號"
+    "address": "富山街20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-74",
@@ -18063,7 +18777,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 20**；大數量須提前約 2～3 日",
     "source": "EPD NTPC",
     "phone": "02-2959-6608",
-    "address": "中山路一段109號"
+    "address": "中山路一段109號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-75",
@@ -18087,7 +18802,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5**；提前約 2 日",
     "source": "EPD NTPC",
     "phone": "02-8258-3457",
-    "address": "漢生西路50號"
+    "address": "漢生西路50號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-76",
@@ -18112,7 +18828,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10 個**",
     "source": "EPD NTPC",
     "phone": "02-2959-3393",
-    "address": "重慶路222號"
+    "address": "重慶路222號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-77",
@@ -18137,7 +18854,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10 個**；提前約 7 日（偏機關；民間電洽為準）",
     "source": "EPD NTPC",
     "phone": "02-2952-0449",
-    "address": "華興街68號"
+    "address": "華興街68號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-78",
@@ -18161,7 +18879,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10 個**（Batch 3 deferred → 本批收；市場攤位通道穩定性仍註記）",
     "source": "EPD NTPC",
     "phone": "0900-351638",
-    "address": "民族路29"
+    "address": "民族路29",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-79",
@@ -18186,7 +18905,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 2**；備註八里地區 2 個就送",
     "source": "EPD NTPC",
     "phone": "02-8630-3906",
-    "address": "中山路二段270號"
+    "address": "中山路二段270號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-80",
@@ -18212,7 +18932,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5～10**；視距離電洽",
     "source": "EPD NTPC",
     "phone": "02-2218-0271",
-    "address": "民權路88-1號"
+    "address": "民權路88-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-81",
@@ -18237,7 +18958,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 3**；可送石碇區",
     "source": "EPD NTPC",
     "phone": "02-2664-8367",
-    "address": "埔新街103號"
+    "address": "埔新街103號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-82",
@@ -18262,7 +18984,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5**；提前約 3～5 日",
     "source": "EPD NTPC",
     "phone": "02-8672-3777",
-    "address": "大德路220號"
+    "address": "大德路220號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-84",
@@ -18288,7 +19011,8 @@ window.RESTAURANTS = [
     "source": "EPD NTPC；iCHEF",
     "orderUrl": "https://shop.ichefpos.com/store/HZKsrrrX/ordering",
     "phone": "0965-353-557",
-    "address": "四川路二段99-1號"
+    "address": "四川路二段99-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-85",
@@ -18313,7 +19037,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 7**；備註**單筆滿 NT$500 即可外送**",
     "source": "EPD NTPC",
     "phone": "02-2664-9365",
-    "address": "文化街102號1"
+    "address": "文化街102號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-87",
@@ -18339,7 +19064,8 @@ window.RESTAURANTS = [
     "evidence": "LINE 訂餐自營外送：**3 km 內滿 NT$500 免運**；店內價（對照平台更省）",
     "source": "marsfood.tw 2026-09",
     "phone": "02-2982-0017",
-    "address": "大智街124號1"
+    "address": "大智街124號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-88",
@@ -18365,7 +19091,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=582414；iCHEF；mecocute",
     "orderUrl": "https://shop.ichefpos.com/store/aHh15QE4/ordering",
     "phone": "02-2902-0500",
-    "address": "新樹路247號"
+    "address": "新樹路247號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-89",
@@ -18391,7 +19118,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明：**附近地區滿 5 個**可外送（視忙碌；外地區大量可洽）",
     "source": "mecocute.com/mingjiang",
     "phone": "02-2986-3030",
-    "address": "大智街167號"
+    "address": "大智街167號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-91",
@@ -18418,7 +19146,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://d.ocard.co/theproteinbox/mOMzJw",
     "lineUrl": "https://lin.ee/ZZ3vQ9I",
     "phone": "02-8966-6655",
-    "address": "南雅南路二段144巷10號"
+    "address": "南雅南路二段144巷10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-97",
@@ -18444,7 +19173,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://d.ocard.co/theproteinbox/mj87Lw",
     "lineUrl": "https://lin.ee/a5lz8eD",
     "phone": "02-2579-0669",
-    "address": "中和街171號1"
+    "address": "中和街171號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-98",
@@ -18470,7 +19200,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://d.ocard.co/theproteinbox/w7k9ew",
     "lineUrl": "https://lin.ee/ct0WzXe",
     "phone": "02-8286-3312",
-    "address": "民族路335號"
+    "address": "民族路335號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-99",
@@ -18496,7 +19227,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://d.ocard.co/theproteinbox/Qabpjm",
     "lineUrl": "https://lin.ee/zMvhYbC",
     "phone": "02-8295-2999",
-    "address": "工商路75號1"
+    "address": "工商路75號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-101",
@@ -18520,7 +19252,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 不鏽鋼餐盒外送名單：**最低外送數量 5～10**；視距離電洽",
     "source": "EPD NTPC",
     "phone": "02-8677-4282",
-    "address": "國慶街54號"
+    "address": "國慶街54號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-102",
@@ -18544,7 +19277,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 20**；提前約 2～3 日",
     "source": "EPD NTPC",
     "phone": "02-2679-5230",
-    "address": "光明街92巷6號"
+    "address": "光明街92巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-103",
@@ -18568,7 +19302,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低 3**；備註工業區 **10 個以上**、九份 **15 或 20 個以上**",
     "source": "EPD NTPC",
     "phone": "02-2497-7971",
-    "address": "民族街4號"
+    "address": "民族街4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-104",
@@ -18592,7 +19327,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低 4～9**；週邊**滿 NT$300**、較遠 **700**",
     "source": "EPD NTPC",
     "phone": "0939-771398",
-    "address": "明燈路三段37-1號"
+    "address": "明燈路三段37-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-105",
@@ -18617,7 +19353,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5**；提前約 2～3 日",
     "source": "EPD NTPC",
     "phone": "02-2498-1333",
-    "address": "中山路283號"
+    "address": "中山路283號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-106",
@@ -18641,7 +19378,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：最低外送數量欄 **0**（無固定個數門檻）；最低約 90 元敘述",
     "source": "EPD NTPC",
     "phone": "0958-726583",
-    "address": "中山路一段21號"
+    "address": "中山路一段21號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-107",
@@ -18665,7 +19403,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 5**；提前約 2 日",
     "source": "EPD NTPC",
     "phone": "02-2638-2518",
-    "address": "中央路5號"
+    "address": "中央路5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-113",
@@ -18690,7 +19429,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 不鏽鋼餐盒外送名單：**最低外送數量 10**；全素需提前訂購",
     "source": "EPD NTPC",
     "phone": "02-2665-8112",
-    "address": "北宜路八段82號"
+    "address": "北宜路八段82號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-114",
@@ -18715,7 +19455,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 10**",
     "source": "EPD NTPC",
     "phone": "02-2490-3989",
-    "address": "仁愛路48號"
+    "address": "仁愛路48號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-115",
@@ -18740,7 +19481,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：最低外送數量欄 **0**；備註萬里區公所附近**無數量限制**可送",
     "source": "EPD NTPC",
     "phone": "02-2492-2128",
-    "address": "瑪鋉路63號"
+    "address": "瑪鋉路63號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-116",
@@ -18765,7 +19507,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 4**",
     "source": "EPD NTPC",
     "phone": "02-2492-2689",
-    "address": "瑪鋉路33-2號"
+    "address": "瑪鋉路33-2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-117",
@@ -18791,7 +19534,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：最低外送數量欄 **0**（無固定個數門檻）",
     "source": "EPD NTPC",
     "phone": "02-2493-4593",
-    "address": "中華路121號"
+    "address": "中華路121號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-118",
@@ -18816,7 +19560,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 20**；近距 3–4 個亦可洽",
     "source": "EPD NTPC",
     "phone": "02-2493-0188",
-    "address": "太平路50號"
+    "address": "太平路50號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-119",
@@ -18841,7 +19586,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 1**；奶製品無提供；蛋類需提前講",
     "source": "EPD NTPC",
     "phone": "0952-812996",
-    "address": "菁桐街85號"
+    "address": "菁桐街85號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-120",
@@ -18866,7 +19612,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 1**",
     "source": "EPD NTPC",
     "phone": "02-2666-9270",
-    "address": "新烏路二段405號"
+    "address": "新烏路二段405號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-121",
@@ -18892,7 +19639,8 @@ window.RESTAURANTS = [
     "evidence": "EPD 名單：**最低外送數量 15**；配菜電洽；全素提前詢問",
     "source": "EPD NTPC",
     "phone": "0939-179877",
-    "address": "石碇西街3號"
+    "address": "石碇西街3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-122",
@@ -18918,7 +19666,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明店家電話預訂＋外送：**一次要五個以上**",
     "source": "pekoblog.tw/fuji 2024-01",
     "phone": "02-2251-3090",
-    "address": "雙十路二段47巷8號"
+    "address": "雙十路二段47巷8號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-123",
@@ -18943,7 +19692,8 @@ window.RESTAURANTS = [
     "evidence": "官網訂餐須知：配送方案明示**板橋區免運費**；週一至週五晚餐宅配（自營物流）",
     "source": "newjiayao／fuyao.easy.co",
     "orderUrl": "https://fuyao.easy.co/pages/訂餐須知",
-    "phone": "02-8252-7336"
+    "phone": "02-8252-7336",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-124",
@@ -18969,7 +19719,8 @@ window.RESTAURANTS = [
     "evidence": "268web Part 解鎖：**請於 10:30 前訂購 5 個以上外送**（Batch 3–6 near-miss → Big5 頁面正文解出）",
     "source": "268web Part=244001",
     "phone": "02-2606-8119",
-    "address": "文化三路一段461號"
+    "address": "文化三路一段461號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-125",
@@ -18995,7 +19746,8 @@ window.RESTAURANTS = [
     "evidence": "268web Part 解鎖：**訂購滿 300 元提供外送服務**；請於 11:00 前訂購（Batch 3–6 near-miss → Big5 正文解出；「滿10折5」為折扣句另列）",
     "source": "268web Part=221004",
     "phone": "02-2692-3699",
-    "address": "明峰街183號"
+    "address": "明峰街183號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-126",
@@ -19021,7 +19773,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**請於 10:30 前訂購 500 元以上外送**（Batch 6 near-miss → 本批解鎖）",
     "source": "268web Part=220010",
     "phone": "0958-751-323",
-    "address": "中正路280號"
+    "address": "中正路280號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-127",
@@ -19047,7 +19800,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**10:30 前訂購 1000 元可外送**；外送專線公開",
     "source": "268web Part=220009；qpjj 食記交叉",
     "phone": "02-2951-1067",
-    "address": "三民路二段11號"
+    "address": "三民路二段11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-128",
@@ -19072,7 +19826,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**提前訂購確定數量都能外送**；**金額不足 300 元酌收運費 30 元**",
     "source": "268web Part=241003",
     "phone": "02-8512-3099",
-    "address": "五谷王北街58巷36號"
+    "address": "五谷王北街58巷36號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-129",
@@ -19097,7 +19852,8 @@ window.RESTAURANTS = [
     "evidence": "268web：汐止明峰／康寧／福德／中興／大同路周圍 **訂購 4 個以上外送**",
     "source": "268web Part=221005",
     "phone": "02-2692-5913",
-    "address": "中興路244號"
+    "address": "中興路244號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-130",
@@ -19125,7 +19881,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=366995；LINE 熱點電話交叉",
     "orderUrl": "https://www.dinbendon.net/do/shop/366995",
     "phone": "0936-236-987",
-    "address": "實踐路55號"
+    "address": "實踐路55號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-131",
@@ -19150,7 +19907,8 @@ window.RESTAURANTS = [
     "evidence": "DinBenDon：**滿四個可外送**（頁面 description／bootstrap 文案）",
     "source": "dinbendon shop=467806；footinder／愛玩記電話交叉",
     "phone": "02-8221-7979",
-    "address": "新生街203號"
+    "address": "新生街203號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-132",
@@ -19175,7 +19933,8 @@ window.RESTAURANTS = [
     "hours": "08:00–19:30（週一至週日）",
     "evidence": "268web：**訂購 300 元以上外送**；車程 15 分鐘以上請電洽外送金額",
     "source": "268web Part=220007",
-    "phone": "022683-0983"
+    "phone": "022683-0983",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-137",
@@ -19201,7 +19960,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=502196",
     "orderUrl": "https://www.dinbendon.net/do/shop/502196",
     "phone": "0975248958",
-    "address": "市板橋區貴興路12號"
+    "address": "市板橋區貴興路12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-138",
@@ -19227,7 +19987,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=194239",
     "orderUrl": "https://www.dinbendon.net/do/shop/194239",
     "phone": "8985-6750",
-    "address": "三重中華路66號"
+    "address": "三重中華路66號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-139",
@@ -19254,7 +20015,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=552891",
     "orderUrl": "https://www.dinbendon.net/do/shop/552891",
     "phone": "0958-168-865",
-    "address": "市中和區仁愛街82號"
+    "address": "市中和區仁愛街82號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-140",
@@ -19280,7 +20042,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=391173",
     "orderUrl": "https://www.dinbendon.net/do/shop/391173",
     "phone": "0222229800",
-    "address": "中和區連城路381-1號"
+    "address": "中和區連城路381-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-141",
@@ -19306,7 +20069,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=629308",
     "orderUrl": "https://www.dinbendon.net/do/shop/629308",
     "phone": "0979-161166",
-    "address": "市板橋區文化路一段188巷7弄13號"
+    "address": "市板橋區文化路一段188巷7弄13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-142",
@@ -19332,7 +20096,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=328277",
     "orderUrl": "https://www.dinbendon.net/do/shop/328277",
     "phone": "0968-950067",
-    "address": "市板橋區四川路一段377號"
+    "address": "市板橋區四川路一段377號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-143",
@@ -19358,7 +20123,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=596537",
     "orderUrl": "https://www.dinbendon.net/do/shop/596537",
     "phone": "0988-795163",
-    "address": "板橋區民權路202巷153弄1號"
+    "address": "板橋區民權路202巷153弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-144",
@@ -19384,7 +20150,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=605992",
     "orderUrl": "https://www.dinbendon.net/do/shop/605992",
     "phone": "02-82265656",
-    "address": "市中和區建一路168-2號1"
+    "address": "市中和區建一路168-2號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-145",
@@ -19410,7 +20177,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=620534",
     "orderUrl": "https://www.dinbendon.net/do/shop/620534",
     "phone": "0222456369",
-    "address": "市中和區圓通路417號"
+    "address": "市中和區圓通路417號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-146",
@@ -19436,7 +20204,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=196281",
     "orderUrl": "https://www.dinbendon.net/do/shop/196281",
     "phone": "8285-0229",
-    "address": "市蘆洲區民族路164號"
+    "address": "市蘆洲區民族路164號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-147",
@@ -19463,7 +20232,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=618317",
     "orderUrl": "https://www.dinbendon.net/do/shop/618317",
     "phone": "0978-832-023",
-    "address": "市中和區建八路12號"
+    "address": "市中和區建八路12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-148",
@@ -19490,7 +20260,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=618316",
     "orderUrl": "https://www.dinbendon.net/do/shop/618316",
     "phone": "02-2228-8777",
-    "address": "市中和區連城路262號1"
+    "address": "市中和區連城路262號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-149",
@@ -19517,7 +20288,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=618305",
     "orderUrl": "https://www.dinbendon.net/do/shop/618305",
     "phone": "02-2225-5288",
-    "address": "中和區連城路347巷4弄13號"
+    "address": "中和區連城路347巷4弄13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-150",
@@ -19543,7 +20315,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=611478",
     "orderUrl": "https://www.dinbendon.net/do/shop/611478",
     "phone": "0925717322",
-    "address": "市中和區中正路740號"
+    "address": "市中和區中正路740號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-151",
@@ -19569,7 +20342,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=643330",
     "orderUrl": "https://www.dinbendon.net/do/shop/643330",
     "phone": "022223-3663",
-    "address": "區中正里連城路347巷4弄15號"
+    "address": "區中正里連城路347巷4弄15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-153",
@@ -19595,7 +20369,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=547333",
     "orderUrl": "https://www.dinbendon.net/do/shop/547333",
     "phone": "02-8925-0130",
-    "address": "市永和區竹林路219號1"
+    "address": "市永和區竹林路219號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-154",
@@ -19621,7 +20396,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=544116",
     "orderUrl": "https://www.dinbendon.net/do/shop/544116",
     "phone": "02-2901-1460",
-    "address": "市新莊區建國路一段88號"
+    "address": "市新莊區建國路一段88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-155",
@@ -19647,7 +20423,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=319439",
     "orderUrl": "https://www.dinbendon.net/do/shop/319439",
     "phone": "0229086935",
-    "address": "市泰山區明志路三段194號"
+    "address": "市泰山區明志路三段194號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-156",
@@ -19673,7 +20450,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=569446",
     "orderUrl": "https://www.dinbendon.net/do/shop/569446",
     "phone": "0916970189",
-    "address": "市三重區光明路32巷42號"
+    "address": "市三重區光明路32巷42號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-157",
@@ -19700,7 +20478,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=635281",
     "orderUrl": "https://www.dinbendon.net/do/shop/635281",
     "phone": "2981-0285",
-    "address": "三重區中正北路203號"
+    "address": "三重區中正北路203號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-158",
@@ -19726,7 +20505,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=499529",
     "orderUrl": "https://www.dinbendon.net/do/shop/499529",
     "phone": "2995-0795",
-    "address": "重區五谷王南街46巷24號"
+    "address": "重區五谷王南街46巷24號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-159",
@@ -19753,7 +20533,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=466744",
     "orderUrl": "https://www.dinbendon.net/do/shop/466744",
     "phone": "022901-2586",
-    "address": "新莊區建國一路84號1"
+    "address": "新莊區建國一路84號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-160",
@@ -19778,7 +20559,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=420843",
     "orderUrl": "https://www.dinbendon.net/do/shop/420843",
     "phone": "028961-1892",
-    "address": "市板橋區國慶路169號"
+    "address": "市板橋區國慶路169號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-161",
@@ -19805,7 +20587,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=606494",
     "orderUrl": "https://www.dinbendon.net/do/shop/606494",
     "phone": "8969-7199",
-    "address": "板橋區民權路202巷13弄1號"
+    "address": "板橋區民權路202巷13弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-162",
@@ -19832,7 +20615,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=596588",
     "orderUrl": "https://www.dinbendon.net/do/shop/596588",
     "phone": "022961-8997",
-    "address": "市板橋區中山路二段102巷5號"
+    "address": "市板橋區中山路二段102巷5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-163",
@@ -19858,7 +20642,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=534043",
     "orderUrl": "https://www.dinbendon.net/do/shop/534043",
     "phone": "02-2226-1277",
-    "address": "市中和區員山路575號"
+    "address": "市中和區員山路575號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-164",
@@ -19883,7 +20668,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=590317",
     "orderUrl": "https://www.dinbendon.net/do/shop/590317",
     "phone": "2942-4211",
-    "address": "中和區仁愛路15號(另鏡像列仁愛街15號"
+    "address": "中和區仁愛路15號(另鏡像列仁愛街15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-165",
@@ -19911,7 +20697,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=147290",
     "orderUrl": "https://www.dinbendon.net/do/shop/147290",
     "phone": "0222452377",
-    "address": "市中和區連城路347巷2弄3號"
+    "address": "市中和區連城路347巷2弄3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-166",
@@ -19937,7 +20724,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=496253",
     "orderUrl": "https://www.dinbendon.net/do/shop/496253",
     "phone": "8668-5518",
-    "address": "市中和區和平街182號1"
+    "address": "市中和區和平街182號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-167",
@@ -19963,7 +20751,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=155273",
     "orderUrl": "https://www.dinbendon.net/do/shop/155273",
     "phone": "82214309",
-    "address": "市中和區連城路479號"
+    "address": "市中和區連城路479號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-168",
@@ -19989,7 +20778,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=556401",
     "orderUrl": "https://www.dinbendon.net/do/shop/556401",
     "phone": "028943-3773",
-    "address": "市中和區和平街92號"
+    "address": "市中和區和平街92號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-169",
@@ -20015,7 +20805,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=540722",
     "orderUrl": "https://www.dinbendon.net/do/shop/540722",
     "phone": "02-82282613",
-    "address": "市中和區中山路二段518號"
+    "address": "市中和區中山路二段518號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-171",
@@ -20041,7 +20832,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=127698",
     "orderUrl": "https://www.dinbendon.net/do/shop/127698",
     "phone": "02-2228-8775",
-    "address": "中和區連城路347巷4弄9號"
+    "address": "中和區連城路347巷4弄9號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-172",
@@ -20068,7 +20860,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=528535",
     "orderUrl": "https://www.dinbendon.net/do/shop/528535",
     "phone": "022246-0921",
-    "address": "中和區連城路167號"
+    "address": "中和區連城路167號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-173",
@@ -20094,7 +20887,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=559981",
     "orderUrl": "https://www.dinbendon.net/do/shop/559981",
     "phone": "02-3234-7997",
-    "address": "市中和區連城路239號"
+    "address": "市中和區連城路239號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-174",
@@ -20120,7 +20914,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=547436",
     "orderUrl": "https://www.dinbendon.net/do/shop/547436",
     "phone": "02-8227-3222",
-    "address": "市中和區中正路722號"
+    "address": "市中和區中正路722號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-175",
@@ -20147,7 +20942,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=417611",
     "orderUrl": "https://www.dinbendon.net/do/shop/417611",
     "phone": "02-2964-8145",
-    "address": "市板橋區仁愛路2號"
+    "address": "市板橋區仁愛路2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-176",
@@ -20173,7 +20969,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=414862",
     "orderUrl": "https://www.dinbendon.net/do/shop/414862",
     "phone": "022221-4690",
-    "address": "中和區新生街115-1號"
+    "address": "中和區新生街115-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-177",
@@ -20199,7 +20996,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=372013",
     "orderUrl": "https://www.dinbendon.net/do/shop/372013",
     "phone": "02-2222-0292",
-    "address": "市中和區連城路347巷2弄5號"
+    "address": "市中和區連城路347巷2弄5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-178",
@@ -20225,7 +21023,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=161255",
     "orderUrl": "https://www.dinbendon.net/do/shop/161255",
     "phone": "02-2282-3852",
-    "address": "市蘆洲區長安街97號"
+    "address": "市蘆洲區長安街97號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-179",
@@ -20250,7 +21049,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=503372",
     "orderUrl": "https://www.dinbendon.net/do/shop/503372",
     "phone": "02-2285-5675",
-    "address": "市蘆洲區九芎街13號"
+    "address": "市蘆洲區九芎街13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-180",
@@ -20275,7 +21075,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=334942",
     "orderUrl": "https://www.dinbendon.net/do/shop/334942",
     "phone": "02-8257-1576",
-    "address": "市板橋區四維路132號"
+    "address": "市板橋區四維路132號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-181",
@@ -20302,7 +21103,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=600470",
     "orderUrl": "https://www.dinbendon.net/do/shop/600470",
     "phone": "02-8228-1138",
-    "address": "市中和區民安街31號"
+    "address": "市中和區民安街31號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-182",
@@ -20328,7 +21130,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=546255",
     "orderUrl": "https://www.dinbendon.net/do/shop/546255",
     "phone": "0912-880-126",
-    "address": "市板橋區莊敬路173號"
+    "address": "市板橋區莊敬路173號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-183",
@@ -20354,7 +21157,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=649313",
     "orderUrl": "https://www.dinbendon.net/do/shop/649313",
     "phone": "02-2691-7071",
-    "address": "汐止區新台五路二段142號"
+    "address": "汐止區新台五路二段142號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-184",
@@ -20380,7 +21184,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=648681",
     "orderUrl": "https://www.dinbendon.net/do/shop/648681",
     "phone": "02-8691-5005",
-    "address": "市汐止區大同路二段472號"
+    "address": "市汐止區大同路二段472號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-185",
@@ -20405,7 +21210,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=532892",
     "orderUrl": "https://www.dinbendon.net/do/shop/532892",
     "phone": "02-2994-0338",
-    "address": "新莊區自信街54號"
+    "address": "新莊區自信街54號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-186",
@@ -20431,7 +21237,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=576281",
     "orderUrl": "https://www.dinbendon.net/do/shop/576281",
     "phone": "02-2984-5567",
-    "address": "三重區大同北路27號"
+    "address": "三重區大同北路27號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-187",
@@ -20457,7 +21264,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=605040",
     "orderUrl": "https://www.dinbendon.net/do/shop/605040",
     "phone": "02-2223-2588",
-    "address": "市中和區建一路148號"
+    "address": "市中和區建一路148號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-188",
@@ -20483,7 +21291,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=557233",
     "orderUrl": "https://www.dinbendon.net/do/shop/557233",
     "phone": "0909-393-109",
-    "address": "市板橋區三民路一段197號"
+    "address": "市板橋區三民路一段197號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-189",
@@ -20508,7 +21317,8 @@ window.RESTAURANTS = [
     "source": "wahot；opengovtw ban/85276056",
     "orderUrl": "https://www.wahot.com/tp/index.php?Twesid=ae&cPath=160_398",
     "phone": "02-2218-2859",
-    "address": "市板橋區大觀路二段174巷118弄12號"
+    "address": "市板橋區大觀路二段174巷118弄12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-190",
@@ -20533,7 +21343,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=240795",
     "orderUrl": "https://www.dinbendon.net/do/shop/240795",
     "phone": "8522-2867",
-    "address": "市新莊區化成路648號"
+    "address": "市新莊區化成路648號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-191",
@@ -20559,7 +21370,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=551493",
     "orderUrl": "https://www.dinbendon.net/do/shop/551493",
     "phone": "02-2998-8256",
-    "address": "新莊區化成路165號"
+    "address": "新莊區化成路165號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-192",
@@ -20585,7 +21397,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=301542",
     "orderUrl": "https://www.dinbendon.net/do/shop/301542",
     "phone": "8993-2834",
-    "address": "新莊區化成路364巷6號"
+    "address": "新莊區化成路364巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-193",
@@ -20611,7 +21424,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=145485",
     "orderUrl": "https://www.dinbendon.net/do/shop/145485",
     "phone": "2994-7609",
-    "address": "化成路406號"
+    "address": "化成路406號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-194",
@@ -20637,7 +21451,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=408801",
     "orderUrl": "https://www.dinbendon.net/do/shop/408801",
     "phone": "2277-2178",
-    "address": "新莊區化成路566號"
+    "address": "新莊區化成路566號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-195",
@@ -20662,7 +21477,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=499560",
     "orderUrl": "https://www.dinbendon.net/do/shop/499560",
     "phone": "02-2998-0922",
-    "address": "市新莊區化成路616號"
+    "address": "市新莊區化成路616號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-196",
@@ -20688,7 +21504,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=266119",
     "orderUrl": "https://www.dinbendon.net/do/shop/266119",
     "phone": "02-2990-1063",
-    "address": "市新莊區化成路624號"
+    "address": "市新莊區化成路624號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-197",
@@ -20714,7 +21531,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=516427",
     "orderUrl": "https://www.dinbendon.net/do/shop/516427",
     "phone": "02-8521-1099",
-    "address": "市新莊區化成路710號"
+    "address": "市新莊區化成路710號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-198",
@@ -20740,7 +21558,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=451977",
     "orderUrl": "https://www.dinbendon.net/do/shop/451977",
     "phone": "0986-075311",
-    "address": "市新莊區化成路768號"
+    "address": "市新莊區化成路768號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-199",
@@ -20766,7 +21585,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=576248",
     "orderUrl": "https://www.dinbendon.net/do/shop/576248",
     "phone": "02-2277-8893",
-    "address": "市新莊區中港路397號"
+    "address": "市新莊區中港路397號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-200",
@@ -20792,7 +21612,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=511598",
     "orderUrl": "https://www.dinbendon.net/do/shop/511598",
     "phone": "0909-019-855",
-    "address": "三重重新路五段609"
+    "address": "三重重新路五段609",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-201",
@@ -20818,7 +21639,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=479040",
     "orderUrl": "https://www.dinbendon.net/do/shop/479040",
     "phone": "02-8511-0563",
-    "address": "市三重區光復路一段68巷19-1號"
+    "address": "市三重區光復路一段68巷19-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-202",
@@ -20844,7 +21666,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=570252",
     "orderUrl": "https://www.dinbendon.net/do/shop/570252",
     "phone": "02-2999-5221",
-    "address": "三重區光復路一段68巷44號1"
+    "address": "三重區光復路一段68巷44號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-203",
@@ -20870,7 +21693,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=7694",
     "orderUrl": "https://www.dinbendon.net/do/shop/7694",
     "phone": "02-8952-2287",
-    "address": "板橋市漢生東路305號"
+    "address": "板橋市漢生東路305號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-204",
@@ -20896,7 +21720,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=552777",
     "orderUrl": "https://www.dinbendon.net/do/shop/552777",
     "phone": "02-8285-4148",
-    "address": "蘆洲區得勝街20號"
+    "address": "蘆洲區得勝街20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-205",
@@ -20921,7 +21746,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=166973",
     "orderUrl": "https://www.dinbendon.net/do/shop/166973",
     "phone": "02-2992-3222",
-    "address": "新莊區中港路289號1"
+    "address": "新莊區中港路289號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-206",
@@ -20947,7 +21773,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=467774",
     "orderUrl": "https://www.dinbendon.net/do/shop/467774",
     "phone": "02-2277-0563",
-    "address": "新莊區中港一街68號"
+    "address": "新莊區中港一街68號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-207",
@@ -20973,7 +21800,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=494336",
     "orderUrl": "https://www.dinbendon.net/do/shop/494336",
     "phone": "02-8522-7727",
-    "address": "市新莊區中港路699號"
+    "address": "市新莊區中港路699號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-208",
@@ -21000,7 +21828,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=440696；foodpanda f0ga；ubereats",
     "orderUrl": "https://www.dinbendon.net/do/shop/440696",
     "phone": "02-2984-9853",
-    "address": "重新路二段11之3號"
+    "address": "重新路二段11之3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-209",
@@ -21026,7 +21855,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=429601",
     "orderUrl": "https://www.dinbendon.net/do/shop/429601",
     "phone": "022996-5654",
-    "address": "新莊區幸福路543號"
+    "address": "新莊區幸福路543號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-210",
@@ -21052,7 +21882,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=448044",
     "orderUrl": "https://www.dinbendon.net/do/shop/448044",
     "phone": "0916-551-662",
-    "address": "板橋區成都街64號"
+    "address": "板橋區成都街64號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-211",
@@ -21079,7 +21910,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=582823",
     "orderUrl": "https://www.dinbendon.net/do/shop/582823",
     "phone": "0909-224-055",
-    "address": "新莊區建國一路39號"
+    "address": "新莊區建國一路39號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-212",
@@ -21105,7 +21937,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=584460",
     "orderUrl": "https://www.dinbendon.net/do/shop/584460",
     "phone": "02-8201-6612",
-    "address": "新莊區民本街1號"
+    "address": "新莊區民本街1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-213",
@@ -21132,7 +21965,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=593006",
     "orderUrl": "https://www.dinbendon.net/do/shop/593006",
     "phone": "0983-381-893",
-    "address": "板橋區僑中一街86號"
+    "address": "板橋區僑中一街86號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-214",
@@ -21159,7 +21993,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=510401",
     "orderUrl": "https://www.dinbendon.net/do/shop/510401",
     "phone": "02-8969-7199",
-    "address": "板橋區民權路202巷15弄1號"
+    "address": "板橋區民權路202巷15弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-215",
@@ -21186,7 +22021,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=469999",
     "orderUrl": "https://www.dinbendon.net/do/shop/469999",
     "phone": "022902-7975",
-    "address": "新莊區雙鳳路15號"
+    "address": "新莊區雙鳳路15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-216",
@@ -21212,7 +22048,8 @@ window.RESTAURANTS = [
     "evidence": "2016 食記地址欄明示 **區運路12號（滿5個可外送）**；電話公開（證據偏舊 → medium；四維路329 分店本批無門檻句不另收）",
     "source": "hx271 食記 2016-08",
     "phone": "02-8952-1060",
-    "address": "板橋區區運路12號"
+    "address": "板橋區區運路12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-217",
@@ -21237,7 +22074,8 @@ window.RESTAURANTS = [
     "evidence": "dinbendon notice：**送新莊／五股／三重地區（滿300外送）**；LINE 訂餐",
     "source": "dinbendon shop=465592",
     "orderUrl": "https://www.dinbendon.net/do/shop/465592",
-    "phone": "02-8994-1313"
+    "phone": "02-8994-1313",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-218",
@@ -21264,7 +22102,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=355539",
     "orderUrl": "https://www.dinbendon.net/do/shop/355539",
     "phone": "02-2958-7955",
-    "address": "板橋區三民路二段136之4號"
+    "address": "板橋區三民路二段136之4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-219",
@@ -21290,7 +22129,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=270387",
     "orderUrl": "https://www.dinbendon.net/do/shop/270387",
     "phone": "02-2903-3733",
-    "address": "泰山區明志路三段80號"
+    "address": "泰山區明志路三段80號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-220",
@@ -21316,7 +22156,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=34084",
     "orderUrl": "https://www.dinbendon.net/do/shop/34084",
     "phone": "022903-0999",
-    "address": "泰山區明志路二段369號"
+    "address": "泰山區明志路二段369號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-221",
@@ -21343,7 +22184,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=350023；iCHEF 7FKKiGku",
     "orderUrl": "https://shop.ichefpos.com/store/7FKKiGku/ordering",
     "phone": "0928-517-592",
-    "address": "三重區大智街248號"
+    "address": "三重區大智街248號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-222",
@@ -21371,7 +22213,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/shop/634025",
     "lineUrl": "https://line.me/R/ti/p/%40576tdgxw",
     "phone": "02-2256-0378",
-    "address": "板橋區介壽街13號"
+    "address": "板橋區介壽街13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-223",
@@ -21397,7 +22240,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=596466",
     "orderUrl": "https://www.dinbendon.net/do/shop/596466",
     "phone": "02-8968-2896",
-    "address": "板橋區民權路202巷15弄1號"
+    "address": "板橋區民權路202巷15弄1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-224",
@@ -21425,7 +22269,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=328280",
     "orderUrl": "https://www.dinbendon.net/do/shop/328280",
     "phone": "02-2258-2249",
-    "address": "板橋區四維路335號"
+    "address": "板橋區四維路335號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-225",
@@ -21451,7 +22296,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=633036",
     "orderUrl": "https://www.dinbendon.net/do/shop/633036",
     "phone": "02-2996-0877",
-    "address": "新莊區復興路二段74號"
+    "address": "新莊區復興路二段74號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-226",
@@ -21478,7 +22324,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=643646",
     "orderUrl": "https://www.dinbendon.net/do/shop/643646",
     "phone": "02-2992-2232",
-    "address": "新莊區自信街4號"
+    "address": "新莊區自信街4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-227",
@@ -21505,7 +22352,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=400770",
     "orderUrl": "https://www.dinbendon.net/do/shop/400770",
     "phone": "02-2276-2338",
-    "address": "新莊區建中街23號"
+    "address": "新莊區建中街23號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-228",
@@ -21532,7 +22380,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=593831",
     "orderUrl": "https://www.dinbendon.net/do/shop/593831",
     "phone": "02-2228-7192",
-    "address": "中和區新生街12號"
+    "address": "中和區新生街12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-229",
@@ -21558,7 +22407,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=70337",
     "orderUrl": "https://www.dinbendon.net/do/shop/70337",
     "phone": "02-2245-3502",
-    "address": "中和區廣福路42號"
+    "address": "中和區廣福路42號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-230",
@@ -21585,7 +22435,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=518998",
     "orderUrl": "https://www.dinbendon.net/do/shop/518998",
     "phone": "0972-227-028",
-    "address": "中和區民安街2號"
+    "address": "中和區民安街2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-231",
@@ -21612,7 +22463,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=598631",
     "orderUrl": "https://www.dinbendon.net/do/shop/598631",
     "phone": "02-2222-1832",
-    "address": "中和區連城路347巷3號"
+    "address": "中和區連城路347巷3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-232",
@@ -21640,7 +22492,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=24794",
     "orderUrl": "https://www.dinbendon.net/do/shop/24794",
     "phone": "02-2929-1108",
-    "address": "永和區中山路一段293號"
+    "address": "永和區中山路一段293號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-233",
@@ -21666,7 +22519,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=579176",
     "orderUrl": "https://www.dinbendon.net/do/shop/579176",
     "phone": "0906-515-428",
-    "address": "新店區環河路11號"
+    "address": "新店區環河路11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-234",
@@ -21692,7 +22546,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=377482",
     "orderUrl": "https://www.dinbendon.net/do/shop/377482",
     "phone": "02-8646-1212",
-    "address": "汐止區大同路二段312巷7號"
+    "address": "汐止區大同路二段312巷7號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-235",
@@ -21719,7 +22574,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=379225",
     "orderUrl": "https://www.dinbendon.net/do/shop/379225",
     "phone": "02-2957-2722",
-    "address": "板橋區中山路二段90巷1號"
+    "address": "板橋區中山路二段90巷1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-236",
@@ -21746,7 +22602,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=308836",
     "orderUrl": "https://www.dinbendon.net/do/shop/308836",
     "phone": "0916-746-959",
-    "address": "民生路三段13弄1號(交叉:板橋新埔/拾參巷同廊門牌敘事為民生路三段13"
+    "address": "民生路三段13弄1號(交叉:板橋新埔/拾參巷同廊門牌敘事為民生路三段13",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-237",
@@ -21772,7 +22629,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=328284",
     "orderUrl": "https://www.dinbendon.net/do/shop/328284",
     "phone": "02-2256-6687",
-    "address": "板橋區文化路一段311-15號"
+    "address": "板橋區文化路一段311-15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-238",
@@ -21798,7 +22656,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=436907",
     "orderUrl": "https://www.dinbendon.net/do/shop/436907",
     "phone": "02-2957-8830",
-    "address": "板橋區懷仁街81號"
+    "address": "板橋區懷仁街81號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-239",
@@ -21823,7 +22682,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=385103",
     "orderUrl": "https://www.dinbendon.net/do/shop/385103",
     "phone": "02-2254-3198",
-    "address": "板橋區文化路一段270巷4號"
+    "address": "板橋區文化路一段270巷4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-241",
@@ -21849,7 +22709,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=470339",
     "orderUrl": "https://www.dinbendon.net/do/shop/470339",
     "phone": "02-2992-1683",
-    "address": "新莊區新泰路42號"
+    "address": "新莊區新泰路42號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-242",
@@ -21875,7 +22736,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=315266",
     "orderUrl": "https://www.dinbendon.net/do/shop/315266",
     "phone": "02-2997-9938",
-    "address": "新莊區中誠街181號"
+    "address": "新莊區中誠街181號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-243",
@@ -21901,7 +22763,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=431519",
     "orderUrl": "https://www.dinbendon.net/do/shop/431519",
     "phone": "02-2202-0839",
-    "address": "新莊區新豐街68巷2號"
+    "address": "新莊區新豐街68巷2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-244",
@@ -21927,7 +22790,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=416822",
     "orderUrl": "https://www.dinbendon.net/do/shop/416822",
     "phone": "0931-105-222",
-    "address": "新莊區思源路143號"
+    "address": "新莊區思源路143號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-245",
@@ -21952,7 +22816,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=404053",
     "orderUrl": "https://www.dinbendon.net/do/shop/404053",
     "phone": "02-2277-9290",
-    "address": "新莊區復興路一段222號"
+    "address": "新莊區復興路一段222號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-246",
@@ -21979,7 +22844,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=485711",
     "orderUrl": "https://www.dinbendon.net/do/shop/485711",
     "phone": "02-2993-1620",
-    "address": "新莊區中港一街88號"
+    "address": "新莊區中港一街88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-247",
@@ -22004,7 +22870,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=595506",
     "orderUrl": "https://www.dinbendon.net/do/shop/595506",
     "phone": "02-2228-8913",
-    "address": "中和區立德街51號"
+    "address": "中和區立德街51號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-248",
@@ -22030,7 +22897,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=612502",
     "orderUrl": "https://www.dinbendon.net/do/shop/612502",
     "phone": "02-2246-5307",
-    "address": "中和區中和路40巷4號"
+    "address": "中和區中和路40巷4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-249",
@@ -22056,7 +22924,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=521331",
     "orderUrl": "https://www.dinbendon.net/do/shop/521331",
     "phone": "02-8925-0096",
-    "address": "永和區竹林路39巷13號"
+    "address": "永和區竹林路39巷13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-250",
@@ -22082,7 +22951,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=278415／367674",
     "orderUrl": "https://www.dinbendon.net/do/shop/278415",
     "phone": "02-2296-2330",
-    "address": "泰山區明志路一段67號"
+    "address": "泰山區明志路一段67號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-251",
@@ -22109,7 +22979,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=401453",
     "orderUrl": "https://www.dinbendon.net/do/shop/401453",
     "phone": "02-8512-4023",
-    "address": "三重區中興北街10號"
+    "address": "三重區中興北街10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-252",
@@ -22135,7 +23006,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=647111",
     "orderUrl": "https://www.dinbendon.net/do/shop/647111",
     "phone": "02-2962-2626",
-    "address": "板橋區國慶路133號"
+    "address": "板橋區國慶路133號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-253",
@@ -22163,7 +23035,8 @@ window.RESTAURANTS = [
     "source": "mibaoma.tw/xi-xiao-ming；dinbendon shop=491559",
     "orderUrl": "https://www.dinbendon.net/do/shop/491559",
     "phone": "02-8942-2999",
-    "address": "中和區秀朗路三段72號"
+    "address": "中和區秀朗路三段72號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-254",
@@ -22190,7 +23063,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=544765",
     "orderUrl": "https://www.dinbendon.net/do/shop/544765",
     "phone": "02-2228-7103",
-    "address": "中和區立德街19-1號"
+    "address": "中和區立德街19-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-255",
@@ -22217,7 +23091,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=542866",
     "orderUrl": "https://www.dinbendon.net/do/shop/542866",
     "phone": "0970-335-483",
-    "address": "中和區中興街101號"
+    "address": "中和區中興街101號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-256",
@@ -22243,7 +23118,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=341681",
     "orderUrl": "https://www.dinbendon.net/do/shop/341681",
     "phone": "02-2222-9950",
-    "address": "中和區建一路151號"
+    "address": "中和區建一路151號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-257",
@@ -22268,7 +23144,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=556963",
     "orderUrl": "https://www.dinbendon.net/do/shop/556963",
     "phone": "02-8221-5997",
-    "address": "中和區員山路356號"
+    "address": "中和區員山路356號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-258",
@@ -22293,7 +23170,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=543188",
     "orderUrl": "https://www.dinbendon.net/do/shop/543188",
     "phone": "02-2204-3313",
-    "address": "新莊區民安西路210號"
+    "address": "新莊區民安西路210號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-259",
@@ -22318,7 +23196,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=603021",
     "orderUrl": "https://www.dinbendon.net/do/shop/603021",
     "phone": "02-2901-1460",
-    "address": "新莊區建國一路88號"
+    "address": "新莊區建國一路88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-260",
@@ -22343,7 +23222,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=562041",
     "orderUrl": "https://www.dinbendon.net/do/shop/562041",
     "phone": "02-2206-6113",
-    "address": "新莊區萬安街47巷28號"
+    "address": "新莊區萬安街47巷28號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-261",
@@ -22368,7 +23248,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=543185",
     "orderUrl": "https://www.dinbendon.net/do/shop/543185",
     "phone": "02-2204-9768",
-    "address": "新莊區四維路122號"
+    "address": "新莊區四維路122號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-262",
@@ -22394,7 +23275,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=408358",
     "orderUrl": "https://www.dinbendon.net/do/shop/408358",
     "phone": "02-2202-7070",
-    "address": "新莊區民安西路246號"
+    "address": "新莊區民安西路246號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-263",
@@ -22421,7 +23303,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=517291",
     "orderUrl": "https://www.dinbendon.net/do/shop/517291",
     "phone": "02-2993-6363",
-    "address": "新莊區福壽街170號"
+    "address": "新莊區福壽街170號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-264",
@@ -22447,7 +23330,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=586719",
     "orderUrl": "https://www.dinbendon.net/do/shop/586719",
     "phone": "02-2277-8227",
-    "address": "新莊區昌平街71巷10號"
+    "address": "新莊區昌平街71巷10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-265",
@@ -22474,7 +23358,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=488738",
     "orderUrl": "https://www.dinbendon.net/do/shop/488738",
     "phone": "02-2204-7322",
-    "address": "新莊區民本街20號"
+    "address": "新莊區民本街20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-266",
@@ -22502,7 +23387,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=509953",
     "orderUrl": "https://www.dinbendon.net/do/shop/509953",
     "phone": "02-2279-2918",
-    "address": "新莊區自信街71號"
+    "address": "新莊區自信街71號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-267",
@@ -22527,7 +23413,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=293076",
     "orderUrl": "https://www.dinbendon.net/do/shop/293076",
     "phone": "02-2268-6847",
-    "address": "土城區亞洲路108巷1弄38號"
+    "address": "土城區亞洲路108巷1弄38號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-268",
@@ -22553,7 +23440,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=647108",
     "orderUrl": "https://www.dinbendon.net/do/shop/647108",
     "phone": "02-2265-5789",
-    "address": "土城區中央路二段112號"
+    "address": "土城區中央路二段112號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-269",
@@ -22580,7 +23468,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=534042",
     "orderUrl": "https://www.dinbendon.net/do/shop/534042",
     "phone": "02-2221-5123",
-    "address": "中和區立德街136號"
+    "address": "中和區立德街136號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-270",
@@ -22606,7 +23495,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=540733",
     "orderUrl": "https://www.dinbendon.net/do/shop/540733",
     "phone": "02-8228-2636",
-    "address": "中和區連城路331號"
+    "address": "中和區連城路331號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-271",
@@ -22634,7 +23524,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=593821",
     "orderUrl": "https://www.dinbendon.net/do/shop/593821",
     "phone": "0919-266-212",
-    "address": "中和區新生街7之1號"
+    "address": "中和區新生街7之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-272",
@@ -22661,7 +23552,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=563211",
     "orderUrl": "https://www.dinbendon.net/do/shop/563211",
     "phone": "02-2668-6652",
-    "address": "中和區連城路339號"
+    "address": "中和區連城路339號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-273",
@@ -22689,7 +23581,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=593818",
     "orderUrl": "https://www.dinbendon.net/do/shop/593818",
     "phone": "02-2222-8898",
-    "address": "中和區新生街19-1號"
+    "address": "中和區新生街19-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-274",
@@ -22716,7 +23609,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=212027",
     "orderUrl": "https://www.dinbendon.net/do/shop/212027",
     "phone": "02-2243-0028",
-    "address": "中和區復興路324號"
+    "address": "中和區復興路324號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-275",
@@ -22743,7 +23637,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=618171",
     "orderUrl": "https://www.dinbendon.net/do/shop/618171",
     "phone": "02-2240-3010",
-    "address": "中和區中和路40巷2號"
+    "address": "中和區中和路40巷2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-276",
@@ -22770,7 +23665,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=593820",
     "orderUrl": "https://www.dinbendon.net/do/shop/593820",
     "phone": "02-2225-9554",
-    "address": "中和區新生街10號"
+    "address": "中和區新生街10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-277",
@@ -22797,7 +23693,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=637194",
     "orderUrl": "https://www.dinbendon.net/do/shop/637194",
     "phone": "0955-660-813",
-    "address": "新莊區中原路187號之1"
+    "address": "新莊區中原路187號之1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-278",
@@ -22823,7 +23720,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=466595",
     "orderUrl": "https://www.dinbendon.net/do/shop/466595",
     "phone": "02-2206-6111",
-    "address": "新莊區後港一路92號"
+    "address": "新莊區後港一路92號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-279",
@@ -22849,7 +23747,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=544107",
     "orderUrl": "https://www.dinbendon.net/do/shop/544107",
     "phone": "02-2205-5051",
-    "address": "新莊區後港一路38號"
+    "address": "新莊區後港一路38號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-280",
@@ -22875,7 +23774,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=497201",
     "orderUrl": "https://www.dinbendon.net/do/shop/497201",
     "phone": "02-2996-6693",
-    "address": "新莊區幸福路9號1"
+    "address": "新莊區幸福路9號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-281",
@@ -22902,7 +23802,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=487704",
     "orderUrl": "https://www.dinbendon.net/do/shop/487704",
     "phone": "02-2208-3818",
-    "address": "新莊區後港一路104號"
+    "address": "新莊區後港一路104號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-282",
@@ -22928,7 +23829,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=524936",
     "orderUrl": "https://www.dinbendon.net/do/shop/524936",
     "phone": "02-8712-7450",
-    "address": "土城區裕民路168號1"
+    "address": "土城區裕民路168號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-283",
@@ -22954,7 +23856,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=439927",
     "orderUrl": "https://www.dinbendon.net/do/shop/439927",
     "phone": "02-2274-7775",
-    "address": "土城區員林街10號"
+    "address": "土城區員林街10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-284",
@@ -22981,7 +23884,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=571719",
     "orderUrl": "https://www.dinbendon.net/do/shop/571719",
     "phone": "0926-809-657",
-    "address": "土城區清水路227號"
+    "address": "土城區清水路227號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-285",
@@ -23009,7 +23913,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=431197",
     "orderUrl": "https://www.dinbendon.net/do/shop/431197",
     "phone": "0987-577-361",
-    "address": "土城區中央路三段58號"
+    "address": "土城區中央路三段58號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-286",
@@ -23034,7 +23939,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=459594",
     "orderUrl": "https://www.dinbendon.net/do/shop/459594",
     "phone": "02-8992-3833",
-    "address": "新莊區復興路一段49號"
+    "address": "新莊區復興路一段49號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-287",
@@ -23060,7 +23966,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=531465",
     "orderUrl": "https://www.dinbendon.net/do/shop/531465",
     "phone": "022917-0613",
-    "address": "新店區寶橋路11號"
+    "address": "新店區寶橋路11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-288",
@@ -23087,7 +23994,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=516362",
     "orderUrl": "https://www.dinbendon.net/do/shop/516362",
     "phone": "02-2270-8687",
-    "address": "土城區中央路二段268號"
+    "address": "土城區中央路二段268號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-289",
@@ -23113,7 +24021,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=643649",
     "orderUrl": "https://www.dinbendon.net/do/shop/643649",
     "phone": "02-2996-4692",
-    "address": "新莊區幸福路821號"
+    "address": "新莊區幸福路821號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-290",
@@ -23140,7 +24049,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=509044",
     "orderUrl": "https://www.dinbendon.net/do/shop/509044",
     "phone": "0960-503-242",
-    "address": "新莊區福樂街96號"
+    "address": "新莊區福樂街96號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-291",
@@ -23166,7 +24076,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=571289",
     "orderUrl": "https://www.dinbendon.net/do/shop/571289",
     "phone": "0928-959-172",
-    "address": "五股區五工三路94巷4號"
+    "address": "五股區五工三路94巷4號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-292",
@@ -23193,7 +24104,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=237557",
     "orderUrl": "https://www.dinbendon.net/do/shop/237557",
     "phone": "02-8990-1694",
-    "address": "五股區五工三路97號"
+    "address": "五股區五工三路97號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-293",
@@ -23220,7 +24132,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=502672",
     "orderUrl": "https://www.dinbendon.net/do/shop/502672",
     "phone": "02-8663-2043",
-    "address": "五權一路118號"
+    "address": "五權一路118號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-294",
@@ -23247,7 +24160,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=509177",
     "orderUrl": "https://www.dinbendon.net/do/shop/509177",
     "phone": "0918-366-242",
-    "address": "新莊區福壽街154號"
+    "address": "新莊區福壽街154號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-295",
@@ -23273,7 +24187,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=628229",
     "orderUrl": "https://www.dinbendon.net/do/shop/628229",
     "phone": "02-2262-9888",
-    "address": "土城區裕民路129號"
+    "address": "土城區裕民路129號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-296",
@@ -23298,7 +24213,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=519905；Footinder／公開彙整電話交叉",
     "orderUrl": "https://www.dinbendon.net/do/shop/519905",
     "phone": "022260-0070",
-    "address": "土城區學府路一段104之1號"
+    "address": "土城區學府路一段104之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-297",
@@ -23324,7 +24240,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=416706",
     "orderUrl": "https://www.dinbendon.net/do/shop/416706",
     "phone": "02-2268-5557",
-    "address": "土城區大暖路10號"
+    "address": "土城區大暖路10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-298",
@@ -23350,7 +24267,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=503728",
     "orderUrl": "https://www.dinbendon.net/do/shop/503728",
     "phone": "0958-142-661",
-    "address": "土城區承天路4巷36-1號"
+    "address": "土城區承天路4巷36-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-299",
@@ -23376,7 +24294,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=597847",
     "orderUrl": "https://www.dinbendon.net/do/shop/597847",
     "lineUrl": "https://line.me/R/ti/p/%40559vzwxf",
-    "address": "土城區中央路三段198-1號"
+    "address": "土城區中央路三段198-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-300",
@@ -23403,7 +24322,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=431491",
     "orderUrl": "https://www.dinbendon.net/do/shop/431491",
     "phone": "02-8261-4648",
-    "address": "土城區福仁街6號"
+    "address": "土城區福仁街6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-301",
@@ -23429,7 +24349,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=467850",
     "orderUrl": "https://www.dinbendon.net/do/shop/467850",
     "phone": "02-2262-5838",
-    "address": "土城區中央路二段348號"
+    "address": "土城區中央路二段348號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-302",
@@ -23455,7 +24376,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=429107",
     "orderUrl": "https://www.dinbendon.net/do/shop/429107",
     "phone": "02-2262-2676",
-    "address": "土城區中央路二段223-18號"
+    "address": "土城區中央路二段223-18號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-303",
@@ -23480,7 +24402,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=534252",
     "orderUrl": "https://www.dinbendon.net/do/shop/534252",
     "phone": "0979-047-221",
-    "address": "樹林區大安路1-95號"
+    "address": "樹林區大安路1-95號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-304",
@@ -23505,7 +24428,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=587567",
     "orderUrl": "https://www.dinbendon.net/do/shop/587567",
     "phone": "02-8695-1082",
-    "address": "汐止區明峰街180號"
+    "address": "汐止區明峰街180號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-305",
@@ -23532,7 +24456,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=89946",
     "orderUrl": "https://www.dinbendon.net/do/shop/89946",
     "phone": "0920-905-970",
-    "address": "新莊區五權一路118號"
+    "address": "新莊區五權一路118號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-306",
@@ -23558,7 +24483,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=8650",
     "orderUrl": "https://www.dinbendon.net/do/shop/8650",
     "phone": "02-2298-1230",
-    "address": "五權一路74號"
+    "address": "五權一路74號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-307",
@@ -23583,7 +24509,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=581948",
     "orderUrl": "https://www.dinbendon.net/do/shop/581948",
     "phone": "02-2902-6752",
-    "address": "新莊區建國一路24號"
+    "address": "新莊區建國一路24號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-308",
@@ -23608,7 +24535,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=489263",
     "orderUrl": "https://www.dinbendon.net/do/shop/489263",
     "phone": "0955-617-955",
-    "address": "新店區大豐路53號"
+    "address": "新店區大豐路53號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-309",
@@ -23634,7 +24562,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=307720",
     "orderUrl": "https://www.dinbendon.net/do/shop/307720",
     "phone": "0980-322-688",
-    "address": "土城區裕民路267號"
+    "address": "土城區裕民路267號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-310",
@@ -23659,7 +24588,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=453843",
     "orderUrl": "https://www.dinbendon.net/do/shop/453843",
     "phone": "02-2910-0322",
-    "address": "新店區中華路34號"
+    "address": "新店區中華路34號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-311",
@@ -23685,7 +24615,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=419443",
     "orderUrl": "https://www.dinbendon.net/do/shop/419443",
     "phone": "02-2602-0570",
-    "address": "林口區中正路30巷9號"
+    "address": "林口區中正路30巷9號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-312",
@@ -23712,7 +24643,8 @@ window.RESTAURANTS = [
     "source": "tokyosushi.com.tw",
     "orderUrl": "https://tokyosushi.com.tw/contact.php",
     "phone": "0961-187-101",
-    "address": "中和區中正路1220巷5號"
+    "address": "中和區中正路1220巷5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-313",
@@ -23738,7 +24670,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=418075",
     "orderUrl": "https://www.dinbendon.net/do/shop/418075",
     "phone": "02-2628-1799",
-    "address": "淡水區北新路182巷5弄31號"
+    "address": "淡水區北新路182巷5弄31號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-315",
@@ -23765,7 +24698,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/m3OdJm",
     "lineUrl": "https://line.me/R/ti/p/@049blemb",
     "phone": "02-8914-5074",
-    "address": "新店區北新路一段219號"
+    "address": "新店區北新路一段219號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-316",
@@ -23793,7 +24727,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.vegetsai.com.tw/",
     "lineUrl": "https://line.me/R/ti/p/@450edqxt",
     "phone": "0927-047-907",
-    "address": "板橋區文化路一段188巷9弄110號"
+    "address": "板橋區文化路一段188巷9弄110號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-317",
@@ -23820,7 +24755,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=222085",
     "orderUrl": "https://www.dinbendon.net/do/shop/222085",
     "phone": "02-2900-5252",
-    "address": "泰山區明志路一段403號"
+    "address": "泰山區明志路一段403號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-318",
@@ -23846,7 +24782,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=257707",
     "orderUrl": "https://www.dinbendon.net/do/shop/257707",
     "phone": "0966-378-696",
-    "address": "板橋區忠孝路178-6號"
+    "address": "板橋區忠孝路178-6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-319",
@@ -23873,7 +24810,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=420240",
     "orderUrl": "https://www.dinbendon.net/do/shop/420240",
     "phone": "0958-715-223",
-    "address": "板橋區四維路204號"
+    "address": "板橋區四維路204號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-320",
@@ -23899,7 +24837,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=310480",
     "orderUrl": "https://www.dinbendon.net/do/shop/310480",
     "phone": "022297-9221",
-    "address": "泰山區明志路一段299號"
+    "address": "泰山區明志路一段299號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-321",
@@ -23926,7 +24865,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=317917",
     "orderUrl": "https://www.dinbendon.net/do/shop/317917",
     "phone": "02-2908-3797",
-    "address": "泰山區明志路二段387號"
+    "address": "泰山區明志路二段387號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-322",
@@ -23952,7 +24892,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=428577",
     "orderUrl": "https://www.dinbendon.net/do/shop/428577",
     "phone": "02-2996-8338",
-    "address": "新莊區中榮街88號"
+    "address": "新莊區中榮街88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-323",
@@ -23978,7 +24919,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=575237",
     "orderUrl": "https://www.dinbendon.net/do/shop/575237",
     "phone": "02-8911-0366",
-    "address": "新店區北新路三段82號1"
+    "address": "新店區北新路三段82號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-324",
@@ -24004,7 +24946,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=427628",
     "orderUrl": "https://www.dinbendon.net/do/shop/427628",
     "phone": "02-2602-1667",
-    "address": "林口區仁愛路二段11號"
+    "address": "林口區仁愛路二段11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-325",
@@ -24030,7 +24973,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=437883",
     "orderUrl": "https://www.dinbendon.net/do/shop/437883",
     "phone": "0968-323-581",
-    "address": "林口區信義路303號"
+    "address": "林口區信義路303號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-326",
@@ -24056,7 +25000,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=495260",
     "orderUrl": "https://www.dinbendon.net/do/shop/495260",
     "phone": "02-2601-0733",
-    "address": "林口區中山路202之6號"
+    "address": "林口區中山路202之6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-327",
@@ -24082,7 +25027,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=633284",
     "orderUrl": "https://www.dinbendon.net/do/shop/633284",
     "phone": "02-2678-0898",
-    "address": "鶯歌區國慶街67號"
+    "address": "鶯歌區國慶街67號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-328",
@@ -24109,7 +25055,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=609355",
     "orderUrl": "https://www.dinbendon.net/do/shop/609355",
     "phone": "02-2670-1076",
-    "address": "鶯歌區中正一路76號"
+    "address": "鶯歌區中正一路76號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-329",
@@ -24135,7 +25082,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=226694",
     "orderUrl": "https://www.dinbendon.net/do/shop/226694",
     "phone": "02-2296-1522",
-    "address": "泰山區明志路一段39號"
+    "address": "泰山區明志路一段39號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-330",
@@ -24161,7 +25109,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=597933／443152",
     "orderUrl": "https://www.dinbendon.net/do/shop/597933",
     "phone": "02-2913-6659",
-    "address": "新店區寶橋路176號"
+    "address": "新店區寶橋路176號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-331",
@@ -24186,7 +25135,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=564927",
     "orderUrl": "https://www.dinbendon.net/do/shop/564927",
     "phone": "02-2649-9902",
-    "address": "汐止區大同路二段357號"
+    "address": "汐止區大同路二段357號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-332",
@@ -24213,7 +25163,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=609588",
     "orderUrl": "https://www.dinbendon.net/do/shop/609588",
     "phone": "0928-951-681",
-    "address": "鶯歌區尖山路282號"
+    "address": "鶯歌區尖山路282號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-333",
@@ -24240,7 +25191,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/shop/497968",
     "lineUrl": "https://line.me/R/ti/p/@mwt4700i",
     "phone": "02-2671-7776",
-    "address": "三峽區和平街30號"
+    "address": "三峽區和平街30號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-334",
@@ -24266,7 +25218,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=518265",
     "orderUrl": "https://www.dinbendon.net/do/shop/518265",
     "phone": "02-2912-4019",
-    "address": "新店區明德路5號"
+    "address": "新店區明德路5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-335",
@@ -24292,7 +25245,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=477335",
     "orderUrl": "https://www.dinbendon.net/do/shop/477335",
     "phone": "02-2682-1068",
-    "address": "樹林區保安街一段235號"
+    "address": "樹林區保安街一段235號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-336",
@@ -24319,7 +25273,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=635033（detail）",
     "orderUrl": "https://www.dinbendon.net/do/shop/635033",
     "phone": "0962-067511",
-    "address": "市鶯歌區國華路13號"
+    "address": "市鶯歌區國華路13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-337",
@@ -24345,7 +25300,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=200552",
     "orderUrl": "https://www.dinbendon.net/do/shop/200552",
     "phone": "02-2642-7118",
-    "address": "市汐止區仁愛路336號"
+    "address": "市汐止區仁愛路336號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-338",
@@ -24371,7 +25327,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=419455",
     "orderUrl": "https://www.dinbendon.net/do/shop/419455",
     "phone": "02-2603-1313",
-    "address": "市林口區中正路153號"
+    "address": "市林口區中正路153號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-339",
@@ -24397,7 +25354,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=127723",
     "orderUrl": "https://www.dinbendon.net/do/shop/127723",
     "phone": "0933-400-220",
-    "address": "市中和區連城路219巷2弄2號"
+    "address": "市中和區連城路219巷2弄2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-340",
@@ -24422,7 +25380,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=589022",
     "orderUrl": "https://www.dinbendon.net/do/shop/589022",
     "phone": "02-2671-0300",
-    "address": "市三峽區國學街88號"
+    "address": "市三峽區國學街88號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-341",
@@ -24448,7 +25407,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=547009",
     "orderUrl": "https://www.dinbendon.net/do/shop/547009",
     "phone": "0965-255-252",
-    "address": "市樹林區鎮前街142號"
+    "address": "市樹林區鎮前街142號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-342",
@@ -24473,7 +25433,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=531464",
     "orderUrl": "https://www.dinbendon.net/do/shop/531464",
     "phone": "02-2910-0011",
-    "address": "市新店區光明街24號"
+    "address": "市新店區光明街24號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-343",
@@ -24500,7 +25461,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=77862",
     "orderUrl": "https://www.dinbendon.net/do/shop/77862",
     "phone": "02-2648-5266",
-    "address": "市汐止區大同路二段362號"
+    "address": "市汐止區大同路二段362號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-344",
@@ -24526,7 +25488,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=280672",
     "orderUrl": "https://www.dinbendon.net/do/shop/280672",
     "phone": "02-8521-7709",
-    "address": "市新莊區思源路587號"
+    "address": "市新莊區思源路587號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-345",
@@ -24552,7 +25515,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=323706",
     "orderUrl": "https://www.dinbendon.net/do/shop/323706",
     "phone": "02-2917-3456",
-    "address": "市新店區中正路283號"
+    "address": "市新店區中正路283號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-346",
@@ -24579,7 +25543,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=645021",
     "orderUrl": "https://www.dinbendon.net/do/shop/645021",
     "phone": "02-2692-5913",
-    "address": "市汐止區中興路244號"
+    "address": "市汐止區中興路244號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-347",
@@ -24605,7 +25570,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=202114",
     "orderUrl": "https://www.dinbendon.net/do/shop/202114",
     "phone": "02-2994-1639",
-    "address": "市新莊區公園路8-1號"
+    "address": "市新莊區公園路8-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-348",
@@ -24632,7 +25598,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=634825",
     "orderUrl": "https://www.dinbendon.net/do/shop/634825",
     "phone": "02-8667-5586",
-    "address": "市新店區中正路512-1號"
+    "address": "市新店區中正路512-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-349",
@@ -24658,7 +25625,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=596721",
     "orderUrl": "https://www.dinbendon.net/do/shop/596721",
     "phone": "02-2914-5136",
-    "address": "市新店區寶中路79號1"
+    "address": "市新店區寶中路79號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-350",
@@ -24684,7 +25652,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=211608",
     "orderUrl": "https://www.dinbendon.net/do/shop/211608",
     "phone": "02-2298-2042",
-    "address": "五股區五權一路62號"
+    "address": "五股區五權一路62號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-351",
@@ -24710,7 +25679,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=539503",
     "orderUrl": "https://www.dinbendon.net/do/shop/539503",
     "phone": "02-2206-2338",
-    "address": "市五股區五權路17號"
+    "address": "市五股區五權路17號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-352",
@@ -24735,7 +25705,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=568811",
     "orderUrl": "https://www.dinbendon.net/do/shop/568811",
     "phone": "02-8226-5637",
-    "address": "市中和區建一路168號1"
+    "address": "市中和區建一路168號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-353",
@@ -24761,7 +25732,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=416240",
     "orderUrl": "https://www.dinbendon.net/do/shop/416240",
     "phone": "02-2809-8892",
-    "address": "市淡水區民生路52巷2弄5號"
+    "address": "市淡水區民生路52巷2弄5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-354",
@@ -24787,7 +25759,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=625405",
     "orderUrl": "https://www.dinbendon.net/do/shop/625405",
     "phone": "02-8648-0381",
-    "address": "汐止區忠孝東路418號1"
+    "address": "汐止區忠孝東路418號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-355",
@@ -24813,7 +25786,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=291722",
     "orderUrl": "https://www.dinbendon.net/do/shop/291722",
     "phone": "02-2910-8784",
-    "address": "市新店區三民路81號1"
+    "address": "市新店區三民路81號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-356",
@@ -24839,7 +25813,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=480184",
     "orderUrl": "https://www.dinbendon.net/do/shop/480184",
     "phone": "02-2918-1918",
-    "address": "市新店區大豐路3號"
+    "address": "市新店區大豐路3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-357",
@@ -24865,7 +25840,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=249671",
     "orderUrl": "https://www.dinbendon.net/do/shop/249671",
     "phone": "02-2915-5807",
-    "address": "市新店區中正路146-1號"
+    "address": "市新店區中正路146-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-358",
@@ -24891,7 +25867,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=165664",
     "orderUrl": "https://www.dinbendon.net/do/shop/165664",
     "phone": "02-2262-9888",
-    "address": "市土城區裕民路129號"
+    "address": "市土城區裕民路129號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-359",
@@ -24917,7 +25894,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=509242",
     "orderUrl": "https://www.dinbendon.net/do/shop/509242",
     "phone": "02-2243-1168",
-    "address": "市中和區景平路671號"
+    "address": "市中和區景平路671號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-360",
@@ -24943,7 +25921,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=206670",
     "orderUrl": "https://www.dinbendon.net/do/shop/206670",
     "phone": "02-2270-6393",
-    "address": "市土城區金城路三段66號"
+    "address": "市土城區金城路三段66號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-361",
@@ -24969,7 +25948,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=421978",
     "orderUrl": "https://www.dinbendon.net/do/shop/421978",
     "phone": "02-2900-1898",
-    "address": "市泰山區明志路1段172號"
+    "address": "市泰山區明志路1段172號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-362",
@@ -24995,7 +25975,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=520109",
     "orderUrl": "https://www.dinbendon.net/do/shop/520109",
     "phone": "02-2662-1038",
-    "address": "市深坑區北深路三段211號"
+    "address": "市深坑區北深路三段211號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-363",
@@ -25021,7 +26002,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=185194",
     "orderUrl": "https://www.dinbendon.net/do/shop/185194",
     "phone": "02-2998-9986",
-    "address": "市新莊區幸福路817巷3號"
+    "address": "市新莊區幸福路817巷3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-364",
@@ -25047,7 +26029,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=428825",
     "orderUrl": "https://www.dinbendon.net/do/shop/428825",
     "phone": "02-2904-9109",
-    "address": "市新莊區中原路223號1"
+    "address": "市新莊區中原路223號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-365",
@@ -25073,7 +26056,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=485078",
     "orderUrl": "https://www.dinbendon.net/do/shop/485078",
     "phone": "02-2647-2481",
-    "address": "市汐止區大同路一段334號"
+    "address": "市汐止區大同路一段334號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-366",
@@ -25098,7 +26082,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=524576",
     "orderUrl": "https://www.dinbendon.net/do/shop/524576",
     "phone": "02-8693-1626",
-    "address": "市汐止區康寧街139號1"
+    "address": "市汐止區康寧街139號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-367",
@@ -25123,7 +26108,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=629068",
     "orderUrl": "https://www.dinbendon.net/do/shop/629068",
     "phone": "02-2648-8098",
-    "address": "汐止區忠孝東路236號"
+    "address": "汐止區忠孝東路236號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-368",
@@ -25149,7 +26135,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=77450",
     "orderUrl": "https://www.dinbendon.net/do/shop/77450",
     "phone": "02-2648-1115",
-    "address": "市汐止區青山路21號"
+    "address": "市汐止區青山路21號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-369",
@@ -25175,7 +26162,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=448853",
     "orderUrl": "https://www.dinbendon.net/do/shop/448853",
     "phone": "02-2641-0007",
-    "address": "市汐止區大同路二段312巷6號"
+    "address": "市汐止區大同路二段312巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-370",
@@ -25200,7 +26188,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=381487",
     "orderUrl": "https://www.dinbendon.net/do/shop/381487",
     "phone": "02-2910-0835",
-    "address": "市新店區三民路99號"
+    "address": "市新店區三民路99號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-371",
@@ -25226,7 +26215,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=404156",
     "orderUrl": "https://www.dinbendon.net/do/shop/404156",
     "phone": "02-8665-7535",
-    "address": "市新店區三民路109號"
+    "address": "市新店區三民路109號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-372",
@@ -25253,7 +26243,8 @@ window.RESTAURANTS = [
     "source": "vocus 6989941；dinbendon shop=502059",
     "orderUrl": "https://www.dinbendon.net/do/shop/502059",
     "phone": "02-8692-4231",
-    "address": "市汐止區大同路二段517號"
+    "address": "市汐止區大同路二段517號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-373",
@@ -25279,7 +26270,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=422336",
     "orderUrl": "https://www.dinbendon.net/do/shop/422336",
     "phone": "02-8693-2186",
-    "address": "市汐止區中興路160號"
+    "address": "市汐止區中興路160號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-374",
@@ -25306,7 +26298,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=433726；foodyas／粉專",
     "orderUrl": "https://www.dinbendon.net/do/shop/433726",
     "phone": "02-2691-9520",
-    "address": "汐止區新台五路一段125號1"
+    "address": "汐止區新台五路一段125號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-375",
@@ -25332,7 +26325,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=373630",
     "orderUrl": "https://www.dinbendon.net/do/shop/373630",
     "phone": "02-8648-1353",
-    "address": "市汐止區大同路三段348號"
+    "address": "市汐止區大同路三段348號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-376",
@@ -25358,7 +26352,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=607836",
     "orderUrl": "https://www.dinbendon.net/do/shop/607836",
     "phone": "02-2694-0300",
-    "address": "市汐止區康寧街429號之6"
+    "address": "市汐止區康寧街429號之6",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-377",
@@ -25384,7 +26379,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=559753",
     "orderUrl": "https://www.dinbendon.net/do/shop/559753",
     "phone": "02-2695-2808",
-    "address": "市汐止區中興路214巷6號"
+    "address": "市汐止區中興路214巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-378",
@@ -25410,7 +26406,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=209925",
     "orderUrl": "https://www.dinbendon.net/do/shop/209925",
     "phone": "02-2694-3555",
-    "address": "汐止區福德一路162號"
+    "address": "汐止區福德一路162號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-379",
@@ -25435,7 +26432,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=583504",
     "orderUrl": "https://www.dinbendon.net/do/shop/583504",
     "phone": "02-2218-1999",
-    "address": "市新店區建國路237號"
+    "address": "市新店區建國路237號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-380",
@@ -25461,7 +26459,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=97245",
     "orderUrl": "https://www.dinbendon.net/do/shop/97245",
     "phone": "02-2912-5760",
-    "address": "市新店區大豐路62號"
+    "address": "市新店區大豐路62號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-381",
@@ -25487,7 +26486,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=463836",
     "orderUrl": "https://www.dinbendon.net/do/shop/463836",
     "phone": "02-2911-0702",
-    "address": "市新店區文化路3號"
+    "address": "市新店區文化路3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-382",
@@ -25513,7 +26513,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=557461",
     "orderUrl": "https://www.dinbendon.net/do/shop/557461",
     "phone": "02-2912-0669",
-    "address": "市新店區北新路一段259號"
+    "address": "市新店區北新路一段259號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-383",
@@ -25539,7 +26540,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=629851",
     "orderUrl": "https://www.dinbendon.net/do/shop/629851",
     "phone": "02-2911-9878",
-    "address": "市新店區北新路三段10號"
+    "address": "市新店區北新路三段10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-384",
@@ -25565,7 +26567,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=170068",
     "orderUrl": "https://www.dinbendon.net/do/shop/170068",
     "phone": "02-2912-6388",
-    "address": "市新店區建國路238號"
+    "address": "市新店區建國路238號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-385",
@@ -25591,7 +26594,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=578422",
     "orderUrl": "https://www.dinbendon.net/do/shop/578422",
     "phone": "02-2911-6671",
-    "address": "市新店區中正路421號"
+    "address": "市新店區中正路421號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-386",
@@ -25617,7 +26621,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=323797",
     "orderUrl": "https://www.dinbendon.net/do/shop/323797",
     "phone": "02-8667-6075",
-    "address": "市新店區民權路133號"
+    "address": "市新店區民權路133號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-387",
@@ -25643,7 +26648,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=518269",
     "orderUrl": "https://www.dinbendon.net/do/shop/518269",
     "phone": "02-2913-5009",
-    "address": "市新店區大豐路20號"
+    "address": "市新店區大豐路20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-388",
@@ -25669,7 +26675,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=613012",
     "orderUrl": "https://www.dinbendon.net/do/shop/613012",
     "phone": "02-2246-6300",
-    "address": "市中和區圓通路171號"
+    "address": "市中和區圓通路171號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-389",
@@ -25694,7 +26701,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=368948",
     "orderUrl": "https://www.dinbendon.net/do/shop/368948",
     "phone": "02-2297-3660",
-    "address": "市泰山區明志路一段160號"
+    "address": "市泰山區明志路一段160號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-390",
@@ -25722,7 +26730,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=507260",
     "orderUrl": "https://www.dinbendon.net/do/shop/507260",
     "phone": "02-8667-6388",
-    "address": "市新店區民權路125號"
+    "address": "市新店區民權路125號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-391",
@@ -25750,7 +26759,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=234361",
     "orderUrl": "https://www.dinbendon.net/do/shop/234361",
     "phone": "02-2910-2959",
-    "address": "市新店區明德路9號"
+    "address": "市新店區明德路9號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-392",
@@ -25776,7 +26786,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=571203",
     "orderUrl": "https://www.dinbendon.net/do/shop/571203",
     "phone": "0903-916-865",
-    "address": "市新店區德正街41號"
+    "address": "市新店區德正街41號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-393",
@@ -25804,7 +26815,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=624487",
     "orderUrl": "https://www.dinbendon.net/do/shop/624487",
     "phone": "02-2912-5565",
-    "address": "市新店區寶橋路168號"
+    "address": "市新店區寶橋路168號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-394",
@@ -25830,7 +26842,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=645185",
     "orderUrl": "https://www.dinbendon.net/do/shop/645185",
     "phone": "02-2218-1112",
-    "address": "市新店區建國路235號"
+    "address": "市新店區建國路235號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-395",
@@ -25858,7 +26871,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=362354；footinder／bizlion 交叉電話",
     "orderUrl": "https://www.dinbendon.net/do/shop/362354",
     "phone": "02-2917-0709",
-    "address": "市新店區民權路87號"
+    "address": "市新店區民權路87號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-396",
@@ -25885,7 +26899,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=636827",
     "orderUrl": "https://www.dinbendon.net/do/shop/636827",
     "phone": "0989-690-818",
-    "address": "市汐止區連興街67號(摘要「67號"
+    "address": "市汐止區連興街67號(摘要「67號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-397",
@@ -25911,7 +26926,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=495069",
     "orderUrl": "https://www.dinbendon.net/do/shop/495069",
     "phone": "02-2296-8853",
-    "address": "市泰山區明志路102號2"
+    "address": "市泰山區明志路102號2",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-398",
@@ -25938,7 +26954,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=523849 notice",
     "orderUrl": "https://www.dinbendon.net/do/shop/523849",
     "phone": "02-2641-0700",
-    "address": "汐止區新台五路一段154之1號1"
+    "address": "汐止區新台五路一段154之1號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-399",
@@ -25965,7 +26982,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=238692",
     "orderUrl": "https://www.dinbendon.net/do/shop/238692",
     "phone": "02-2218-6580",
-    "address": "市新店區中正路507號"
+    "address": "市新店區中正路507號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-400",
@@ -25991,7 +27009,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=456499",
     "orderUrl": "https://www.dinbendon.net/do/shop/456499",
     "phone": "02-2911-3113",
-    "address": "市新店區中正路183巷8號"
+    "address": "市新店區中正路183巷8號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-401",
@@ -26018,7 +27037,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=190856",
     "orderUrl": "https://www.dinbendon.net/do/shop/190856",
     "phone": "02-2912-1317",
-    "address": "市新店區大豐路50號"
+    "address": "市新店區大豐路50號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-402",
@@ -26045,7 +27065,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=636867",
     "orderUrl": "https://www.dinbendon.net/do/shop/636867",
     "phone": "02-2695-0888",
-    "address": "市汐止區明峰街92號"
+    "address": "市汐止區明峰街92號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-403",
@@ -26072,7 +27093,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=327637",
     "orderUrl": "https://www.dinbendon.net/do/shop/327637",
     "phone": "02-8691-5161",
-    "address": "汐止區樟樹一路109號"
+    "address": "汐止區樟樹一路109號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-404",
@@ -26098,7 +27120,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=415912",
     "orderUrl": "https://www.dinbendon.net/do/shop/415912",
     "phone": "02-2643-0517",
-    "address": "市汐止區大同路二段353號"
+    "address": "市汐止區大同路二段353號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-405",
@@ -26124,7 +27147,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=558856",
     "orderUrl": "https://www.dinbendon.net/do/shop/558856",
     "phone": "02-2694-9645",
-    "address": "汐止區福德二路146號1"
+    "address": "汐止區福德二路146號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-406",
@@ -26150,7 +27174,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=590004",
     "orderUrl": "https://www.dinbendon.net/do/shop/590004",
     "phone": "02-2643-3568",
-    "address": "市汐止區中興路18號"
+    "address": "市汐止區中興路18號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-407",
@@ -26176,7 +27201,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=351707",
     "orderUrl": "https://www.dinbendon.net/do/shop/351707",
     "phone": "0916-578-591",
-    "address": "市汐止區中興路224號"
+    "address": "市汐止區中興路224號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-408",
@@ -26203,7 +27229,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=270767 notice；食記交叉滿500",
     "orderUrl": "https://www.dinbendon.net/do/shop/270767",
     "phone": "02-8993-1000",
-    "address": "市新莊區福壽街47號"
+    "address": "市新莊區福壽街47號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-410",
@@ -26230,7 +27257,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=225360",
     "orderUrl": "https://www.dinbendon.net/do/shop/225360",
     "phone": "02-8911-6542",
-    "address": "市新店區大豐路81號"
+    "address": "市新店區大豐路81號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-411",
@@ -26258,7 +27286,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/shop/423364",
     "lineUrl": "https://line.me/R/ti/p/@sos1980k",
     "phone": "02-2958-2200",
-    "address": "板橋區中山路二段84-5號"
+    "address": "板橋區中山路二段84-5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-412",
@@ -26286,7 +27315,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/shop/575110",
     "lineUrl": "https://line.me/R/ti/p/@332fedhm",
     "phone": "02-2990-2230",
-    "address": "市新莊區幸福路557號"
+    "address": "市新莊區幸福路557號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-413",
@@ -26312,7 +27342,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=436931",
     "orderUrl": "https://www.dinbendon.net/do/shop/436931",
     "phone": "02-2642-5822",
-    "address": "汐止區新昌路2號"
+    "address": "汐止區新昌路2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-414",
@@ -26338,7 +27369,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=530383",
     "orderUrl": "https://www.dinbendon.net/do/shop/530383",
     "phone": "0958-259-727",
-    "address": "林口區文化二路一段230巷1-1號"
+    "address": "林口區文化二路一段230巷1-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-415",
@@ -26364,7 +27396,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=575468",
     "orderUrl": "https://www.dinbendon.net/do/shop/575468",
     "phone": "02-2918-6168",
-    "address": "市新店區民族路36號"
+    "address": "市新店區民族路36號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-416",
@@ -26390,7 +27423,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=598335",
     "orderUrl": "https://www.dinbendon.net/do/shop/598335",
     "phone": "02-8642-4858",
-    "address": "市汐止區大同路一段292巷25號"
+    "address": "市汐止區大同路一段292巷25號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-417",
@@ -26417,7 +27451,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/shop/617475",
     "lineUrl": "https://line.me/R/ti/p/@223eyveh",
     "phone": "02-2608-8622",
-    "address": "林口區文化二路一段68巷18之2號"
+    "address": "林口區文化二路一段68巷18之2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-418",
@@ -26445,7 +27480,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=459721",
     "orderUrl": "https://www.dinbendon.net/do/shop/459721",
     "phone": "02-2222-2713",
-    "address": "市中和區連城路389巷1號"
+    "address": "市中和區連城路389巷1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-419",
@@ -26472,7 +27508,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=598625",
     "orderUrl": "https://www.dinbendon.net/do/shop/598625",
     "phone": "02-2218-5764",
-    "address": "市新店區建國路299號"
+    "address": "市新店區建國路299號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-420",
@@ -26497,7 +27534,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=528240",
     "orderUrl": "https://www.dinbendon.net/do/shop/528240",
     "phone": "02-2602-3790",
-    "address": "林口區文化三路二段325號"
+    "address": "林口區文化三路二段325號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-421",
@@ -26523,7 +27561,8 @@ window.RESTAURANTS = [
     "evidence": "dinbendon publicNotice：**滿300外送，免運門檻按哩程數記**；線上訂餐 Oddle icequeen",
     "source": "dinbendon shop=304958；Oddle icequeen",
     "orderUrl": null,
-    "phone": "0938-754-666"
+    "phone": "0938-754-666",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-422",
@@ -26548,7 +27587,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=575476",
     "orderUrl": "https://www.dinbendon.net/do/shop/575476",
     "phone": "02-2917-7768",
-    "address": "市新店區中興路二段29號"
+    "address": "市新店區中興路二段29號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-423",
@@ -26574,7 +27614,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=481831 description",
     "orderUrl": "https://www.dinbendon.net/do/shop/481831",
     "phone": "02-2204-6339",
-    "address": "新莊區後港一路73號"
+    "address": "新莊區後港一路73號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-424",
@@ -26601,7 +27642,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=288500",
     "orderUrl": "https://www.dinbendon.net/do/shop/288500",
     "phone": "02-8227-2758",
-    "address": "新北市建一路190之1號"
+    "address": "新北市建一路190之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-425",
@@ -26626,7 +27668,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=58457",
     "orderUrl": "https://www.dinbendon.net/do/shop/58457",
     "phone": "02-2917-0022",
-    "address": "市新店區中興路一段285之1號"
+    "address": "市新店區中興路一段285之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-426",
@@ -26651,7 +27694,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=18495",
     "orderUrl": "https://www.dinbendon.net/do/shop/18495",
     "phone": "02-2641-0909",
-    "address": "汐止區中興路25號"
+    "address": "汐止區中興路25號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-427",
@@ -26676,7 +27720,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=228665",
     "orderUrl": "https://www.dinbendon.net/do/shop/228665",
     "phone": "02-2641-0888",
-    "address": "汐止區大同路2段292號"
+    "address": "汐止區大同路2段292號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-428",
@@ -26702,7 +27747,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=266974",
     "orderUrl": "https://www.dinbendon.net/do/shop/266974",
     "phone": "02-8667-5591",
-    "address": "市新店區民權路101號"
+    "address": "市新店區民權路101號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-429",
@@ -26728,7 +27774,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=267824",
     "orderUrl": "https://www.dinbendon.net/do/shop/267824",
     "phone": "02-2647-0932",
-    "address": "汐止區樟樹一路135巷12號"
+    "address": "汐止區樟樹一路135巷12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-430",
@@ -26755,7 +27802,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=293089",
     "orderUrl": "https://www.dinbendon.net/do/shop/293089",
     "phone": "02-2695-2300",
-    "address": "汐止區福德二路104號"
+    "address": "汐止區福德二路104號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-431",
@@ -26780,7 +27828,8 @@ window.RESTAURANTS = [
     "evidence": "dinbendon notice：**三個外送**；11點前訂購",
     "source": "dinbendon shop=483673",
     "orderUrl": "https://www.dinbendon.net/do/shop/483673",
-    "phone": "0900-679-966"
+    "phone": "0900-679-966",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-432",
@@ -26805,7 +27854,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=568094",
     "orderUrl": "https://www.dinbendon.net/do/shop/568094",
     "phone": "0976-559-531",
-    "address": "汐止區新台五路二段120巷2號"
+    "address": "汐止區新台五路二段120巷2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-433",
@@ -26833,7 +27883,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=600719",
     "orderUrl": "https://www.dinbendon.net/do/shop/600719",
     "phone": "0968-378-097",
-    "address": "市土城區中央路三段287之1號"
+    "address": "市土城區中央路三段287之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-434",
@@ -26861,7 +27912,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=616830",
     "orderUrl": "https://www.dinbendon.net/do/shop/616830",
     "phone": "02-2694-0788",
-    "address": "汐止區福德一路174號"
+    "address": "汐止區福德一路174號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-435",
@@ -26887,7 +27939,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=639601",
     "orderUrl": "https://www.dinbendon.net/do/shop/639601",
     "phone": "02-8642-1169",
-    "address": "汐止區樟樹二路136巷12號"
+    "address": "汐止區樟樹二路136巷12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-436",
@@ -26913,7 +27966,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=286824",
     "orderUrl": "https://www.dinbendon.net/do/shop/286824",
     "phone": "02-2683-0010",
-    "address": "市樹林區保安街1段114號1"
+    "address": "市樹林區保安街1段114號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-437",
@@ -26940,7 +27994,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=635540",
     "orderUrl": "https://www.dinbendon.net/do/shop/635540",
     "phone": "02-2910-0170",
-    "address": "市新店區中興路三段287號"
+    "address": "市新店區中興路三段287號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-438",
@@ -26966,7 +28021,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=343291",
     "orderUrl": "https://www.dinbendon.net/do/shop/343291",
     "phone": "02-2625-9611",
-    "address": "市淡水區北新路182巷41弄4號1樓(異於隔壁弄6"
+    "address": "市淡水區北新路182巷41弄4號1樓(異於隔壁弄6",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-439",
@@ -26992,7 +28048,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=113628",
     "orderUrl": "https://www.dinbendon.net/do/shop/113628",
     "phone": "02-8226-3839",
-    "address": "中和區建一路170號"
+    "address": "中和區建一路170號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-440",
@@ -27017,7 +28074,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=158385",
     "orderUrl": "https://www.dinbendon.net/do/shop/158385",
     "phone": "02-2986-5252",
-    "address": "三重區正義北路169號"
+    "address": "三重區正義北路169號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-441",
@@ -27045,7 +28103,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=321010",
     "orderUrl": "https://www.dinbendon.net/do/shop/321010",
     "phone": "02-2277-2775",
-    "address": "市新莊區中港路521號"
+    "address": "市新莊區中港路521號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-442",
@@ -27072,7 +28131,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=337454",
     "orderUrl": "https://www.dinbendon.net/do/shop/337454",
     "phone": "02-2911-6513",
-    "address": "新店區三民路98-1號"
+    "address": "新店區三民路98-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-443",
@@ -27098,7 +28158,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=459907",
     "orderUrl": "https://www.dinbendon.net/do/shop/459907",
     "phone": "02-2910-0313",
-    "address": "市新店區寶強路51號"
+    "address": "市新店區寶強路51號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-444",
@@ -27124,7 +28185,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=503008",
     "orderUrl": "https://www.dinbendon.net/do/shop/503008",
     "phone": "02-2242-2552",
-    "address": "中和區中和路10號"
+    "address": "中和區中和路10號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-445",
@@ -27151,7 +28213,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=10850",
     "orderUrl": "https://www.dinbendon.net/do/shop/10850",
     "phone": "02-2913-4587",
-    "address": "市新店區寶中路117號"
+    "address": "市新店區寶中路117號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-446",
@@ -27178,7 +28241,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=241599；didieats",
     "orderUrl": "https://www.dinbendon.net/do/shop/241599",
     "phone": "02-2910-5811",
-    "address": "市新店區建國路230號"
+    "address": "市新店區建國路230號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-447",
@@ -27205,7 +28269,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=313762",
     "orderUrl": "https://www.dinbendon.net/do/shop/313762",
     "phone": "02-2647-8181",
-    "address": "汐止區建成路160巷5號"
+    "address": "汐止區建成路160巷5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-448",
@@ -27232,7 +28297,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=329264",
     "orderUrl": "https://www.dinbendon.net/do/shop/329264",
     "phone": "02-8642-4888",
-    "address": "市汐止區連興街141號"
+    "address": "市汐止區連興街141號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-449",
@@ -27259,7 +28325,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=426442",
     "orderUrl": "https://www.dinbendon.net/do/shop/426442",
     "phone": "02-2692-3538",
-    "address": "市汐止區康寧街451號"
+    "address": "市汐止區康寧街451號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-450",
@@ -27285,7 +28352,8 @@ window.RESTAURANTS = [
     "source": "imenu MiracleChicken；dinbendon shop=648325",
     "orderUrl": "https://www.dinbendon.net/do/shop/648325",
     "phone": "02-2647-8192",
-    "address": "市汐止區中興路8號"
+    "address": "市汐止區中興路8號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-451",
@@ -27310,7 +28378,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**300 元以上外送**；外送請於11點以前訂餐；每週日公休",
     "source": "268web Part=237001",
     "phone": "02-8671-9246",
-    "address": "市三峽區大同路29號1"
+    "address": "市三峽區大同路29號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-452",
@@ -27338,7 +28407,8 @@ window.RESTAURANTS = [
     "source": "vegecraves.22web.org QA",
     "orderUrl": "https://vegecraves.22web.org/",
     "phone": "028275-1815",
-    "address": "市板橋區光武街119號"
+    "address": "市板橋區光武街119號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-453",
@@ -27364,7 +28434,8 @@ window.RESTAURANTS = [
     "evidence": "食記／ETtoday：**訂三個還可外送**（WISELY 2020；ETtoday 轉載）；電話／址公開",
     "source": "wisely.tw；travel.ettoday.net",
     "phone": "02-2958-7676",
-    "address": "市板橋區永豐街70號"
+    "address": "市板橋區永豐街70號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-454",
@@ -27391,7 +28462,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=197972",
     "orderUrl": "https://www.dinbendon.net/do/shop/197972",
     "phone": "02-2913-0011",
-    "address": "市新店區北新路一段241號"
+    "address": "市新店區北新路一段241號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-455",
@@ -27417,7 +28489,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=393035",
     "orderUrl": "https://www.dinbendon.net/do/shop/393035",
     "phone": "2218-6767",
-    "address": "市新店區中正路503之1號"
+    "address": "市新店區中正路503之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-456",
@@ -27444,7 +28517,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=410159",
     "orderUrl": "https://www.dinbendon.net/do/shop/410159",
     "phone": "02-2219-0765",
-    "address": "市新店區中正路633號1"
+    "address": "市新店區中正路633號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-457",
@@ -27470,7 +28544,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=527427",
     "orderUrl": "https://www.dinbendon.net/do/shop/527427",
     "phone": "02-2913-1314",
-    "address": "市新店區大豐路72號"
+    "address": "市新店區大豐路72號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-458",
@@ -27495,7 +28570,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=617624",
     "orderUrl": "https://www.dinbendon.net/do/shop/617624",
     "phone": "02-2648-7777",
-    "address": "市汐止區大同路二段565號"
+    "address": "市汐止區大同路二段565號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-459",
@@ -27522,7 +28598,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=637916",
     "orderUrl": "https://www.dinbendon.net/do/shop/637916",
     "phone": "0986-979-851",
-    "address": "市汐止區大同路二段480號1"
+    "address": "市汐止區大同路二段480號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-460",
@@ -27548,7 +28625,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=647314",
     "orderUrl": "https://www.dinbendon.net/do/shop/647314",
     "phone": "2992-2222",
-    "address": "市新莊區福壽街170號"
+    "address": "市新莊區福壽街170號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-461",
@@ -27574,7 +28652,8 @@ window.RESTAURANTS = [
     "evidence": "268web：**300元以上外送**；跨區／車程15分鐘以上電洽；Batch 25「中港路無門牌」→ 本批主頁解鎖中港路361號",
     "source": "268web Part=242005",
     "phone": "2277-8393",
-    "address": "市新莊區中港路361號"
+    "address": "市新莊區中港路361號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-462",
@@ -27600,7 +28679,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=391920",
     "orderUrl": "https://www.dinbendon.net/do/shop/391920",
     "phone": "8919-3577",
-    "address": "市新店區大豐路4-1號"
+    "address": "市新店區大豐路4-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-463",
@@ -27627,7 +28707,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=586720",
     "orderUrl": "https://www.dinbendon.net/do/shop/586720",
     "phone": "0987-642-801",
-    "address": "市土城區頂埔街1-1號"
+    "address": "市土城區頂埔街1-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-464",
@@ -27654,7 +28735,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=119950",
     "orderUrl": "https://www.dinbendon.net/do/shop/119950",
     "phone": "02-2911-7729",
-    "address": "市新店區北新路一段217號"
+    "address": "市新店區北新路一段217號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-465",
@@ -27681,7 +28763,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=537800",
     "orderUrl": "https://www.dinbendon.net/do/shop/537800",
     "phone": "02-2959-6512",
-    "address": "市板橋區忠孝路175號"
+    "address": "市板橋區忠孝路175號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-466",
@@ -27707,7 +28790,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=523713",
     "orderUrl": "https://www.dinbendon.net/do/shop/523713",
     "phone": "02-8228-6200",
-    "address": "市中和區連城路403巷6號"
+    "address": "市中和區連城路403巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-467",
@@ -27735,7 +28819,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=252463",
     "orderUrl": "https://www.dinbendon.net/do/shop/252463",
     "phone": "02-2996-5255",
-    "address": "市新莊區福壽街158號"
+    "address": "市新莊區福壽街158號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-468",
@@ -27761,7 +28846,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=551479",
     "orderUrl": "https://www.dinbendon.net/do/shop/551479",
     "phone": "02-2277-6911",
-    "address": "市新莊區幸福路76號"
+    "address": "市新莊區幸福路76號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-469",
@@ -27788,7 +28874,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=360293",
     "orderUrl": "https://www.dinbendon.net/do/shop/360293",
     "phone": "2641-8576",
-    "address": "市汐止區和平街46巷8號"
+    "address": "市汐止區和平街46巷8號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-470",
@@ -27814,7 +28901,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=162200",
     "orderUrl": "https://www.dinbendon.net/do/shop/162200",
     "phone": "2649-0776",
-    "address": "汐止區樟樹一路121之2號"
+    "address": "汐止區樟樹一路121之2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-471",
@@ -27840,7 +28928,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=622940",
     "orderUrl": "https://www.dinbendon.net/do/shop/622940",
     "phone": "02-8914-6282",
-    "address": "市新店區寶中路49之1號"
+    "address": "市新店區寶中路49之1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-472",
@@ -27866,7 +28955,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=351575",
     "orderUrl": "https://www.dinbendon.net/do/shop/351575",
     "phone": "02-8911-5340",
-    "address": "市新店區寶宏路6號"
+    "address": "市新店區寶宏路6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-473",
@@ -27892,7 +28982,8 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=388442",
     "orderUrl": "https://dinbendon.net/do/idine?shop=388442",
     "phone": "02-8665-7883",
-    "address": "市新店區中華路87號"
+    "address": "市新店區中華路87號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-490",
@@ -27918,7 +29009,8 @@ window.RESTAURANTS = [
     "source": "小紫吃喝玩樂 2024（店主現場說法）",
     "orderUrl": "https://duck303088.pixnet.net/blog/posts/9576476600",
     "phone": "02-2679-4578",
-    "address": "市鶯歌區鶯桃路579號"
+    "address": "市鶯歌區鶯桃路579號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-505",
@@ -27946,7 +29038,8 @@ window.RESTAURANTS = [
     "source": "menupapa menu/7144",
     "orderUrl": "https://menupapa.com/menu/7144",
     "phone": "02-2959-5335",
-    "address": "市板橋區國慶路177號"
+    "address": "市板橋區國慶路177號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-547",
@@ -27973,7 +29066,8 @@ window.RESTAURANTS = [
     "source": "iCHEF DHW3JHrT",
     "orderUrl": "https://shop.ichefpos.com/store/DHW3JHrT/ordering",
     "phone": "02-2277-0300",
-    "address": "市新莊區中平路35號"
+    "address": "市新莊區中平路35號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-549",
@@ -28000,7 +29094,8 @@ window.RESTAURANTS = [
     "source": "iCHEF pt0MetJU",
     "orderUrl": "https://shop.ichefpos.com/store/pt0MetJU/ordering",
     "phone": "02-2990-1230",
-    "address": "市新莊區中華路一段45巷1號"
+    "address": "市新莊區中華路一段45巷1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-550",
@@ -28025,7 +29120,8 @@ window.RESTAURANTS = [
     "evidence": "公開店家資訊／粉絲頁摘錄：**附近區域滿5個可外送**；大量建議前一天詢問；外送專線公開",
     "source": "twagoda／店家公開外送句",
     "phone": "02-8221-1669",
-    "address": "市中和區連城路469巷4號1"
+    "address": "市中和區連城路469巷4號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-554",
@@ -28053,7 +29149,8 @@ window.RESTAURANTS = [
     "source": "xingfuxiaochi.weebly.com",
     "orderUrl": "https://xingfuxiaochi.weebly.com/",
     "phone": "02-2256-2093",
-    "address": "市板橋區幸福路30號"
+    "address": "市板橋區幸福路30號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-555",
@@ -28080,7 +29177,8 @@ window.RESTAURANTS = [
     "source": "mingkaoroufan.weebly.com",
     "orderUrl": "https://mingkaoroufan.weebly.com/",
     "phone": "02-8993-7798",
-    "address": "市新莊區化成路622號"
+    "address": "市新莊區化成路622號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-556",
@@ -28107,7 +29205,8 @@ window.RESTAURANTS = [
     "source": "curryarmament-tw.weebly.com",
     "orderUrl": "https://curryarmament-tw.weebly.com/about.html",
     "phone": "0958-804-721",
-    "address": "市中和區建八路20-1號"
+    "address": "市中和區建八路20-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-557",
@@ -28134,7 +29233,8 @@ window.RESTAURANTS = [
     "source": "tan-ji.weebly.com",
     "orderUrl": "https://tan-ji.weebly.com/",
     "phone": "02-2295-2316",
-    "address": "市五股區成泰路三段131號"
+    "address": "市五股區成泰路三段131號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-558",
@@ -28161,7 +29261,8 @@ window.RESTAURANTS = [
     "source": "wunbaoerouguan.weebly.com",
     "orderUrl": "https://wunbaoerouguan.weebly.com/",
     "phone": "02-2202-7369",
-    "address": "市新莊區萬安街126號"
+    "address": "市新莊區萬安街126號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-559",
@@ -28188,7 +29289,8 @@ window.RESTAURANTS = [
     "source": "iCHEF Ok2Wh6CI",
     "orderUrl": "https://shop.ichefpos.com/store/Ok2Wh6CI/ordering",
     "phone": "0908-032-183",
-    "address": "市永和區得和路373巷3-1號"
+    "address": "市永和區得和路373巷3-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-560",
@@ -28213,7 +29315,8 @@ window.RESTAURANTS = [
     "evidence": "2022 食記／店家文案摘錄：**新莊、蘆洲、五股滿500元皆可外送**（證據偏舊 → medium）",
     "source": "yummygo PIXNET 2022-09",
     "phone": "02-2208-5570",
-    "address": "市新莊區新豐街18號"
+    "address": "市新莊區新豐街18號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-561",
@@ -28239,7 +29342,8 @@ window.RESTAURANTS = [
     "evidence": "2022 食記載明：**五股全區域 2 個以上起送**（證據偏舊 → medium）",
     "source": "dong1104／life.faqs 食記 2022-06",
     "phone": "02-2292-9098",
-    "address": "市五股區成泰路二段183號之5"
+    "address": "市五股區成泰路二段183號之5",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-562",
@@ -28266,7 +29370,8 @@ window.RESTAURANTS = [
     "source": "a-kwang.weebly.com",
     "orderUrl": "https://a-kwang.weebly.com/",
     "phone": "02-2906-1638",
-    "address": "市新莊區中正路514巷13號"
+    "address": "市新莊區中正路514巷13號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-564",
@@ -28294,7 +29399,8 @@ window.RESTAURANTS = [
     "source": "oumaitianbula.weebly.com",
     "orderUrl": "https://oumaitianbula.weebly.com/",
     "phone": "02-2603-3158",
-    "address": "市林口區中正路498號"
+    "address": "市林口區中正路498號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-566",
@@ -28322,7 +29428,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://foshju-sach.weebly.com/",
     "lineUrl": "https://line.me/R/ti/p/@lowfat6222",
     "phone": "0918-826-222",
-    "address": "市三重區三和路三段100號"
+    "address": "市三重區三和路三段100號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-567",
@@ -28349,7 +29456,8 @@ window.RESTAURANTS = [
     "source": "haoxiangchijiao.weebly.com",
     "orderUrl": "https://haoxiangchijiao.weebly.com/",
     "phone": "0989-398-785",
-    "address": "市三重區力行路一段89巷6號"
+    "address": "市三重區力行路一段89巷6號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-568",
@@ -28377,7 +29485,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://rihshih-sc.weebly.com/",
     "lineUrl": "https://line.me/R/ti/p/@300nsmis",
     "phone": "0968-309-368",
-    "address": "市三重區力行路二段154號"
+    "address": "市三重區力行路二段154號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-569",
@@ -28404,7 +29513,8 @@ window.RESTAURANTS = [
     "source": "iCHEF BnUY8vJo；mabopoke.com",
     "orderUrl": "https://shop.ichefpos.com/store/BnUY8vJo/ordering",
     "phone": "02-2254-4786",
-    "address": "市板橋區文化路一段311之3號"
+    "address": "市板橋區文化路一段311之3號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-570",
@@ -28432,7 +29542,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://chenliangmian.weebly.com/",
     "lineUrl": "https://line.me/R/ti/p/@iwc1523h",
     "phone": "0953-124-356",
-    "address": "市新店區安康路二段245號1"
+    "address": "市新店區安康路二段245號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-571",
@@ -28460,7 +29571,8 @@ window.RESTAURANTS = [
     "source": "linkouaimianzihguan.weebly.com",
     "orderUrl": "https://linkouaimianzihguan.weebly.com/",
     "phone": "0910-380-957",
-    "address": "林口區文化二路一段96巷15號"
+    "address": "林口區文化二路一段96巷15號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-572",
@@ -28487,7 +29599,8 @@ window.RESTAURANTS = [
     "source": "bnhsdining.weebly；showapark.com",
     "orderUrl": "https://reurl.cc/vqdbRl",
     "phone": "02-2268-8831",
-    "address": "市土城區中央路三段118號"
+    "address": "市土城區中央路三段118號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-573",
@@ -28514,7 +29627,8 @@ window.RESTAURANTS = [
     "source": "xingfu-bkf.weebly.com",
     "orderUrl": "https://xingfu-bkf.weebly.com/",
     "phone": "02-2969-8796",
-    "address": "市板橋區新生街1號"
+    "address": "市板橋區新生街1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-574",
@@ -28542,7 +29656,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://chi-danshao.weebly.com/",
     "lineUrl": "https://line.me/R/ti/p/@134pbtqv",
     "phone": "0983-982-477",
-    "address": "市土城區裕民路68號B31"
+    "address": "市土城區裕民路68號B31",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-576",
@@ -28569,7 +29684,8 @@ window.RESTAURANTS = [
     "source": "hangniouwu.weebly.com",
     "orderUrl": "https://hangniouwu.weebly.com/",
     "phone": "02-3501-2700",
-    "address": "三峽區國際一街41號"
+    "address": "三峽區國際一街41號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-577",
@@ -28596,7 +29712,8 @@ window.RESTAURANTS = [
     "source": "hanshihaitaifanjuan.weebly.com",
     "orderUrl": "https://hanshihaitaifanjuan.weebly.com/",
     "phone": "0963-813-335",
-    "address": "市新店區北新路二段152巷12號"
+    "address": "市新店區北新路二段152巷12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-578",
@@ -28623,7 +29740,8 @@ window.RESTAURANTS = [
     "source": "cangkali.weebly.com",
     "orderUrl": "https://cangkali.weebly.com/",
     "phone": "02-3234-8898",
-    "address": "市中和區連城路367號"
+    "address": "市中和區連城路367號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-579",
@@ -28651,7 +29769,8 @@ window.RESTAURANTS = [
     "source": "mygo-group.com",
     "orderUrl": "http://www.mygo-group.com/edcontent.php?lang=tw",
     "phone": "02-2215-6781",
-    "address": "市新店區安康路三段193號"
+    "address": "市新店區安康路三段193號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-580",
@@ -28679,7 +29798,8 @@ window.RESTAURANTS = [
     "source": "buffetfood.com.tw",
     "orderUrl": "https://www.buffetfood.com.tw/index.php/Order/Transport",
     "phone": "02-2221-2799",
-    "address": "市中和區立業路101號"
+    "address": "市中和區立業路101號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-581",
@@ -28708,7 +29828,8 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "02-2971-0400",
-    "address": "市五股區中興路一段55號"
+    "address": "市五股區中興路一段55號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-582",
@@ -28734,7 +29855,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明店前／店家規則：**買三個便當就可以外送**；其他地區量多電洽",
     "source": "mecocute／WalkerLand 食記交叉",
     "phone": "02-2990-6676",
-    "address": "市新莊區中華路二段21號"
+    "address": "市新莊區中華路二段21號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-584",
@@ -28761,7 +29883,8 @@ window.RESTAURANTS = [
     "source": "tinopizzacafe.oddle.me",
     "orderUrl": "https://tinopizzacafe.oddle.me/zh_TW/stores",
     "phone": "02-2958-1059",
-    "address": "市板橋區公園街20號"
+    "address": "市板橋區公園街20號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-587",
@@ -28789,7 +29912,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/cYLrdDx9",
     "lineUrl": "https://lin.ee/cYLrdDx9",
     "phone": "02-2204-3969",
-    "address": "市新莊區四維路150巷7號"
+    "address": "市新莊區四維路150巷7號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-588",
@@ -28816,7 +29940,8 @@ window.RESTAURANTS = [
     "evidence": "2025 食記載明：**滿 500 元可外送**（建議詢問店家詳細規則）；另有 LINE 快一點線上點餐",
     "source": "hsuaco 食記 2025-11",
     "phone": "02-2212-4042",
-    "address": "市新店區安成街24號1"
+    "address": "市新店區安成街24號1",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-589",
@@ -28842,7 +29967,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明：**三重滿300元起可外送**；較遠區域金額請先電洽",
     "source": "mecocute 食記 2023-10",
     "phone": "02-8988-1018",
-    "address": "三重區大同北路25號"
+    "address": "三重區大同北路25號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-590",
@@ -28868,7 +29994,8 @@ window.RESTAURANTS = [
     "evidence": "2025 中永和燒臘整理明示：**附近滿3個可外送**；內用湯／飲料無限",
     "source": "tony60533 2025-08",
     "phone": "02-2948-2336",
-    "address": "市中和區宜安路60號"
+    "address": "市中和區宜安路60號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-591",
@@ -28894,7 +30021,8 @@ window.RESTAURANTS = [
     "evidence": "2025 中永和燒臘整理明示：**附近滿3個可外送**",
     "source": "tony60533 2025-08",
     "phone": "02-2247-8167",
-    "address": "市中和區中和路221號"
+    "address": "市中和區中和路221號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-592",
@@ -28921,7 +30049,8 @@ window.RESTAURANTS = [
     "evidence": "部落格店家資訊欄：**滿400元可外送**；9:00與16:00開始接受預約",
     "source": "ladymoko 2017；mibaoma／opengovtw 交叉",
     "phone": "02-2913-2379",
-    "address": "市新店區大豐路65號"
+    "address": "市新店區大豐路65號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-593",
@@ -28946,7 +30075,8 @@ window.RESTAURANTS = [
     "evidence": "部落格／懶人包明示：**3個以上外送**",
     "source": "ladymoko 2017／xindian-bento 懶人包",
     "phone": "02-8665-3996",
-    "address": "市新店區民族路54號"
+    "address": "市新店區民族路54號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-594",
@@ -28972,7 +30102,8 @@ window.RESTAURANTS = [
     "evidence": "2022 食記明示店家有「**三個即可外送**」佛心服務；2025 整理頁仍列同電話／中正路58（dinbendon 另見民光街14 鏡像，本列以近期整理頁門牌為準）",
     "source": "bambiroad 2022；tony60533 2025",
     "phone": "02-2943-6805",
-    "address": "市永和區中正路58號"
+    "address": "市永和區中正路58號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-595",
@@ -28999,7 +30130,8 @@ window.RESTAURANTS = [
     "evidence": "店家食記／懶人包明示：**自己的外送員，滿500元外送**",
     "source": "tony60533/letseat；tony lunch 2025",
     "phone": "0903-736-033",
-    "address": "市永和區秀朗路二段52號"
+    "address": "市永和區秀朗路二段52號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-596",
@@ -29026,7 +30158,8 @@ window.RESTAURANTS = [
     "evidence": "tony60533 中永和便當懶人包備註：**滿400元可外送**；上午10點開始接受預訂",
     "source": "tony60533/lunch 2025-08",
     "phone": "02-2929-9439",
-    "address": "市永和區永貞路34號"
+    "address": "市永和區永貞路34號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-600",
@@ -29053,7 +30186,8 @@ window.RESTAURANTS = [
     "evidence": "2026 mibaoma 店家資訊欄明示：**★滿400元即可外送**",
     "source": "mibaoma/zhudaa 2026-01",
     "phone": "02-2964-5252",
-    "address": "市板橋區中山路二段394號"
+    "address": "市板橋區中山路二段394號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-601",
@@ -29082,7 +30216,8 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "02-8242-2222",
-    "address": "市中和區連城路23巷5號"
+    "address": "市中和區連城路23巷5號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-602",
@@ -29108,7 +30243,8 @@ window.RESTAURANTS = [
     "evidence": "2025 食記明示：**提供10盒以上外送服務**",
     "source": "pekoblog 2025-10",
     "phone": "02-3234-4870",
-    "address": "市中和區連城路469巷1號"
+    "address": "市中和區連城路469巷1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-604",
@@ -29135,7 +30271,8 @@ window.RESTAURANTS = [
     "evidence": "WalkerLand 店家頁明示：**消費滿500元即可外送**；外帶／自營外送為主（無內用）",
     "source": "WalkerLand art/352450",
     "phone": "02-2601-7946",
-    "address": "市林口區四維路245巷12號"
+    "address": "市林口區四維路245巷12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-605",
@@ -29164,7 +30301,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@469wmrul",
     "lineUrl": "https://line.me/R/ti/p/@469wmrul",
     "phone": "0963-571-849",
-    "address": "市三重區雙園街105號"
+    "address": "市三重區雙園街105號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-606",
@@ -29190,7 +30328,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明店家名片：**滿三個就免費外送**；外送不加價",
     "source": "xyz989 pixnet 2023-08",
     "phone": "02-2246-6616",
-    "address": "市永和區保平路226號"
+    "address": "市永和區保平路226號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-607",
@@ -29217,7 +30356,8 @@ window.RESTAURANTS = [
     "evidence": "2026 食記載明滿額免運階梯：**安坑地區滿500元**、**新店市區滿1200元**、**雙北地區滿2000元**；大量至少提前一天",
     "source": "boboeatking pixnet 2026-09",
     "phone": "02-8666-8993",
-    "address": "市新店區安康路二段221號"
+    "address": "市新店區安康路二段221號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-608",
@@ -29243,7 +30383,8 @@ window.RESTAURANTS = [
     "evidence": "公開會議便當頁：**最低下單量 10 份**；配送新莊／五股／泰山／樹林／板橋／三重／蘆洲／林口等；**滿額不收外送費**（實際滿額電洽）",
     "source": "vocus 會議便當文",
     "phone": "02-2996-3883",
-    "address": "市新莊區中和街91號"
+    "address": "市新莊區中和街91號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-609",
@@ -29270,7 +30411,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/VUrwhjK",
     "lineUrl": "https://lin.ee/VUrwhjK",
     "phone": "02-8286-0810",
-    "address": "市蘆洲區民族路172號"
+    "address": "市蘆洲區民族路172號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-610",
@@ -29297,7 +30439,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/lm23Rhj",
     "lineUrl": "https://lin.ee/lm23Rhj",
     "phone": "02-2252-8790",
-    "address": "市板橋區文化路一段188巷7弄42號"
+    "address": "市板橋區文化路一段188巷7弄42號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-611",
@@ -29323,7 +30466,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/hA7TbNJ",
     "lineUrl": "https://lin.ee/hA7TbNJ",
     "phone": "02-3234-0212",
-    "address": "市中和區建八路12號"
+    "address": "市中和區建八路12號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-612",
@@ -29350,7 +30494,8 @@ window.RESTAURANTS = [
     "source": "mrogenki.com/bentou；taiwanrestaurantsf 交叉",
     "orderUrl": "https://mrogenki.com/bentou",
     "phone": "02-2995-0078",
-    "address": "三重區中興南街33號3"
+    "address": "三重區中興南街33號3",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-613",
@@ -29375,7 +30520,8 @@ window.RESTAURANTS = [
     "evidence": "官網／黃頁明示：**便當外送不加價（限5個）**",
     "source": "hao.web66.com.tw；web66.tw/ORG/1503",
     "phone": "02-8688-3011",
-    "address": "市新店區順安街63號"
+    "address": "市新店區順安街63號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-614",
@@ -29401,7 +30547,8 @@ window.RESTAURANTS = [
     "evidence": "2021 食記載明店家自送：**視距離最低三份以上就送**",
     "source": "mywanderlust pixnet 2021-08",
     "phone": "02-8992-6608",
-    "address": "市新莊區中華路二段122號"
+    "address": "市新莊區中華路二段122號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-615",
@@ -29427,7 +30574,8 @@ window.RESTAURANTS = [
     "evidence": "食記／店家資訊摘錄：**Line@ 線上點餐外送免運費**（公開自營外送通道；最低份數頁面未另列 → 以免運句為準）",
     "source": "needmorefood／ursula007 交叉",
     "phone": "02-2906-8820",
-    "address": "市新莊區中正路593號"
+    "address": "市新莊區中正路593號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-616",
@@ -29453,7 +30601,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/UHTouLj",
     "lineUrl": "https://lin.ee/UHTouLj",
     "phone": "02-2949-0360",
-    "address": "市永和區得和路184號"
+    "address": "市永和區得和路184號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-617",
@@ -29479,7 +30628,8 @@ window.RESTAURANTS = [
     "source": "chong-don.weebly.com",
     "orderUrl": "https://chong-don.weebly.com/",
     "phone": "02-2609-1699",
-    "address": "林口區文化二路二段88巷21號"
+    "address": "林口區文化二路二段88巷21號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-618",
@@ -29506,7 +30656,8 @@ window.RESTAURANTS = [
     "source": "0286918660.tw66.com.tw",
     "orderUrl": "https://0286918660.tw66.com.tw/",
     "phone": "02-8691-8660",
-    "address": "汐止區樟樹一路150號"
+    "address": "汐止區樟樹一路150號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-620",
@@ -29533,7 +30684,8 @@ window.RESTAURANTS = [
     "source": "web66 NMD postId=312156",
     "orderUrl": "https://0222992212.web66.com.tw/",
     "phone": "02-2299-2212",
-    "address": "市五股區五權路7巷6-1號"
+    "address": "市五股區五權路7巷6-1號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-623",
@@ -29560,7 +30712,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@632gaoqx",
     "lineUrl": "https://line.me/R/ti/p/@632gaoqx",
     "phone": "0978-026-835",
-    "address": "市汐止區連興街128巷2號"
+    "address": "市汐止區連興街128巷2號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-624",
@@ -29587,7 +30740,8 @@ window.RESTAURANTS = [
     "evidence": "食記載明：**點一份餐也可外送**；**街口支付不收外送費用**；三重／蘆洲可電話預訂（標題亦寫不限金額可外送）",
     "source": "duck303088 pixnet",
     "phone": "02-2285-0512",
-    "address": "市蘆洲區中正路203號"
+    "address": "市蘆洲區中正路203號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-626",
@@ -29614,7 +30768,8 @@ window.RESTAURANTS = [
     "evidence": "食記轉述店家 LINE 訂餐外送規則：**僅限單筆訂單5000元或是30份以上**（人力有限）",
     "source": "hungryleon.com 2023",
     "phone": "02-8601-8071",
-    "address": "林口區文化二路二段193號"
+    "address": "林口區文化二路二段193號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-627",
@@ -29642,7 +30797,8 @@ window.RESTAURANTS = [
     "orderUrl": "https://foodieknows.com/",
     "lineUrl": "https://line.me/R/ti/p/@456qrdfu",
     "phone": "02-8257-0285",
-    "address": "市板橋區新海路58號"
+    "address": "市板橋區新海路58號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-628",
@@ -29670,7 +30826,8 @@ window.RESTAURANTS = [
     "source": "web66 ohsorry；iyp.com.tw/0226252000",
     "orderUrl": "https://ohsorry.web66.com.tw/web/SEC?postId=413976",
     "phone": "02-2625-2000",
-    "address": "市淡水區北新路三段38巷11號"
+    "address": "市淡水區北新路三段38巷11號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-629",
@@ -29695,7 +30852,8 @@ window.RESTAURANTS = [
     "evidence": "店家文案／食記摘錄：**午餐便當3個以上即有外送服務**；團體大量請提前一天聯絡",
     "source": "bbdaily pixnet／soeasy 店家欄",
     "phone": "02-2205-5597",
-    "address": "市新莊區八德街132號"
+    "address": "市新莊區八德街132號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-630",
@@ -29722,7 +30880,8 @@ window.RESTAURANTS = [
     "evidence": "2024 食記載明：**外送服務（三份就可以外送，有夠佛）**；亦與外送平台合作（UE/FP 僅 discovery）",
     "source": "bambiroad pixnet",
     "phone": "02-2240-9528",
-    "address": "市中和區中和路26巷8號"
+    "address": "市中和區中和路26巷8號",
+    "city": "新北市"
   },
   {
     "id": "nt-scout-lead-631",
@@ -29747,7 +30906,8 @@ window.RESTAURANTS = [
     "evidence": "會館公告／彙整：**消費滿300元即可免費貼心外送到府**；**若未滿300元，將酌收50元車馬費**",
     "source": "anthailand／twagoda 彙整",
     "phone": "02-8211-1981",
-    "address": "市新店區青山路200號3"
+    "address": "市新店區青山路200號3",
+    "city": "新北市"
   },
   {
     "id": "tc-scout-lead-1",
@@ -40083,5 +41243,18816 @@ window.RESTAURANTS = [
     "orderUrl": "https://meilicafe.oddle.me/zh_TW/stores?el=true",
     "phone": "+88633187253",
     "address": "龜山區復興北路20號"
+  },
+  {
+    "id": "tn-scout-lead-1",
+    "slug": "唐家泡菜館",
+    "name": "唐家泡菜館",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "泡菜炒飯／鍋燒麵／小吃",
+    "cuisineTags": [
+      "泡菜炒飯",
+      "鍋燒麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:30–20:00（週日公休；食記）",
+    "evidence": "dinbendon 簡介明示：**「滿500外送,樓下自取，滿單不接,週日公休,提前兩天訂購」**",
+    "source": "dinbendon；食記",
+    "orderUrl": "https://www.dinbendon.net/do/shop/199229",
+    "phone": "06-2763-263",
+    "address": "台南市東區裕農路18號"
+  },
+  {
+    "id": "tn-scout-lead-2",
+    "slug": "娘惹~海南雞飯",
+    "name": "娘惹~海南雞飯",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "海南雞飯／便當",
+    "cuisineTags": [
+      "海南雞飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（未見完整工時）",
+    "evidence": "dinbendon 簡介明示：**「須提前一天訂購，當天不接，滿1000外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/582887",
+    "phone": "0966-233-905",
+    "address": "台南市北區北門路二段289號"
+  },
+  {
+    "id": "tn-scout-lead-3",
+    "slug": "丰沛簡餐",
+    "name": "丰沛簡餐",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "鍋燒／簡餐／麵",
+    "cuisineTags": [
+      "鍋燒",
+      "簡餐",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:00（食記）",
+    "evidence": "dinbendon 簡介明示：**「滿300外送-可以送上樓(請於前一天傳大概數量至FB訊息告知，或當天早上八點告知」**",
+    "source": "dinbendon；pixnet",
+    "orderUrl": "https://www.dinbendon.net/do/shop/590790",
+    "phone": "0976-876-836",
+    "address": "台南市永康區中華一路35號"
+  },
+  {
+    "id": "tn-scout-lead-4",
+    "slug": "義朵拉",
+    "name": "義朵拉",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "中式／簡餐（南科）",
+    "cuisineTags": [
+      "中式",
+      "簡餐(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「滿600外送」**",
+    "source": "dinbendon；footinder",
+    "orderUrl": "https://www.dinbendon.net/do/shop/196322",
+    "phone": "06-5115-650",
+    "address": "台南市新市區大順三路125號2F(部分來源寫127號2"
+  },
+  {
+    "id": "tn-scout-lead-5",
+    "slug": "鮮饗宴嫩骨飯",
+    "name": "鮮饗宴嫩骨飯",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "嫩骨飯／便當",
+    "cuisineTags": [
+      "嫩骨飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「滿500外送」**",
+    "source": "dinbendon；lovekhc",
+    "orderUrl": "https://www.dinbendon.net/do/shop/472625",
+    "phone": "06-5891-599",
+    "address": "台南市新市區復興路181號"
+  },
+  {
+    "id": "tn-scout-lead-6",
+    "slug": "竇爸中式快餐",
+    "name": "竇爸中式快餐（東門店）",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "中式便當／餐盒",
+    "cuisineTags": [
+      "中式便當",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、16:30–20:00",
+    "evidence": "dinbendon 簡介明示：**「滿300元才外送，可送3樓」**",
+    "source": "dinbendon；twtainan",
+    "orderUrl": "https://www.dinbendon.net/do/shop/228423",
+    "phone": "06-2763-080",
+    "address": "台南市東區東門路二段281號"
+  },
+  {
+    "id": "tn-scout-lead-7",
+    "slug": "品禾餐盒",
+    "name": "品禾餐盒",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "餐盒／便當",
+    "cuisineTags": [
+      "餐盒",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「訂七個可以送安平工業區，9點後可以打電話」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/610291",
+    "phone": "06-2147-887",
+    "address": "台南市中西區大同路一段188號"
+  },
+  {
+    "id": "tn-scout-lead-8",
+    "slug": "寶寶的店",
+    "name": "寶寶的店",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "炒飯／鍋燒／便當／餃類",
+    "cuisineTags": [
+      "炒飯",
+      "鍋燒",
+      "便當",
+      "餃類"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00–20:30",
+    "evidence": "dinbendon 簡介明示：**「營業時間：上午10點~下午8點30分(滿三百外送)」**",
+    "source": "dinbendon；anthailand",
+    "orderUrl": "https://www.dinbendon.net/do/shop/444393",
+    "phone": "06-2156-622",
+    "address": "台南市中西區健康路一段420巷15號"
+  },
+  {
+    "id": "tn-scout-lead-9",
+    "slug": "麵兒見",
+    "name": "麵兒見（原山東麵食）",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "麵食／滷味",
+    "cuisineTags": [
+      "麵食",
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00（dinbendon 片段）",
+    "evidence": "dinbendon 簡介明示：**「當天訂餐09:00可訂購 南科環東路一段滿500外送 營業時間：10:30~14」**",
+    "source": "dinbendon；footinder",
+    "orderUrl": "https://www.dinbendon.net/do/shop/616015",
+    "phone": "06-5810-023",
+    "address": "台南市善化區中華路176號"
+  },
+  {
+    "id": "tn-scout-lead-10",
+    "slug": "明洞海苔飯捲",
+    "name": "明洞海苔飯捲(安南區)",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "海苔飯捲／小吃",
+    "cuisineTags": [
+      "海苔飯捲",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00（食記）",
+    "evidence": "dinbendon 簡介明示：**「科工區滿 1200外送」**",
+    "source": "dinbendon；footinder",
+    "orderUrl": "https://www.dinbendon.net/do/shop/556124",
+    "phone": "06-3580-811",
+    "address": "台南市安南區海佃路一段177號"
+  },
+  {
+    "id": "tn-scout-lead-11",
+    "slug": "享味食堂",
+    "name": "享味食堂",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "便當／肉燥飯／鍋燒",
+    "cuisineTags": [
+      "便當",
+      "肉燥飯",
+      "鍋燒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 搜尋摘要／店家說明：**「星期日公休滿500元外送」**（頁面 meta 未完整露出，以搜尋摘要為準）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/518053",
+    "phone": "0979-319-513",
+    "address": "台南市新市區仁愛街156號"
+  },
+  {
+    "id": "tn-scout-lead-12",
+    "slug": "家專麵線-文賢店",
+    "name": "家專麵線-文賢店",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "大腸蚵仔麵線／小吃",
+    "cuisineTags": [
+      "大腸蚵仔麵線",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–19:00；星期日公休",
+    "evidence": "foodintainan 懶人包明示：**「滿500元可外送服務。買十送一，歡迎來電預訂。」**（另有 UE 合作＝discovery only）",
+    "source": "foodintainan",
+    "phone": "0982-734-177",
+    "address": "台南市北區文賢路1038號"
+  },
+  {
+    "id": "tn-scout-lead-13",
+    "slug": "強師傅滷味",
+    "name": "強師傅滷味(辣脆腸)",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "滷味／小吃",
+    "cuisineTags": [
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "星期二到六 17:30–20:30；週日、一休",
+    "evidence": "foodintainan 懶人包明示：**「(北區滿二佰可外送)」**",
+    "source": "foodintainan",
+    "phone": "0953-680-104",
+    "address": "台南市北區育德路60號"
+  },
+  {
+    "id": "tn-scout-lead-14",
+    "slug": "楊來了鍋燒",
+    "name": "楊來了鍋燒",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "鍋燒／麵",
+    "cuisineTags": [
+      "鍋燒",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–21:00；週一公休",
+    "evidence": "foodintainan 懶人包明示：**「滿300元即可外送」**",
+    "source": "foodintainan",
+    "phone": "0970-687-132",
+    "address": "台南市永康區鹽行路9號"
+  },
+  {
+    "id": "tn-scout-lead-15",
+    "slug": "二鬼麵舖台南安平店",
+    "name": "二鬼麵舖台南安平店",
+    "city": "台南市",
+    "district": "安平區",
+    "cuisine": "麵食",
+    "cuisineTags": [
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–20:00；全年無休",
+    "evidence": "foodintainan 懶人包明示：**「四公里內均可外送，滿600免外送費100」**／**「不限金額外送，滿600免收運費100元。4公里內均可。」**",
+    "source": "foodintainan",
+    "phone": "06-2955-002",
+    "address": "台南市安平區國平路180號"
+  },
+  {
+    "id": "tn-scout-lead-16",
+    "slug": "日十怡平店",
+    "name": "日十怡平店",
+    "city": "台南市",
+    "district": "安平區",
+    "cuisine": "早午餐／三明治",
+    "cuisineTags": [
+      "早午餐",
+      "三明治"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 07:00–13:00（懶人包疫情時段）",
+    "evidence": "foodintainan 懶人包明示：**「滿$200元(1公里內)」「滿$300元(2公里內)」「每1公里+$100元，以此類推…」「5公里以上，另計。」**",
+    "source": "foodintainan",
+    "phone": "06-2993-720",
+    "address": "台南市安平區怡平路65號"
+  },
+  {
+    "id": "tn-scout-lead-17",
+    "slug": "鮮の味麵館",
+    "name": "鮮の味麵館",
+    "city": "台南市",
+    "district": "仁德區",
+    "cuisine": "麻醬乾麵／粄條／煎餃",
+    "cuisineTags": [
+      "麻醬乾麵",
+      "粄條",
+      "煎餃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00–20:00；星期六店休",
+    "evidence": "foodintainan 懶人包明示：**「可外帶，500元外送」**",
+    "source": "foodintainan",
+    "phone": "06-2492-549",
+    "address": "台南市仁德區民安路一段422號"
+  },
+  {
+    "id": "tn-scout-lead-18",
+    "slug": "桃山日本料理",
+    "name": "桃山日本料理",
+    "city": "台南市",
+    "district": "仁德區",
+    "cuisine": "日式便當／鮮食",
+    "cuisineTags": [
+      "日式便當",
+      "鮮食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:30–13:00、16:30–20:00",
+    "evidence": "foodintainan 懶人包明示：**「十個以上、十分鐘路程內，免費外送不附贈湯（需預約）」**",
+    "source": "foodintainan",
+    "phone": "06-2498-082",
+    "address": "台南市仁德區中山路229號"
+  },
+  {
+    "id": "tn-scout-lead-19",
+    "slug": "丸飯食事處",
+    "name": "丸飯食事處",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "沖繩蝦蝦飯／唐揚／餐盒",
+    "cuisineTags": [
+      "沖繩蝦蝦飯",
+      "唐揚",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–20:00",
+    "evidence": "tiyama 食記轉載外送說明：**「1公里內，滿500可送」「1~3公里，滿1000可送」「3~5公里，滿1500可送」**",
+    "source": "tiyama.net",
+    "orderUrl": "https://pse.is/3dwnbn",
+    "phone": "06-2238-683",
+    "address": "台南市中西區興華街25號"
+  },
+  {
+    "id": "tn-scout-lead-20",
+    "slug": "饗義廚房",
+    "name": "饗義廚房",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "義大利麵／簡餐",
+    "cuisineTags": [
+      "義大利麵",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:30、17:00–21:00；週二公休",
+    "evidence": "foodintainan 懶人包明示：**「消費滿500元、距離2公里內可以外送喔」**",
+    "source": "foodintainan",
+    "phone": "06-2095-559",
+    "address": "台南市北區東豐路313號"
+  },
+  {
+    "id": "tn-scout-lead-21",
+    "slug": "中華一番-安南店",
+    "name": "中華一番-安南店",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "麵食／中式快餐",
+    "cuisineTags": [
+      "麵食",
+      "中式快餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「500元可外送科工區」**／**「科工區滿500元外送」**",
+    "source": "dinbendon（2026/04 修改）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/596752",
+    "phone": "06-2454-151",
+    "address": "台南市安南區安中路四段46號"
+  },
+  {
+    "id": "tn-scout-lead-22",
+    "slug": "廣食堂安南店",
+    "name": "廣食堂 安南店",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「安南科工區滿一千塊以上外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/550057",
+    "phone": "06-2511-079",
+    "address": "台南市安南區安和路一段152號"
+  },
+  {
+    "id": "tn-scout-lead-23",
+    "slug": "御珍坊台灣炒飯王冠軍店",
+    "name": "御珍坊 台灣炒飯王冠軍店",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "炒飯／便當／麵",
+    "cuisineTags": [
+      "炒飯",
+      "便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「滿1200外送 科工區，前一天訂餐」**",
+    "source": "dinbendon（2026/08 修改）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568776",
+    "phone": "0958-350-988",
+    "address": "台南市安南區安和路一段60號"
+  },
+  {
+    "id": "tn-scout-lead-24",
+    "slug": "味味原汁排骨麵",
+    "name": "味味原汁排骨麵(安南區)",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "排骨麵／麵食",
+    "cuisineTags": [
+      "排骨麵",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（週六公休）",
+    "evidence": "dinbendon 簡介／訂購說明明示：**「週六公休，500元以上送」**／**「500以上送科工區」**；盡量 9:30 訂餐",
+    "source": "dinbendon（2026/05 修改）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/570949",
+    "phone": "06-2479-145",
+    "address": "台南市安南區同安路266號"
+  },
+  {
+    "id": "tn-scout-lead-25",
+    "slug": "南鳳越式料理",
+    "name": "南鳳越式料理",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "越式河粉／米線",
+    "cuisineTags": [
+      "越式河粉",
+      "米線"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「安平工業區滿3、4百元可以外送, 8點後可打電話」**",
+    "source": "dinbendon（2026/03 修改）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/610131",
+    "phone": "06-2638-907",
+    "address": "台南市南區新孝路21號"
+  },
+  {
+    "id": "tn-scout-lead-26",
+    "slug": "饟饟-新化店",
+    "name": "饟饟-新化店",
+    "city": "台南市",
+    "district": "新化區",
+    "cuisine": "便當／日式／南洋",
+    "cuisineTags": [
+      "便當",
+      "日式",
+      "南洋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「500外送」**",
+    "source": "dinbendon（2026/01 修改）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/504437",
+    "phone": "06-5986-986"
+  },
+  {
+    "id": "tn-scout-lead-27",
+    "slug": "簡單就好便當專賣店",
+    "name": "簡單就好便當專賣店",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "便當／中式",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:30–19:00；週六日公休（foodintainan）",
+    "evidence": "dinbendon 簡介／訂購說明明示：**「10個以上外送，科工區不定時有順風車外送」**／**「科工區滿10個就外送」**（Batch 1 near-miss **UNLOCK**）",
+    "source": "dinbendon；foodintainan",
+    "orderUrl": "https://www.dinbendon.net/do/shop/359860",
+    "lineUrl": "https://line.me/R/ti/p/@tyz581",
+    "phone": "0958-082-711",
+    "address": "台南市北區西門路四段19號"
+  },
+  {
+    "id": "tn-scout-lead-28",
+    "slug": "午餐女王",
+    "name": "午餐女王",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "便當／麵食",
+    "cuisineTags": [
+      "便當",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon **訂購說明**明示：**「滿五個外送」**（Batch 1 near-miss **UNLOCK**；最後修改 2026/05/19）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/184924",
+    "phone": "06-2086-955",
+    "address": "台南市東區東安路83號"
+  },
+  {
+    "id": "tn-scout-lead-29",
+    "slug": "和記鍋貼",
+    "name": "和記鍋貼（東寧）",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "鍋貼／水餃／麵食",
+    "cuisineTags": [
+      "鍋貼",
+      "水餃",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:50／16:00–20:30（iCHEF Reminder）",
+    "evidence": "dinbendon 訂購說明明示：**「大同路要500元以上才外送喔～ 其他地區大約滿300以上就可外送囉～」**；iCHEF Reminder：**「如需外送服務請電洽 062091846」**",
+    "source": "dinbendon；iCHEF Reminder",
+    "orderUrl": "https://shop.ichefpos.com/store/XmqyErkC/ordering",
+    "phone": "06-2091-846",
+    "address": "台南市東區東寧路542號"
+  },
+  {
+    "id": "tn-scout-lead-30",
+    "slug": "太豐御炒-凱旋外帶店",
+    "name": "太豐御炒-凱旋外帶店",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "炒飯／鍋燒／小菜",
+    "cuisineTags": [
+      "炒飯",
+      "鍋燒",
+      "小菜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–13:30、16:00–20:00；週六日公休",
+    "evidence": "foodintainan（2024-04-21）明示：**「滿$300享外送免運費」**；預約／外送／客製可電話或 LINE@",
+    "source": "foodintainan",
+    "orderUrl": "https://line.me/R/ti/p/@420jviha",
+    "lineUrl": "https://line.me/R/ti/p/@420jviha",
+    "phone": "06-2086-585",
+    "address": "台南市東區凱旋路314號"
+  },
+  {
+    "id": "tn-scout-lead-31",
+    "slug": "廣東味",
+    "name": "廣東味",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "午餐 11:00–13:30 週一～六；晚餐 17:00–19:30 週一～四",
+    "evidence": "dinbendon 簡介明示：**「滿300外送，周日公休」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/298276",
+    "phone": "0929-649-853",
+    "address": "台南市本原街三段朝興宮廟前100"
+  },
+  {
+    "id": "tn-scout-lead-32",
+    "slug": "南記涼皮肉夾饃",
+    "name": "南記涼皮肉夾饃",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "涼皮／肉夾饃／小吃",
+    "cuisineTags": [
+      "涼皮",
+      "肉夾饃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–19:00；週五六公休（懶人包）",
+    "evidence": "foodintainan 懶人包明示：**「店家外送（附近3份可外送，其他要看路程遠近定數量…）」**",
+    "source": "foodintainan",
+    "phone": "0972-988-358",
+    "address": "台南市南區金華路二段9巷77號"
+  },
+  {
+    "id": "tn-scout-lead-33",
+    "slug": "喆發樂樂鍋",
+    "name": "喆發樂樂鍋（金華店）",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "平價火鍋",
+    "cuisineTags": [
+      "平價火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00／17:00–22:00",
+    "evidence": "foodintainan 懶人包明示：**「滿200元可外送南區3公里內」**",
+    "source": "foodintainan",
+    "phone": "06-2653-969",
+    "address": "台南市南區金華路一段12號"
+  },
+  {
+    "id": "tn-scout-lead-34",
+    "slug": "桃山日本料理",
+    "name": "桃山日本料理（南區健康路店）",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "日式便當／鮮食",
+    "cuisineTags": [
+      "日式便當",
+      "鮮食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:30–13:00、16:30–20:00",
+    "evidence": "foodintainan 南區懶人包明示：**「十個以上、十分鐘路程內，免費外送不附贈湯（需預約）」**",
+    "source": "foodintainan",
+    "phone": "06-2614-163",
+    "address": "台南市南區健康路二段460號"
+  },
+  {
+    "id": "tn-scout-lead-35",
+    "slug": "秀枝餐飲",
+    "name": "秀枝餐飲（和緯店）",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "餐盒／火鍋",
+    "cuisineTags": [
+      "餐盒",
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "商家官網 Ocard 公告明示：**「五公里內，消費滿500元，免外送費、免服務費」**；外送範圍以和緯店為中心 5 公里內",
+    "source": "sioujhih.com",
+    "orderUrl": "https://reurl.cc/Q9d4W2",
+    "phone": "06-2810-982",
+    "address": "台南市北區育德二路261號"
+  },
+  {
+    "id": "tn-scout-lead-36",
+    "slug": "無坊｜舒食.低卡.健康餐盒",
+    "name": "無坊｜舒食.低卡.健康餐盒",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "健康餐盒／舒肥",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至五 10:30–13:30｜16:30–19:30；週六 10:30–13:30；週日公休",
+    "evidence": "foodintainan 明示：**「訂餐滿1200元享外送服務（限台南市區）」**；可 LINE／電話訂餐",
+    "source": "foodintainan",
+    "orderUrl": "https://line.me/R/ti/p/@131gleay",
+    "lineUrl": "https://line.me/R/ti/p/@131gleay",
+    "phone": "0986-861-512",
+    "address": "台南市中西區中正路152號"
+  },
+  {
+    "id": "tn-scout-lead-37",
+    "slug": "福島壽司研究室",
+    "name": "福島壽司研究室（林森店）",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "壽司／日式便當",
+    "cuisineTags": [
+      "壽司",
+      "日式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、16:30–19:30",
+    "evidence": "南人幫食記備註明示：**「滿200元即可外送，視距離調整價額」**；dinbendon：**「電話詢問外送金額有達到即可外送，無收取外送服務費」**（Batch 1 near-miss **UNLOCK** via public 滿200）",
+    "source": "lifeintainan；dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/567453",
+    "lineUrl": "https://line.me/R/ti/p/@yph7203x",
+    "phone": "06-2008-555",
+    "address": "台南市東區林森路二段28號"
+  },
+  {
+    "id": "tn-scout-lead-38",
+    "slug": "廚房有雞餐廳-北安旗艦店",
+    "name": "廚房有雞餐廳-北安旗艦店",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "粵菜／合菜／花雕雞",
+    "cuisineTags": [
+      "粵菜",
+      "合菜",
+      "花雕雞"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–22:30",
+    "evidence": "官網 News／foodintainan 轉載明示級距：**餐費2000以上／5公里內免運**；**1000以上／5公里內運費100**；**1000以下／5公里內運費180**；超出每公里 +20",
+    "source": "ck288.com.tw；foodintainan",
+    "orderUrl": "https://www.ck288.com.tw/News/153",
+    "phone": "06-2832-929",
+    "address": "台南市北區北安路一段161號"
+  },
+  {
+    "id": "tn-scout-lead-39",
+    "slug": "嘟嘟牛排",
+    "name": "嘟嘟牛排(西門老店)",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "牛排／排餐",
+    "cuisineTags": [
+      "牛排",
+      "排餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "17:00–23:30；每週三公休",
+    "evidence": "foodintainan 北區懶人包明示：**「消費滿300可幫您外送到府」**",
+    "source": "foodintainan",
+    "phone": "06-2208-280",
+    "address": "台南市北區西門路三段26號"
+  },
+  {
+    "id": "tn-scout-lead-40",
+    "slug": "萃行咖啡館",
+    "name": "萃行咖啡館",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "咖啡／甜點",
+    "cuisineTags": [
+      "咖啡",
+      "甜點"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "13:00–21:00",
+    "evidence": "foodintainan 南區懶人包明示：**「疫情期間10分鐘路程內可外送（酌收$30運費、滿$500免運費）」**",
+    "source": "foodintainan",
+    "phone": "06-2230-800",
+    "address": "台南市南區樹林街二段420號"
+  },
+  {
+    "id": "tn-scout-lead-41",
+    "slug": "正品港式燒臘快餐",
+    "name": "正品港式燒臘快餐",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「不限數量 科工區外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/579238",
+    "phone": "06-2472-108",
+    "address": "台南市安南區海佃路三段172號"
+  },
+  {
+    "id": "tn-scout-lead-42",
+    "slug": "品豪蔗香腿庫-安南店",
+    "name": "品豪蔗香腿庫-安南店",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "腿庫／中式便當",
+    "cuisineTags": [
+      "腿庫",
+      "中式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「滿1000外送科工區」**／**「科工區滿1000」**；10:00訂餐",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/596892",
+    "phone": "06-2467-722",
+    "address": "台南市安南區海佃路三段303號"
+  },
+  {
+    "id": "tn-scout-lead-43",
+    "slug": "勁請享用健康廚房",
+    "name": "勁請享用健康廚房（改名 88健康廚房）",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "健康餐盒／便當",
+    "cuisineTags": [
+      "健康餐盒",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 電話欄明示：**「四個送會送上樓(半飯不能換其它餐點，如:半飯換地瓜)」**；簡介「改成88健康廚房」；送達台南市／永康區",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/590793",
+    "phone": "06-3029-013",
+    "address": "台南市永康區中華路481之5號"
+  },
+  {
+    "id": "tn-scout-lead-44",
+    "slug": "脆皮鴨肉飯",
+    "name": "脆皮鴨肉飯",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "鴨肉飯／便當／麵",
+    "cuisineTags": [
+      "鴨肉飯",
+      "便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「◎安平工業區滿三百元外送」**；周日店休",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/223682",
+    "phone": "06-2641-290",
+    "address": "台南金華路二段15巷26號"
+  },
+  {
+    "id": "tn-scout-lead-45",
+    "slug": "原野屋",
+    "name": "原野屋",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "便當／麵／中式／南洋（南科）",
+    "cuisineTags": [
+      "便當",
+      "麵",
+      "中式",
+      "南洋(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「南科500外送,加麵+15、加飯+10」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/604849",
+    "phone": "06-5896-226",
+    "address": "台南市新市區中正路66巷17號"
+  },
+  {
+    "id": "tn-scout-lead-46",
+    "slug": "百禾雞腿飯",
+    "name": "百禾雞腿飯",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "雞腿飯／便當（南科）",
+    "cuisineTags": [
+      "雞腿飯",
+      "便當(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:00–13:30、16:00–19:30（無公休；官網）",
+    "evidence": "店家 Weebly 官網明示：**「南科&LM區外送不限金額跟數量（請於10點前來電）」**；其他地區距離5~10公里需提前一兩天來電詢問",
+    "source": "weebly 官網；whityeat",
+    "orderUrl": "https://baihe2007.weebly.com/",
+    "phone": "06-5832-567",
+    "address": "台南市善化區中山路235號"
+  },
+  {
+    "id": "tn-scout-lead-47",
+    "slug": "弁棠",
+    "name": "弁棠",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "日式便當／丼／鮮食（南科）",
+    "cuisineTags": [
+      "日式便當",
+      "丼",
+      "鮮食(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–13:30、16:30–20:00；週一公休（食記）",
+    "evidence": "熱血玩台南／輕旅行明示：線上預約點餐 **「滿10個就有外送服務，限安定善化新市區」**；dinbendon 搜尋摘要另見 **「滿2000外送」**（本批 Chrome 未穩定載入完整欄位 → 以部落格滿10個為主證）",
+    "source": "decing.tw；travel.yam；dinbendon meta",
+    "orderUrl": "https://shop.ichefpos.com/store/kVw6TSDx/ordering",
+    "phone": "06-5838-078",
+    "address": "台南市善化區民生路321號"
+  },
+  {
+    "id": "tn-scout-lead-48",
+    "slug": "丼飯堂",
+    "name": "丼飯堂（金華店）",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "丼飯／日式定食",
+    "cuisineTags": [
+      "丼飯",
+      "日式定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–21:00（Reminder）",
+    "evidence": "iCHEF Reminder 明示：**「🛵外送時段：『平日中午11點～12點』，前一日晚上８點前預購！」**；**「超過4公里，來電詢問：06-2632129」**；另有訂滿$1500折扣$100（折扣≠起訂，僅附記）",
+    "source": "iCHEF Reminder",
+    "orderUrl": "https://shop.ichefpos.com/store/UUlU1fYf/ordering",
+    "lineUrl": "https://line.me/R/ti/p/@933hmnrf",
+    "phone": "06-2632-129",
+    "address": "台南市南區金華路二段329號"
+  },
+  {
+    "id": "tn-scout-lead-49",
+    "slug": "百陞雞腿飯",
+    "name": "百陞雞腿飯",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "雞腿飯／便當",
+    "cuisineTags": [
+      "雞腿飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "店家／轉載資訊明示：只要 **「1個便當」** 就可以外送到府（請於10點前來電訂購）；涵蓋善化／南科敘述見多則貼文",
+    "source": "FB／食記轉載；dinbendon 地址電話",
+    "orderUrl": "https://www.dinbendon.net/do/shop/386528",
+    "phone": "06-5831-234",
+    "address": "台南市善化區光明路26號"
+  },
+  {
+    "id": "tn-scout-lead-50",
+    "slug": "南方櫃",
+    "name": "南方櫃",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "餐盒／咖啡簡餐（南科鄰近）",
+    "cuisineTags": [
+      "餐盒",
+      "咖啡簡餐(南科鄰近)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "WalkerLand／食記轉載店家外送資訊：**「滿600元或6個餐盒即可外送(限台南善化區)」**；外送到家一律9折（2021）",
+    "source": "walkerland",
+    "phone": "06-5812-833",
+    "address": "台南市善化區光復路423號"
+  },
+  {
+    "id": "tn-scout-lead-51",
+    "slug": "界美味火鍋",
+    "name": "界美味火鍋",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "平價火鍋",
+    "cuisineTags": [
+      "平價火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 11:00–14:00、17:00–21:30；假日 11:00–21:30（文章）",
+    "evidence": "WalkerLand（2025-11-17）明示：**「店家提供滿500元外送服務」**；可 LINE 掃碼點餐選外帶或外送",
+    "source": "walkerland 2025",
+    "phone": "06-2055-071",
+    "address": "台南市永康區北興路212號"
+  },
+  {
+    "id": "tn-scout-lead-52",
+    "slug": "十二號捲餅舖",
+    "name": "十二號捲餅舖",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "捲餅／小吃",
+    "cuisineTags": [
+      "捲餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "06:00–11:00、14:00–18:00；週日公休",
+    "evidence": "foodintainan 安南懶人包明示：**「3公里內滿200即可外送，其他地區來電詢問」**",
+    "source": "foodintainan",
+    "phone": "0905-289-712",
+    "address": "台南市安南區北安路三段215號"
+  },
+  {
+    "id": "tn-scout-lead-53",
+    "slug": "饗翻天臭臭鍋「怡安店」",
+    "name": "饗翻天臭臭鍋「怡安店」",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "平價火鍋",
+    "cuisineTags": [
+      "平價火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "疫情檔 11:00–13:30、16:30–20:30（懶人包）",
+    "evidence": "foodintainan 安南懶人包明示：**「滿500元可外送喔！」**",
+    "source": "foodintainan",
+    "phone": "06-2562-228",
+    "address": "台南市安南區怡安路二段81-2號"
+  },
+  {
+    "id": "tn-scout-lead-54",
+    "slug": "鍋寶臭臭鍋-土城店",
+    "name": "鍋寶臭臭鍋-土城店",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "平價火鍋",
+    "cuisineTags": [
+      "平價火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "17:00–21:00（懶人包；中午外送另述）",
+    "evidence": "foodintainan 安南懶人包明示：**「中午滿10鍋即可外送」**",
+    "source": "foodintainan",
+    "phone": "06-2572-660",
+    "address": "台南市安南區安中路六段480號"
+  },
+  {
+    "id": "tn-scout-lead-55",
+    "slug": "泰椰TAIYA",
+    "name": "泰椰 TAIYA（湖美／南紡）",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "泰式／季節外送",
+    "cuisineTags": [
+      "泰式",
+      "季節外送"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "自取說明列 10:00–22:00（頁面檔期文）",
+    "evidence": "Oddle 店面明示：**「🛵 2. 台南外送服務…距離及運費依系統顯示為準，單筆滿 $3,000 即可享免運優惠」**；自取點含湖美店／南紡店台南地址",
+    "source": "Oddle",
+    "orderUrl": "https://taiya-delivery.oddle.me/en_TW",
+    "phone": "06-2801-777",
+    "address": "中西區中華西路二段65號"
+  },
+  {
+    "id": "tn-scout-lead-56",
+    "slug": "洋城義大利餐廳",
+    "name": "洋城義大利餐廳（永康中正店）",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "義大利麵／簡餐",
+    "cuisineTags": [
+      "義大利麵",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–22:00",
+    "evidence": "foodintainan 永康懶人包／情報轉載明示：**提前一天預訂、滿5組可以協助外送**（疫情檔）",
+    "source": "foodintainan／情報站",
+    "phone": "06-2531-118",
+    "address": "台南市永康區中正南路358號"
+  },
+  {
+    "id": "tn-scout-lead-57",
+    "slug": "品秀",
+    "name": "品秀",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "蚵仔煎／小吃／便當",
+    "cuisineTags": [
+      "蚵仔煎",
+      "小吃",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–21:00（dinbendon）",
+    "evidence": "dinbendon 簡介明示：**「九點後打電話，安平工業區滿200可外送」**；訂購說明另寫：**「300元可外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/16551",
+    "phone": "06-2649-255",
+    "address": "台南市南區新興路59號"
+  },
+  {
+    "id": "tn-scout-lead-58",
+    "slug": "松亭手扒雞",
+    "name": "松亭手扒雞",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "手扒雞／便當",
+    "cuisineTags": [
+      "手扒雞",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「滿5個便當可外送到安平工業區」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/466251",
+    "phone": "06-2993-833",
+    "address": "台南市中西區府前一街13號"
+  },
+  {
+    "id": "tn-scout-lead-59",
+    "slug": "貓吐司堡專賣店",
+    "name": "貓吐司堡專賣店",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "日式飯糰／便當餐盒",
+    "cuisineTags": [
+      "日式飯糰",
+      "便當餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「滿500送安平工業區」**／**「滿340送東門圓環」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/459320",
+    "phone": "06-2360-223",
+    "address": "台南市東區大學路22巷16-1號"
+  },
+  {
+    "id": "tn-scout-lead-60",
+    "slug": "那間茶室東南亞料理",
+    "name": "那間茶室東南亞料理（原 selamat datang）",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "東南亞／海南雞飯／簡餐",
+    "cuisineTags": [
+      "東南亞",
+      "海南雞飯",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "Reminder 列約 09:00–16:00；週日、一固定休息",
+    "evidence": "iCHEF Reminder 明示：**「3公里內🈵5個主餐，享免運優惠」**；如需外送請提早來電",
+    "source": "iCHEF Reminder",
+    "orderUrl": "https://shop.ichefpos.com/store/YYNZd9Vo/ordering",
+    "phone": "0918-991-843",
+    "address": "台南市北區大武街597巷10弄7號"
+  },
+  {
+    "id": "tn-scout-lead-61",
+    "slug": "8肚邀",
+    "name": "8肚邀",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "便當／麵／南洋",
+    "cuisineTags": [
+      "便當",
+      "麵",
+      "南洋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–21:00（簡介）",
+    "evidence": "dinbendon 訂購說明明示：**「基本上工業區有其他單：500元外送」**／**「工業區專程送：800元外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/130900",
+    "phone": "06-2145-876",
+    "address": "台南市中西區健康路一段336號"
+  },
+  {
+    "id": "tn-scout-lead-62",
+    "slug": "閒情鍋燒意麵",
+    "name": "閒情鍋燒意麵",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "鍋燒／麵／厚片",
+    "cuisineTags": [
+      "鍋燒",
+      "麵",
+      "厚片"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 250,
+    "deliveryMinLabel": "滿 $250",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～六約 06:30–18:00；週日約 06:30–14:00（lifeintainan 2025）",
+    "evidence": "dinbendon 訂購說明明示：**「滿250可外送」**",
+    "source": "dinbendon；lifeintainan 2025",
+    "orderUrl": "https://www.dinbendon.net/do/shop/149281",
+    "phone": "06-2651-951",
+    "address": "台南市南區金華路二段57巷97號"
+  },
+  {
+    "id": "tn-scout-lead-63",
+    "slug": "72度C舒肥健康餐-永康店",
+    "name": "72度C舒肥健康餐-永康店",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "健康餐盒／舒肥",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00",
+    "evidence": "foodintainan／hululu 明示：**「只要五個便當就有提供外送服務」**",
+    "source": "foodintainan；hululu",
+    "phone": "0908-193-106",
+    "address": "台南市永康區中華二路306號"
+  },
+  {
+    "id": "tn-scout-lead-64",
+    "slug": "72度C舒肥健康餐-公園店",
+    "name": "72度C舒肥健康餐-公園店",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "健康餐盒／舒肥",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00",
+    "evidence": "hululu 明示：**「五碗以上就外送至北區」**",
+    "source": "hululu",
+    "phone": "0908-372-106",
+    "address": "台南市北區公園路409號"
+  },
+  {
+    "id": "tn-scout-lead-65",
+    "slug": "木木言己蘿蔔糕",
+    "name": "木木言己蘿蔔糕",
+    "city": "台南市",
+    "district": "歸仁區",
+    "cuisine": "蘿蔔糕／小吃",
+    "cuisineTags": [
+      "蘿蔔糕",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "五六日約 14:30–17:30；週一至四公休（懶人包）",
+    "evidence": "foodintainan 歸仁懶人包明示：**單筆滿$700** 可配送（仁德／關廟／歸仁／東區／中西／永康／南區）；**安南／安平／北區單筆滿$999**",
+    "source": "foodintainan",
+    "orderUrl": "https://line.me/R/ti/p/@udr7045y",
+    "lineUrl": "https://line.me/R/ti/p/@udr7045y",
+    "phone": "06-2396-028",
+    "address": "台南市歸仁區六甲路272號"
+  },
+  {
+    "id": "tn-scout-lead-66",
+    "slug": "南邦泰式料理",
+    "name": "南邦泰式料理",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "泰式／簡餐",
+    "cuisineTags": [
+      "泰式",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一四五六 11:30–14:00、17:30–21:00；週日 18:00–21:00；週二、三公休（食記）",
+    "evidence": "anthailand 菜單頁明示：**「平日中午滿五百可外送安平工業區」**",
+    "source": "anthailand；食記",
+    "phone": "0980-344-919",
+    "address": "台南市南區新興路416巷1號"
+  },
+  {
+    "id": "tn-scout-lead-67",
+    "slug": "安平海鮮炒麵",
+    "name": "安平海鮮炒麵",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "炒飯／炒麵／燴飯",
+    "cuisineTags": [
+      "炒飯",
+      "炒麵",
+      "燴飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、17:00–20:00；六日公休",
+    "evidence": "lifeintainan 明示：**「附近滿500元可外送」**",
+    "source": "lifeintainan",
+    "phone": "06-2215-119",
+    "address": "台南市中西區民生路二段186號"
+  },
+  {
+    "id": "tn-scout-lead-68",
+    "slug": "惠比壽一町",
+    "name": "惠比壽一町",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "日式便當／丼",
+    "cuisineTags": [
+      "日式便當",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "餐廳約 11:00–21:30；外帶便當平日 09:30–12:00",
+    "evidence": "tiyama 明示：**「安南區滿300元，其他地區滿500元即有外送服務」**",
+    "source": "tiyama",
+    "phone": "06-3584-811",
+    "address": "台南市安南區海佃路一段330號"
+  },
+  {
+    "id": "tn-scout-lead-69",
+    "slug": "虹橋港式飲茶",
+    "name": "虹橋港式飲茶（南科贊美酒店）",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "港式／餐盒",
+    "cuisineTags": [
+      "港式",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "午餐約 11:30–13:30、晚餐約 17:30–19:00",
+    "evidence": "foodintainan 善化懶人包明示：**「單筆消費滿500元，酒店5公里內免費外送」**",
+    "source": "foodintainan",
+    "orderUrl": "https://lin.ee/K5IQLmT",
+    "lineUrl": "https://lin.ee/K5IQLmT",
+    "phone": "06-5838-383",
+    "address": "台南市善化區成功路252號"
+  },
+  {
+    "id": "tn-scout-lead-70",
+    "slug": "布泰象泰式廚房",
+    "name": "布泰象泰式廚房",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "泰式／餐盒",
+    "cuisineTags": [
+      "泰式",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 $10",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:30、16:30–20:30",
+    "evidence": "官網明示：**「訂購10個即可外送」**／**「滿10可外送」**",
+    "source": "boothaifun 官網",
+    "orderUrl": "https://boothaifun.tw/",
+    "phone": "06-2086-888",
+    "address": "台南市東區東興路83號"
+  },
+  {
+    "id": "tn-scout-lead-71",
+    "slug": "一沐日台南安平店",
+    "name": "一沐日 台南安平店",
+    "city": "台南市",
+    "district": "安平區",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「安平工業區滿 $150 就可送，但要直接打電話訂」**；**「官網外送系統需滿 $300」**；頁面註 **2026/09/01 更新菜單**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/610141",
+    "phone": "06-2959-662",
+    "address": "台南市安平區健康三街226號"
+  },
+  {
+    "id": "tn-scout-lead-72",
+    "slug": "國王來了皇家紅茶",
+    "name": "國王來了 皇家紅茶",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "手搖／鍋燒／水餃",
+    "cuisineTags": [
+      "手搖",
+      "鍋燒",
+      "水餃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「250送安平工業區」**；可 LINE 點餐及付款",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/578246",
+    "phone": "06-2892-077",
+    "address": "台南市東區裕農路656號"
+  },
+  {
+    "id": "tn-scout-lead-73",
+    "slug": "十三小館",
+    "name": "十三小館",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "簡餐／中式",
+    "cuisineTags": [
+      "簡餐",
+      "中式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「滿300外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/403172",
+    "phone": "06-2090-132",
+    "address": "台南市北區南園街13號"
+  },
+  {
+    "id": "tn-scout-lead-74",
+    "slug": "超吉大盛丼飯",
+    "name": "超吉大盛丼飯",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "丼飯／日式",
+    "cuisineTags": [
+      "丼飯",
+      "日式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「滿300外送」**／**「滿300元可外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/490292",
+    "phone": "06-5894-511",
+    "address": "台南市新市區華興街70號"
+  },
+  {
+    "id": "tn-scout-lead-75",
+    "slug": "有肚量-低卡健康餐盒",
+    "name": "有肚量-低卡健康餐盒",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約平日 11:00–19:00（食記；週末公休常見）",
+    "evidence": "dinbendon 訂購說明明示：**「都會送安平工業區(至少5個)」**（簡介另寫「有順風車都送到安平工業區」；**滿份＝至少5個** unlock）",
+    "source": "dinbendon；食記",
+    "orderUrl": "https://www.dinbendon.net/do/shop/520982",
+    "phone": "06-2992-918",
+    "address": "台南市中西區府前路二段292號"
+  },
+  {
+    "id": "tn-scout-lead-76",
+    "slug": "一畝田低卡餐盒",
+    "name": "一畝田低卡餐盒",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約一至五 11:00–13:30、17:00–19:30；六日公休（懶人包）",
+    "evidence": "foodintainan 懶人包明示：**「●單筆訂單滿3份就能外送喔！（距離一畝田3公里內）」**；部落格轉載同門檻",
+    "source": "foodintainan；g2m",
+    "orderUrl": "https://line.me/R/ti/p/@dlm6228l",
+    "lineUrl": "https://line.me/R/ti/p/@dlm6228l",
+    "phone": "0966-622-556",
+    "address": "台南市中西區臨安路一段51號"
+  },
+  {
+    "id": "tn-scout-lead-77",
+    "slug": "串博ふうりん",
+    "name": "串博ふうりん",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "日式便當／預約制",
+    "cuisineTags": [
+      "日式便當",
+      "預約制"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午 11–12／晚上 6–7（自取／外送窗；懶人包）",
+    "evidence": "foodintainan 懶人包明示：**「★兩公里內兩個即可外送」「★五公里內五個以上即可外送，五個以下須自取」**；以濟生街43號為中心 Google 五公里",
+    "source": "foodintainan",
+    "phone": "06-2233-690",
+    "address": "台南市中西區濟生街43號"
+  },
+  {
+    "id": "tn-scout-lead-78",
+    "slug": "入街Thestreet",
+    "name": "入街 The street",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "麻辣鴨血／抄手／小吃",
+    "cuisineTags": [
+      "麻辣鴨血",
+      "抄手",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–售完（最晚 19:30；懶人包）",
+    "evidence": "foodintainan 懶人包明示：**「外送方案：1公里內滿200元可外送、2公里內滿500元可外送。」**",
+    "source": "foodintainan",
+    "phone": "06-2210-312",
+    "address": "台南市中西區大德街62號"
+  },
+  {
+    "id": "tn-scout-lead-79",
+    "slug": "唯一川味麵館",
+    "name": "唯一川味麵館",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "川味麵／小吃",
+    "cuisineTags": [
+      "川味麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:00–20:00",
+    "evidence": "foodintainan 懶人包明示：**「🚴‍♀滿額300即可享外送服務」**；可官方 LINE／電話",
+    "source": "foodintainan",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "06-2293-855",
+    "address": "台南市中西區民生路二段310號"
+  },
+  {
+    "id": "tn-scout-lead-80",
+    "slug": "合伙燒日式關東煮燒烤",
+    "name": "合伙燒日式關東煮 燒烤",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "關東煮／燒烤／小吃",
+    "cuisineTags": [
+      "關東煮",
+      "燒烤",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:00–21:00；每週一公休",
+    "evidence": "foodintainan 懶人包明示：**「滿$500三公里以內外送」**",
+    "source": "foodintainan",
+    "phone": "06-2250-878",
+    "address": "台南市中西區尊王路106號"
+  },
+  {
+    "id": "tn-scout-lead-81",
+    "slug": "念水町鐵牛行動食堂",
+    "name": "念水町鐵牛行動食堂",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "關東煮／燒烤／小吃",
+    "cuisineTags": [
+      "關東煮",
+      "燒烤",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:30–01:00；星期二店休",
+    "evidence": "foodintainan 懶人包明示：**「台南市全區域我們都可滿500以上打9折免費外送」**",
+    "source": "foodintainan",
+    "phone": "0955-601-690",
+    "address": "台南市中西區海安路二段42號"
+  },
+  {
+    "id": "tn-scout-lead-82",
+    "slug": "桌上賓中式快餐崇學店",
+    "name": "桌上賓中式快餐 崇學店",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "中式便當／餐盒",
+    "cuisineTags": [
+      "中式便當",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–13:30／16:30–19:30；六下午、日公休（懶人包）",
+    "evidence": "foodintainan 東區懶人包明示：**「1公里滿150元、2公里滿300元，3公里以上來電詢問」**；現點現做",
+    "source": "foodintainan",
+    "phone": "06-2673-033",
+    "address": "台南市東區崇學路196號"
+  },
+  {
+    "id": "tn-scout-lead-83",
+    "slug": "非嚐不可鍋燒",
+    "name": "非嚐不可鍋燒",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "鍋燒／麵",
+    "cuisineTags": [
+      "鍋燒",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00",
+    "evidence": "foodintainan 東區懶人包明示：**「最低訂餐金額70元起 另外再加收30元外送費」「不管訂餐金額 送一趟就加收30元外送費 東區都可以送」**",
+    "source": "foodintainan",
+    "phone": "06-2600-669",
+    "address": "台南市東區崇德路785之5號"
+  },
+  {
+    "id": "tn-scout-lead-84",
+    "slug": "俏家人港式料理",
+    "name": "俏家人港式料理",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "港式／蘿蔔糕／點心",
+    "cuisineTags": [
+      "港式",
+      "蘿蔔糕",
+      "點心"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–18:00；週日公休（懶人包）",
+    "evidence": "foodintainan 東區懶人包明示：**「台南東區單點滿300可外送 或組合套餐滿兩份可外送」**",
+    "source": "foodintainan；saytainan 2026",
+    "phone": "0902-121-996",
+    "address": "台南市東區崇德路333巷6號"
+  },
+  {
+    "id": "tn-scout-lead-85",
+    "slug": "陳記土魠魚焿",
+    "name": "陳記土魠魚焿",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "土魠魚焿／小吃",
+    "cuisineTags": [
+      "土魠魚焿",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00；週日公休",
+    "evidence": "foodintainan 東區懶人包明示：**「店家附近五公里可外送」**",
+    "source": "foodintainan",
+    "phone": "06-2081-501",
+    "address": "台南市東區長榮路二段172-6號"
+  },
+  {
+    "id": "tn-scout-lead-86",
+    "slug": "居家火鍋、壽司",
+    "name": "居家火鍋、壽司",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "壽司／捲壽司／小吃",
+    "cuisineTags": [
+      "壽司",
+      "捲壽司",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–22:00",
+    "evidence": "foodintainan 懶人包明示：**「臨近距離$200即可外送」**",
+    "source": "foodintainan",
+    "phone": "0905-977-632",
+    "address": "台南市中西區健康路一段26號"
+  },
+  {
+    "id": "tn-scout-lead-87",
+    "slug": "海底撈火鍋Focus台南店",
+    "name": "海底撈火鍋 Focus 台南店",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 12:00–20:00（懶人包檔）",
+    "evidence": "foodintainan 懶人包明示：**「目前撈撈鍋滿5鍋外送開放到方圓5公里內」**",
+    "source": "foodintainan",
+    "phone": "06-2257-811",
+    "address": "台南市中西區中山路166號6"
+  },
+  {
+    "id": "tn-scout-lead-88",
+    "slug": "翔館便當",
+    "name": "翔館便當",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "便當／中式",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／詳細說明明示：**「科工區10個以上外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/549896",
+    "phone": "06-3506-080",
+    "address": "台南市北區武聖路224-1號"
+  },
+  {
+    "id": "tn-scout-lead-89",
+    "slug": "開心製造所",
+    "name": "開心製造所",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、16:30–18:30；週六日公休",
+    "evidence": "tiyama（2023-09，**新址凱旋路**）明示：**「外送基本滿500元2公里內可外送，訂2個1公里可外送但時間需要配合外送路線」**（Batch 4/5 near-miss **UNLOCK** — 舊崇明十街級距不沿用；以新址公開數字為準）",
+    "source": "tiyama 2023；foodintainan 舊址敘述僅作對照",
+    "phone": "0967-008-499",
+    "address": "台南市東區凱旋路36號"
+  },
+  {
+    "id": "tn-scout-lead-90",
+    "slug": "春福家便當專賣",
+    "name": "春福家便當專賣",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "便當／簡餐（南科）",
+    "cuisineTags": [
+      "便當",
+      "簡餐(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:00、17:00–21:00；不定時公休",
+    "evidence": "pixnet 食記（2024-09）轉載店家外送說明：**「春福家附近2、3個就可以外送」「南科外送如果約南科七路前大約500元就可以外送」**",
+    "source": "pixnet 2024；etaiwan.blog 對照",
+    "phone": "06-5996-965",
+    "address": "台南市新市區中正路287號"
+  },
+  {
+    "id": "tn-scout-lead-91",
+    "slug": "小卒砂鍋雞米飯新市店",
+    "name": "小卒砂鍋雞米飯新市店",
+    "city": "台南市",
+    "district": "新市區",
+    "cuisine": "砂鍋雞米飯／川味飯（南科）",
+    "cuisineTags": [
+      "砂鍋雞米飯",
+      "川味飯(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:45、17:00–20:30",
+    "evidence": "WalkerLand（2024-08）明示：**「消費滿1500元，享免費外送」**",
+    "source": "walkerland 2024",
+    "phone": "06-5996-528",
+    "address": "台南市新市區民生路60號"
+  },
+  {
+    "id": "tn-scout-lead-92",
+    "slug": "濃園滿漢餐廳",
+    "name": "濃園滿漢餐廳",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "中式合菜／便當",
+    "cuisineTags": [
+      "中式合菜",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、17:00–20:30；週一公休",
+    "evidence": "lifeintainan（2025-06）明示：午餐雙主菜便當，**「團體訂購滿千元，享專人送餐服務」**；eatmary 防疫整理同寫「滿千可外送」",
+    "source": "lifeintainan 2025；eatmary",
+    "phone": "06-2351-133",
+    "address": "台南市東區長榮路二段248號"
+  },
+  {
+    "id": "tn-scout-lead-93",
+    "slug": "金船牛肉麵",
+    "name": "金船牛肉麵",
+    "city": "台南市",
+    "district": "安南區",
+    "cuisine": "牛肉麵／麵食",
+    "cuisineTags": [
+      "牛肉麵",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（週一公休）",
+    "evidence": "dinbendon 簡介明示：**「滿350外送，周一公休」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/300766",
+    "phone": "06-2567-055",
+    "address": "台南市安南區本原街三段253號"
+  },
+  {
+    "id": "tn-scout-lead-94",
+    "slug": "慈香庭素食餐廳",
+    "name": "慈香庭素食餐廳",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "素食／便當",
+    "cuisineTags": [
+      "素食",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–20:30（官網檔）",
+    "evidence": "eatmary 防疫便當整理明示：**「滿$200，3公里內可外送」**",
+    "source": "eatmary；cxt-vegan",
+    "orderUrl": "https://cxt-vegan.tw/",
+    "phone": "06-2697-666",
+    "address": "台南市東區中華東路三段377巷10號"
+  },
+  {
+    "id": "tn-scout-lead-95",
+    "slug": "寓永恆",
+    "name": "寓永恆",
+    "city": "台南市",
+    "district": "安平區",
+    "cuisine": "義式／簡餐／便當",
+    "cuisineTags": [
+      "義式",
+      "簡餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "eatmary 防疫便當整理明示：**「消費滿500元，5公里內免費」**",
+    "source": "eatmary；ifoodie 地址",
+    "phone": "06-2935-001",
+    "address": "台南市安平區永華路二段41號"
+  },
+  {
+    "id": "tn-scout-lead-96",
+    "slug": "日日好食X拾玖",
+    "name": "日日好食X拾玖",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "炸物／蘿蔔糕／小吃",
+    "cuisineTags": [
+      "炸物",
+      "蘿蔔糕",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 14:00–20:00；假日約 11:00–20:00（懶人包）",
+    "evidence": "foodintainan 轉載粉專外送資訊：**「大灣滿200可以送」「仁德/東區/北區滿400可以送」「歸仁滿500可以送」「安南滿700可以送」「永康工業區滿500可以送」**",
+    "source": "foodintainan",
+    "phone": "0938-903-005",
+    "address": "台南市永康區大仁街32-4號"
+  },
+  {
+    "id": "tn-scout-lead-97",
+    "slug": "Benefit健康餐盒-安平店",
+    "name": "Benefit健康餐盒-安平店",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 2,
+    "deliveryMinLabel": "滿 2 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～六約 11:00–13:30；週一～五約 17:00–19:30；週六晚／週日公休",
+    "evidence": "13shaniu／食記明示級距：**「滿2份餐點即可外送（1公里內）」「滿5份（2公里內）」「滿8份（3公里內）」**；3公里以上電話洽詢",
+    "source": "13shaniu；kellylife",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "06-3588-552",
+    "address": "台南市中西區民權路四段40號"
+  },
+  {
+    "id": "tn-scout-lead-98",
+    "slug": "Benefit健康餐盒-金華店",
+    "name": "Benefit健康餐盒-金華店",
+    "city": "台南市",
+    "district": "南區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 2,
+    "deliveryMinLabel": "滿 2 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、17:00–19:30；週六晚／週日公休",
+    "evidence": "decing／食記明示同品牌級距：**「滿2份／1公里」「滿5份／2公里」「滿8份／3公里」**",
+    "source": "decing",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "06-2634-055",
+    "address": "台南市南區金華路二段157號"
+  },
+  {
+    "id": "tn-scout-lead-99",
+    "slug": "Benefit健康餐盒-善化店",
+    "name": "Benefit健康餐盒-善化店",
+    "city": "台南市",
+    "district": "善化區",
+    "cuisine": "健康餐盒／低卡（南科）",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡(南科)"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "pixnet／轉載明示：**南科外送滿5份即可配送**（鄰近小量需另詢）",
+    "source": "pixnet；footinder",
+    "orderUrl": "https://line.me/R/ti/p/@538caxrp",
+    "lineUrl": "https://line.me/R/ti/p/@538caxrp",
+    "phone": "06-5851-270",
+    "address": "台南市善化區民生路146號"
+  },
+  {
+    "id": "tn-scout-lead-100",
+    "slug": "海底撈火鍋南紡店",
+    "name": "海底撈火鍋 南紡店",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1500,
+    "deliveryMinLabel": "滿 $1500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 12:00–20:00（懶人包檔）",
+    "evidence": "foodintainan 東區懶人包明示：**「單點滿1500即可外送（10公里內）」「滿8鍋即可外送（10公里內）」**（以 Google 為準）",
+    "source": "foodintainan",
+    "orderUrl": "https://line.me/R/ti/p/@389jmtch",
+    "lineUrl": "https://line.me/R/ti/p/@389jmtch",
+    "phone": "06-2081-831",
+    "address": "台南市東區中華東路一段358號5"
+  },
+  {
+    "id": "tn-scout-lead-101",
+    "slug": "王木木宅廚Micasa",
+    "name": "王木木宅廚Micasa",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "便當／預約餐廚",
+    "cuisineTags": [
+      "便當",
+      "預約餐廚"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「需提前下單(20份外送)」**；訂購說明：**「20個以上外送市府,其他地方請自行詢問」**",
+    "source": "dinbendon（Chrome）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/536493",
+    "phone": "06-2089-224",
+    "address": "台南市東區東門路一段210號"
+  },
+  {
+    "id": "tn-scout-lead-104",
+    "slug": "香港文記燒臘快餐",
+    "name": "香港文記燒臘快餐",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、16:30–19:30；週日公休",
+    "evidence": "etaiwan 明示：成大周邊 **「滿5個就可以外送」**（約 300–350 元）",
+    "source": "etaiwan.blog",
+    "phone": "06-2753-088",
+    "address": "台南市東區東安路86號"
+  },
+  {
+    "id": "tn-scout-lead-106",
+    "slug": "無邪燒肉",
+    "name": "無邪燒肉",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "燒肉餐盒／便當",
+    "cuisineTags": [
+      "燒肉餐盒",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "便當約 11:00–20:00（2021）",
+    "evidence": "hululu（2021-07）明示：**「單筆消費滿$2000可享五公里外送服務」**；自取 95 折",
+    "source": "hululu",
+    "phone": "06-2082-204",
+    "address": "台南市東區大學路西段37號"
+  },
+  {
+    "id": "tn-scout-lead-107",
+    "slug": "mumu小客廳",
+    "name": "mumu小客廳",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "早午餐／餐盒",
+    "cuisineTags": [
+      "早午餐",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–16:00（食記；2026 目錄仍見營業）",
+    "evidence": "hululu（2021-06）明示：**「一公里滿５００即可外送，三公里滿千即可外送」**",
+    "source": "hululu；foodyas 地址對照",
+    "phone": "06-2224-525",
+    "address": "台南市中西區開山路35巷16號"
+  },
+  {
+    "id": "tn-scout-lead-109",
+    "slug": "米塔義式廚房-台南大潤發店",
+    "name": "米塔義式廚房-台南大潤發店",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "義大利麵／簡餐",
+    "cuisineTags": [
+      "義大利麵",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–14:00、17:00–20:00；假日約 11:00–20:00",
+    "evidence": "foodintainan 北區懶人包明示：**「提前一天預訂滿5組可以協助外送」**",
+    "source": "foodintainan",
+    "phone": "06-2231-258",
+    "address": "台南市北區臨安路二段318號1"
+  },
+  {
+    "id": "tn-scout-lead-110",
+    "slug": "SinYiCafe心藝咖啡",
+    "name": "SinYi Cafe 心藝咖啡",
+    "city": "台南市",
+    "district": "安平區",
+    "cuisine": "咖啡／輕食",
+    "cuisineTags": [
+      "咖啡",
+      "輕食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30–18:00",
+    "evidence": "foodintainan 安平懶人包明示：**「3公里內本店親送及預訂自取外帶」**（距離門檻＝**3公里**；無公開起訂金額）",
+    "source": "foodintainan",
+    "phone": "06-2992-768",
+    "address": "台南市安平區府平路445號"
+  },
+  {
+    "id": "tn-scout-lead-111",
+    "slug": "喫茶小舖-台南西門店",
+    "name": "喫茶小舖-台南西門店",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–21:00",
+    "evidence": "foodintainan 中西懶人包明示：**「點2杯即可外送」**",
+    "source": "foodintainan",
+    "phone": "06-2140-359",
+    "address": "台南市中西區西門路一段420號"
+  },
+  {
+    "id": "tn-scout-lead-112",
+    "slug": "千森製菓ちもり",
+    "name": "千森製菓ちもり",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "甜點／洋菓子",
+    "cuisineTags": [
+      "甜點",
+      "洋菓子"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 13:00–18:00；週三四公休",
+    "evidence": "foodintainan 北區懶人包明示：**「台南市滿$2000專人外送」**",
+    "source": "foodintainan",
+    "phone": "06-2230-801",
+    "address": "台南市北區裕民街71號"
+  },
+  {
+    "id": "tn-scout-lead-113",
+    "slug": "小廚坊",
+    "name": "小廚坊",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "便當／飯包",
+    "cuisineTags": [
+      "便當",
+      "飯包"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00；週日未列",
+    "evidence": "dinbendon 訂購說明明示：**「滿三個即外送」**；營業週一～六 10:00–14:00",
+    "source": "dinbendon（Chrome）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/208884",
+    "phone": "06-2142-523",
+    "address": "台南市府緯街70號"
+  },
+  {
+    "id": "tn-scout-lead-114",
+    "slug": "小北平餡餅粥",
+    "name": "小北平餡餅粥",
+    "city": "台南市",
+    "district": "北區",
+    "cuisine": "餡餅／粥／水餃／麵食",
+    "cuisineTags": [
+      "餡餅",
+      "粥",
+      "水餃",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–21:00（14:00–17:00 中休）",
+    "evidence": "dinbendon 簡介／訂購說明明示：**「要滿1000才外送」**／**「滿1000元才外送」**；水餃最低單位10粒；每週三公休",
+    "source": "dinbendon（Chrome）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/22420",
+    "phone": "06-2815-399",
+    "address": "台南市北區立賢路一段49號"
+  },
+  {
+    "id": "tn-scout-lead-115",
+    "slug": "明洞海苔飯捲",
+    "name": "明洞海苔飯捲（中西民族店）",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "海苔飯捲／小吃",
+    "cuisineTags": [
+      "海苔飯捲",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 350,
+    "deliveryMinLabel": "滿 $350",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「護理系館/物治系館外送滿350可外送」**",
+    "source": "dinbendon（Chrome）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/235266",
+    "phone": "06-2209-588",
+    "address": "台南市中西區民族路二段225號"
+  },
+  {
+    "id": "tn-scout-lead-116",
+    "slug": "77炸雞",
+    "name": "77炸雞",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "炸雞／小吃",
+    "cuisineTags": [
+      "炸雞",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「滿500元，可外送台南文創園區」**",
+    "source": "dinbendon（Chrome）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/492873",
+    "phone": "06-2089-072",
+    "address": "台南市東區民族路一段77號"
+  },
+  {
+    "id": "tn-scout-lead-117",
+    "slug": "班恩便當",
+    "name": "班恩便當（崇德店）",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "便當／中式快餐",
+    "cuisineTags": [
+      "便當",
+      "中式快餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–21:00（食記）",
+    "evidence": "pixnet 食記明示：**「消費金額滿200元，且來回車程在10分鐘距離範圍內，即享有外送服務」**",
+    "source": "pixnet 2019；tainanbento 地址電話",
+    "phone": "06-2901-818",
+    "address": "台南市東區崇德路412號"
+  },
+  {
+    "id": "tn-scout-lead-118",
+    "slug": "鼎記燒臘",
+    "name": "鼎記燒臘",
+    "city": "台南市",
+    "district": "永康區",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–13:45、16:00–19:30；六日公休（食記）",
+    "evidence": "etaiwan 明示：近距離 **「大約三個就會外送」**；永康工業區或成大 **「要10個以上才會外送」**",
+    "source": "etaiwan.blog 2020",
+    "phone": "06-3027-288",
+    "address": "台南市永康區中山南路300號"
+  },
+  {
+    "id": "tn-scout-lead-119",
+    "slug": "月燒肉便當",
+    "name": "月燒肉便當",
+    "city": "台南市",
+    "district": "中西區",
+    "cuisine": "燒肉便當／丼",
+    "cuisineTags": [
+      "燒肉便當",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:30、16:30–19:00；不定公休（食記）",
+    "evidence": "etaiwan 明示：店家口述 **「附近的話200外送，遠的10個以上，但是還是要看距離」**",
+    "source": "etaiwan.blog 2018",
+    "phone": "06-2239-131",
+    "address": "台南市中西區民生路一段153號"
+  },
+  {
+    "id": "tn-scout-lead-120",
+    "slug": "大肥鴨鴨料理專賣店",
+    "name": "大肥鴨鴨料理專賣店",
+    "city": "台南市",
+    "district": "東區",
+    "cuisine": "鴨肉飯／便當／麵",
+    "cuisineTags": [
+      "鴨肉飯",
+      "便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、17:00–21:00；常週六公休（食記）",
+    "evidence": "etaiwan 明示：成大便當外送 **「大肥鴨便當外送是400元」**",
+    "source": "etaiwan.blog 2019",
+    "phone": "06-2746-243",
+    "address": "台南市東區小東路242-1號"
+  },
+  {
+    "id": "hc-scout-lead-1",
+    "slug": "剛剛好食GangFood",
+    "name": "剛剛好食 GangFood",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當／會議餐盒",
+    "cuisineTags": [
+      "便當",
+      "會議餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "午餐週一至週五 11:00–13:30；晚餐 17:00–19:30（其他時段含假日需來電；假日／其他時段製作標準註「需滿8000元」）",
+    "evidence": "官網訂餐需知明示分公里免運：**「一公里內…免運需滿1000元…一至三公里…免運需滿1500元…三至六公里…免運需滿2000元」**（未達另有起運價90元＋每公里加價；超過二十公里來電洽詢）",
+    "source": "gangfood.com.tw",
+    "orderUrl": "https://www.gangfood.com.tw/notice.html",
+    "lineUrl": "https://line.me/R/ti/p/@gangfood",
+    "phone": "03-5790852",
+    "address": "新竹市東區金山十七街26號1"
+  },
+  {
+    "id": "hc-scout-lead-2",
+    "slug": "閤豐餘古早味碗公飯",
+    "name": "閤豐餘古早味碗公飯",
+    "city": "新竹市",
+    "district": "北區",
+    "cuisine": "碗公飯／古早味便當",
+    "cuisineTags": [
+      "碗公飯",
+      "古早味便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（頁面未列完整時段）",
+    "evidence": "官網運費表明示：**「0~2 公里 免運門檻滿 NT$500 未達標運費 NT$50」**；**「2~3 公里 滿 NT$1,000／NT$80」**；**「3~5 公里 滿 NT$1,500／NT$120」**；並寫「如您有更遠距的配送需求，都歡迎來訊」",
+    "source": "kanorio",
+    "orderUrl": "https://homefoodyour.kanorio.com/",
+    "phone": "03-528-2777",
+    "address": "新竹市北區西門街135號"
+  },
+  {
+    "id": "hc-scout-lead-3",
+    "slug": "稻谷餐盒事務所",
+    "name": "稻谷餐盒事務所",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "餐盒／會議便當",
+    "cuisineTags": [
+      "餐盒",
+      "會議便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（平日中午為主；晚餐／假日需私訊確認）",
+    "evidence": "官網區域服務說明：**「＊平日中午：新竹市、新竹科學園區、竹北市、工研院中興院區、竹南科學園區滿10個，湖口工業區滿3000元即可外送」**",
+    "source": "hcdaogu.com",
+    "orderUrl": "https://hcdaogu.com/",
+    "phone": "0972-603-306"
+  },
+  {
+    "id": "hc-scout-lead-4",
+    "slug": "卉姨美食館",
+    "name": "卉姨美食館",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "便當／炒飯",
+    "cuisineTags": [
+      "便當",
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中餐 11:00 前訂（量大 10:00–10:30）；晚餐 16:30 前（量大 13:30）；週六日＋國定假日公休",
+    "evidence": "官網外送資訊：**「低於 5 個便當，每個加收 $5 外送費」**；**「外送範圍：新豐及湖口工業區（約距本店車程 12 分鐘內）」**",
+    "source": "hueiyi.url.tw",
+    "orderUrl": "http://www.hueiyi.url.tw/",
+    "phone": "03-559-1699",
+    "address": "新竹縣新豐鄉建興路一段109之2號"
+  },
+  {
+    "id": "hc-scout-lead-5",
+    "slug": "林記-手作便當",
+    "name": "林記-手作便當",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當／預算餐盒",
+    "cuisineTags": [
+      "便當",
+      "預算餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "08:00–20:00（現場店取僅平日中午需提前）",
+    "evidence": "2024-10 食記菜單／店卡明示：**「竹科園區滿800免費外送」**；**「竹北台元滿1800免費外送」**；**「竹北地區滿1000-1800起免費外送」**；**「新竹市區滿1000-1800起免費外送」**（※依地址評估）",
+    "source": "timmyblog.cc/linjibiandang 2024-10",
+    "orderUrl": "https://lin.ee/J71xRA1",
+    "lineUrl": "https://lin.ee/J71xRA1",
+    "phone": "0906-292-012",
+    "address": "新竹市東區慈雲路185號"
+  },
+  {
+    "id": "hc-scout-lead-6",
+    "slug": "將淋",
+    "name": "將淋",
+    "city": "新竹市",
+    "district": "北區",
+    "cuisine": "便當／義大利麵／咖哩",
+    "cuisineTags": [
+      "便當",
+      "義大利麵",
+      "咖哩"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週二～日約 11:00–23:00；週一 16:30–23:00（食記；以現場為準）",
+    "evidence": "iCHEF 訂餐頁 Reminder：**「2公里內滿$1000提供免費配送(超過2公里不外送)」**",
+    "source": "iCHEF；timmyblog.cc/jianglin",
+    "orderUrl": "https://shop.ichefpos.com/store/FaUfE6gO/ordering",
+    "lineUrl": "https://line.me/R/ti/p/@152uuouh",
+    "phone": "03-5277907",
+    "address": "新竹市西門街78號"
+  },
+  {
+    "id": "hc-scout-lead-7",
+    "slug": "軒邑快餐",
+    "name": "軒邑快餐",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當／川味快炒",
+    "cuisineTags": [
+      "便當",
+      "川味快炒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至五 10:30–14:00、16:30–20:00；週六僅中午；週日休（2023-07 菜單更新食記）",
+    "evidence": "2023–2024 食記店卡＋彙整：**「園區滿400以上外送」**；dinbendon 店卡亦列園區外送",
+    "source": "pixnet saerty789123 2024-01；dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/388381",
+    "phone": "03-666-1949",
+    "address": "新竹市東區寶山路426號1"
+  },
+  {
+    "id": "hc-scout-lead-8",
+    "slug": "米咕家日式飯糰〈竹北總店〉",
+    "name": "米咕家日式飯糰〈竹北總店〉",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "日式飯糰／早點",
+    "cuisineTags": [
+      "日式飯糰",
+      "早點"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "外送時段約 8:00–15:00（需提早詢問；版本另見 6:30–12:30＋14:00–15:00）",
+    "evidence": "dinbendon 外送資訊：**「3公里內滿1000元免運，未達外送金額需支付運費若超過3公里運費部分負擔洽詢店家。（以Google地圖公里數計算）」**；計程車配合外送時段早午餐／下午茶",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/414483",
+    "lineUrl": "https://lin.ee/m1nAbr0",
+    "phone": "03-5512090",
+    "address": "新竹縣竹北市中正西路302號"
+  },
+  {
+    "id": "hc-scout-lead-9",
+    "slug": "鼎膳堂銷魂鴨肉飯",
+    "name": "鼎膳堂銷魂鴨肉飯",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "鴨肉飯／小吃",
+    "cuisineTags": [
+      "鴨肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡：**「滿1000元外送」**",
+    "source": "dinbendon；iwans",
+    "orderUrl": "https://www.dinbendon.net/do/shop/512816",
+    "phone": "03-555-0199",
+    "address": "新竹縣竹北市中正東路260號"
+  },
+  {
+    "id": "hc-scout-lead-10",
+    "slug": "吉龍炒飯、麵食、燴飯",
+    "name": "吉龍炒飯、麵食、燴飯",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "炒飯／麵／燴飯",
+    "cuisineTags": [
+      "炒飯",
+      "麵",
+      "燴飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:30–20:30；週日休息（目錄）",
+    "evidence": "dinbendon 店卡：**「高鐵滿$1000外送，訂購日為禮拜一和禮拜四，只送到1F」**",
+    "source": "dinbendon；tpe.twagoda",
+    "orderUrl": "https://www.dinbendon.net/do/shop/176461",
+    "phone": "03-553-6784",
+    "address": "新竹縣竹北市中正東路392號"
+  },
+  {
+    "id": "hc-scout-lead-11",
+    "slug": "元爵味黃燜雞米飯-新竹竹東店",
+    "name": "元爵味黃燜雞米飯-新竹竹東店",
+    "city": "新竹縣",
+    "district": "竹東鎮",
+    "cuisine": "黃燜雞／中式砂鍋",
+    "cuisineTags": [
+      "黃燜雞",
+      "中式砂鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡：**「美食外送$1,000起，提供湯品、飲品二擇一」**",
+    "source": "dinbendon；walkerland",
+    "orderUrl": "https://www.dinbendon.net/do/shop/567258",
+    "phone": "03-595-8998",
+    "address": "新竹縣竹東鎮長春路三段330號"
+  },
+  {
+    "id": "hc-scout-lead-12",
+    "slug": "粥大福竹北博愛店",
+    "name": "粥大福 竹北博愛店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "粥／雞湯粥",
+    "cuisineTags": [
+      "粥",
+      "雞湯粥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市公告為準）",
+    "evidence": "dinbendon 店卡：**「台元、昌益滿$1000送」**",
+    "source": "dinbendon；joudafu.com",
+    "orderUrl": "https://www.dinbendon.net/do/shop/531092",
+    "phone": "03-555-3606",
+    "address": "新竹縣竹北市博愛街191號1"
+  },
+  {
+    "id": "hc-scout-lead-13",
+    "slug": "南北合麵食館",
+    "name": "南北合麵食館(湖口)",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "麵食／炒飯／小吃",
+    "cuisineTags": [
+      "麵食",
+      "炒飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一公休（店卡）",
+    "evidence": "dinbendon 店卡：**「工業區500元以上外送(星期一公休)」**",
+    "source": "dinbendon；冷娃／范小貓食記",
+    "orderUrl": "https://www.dinbendon.net/do/shop/404687",
+    "phone": "03-590-5145",
+    "address": "新竹縣湖口鄉德興路35號"
+  },
+  {
+    "id": "hc-scout-lead-14",
+    "slug": "呷粗飽快餐",
+    "name": "呷粗飽快餐",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "快餐／便當／炒飯",
+    "cuisineTags": [
+      "快餐",
+      "便當",
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon／目錄彙整：**「台元500元外送」**（易滿單，建議提前確認）",
+    "source": "dinbendon；iwans",
+    "orderUrl": "https://www.dinbendon.net/do/shop/383817",
+    "phone": "0919-027-608",
+    "address": "新竹縣竹北市中華路343-1號"
+  },
+  {
+    "id": "hc-scout-lead-15",
+    "slug": "飯売日式便當",
+    "name": "飯売日式便當",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "日式便當",
+    "cuisineTags": [
+      "日式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至六 11:00–20:00；週日 11:00–15:00（2020 食記）",
+    "evidence": "食記明示分區滿額：**「竹北市區消費滿$500元；六家高鐵消費滿$600元；芎林、湖口、新竹市區消費滿$1500元；竹東、新竹科學園區消費滿$2000元」**（※實際以店家公告為主）",
+    "source": "y00.tw/rice-japanese-bento 2020-04",
+    "phone": "03-5520711",
+    "address": "新竹縣竹北市三民路112號"
+  },
+  {
+    "id": "hc-scout-lead-16",
+    "slug": "非晉健康餐廚-竹北勝利店",
+    "name": "非晉健康餐廚-竹北勝利店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:30、16:30–20:00（2022 食記）",
+    "evidence": "食記外送門檻：**「0-1公里餐點金額滿$300元免運；1-2公里滿$400；2-3公里滿$500；3-4公里滿$600」**；外送20個享95折",
+    "source": "y00.tw/flyin-bento 2022-02",
+    "phone": "03-6681205",
+    "address": "新竹縣竹北市勝利一路85號1"
+  },
+  {
+    "id": "hc-scout-lead-17",
+    "slug": "豐味便當",
+    "name": "豐味便當",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當／客製便當",
+    "cuisineTags": [
+      "便當",
+      "客製便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00–13:30、16:30–19:30（2021 食記）",
+    "evidence": "食記老闆口述門檻：**「豐味附近2公里內5個即可外送」**；**「茄冬交流道旁…10個以上即可外送」**；**「園區10個以上外送…折5元」**；**「清華、陽明交通、元培、中華…10個以上可外送」**",
+    "source": "dorapig.com/fengwei-hsinchu 2021-04",
+    "phone": "03-522-9283",
+    "address": "新竹市東區中華路三段18號"
+  },
+  {
+    "id": "hc-scout-lead-18",
+    "slug": "天饗便當",
+    "name": "天饗便當",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至五 11:00–13:30、17:00–19:30；週六僅中午；週日公休（2022–2023 食記）",
+    "evidence": "食記明示：**「園區滿5個即可外送，10個以上外送還可以折5元」**",
+    "source": "dorapig.com/2022t-foodricehw-hsinchu 2022-10",
+    "phone": "03-579-0531",
+    "address": "新竹市東區埔頂街38號"
+  },
+  {
+    "id": "hc-scout-lead-19",
+    "slug": "八方雲集-新竹光復",
+    "name": "八方雲集-新竹光復",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "鍋貼／水餃／小吃",
+    "cuisineTags": [
+      "鍋貼",
+      "水餃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡：**「八方雲集，滿300外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/267552",
+    "phone": "03-572-7346",
+    "address": "新竹市東區光復路二段730號"
+  },
+  {
+    "id": "hc-scout-lead-20",
+    "slug": "寫樂亭丼飯專賣",
+    "name": "寫樂亭丼飯專賣",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "丼飯／會議便當",
+    "cuisineTags": [
+      "丼飯",
+      "會議便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–20:00（食記）",
+    "evidence": "食記外送資訊：**「滿千餐點或主餐滿10份送（關埔區.光復路一段）」**；**「滿兩千五或主餐滿12份送（清大、交大、竹科）」**；**「滿三千或主餐滿15份送（光復路二段.工研院）」**；**「滿三千五或主餐滿20份送（竹北.高鐵.竹東工研院）或（七公里內）」**；未達七公里內運費一趟150",
+    "source": "timmyblog.cc/sltdonburi 2020-10",
+    "phone": "03-666-3259",
+    "address": "新竹市東區關新二街119號"
+  },
+  {
+    "id": "hc-scout-lead-21",
+    "slug": "皇膳快炒便當",
+    "name": "皇膳快炒便當",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "快炒便當",
+    "cuisineTags": [
+      "快炒便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡明示：**「500元外送」**；送達地區列「新竹市區, 新竹竹南園區, 香山區」（shop=457781；另卡 shop=504638 標香山區）",
+    "source": "dinbendon（搜尋摘要抽出 500元外送）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/457781",
+    "phone": "03-522-9900",
+    "address": "新竹市北區北大路460號"
+  },
+  {
+    "id": "hc-scout-lead-22",
+    "slug": "軟蛋醬蛋包飯專門製作所",
+    "name": "軟蛋醬蛋包飯專門製作所（竹科店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "蛋包飯／便當",
+    "cuisineTags": [
+      "蛋包飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日午晚；六日休（店卡）",
+    "evidence": "dinbendon map 卡訂購說明：**「滿千可外送」**（營業時間註：11:00-13:00 17:00-19:30 六日休息）",
+    "source": "dinbendon map 摘要",
+    "orderUrl": "https://www.dinbendon.net/do/shop/500180",
+    "phone": "0983-385-484",
+    "address": "新竹市東區金山七街42號"
+  },
+  {
+    "id": "hc-scout-lead-23",
+    "slug": "東家便當光復店",
+    "name": "東家便當光復店",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡（最後修改 11/20/25）：**「園區5個可外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/583300",
+    "phone": "03-5635777",
+    "address": "新竹市光復路一段95號"
+  },
+  {
+    "id": "hc-scout-lead-24",
+    "slug": "府城嫩骨飯",
+    "name": "府城嫩骨飯（竹北博愛／嫩排骨卡）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "嫩骨／排骨便當",
+    "cuisineTags": [
+      "嫩骨",
+      "排骨便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta／正文：**「竹北高鐵區滿800外送」**；FB／目錄亦見「竹北滿400元外送」→入庫以 dinbendon 高鐵區句為準",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/335457",
+    "phone": "03-552-7776",
+    "address": "新竹縣竹北市博愛街309號"
+  },
+  {
+    "id": "hc-scout-lead-25",
+    "slug": "太空總薯－韓式2號店ChillSpace",
+    "name": "太空總薯－韓式2號店 Chill Space",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "韓式／烤馬鈴薯／下午茶",
+    "cuisineTags": [
+      "韓式",
+      "烤馬鈴薯",
+      "下午茶"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–20:45（食記；以門市／Oddle 為準）",
+    "evidence": "2023-12 食記明示外送門檻：**「新竹市區滿1000元；竹北、竹東滿1500元；竹南、湖口滿3000元」**；外送預訂電話 03-5629981；Oddle 店面可線上點",
+    "source": "151foodiefitness 2023-12；Oddle stores",
+    "orderUrl": "https://chillspace.oddle.me/zh_TW/stores",
+    "phone": "03-562-9981",
+    "address": "新竹市東區食品路134巷1號"
+  },
+  {
+    "id": "hc-scout-lead-26",
+    "slug": "鴻鼎土魠魚羹",
+    "name": "鴻鼎土魠魚羹（光復店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "土魠魚羹／小吃",
+    "cuisineTags": [
+      "土魠魚羹",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–21:00（目錄）",
+    "evidence": "dinbendon meta：**「500元以上外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/376450",
+    "phone": "03-578-7684",
+    "address": "新竹市東區光復路一段262號"
+  },
+  {
+    "id": "hc-scout-lead-27",
+    "slug": "金山雞腿飯",
+    "name": "金山雞腿飯（竹北福興東路店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "雞腿飯／便當",
+    "cuisineTags": [
+      "雞腿飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon shop=326657：**「滿1000元以上外送，金額不足需視店家當日是否剛好有單送至附近。」**（另舊卡 shop=179599 寫「800元以上外送」→入庫採較完整 1000 句）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/326657",
+    "phone": "03-667-3638",
+    "address": "新竹縣竹北市福興東路二段90號"
+  },
+  {
+    "id": "hc-scout-lead-28",
+    "slug": "新興飯店魯肉飯專賣店",
+    "name": "新興飯店魯肉飯專賣店",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "魯肉飯／小吃",
+    "cuisineTags": [
+      "魯肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–翌晨（目錄；請覆核）",
+    "evidence": "dinbendon：**「500元外送，10點後接單」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/540686",
+    "phone": "03-559-5569",
+    "address": "新竹縣新豐鄉新興路431號"
+  },
+  {
+    "id": "hc-scout-lead-29",
+    "slug": "姊妹飯桶",
+    "name": "姊妹飯桶（金山店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "雞腿／便當",
+    "cuisineTags": [
+      "雞腿",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、16:30–20:00；週六公休（品牌文）",
+    "evidence": "品牌文 2024-12-31 明示：**「可『外帶』滿10個可『外送』（北大店無外送）」**；金山店在列",
+    "source": "buzzdaily 2024-12；dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/261437",
+    "phone": "03-577-3399",
+    "address": "新竹市東區金山十一街21號"
+  },
+  {
+    "id": "hc-scout-lead-30",
+    "slug": "姊妹飯桶",
+    "name": "姊妹飯桶（縣政店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "雞腿／便當",
+    "cuisineTags": [
+      "雞腿",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "每日營業（品牌文）",
+    "evidence": "同品牌 2024-12 文：**滿10個可外送**（北大店除外）",
+    "source": "buzzdaily 2024-12",
+    "phone": "03-558-7499",
+    "address": "新竹縣竹北市縣政二路177號1"
+  },
+  {
+    "id": "hc-scout-lead-31",
+    "slug": "自家便當",
+    "name": "自家便當（竹北勝利三街）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 8,
+    "deliveryMinLabel": "滿 8 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週六公休（店卡彙整）",
+    "evidence": "dinbendon／店卡彙整：**滿8個可外送**；每個折5元（菜飯除外）、可免費加飯；10:30前訂；送達竹北／芎林",
+    "source": "dinbendon 搜尋摘要",
+    "orderUrl": "https://www.dinbendon.net/do/shop/380561",
+    "phone": "0955-851-267",
+    "address": "新竹縣竹北市勝利三街166號"
+  },
+  {
+    "id": "hc-scout-lead-32",
+    "slug": "吉利炒飯",
+    "name": "吉利炒飯",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "炒飯",
+    "cuisineTags": [
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週五公休（目錄）",
+    "evidence": "目錄／dinbendon 彙整：**竹北區內 2公里以內滿700元外送；2公里以外滿1000元**；建議提前電話預約",
+    "source": "dinbendon／目錄彙整",
+    "orderUrl": "https://www.dinbendon.net/do/shop/529945",
+    "phone": "03-578-5596",
+    "address": "新竹縣竹北市博愛街281-1號"
+  },
+  {
+    "id": "hc-scout-lead-33",
+    "slug": "錢龍炒飯專賣店",
+    "name": "錢龍炒飯專賣店",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "炒飯",
+    "cuisineTags": [
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "2021 園區秘書懶人包：**園區外送滿800元**（另有目錄寫市區滿500／園區滿1000→請來電覆核）",
+    "source": "timmyblog.cc/convenient",
+    "phone": "03-666-9310",
+    "address": "新竹市東區光復路一段463號"
+  },
+  {
+    "id": "hc-scout-lead-34",
+    "slug": "咖哩衛門",
+    "name": "咖哩衛門（新豐店）",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "咖哩／丼飯",
+    "cuisineTags": [
+      "咖哩",
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–15:00、16:00–20:00；週三公休（食記）",
+    "evidence": "2021 邀約文明示：**「外送滿500元即可外送(需酌收外送費50元) 滿1000元即享免外送費」**",
+    "source": "huablog.tw/curryweimen",
+    "phone": "03-557-5466",
+    "address": "新竹縣新豐鄉尚仁街10號"
+  },
+  {
+    "id": "hc-scout-lead-35",
+    "slug": "拾鍋殿小火鍋",
+    "name": "拾鍋殿小火鍋（新豐店）",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "小火鍋／外帶",
+    "cuisineTags": [
+      "小火鍋",
+      "外帶"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 11:00–14:30、17:00–22:30；假日 11:00–22:30（食記）",
+    "evidence": "2023-12 食記明示：**「新豐市區消費滿300元、即可外送湖口工業區消費滿500元」**",
+    "source": "y00.tw/shiguodian-hotpot 2023-12",
+    "phone": "0906-895-635",
+    "address": "新竹縣新豐鄉建興路一段101-3號"
+  },
+  {
+    "id": "hc-scout-lead-36",
+    "slug": "小丼物日式便當",
+    "name": "小丼物日式便當",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "丼飯／便當",
+    "cuisineTags": [
+      "丼飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 11:00–14:00、17:00–21:00；假日休（食記）",
+    "evidence": "食記明示：**「新竹市區滿500元、園區滿1000元即可外送」**；大量前一天預訂",
+    "source": "walkerland／y00 食記",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "03-562-0826",
+    "address": "新竹市食品路134巷1號1"
+  },
+  {
+    "id": "hc-scout-lead-37",
+    "slug": "奕米壽司",
+    "name": "奕米壽司（光復店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "捲壽司／輕食",
+    "cuisineTags": [
+      "捲壽司",
+      "輕食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:30–19:30；週日公休（食記）",
+    "evidence": "食記明示：**「新竹科學園區滿400元以上就有外送。市區滿1000可外送，其他地區請電洽」**",
+    "source": "timmyblog.cc/delicate",
+    "phone": "03-668-6206",
+    "address": "新竹市東區光復路一段179號"
+  },
+  {
+    "id": "hc-scout-lead-38",
+    "slug": "飛航模式餐盒專賣店",
+    "name": "飛航模式餐盒專賣店",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "會議餐盒／健康便當",
+    "cuisineTags": [
+      "會議餐盒",
+      "健康便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "食記明示：**「新竹市只要滿10份就都可以外送」**；其他地區電洽；30份以上可客製",
+    "source": "taiwantravelers 2020-11",
+    "phone": "0906-332-801"
+  },
+  {
+    "id": "hc-scout-lead-39",
+    "slug": "禾壽司",
+    "name": "禾壽司（禾すし／縣政十三路）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "外帶壽司／會議餐盒",
+    "cuisineTags": [
+      "外帶壽司",
+      "會議餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–19:00；週日公休（食記）",
+    "evidence": "食記明示：**「三公里內或台元科學園區滿$600元」**；**「新竹科學園區滿$1600~$2000元」**；五組以上可訂餐盒",
+    "source": "y00.tw/australia",
+    "phone": "03-657-3838",
+    "address": "新竹縣竹北市縣政十三路162號"
+  },
+  {
+    "id": "hc-scout-lead-40",
+    "slug": "醍醐味豬腳飯",
+    "name": "醍醐味豬腳飯（光復店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "豬腳飯／便當",
+    "cuisineTags": [
+      "豬腳飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄／食記彙整：科學園區附近**滿5個便當可外送**（另有文寫 7–10 份→**請來電確認現行份數**）",
+    "source": "dinbendon／目錄彙整",
+    "orderUrl": "https://www.dinbendon.net/do/shop/62132",
+    "phone": "03-563-2330",
+    "address": "新竹市東區光復路一段316號"
+  },
+  {
+    "id": "hc-scout-lead-41",
+    "slug": "廣德便當屋",
+    "name": "廣德便當屋（KouToku／燒味專門）",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon map 店卡明示：**「4個可以送」**；另有 iCHEF 線上店面",
+    "source": "dinbendon map SSR；iCHEF",
+    "orderUrl": "https://shop.ichefpos.com/store/Hfl-gmBj/ordering",
+    "phone": "03-599-6823",
+    "address": "新竹縣湖口鄉成功路328號"
+  },
+  {
+    "id": "hc-scout-lead-42",
+    "slug": "五花馬水餃館",
+    "name": "五花馬水餃館（台元店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "水餃／麵食／小吃",
+    "cuisineTags": [
+      "水餃",
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta／map：**「滿500台元園區內可外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/451860",
+    "address": "台元二街1號2"
+  },
+  {
+    "id": "hc-scout-lead-43",
+    "slug": "三易糧滷作便當",
+    "name": "三易糧滷作便當（原醍醐味三民店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "滷作便當／豬腳飯",
+    "cuisineTags": [
+      "滷作便當",
+      "豬腳飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon map：**「滿300可外送」**（shop=410808；舊卡 shop=83527 指向本店改名）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/410808",
+    "address": "新竹縣竹北市三民路293號"
+  },
+  {
+    "id": "hc-scout-lead-44",
+    "slug": "嘉賓快餐便當",
+    "name": "嘉賓快餐便當（原迎賓園）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "快餐／便當",
+    "cuisineTags": [
+      "快餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon map：**「改店名為“嘉賓快餐便當“，5個以上外送 (竹北10個以上)。」**",
+    "source": "dinbendon；iyp",
+    "orderUrl": "https://www.dinbendon.net/do/shop/667",
+    "phone": "03-574-9678",
+    "address": "新竹市東區建美路58巷1號"
+  },
+  {
+    "id": "hc-scout-lead-45",
+    "slug": "大叔弁當勝利店",
+    "name": "大叔弁當勝利店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約週一至五 10:30–19:30；週末休（目錄／食記）",
+    "evidence": "dinbendon map：**「十個外送台元」**",
+    "source": "dinbendon；pixnet",
+    "orderUrl": "https://www.dinbendon.net/do/shop/525416",
+    "phone": "0978-612-668",
+    "address": "新竹縣竹北市勝利十一路196之2號"
+  },
+  {
+    "id": "hc-scout-lead-46",
+    "slug": "巧捷精緻便當",
+    "name": "巧捷精緻便當",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明（索引／彙整抽出）：**「園區附近要10-15個外送水利路13-15個外送」**；並註「必須事先詢問是否能外送，因人力不足」；最後修改見 12/11/25",
+    "source": "dinbendon 索引句",
+    "orderUrl": "https://www.dinbendon.net/do/shop/338156",
+    "phone": "03-571-1136",
+    "address": "新竹市東區建新路30號"
+  },
+  {
+    "id": "hc-scout-lead-47",
+    "slug": "有飯吃健康餐盒",
+    "name": "有飯吃健康餐盒",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、16:30–20:00（食記）",
+    "evidence": "2023-08 食記明示：**「竹北區域滿5個可以外送，六家地區10個以上可外送，新竹市區20個以上可以外送」**",
+    "source": "y00.tw/eatmore 2023-08",
+    "orderUrl": "https://www.dinbendon.net/do/shop/541993",
+    "phone": "03-555-0012",
+    "address": "新竹縣竹北市三民路279號"
+  },
+  {
+    "id": "hc-scout-lead-48",
+    "slug": "新村便當三廠店",
+    "name": "新村便當三廠店",
+    "city": "新竹市",
+    "district": "北區",
+    "cuisine": "眷村便當／雜碎飯",
+    "cuisineTags": [
+      "眷村便當",
+      "雜碎飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–13:40、16:30–19:40（食記）",
+    "evidence": "2024-10 WalkerLand／店卡明示：**「外送範圍是3公里內消費滿500元，超過3公里則滿1000元才提供外送」**",
+    "source": "walkerland 2024-10",
+    "phone": "0917-498-080",
+    "address": "新竹市北區延平路一段245號"
+  },
+  {
+    "id": "hc-scout-lead-49",
+    "slug": "文粥粥食堂",
+    "name": "文粥粥食堂",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "粥／炒飯／麵",
+    "cuisineTags": [
+      "粥",
+      "炒飯",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:30、17:00–21:00；假日另見官網",
+    "evidence": "官網標題句明示：**「園區消費滿800元可外送」**",
+    "source": "weebly 官網",
+    "orderUrl": "https://www.dinbendon.net/do/shop/423064",
+    "phone": "03-579-0720",
+    "address": "新竹市東區光復路一段422號"
+  },
+  {
+    "id": "hc-scout-lead-50",
+    "slug": "上品精緻便當",
+    "name": "上品精緻便當（六家店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週日店休（店卡）",
+    "evidence": "dinbendon map：**「周日店休, 六家300外送，縣政區500，台元1000」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/236583",
+    "phone": "03-550-6168",
+    "address": "新竹縣竹北市光明六路東二段38號"
+  },
+  {
+    "id": "hc-scout-lead-52",
+    "slug": "一米飯屋EatMeBox",
+    "name": "一米飯屋 Eat Me Box",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "健康餐盒／黑秈米",
+    "cuisineTags": [
+      "健康餐盒",
+      "黑秈米"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 06:00–15:00、17:00–19:30；週二公休（食記；請覆核）",
+    "evidence": "dinbendon map：**「台元5個外送」**；食記亦見台元滿5個、建議前一天預訂",
+    "source": "dinbendon；huablog／yeh0410",
+    "orderUrl": "https://www.dinbendon.net/do/shop/456831",
+    "lineUrl": "https://line.me/R/ti/p/@176slvqn",
+    "phone": "03-551-0180",
+    "address": "新竹縣竹北市博愛街170號"
+  },
+  {
+    "id": "hc-scout-lead-53",
+    "slug": "炸g行家",
+    "name": "炸g行家（大庄店）",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "炸物／宵夜小吃",
+    "cuisineTags": [
+      "炸物",
+      "宵夜小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 17:00–21:00；假日 11:30–21:00（2021 文）",
+    "evidence": "2021 防疫懶人包明示：**「香山區$300、市區$500、新竹縣/園區$1000」**；營業時間以外大量訂購滿1000可來電詢問",
+    "source": "y00.tw/takeout 2021",
+    "phone": "0938-125-711",
+    "address": "新竹市香山區大庄路45巷9號"
+  },
+  {
+    "id": "hc-scout-lead-54",
+    "slug": "劉妹鍋燒意麵",
+    "name": "劉妹鍋燒意麵（香山／牛埔）",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "鍋燒意麵／小吃",
+    "cuisineTags": [
+      "鍋燒意麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、16:30–20:00（2021 文）",
+    "evidence": "2021 防疫懶人包明示：**「香山牛埔地區3碗外送、市區15碗可外送、請於10:30之前來電」**",
+    "source": "y00.tw/takeout 2021",
+    "phone": "03-530-1390",
+    "address": "新竹市香山區牛埔路396號(2021"
+  },
+  {
+    "id": "hc-scout-lead-56",
+    "slug": "幸福滷味",
+    "name": "幸福滷味（高翠路）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "滷味",
+    "cuisineTags": [
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "15:00–21:00；週一至六（2021 文）",
+    "evidence": "2021 防疫懶人包明示分公里：**「0-1公里滿100外送；1-2公里滿200；2-3公里滿300」**",
+    "source": "y00.tw/takeout 2021",
+    "phone": "0982-196-955",
+    "address": "新竹市高翠路239號"
+  },
+  {
+    "id": "hc-scout-lead-57",
+    "slug": "金連滷肉飯",
+    "name": "金連滷肉飯",
+    "city": "新竹市",
+    "district": "北區",
+    "cuisine": "滷肉飯／小吃",
+    "cuisineTags": [
+      "滷肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00–00:00（2021 文）",
+    "evidence": "2021 防疫懶人包：**「新竹市區滿800可外送、科學園區滿1200可外送，需外送請於前一天來電」**",
+    "source": "y00.tw/takeout 2021",
+    "phone": "0931-033-395",
+    "address": "新竹市北門街55號"
+  },
+  {
+    "id": "hc-scout-lead-58",
+    "slug": "早到晚到",
+    "name": "早到晚到（新豐店）",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "宵夜／簡餐",
+    "cuisineTags": [
+      "宵夜",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "17:00–01:30（2021 文）",
+    "evidence": "2021 防疫懶人包：**「新豐地區滿500外送、竹北地區滿千外送」**",
+    "source": "y00.tw/takeout 2021",
+    "phone": "03-559-7007",
+    "address": "新竹縣新豐鄉康樂路一段12號"
+  },
+  {
+    "id": "hc-scout-lead-59",
+    "slug": "日日香便當",
+    "name": "日日香便當",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 850,
+    "deliveryMinLabel": "滿 $850",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "Oddle 結帳頁明示：**最低訂購金額 NT$850**（測試句「再有NT$745就可達到 NT$850的最低訂購金額」）；**免費外送門檻 NT$2395**（「再有NT$2,395就可達到免費外送/宅配量」）；測試配送至東區光復路二段 **運費 NT$119**；未見公開半徑數字",
+    "source": "Oddle CU checkout 2026-09-22",
+    "orderUrl": "https://ririsun.oddle.me/zh_TW",
+    "phone": "03-555-8278",
+    "address": "新竹縣竹北市三民路307號"
+  },
+  {
+    "id": "hc-scout-lead-60",
+    "slug": "米諾瓦咖啡MinervaCafé",
+    "name": "米諾瓦咖啡 Minerva Café（竹東／中興院區側）",
+    "city": "新竹縣",
+    "district": "竹東鎮",
+    "cuisine": "咖啡／會議餐盒",
+    "cuisineTags": [
+      "咖啡",
+      "會議餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市／訂餐為準）",
+    "evidence": "dinbendon meta／店卡明示：**「前一日15:00前訂購，竹科滿5個、新竹市區和竹北滿10個即可外送！」**；品牌官網有外送餐盒選單",
+    "source": "dinbendon；minerva-cafe.com.tw",
+    "orderUrl": "https://www.dinbendon.net/do/shop/572998",
+    "phone": "03-582-2677",
+    "address": "新竹縣竹東鎮中興路四段983-1號"
+  },
+  {
+    "id": "hc-scout-lead-61",
+    "slug": "阿金黑糯米餃湖口店",
+    "name": "阿金黑糯米餃湖口店",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "黑糯米餃／小吃",
+    "cuisineTags": [
+      "黑糯米餃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「500元外送，LINE:aa938270」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/614449",
+    "address": "新竹縣湖口鄉勝利路一段106號"
+  },
+  {
+    "id": "hc-scout-lead-62",
+    "slug": "中山牛肉麵",
+    "name": "中山牛肉麵",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "牛肉麵／滷味／小吃",
+    "cuisineTags": [
+      "牛肉麵",
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「500元外送，十點後才可打電話訂購」**",
+    "source": "dinbendon；fonfood",
+    "orderUrl": "https://www.dinbendon.net/do/shop/117011",
+    "phone": "03-597-1331",
+    "address": "新竹縣湖口鄉勝利路一段86號"
+  },
+  {
+    "id": "hc-scout-lead-63",
+    "slug": "廟口鴨香飯",
+    "name": "廟口鴨香飯(新豐店)",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "鴨香飯／小吃",
+    "cuisineTags": [
+      "鴨香飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「工業區1000元外送，十點後訂餐」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/557668",
+    "phone": "03-557-1666",
+    "address": "新竹縣新豐鄉建興路一段124號"
+  },
+  {
+    "id": "hc-scout-lead-64",
+    "slug": "鐵屋涼麵",
+    "name": "鐵屋涼麵(新豐店)",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "涼麵／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「500外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/540176",
+    "phone": "03-559-3666",
+    "address": "新竹縣新豐鄉新興路351-9號"
+  },
+  {
+    "id": "hc-scout-lead-65",
+    "slug": "湖口開心紅豆餅",
+    "name": "湖口開心紅豆餅",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "紅豆餅／小吃",
+    "cuisineTags": [
+      "紅豆餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「30顆外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/391455",
+    "address": "新竹縣湖口鄉光復東路165號"
+  },
+  {
+    "id": "hc-scout-lead-66",
+    "slug": "麵朝麵食館",
+    "name": "麵朝麵食館(清大店)",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "港式麵食／小吃",
+    "cuisineTags": [
+      "港式麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「滿五百外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/240830",
+    "phone": "03-561-0949",
+    "address": "新竹市建新路8號"
+  },
+  {
+    "id": "hc-scout-lead-67",
+    "slug": "好吃肉羹麵",
+    "name": "好吃肉羹麵",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "肉羹／麵食",
+    "cuisineTags": [
+      "肉羹",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介：**「((份量挺多的 500送」**；map 訂購說明另見「週四可外送(提前詢問)」",
+    "source": "dinbendon map／SSR",
+    "orderUrl": "https://www.dinbendon.net/do/shop/254445",
+    "phone": "03-555-5248",
+    "address": "新竹縣竹北市華興街215號-1"
+  },
+  {
+    "id": "hc-scout-lead-68",
+    "slug": "揚新麵食館",
+    "name": "揚新麵食館",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "麵食／炒飯",
+    "cuisineTags": [
+      "麵食",
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「高鐵700元外送、生醫園區滿1000元外送(星期一、二不送生醫)」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/503309",
+    "phone": "03-668-4520",
+    "address": "新竹縣竹北市福興東路二段150號"
+  },
+  {
+    "id": "hc-scout-lead-69",
+    "slug": "三清洞韓食x飯卷著吃竹北店",
+    "name": "三清洞韓食x飯卷著吃 竹北店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "韓式／飯捲",
+    "cuisineTags": [
+      "韓式",
+      "飯捲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「2公里內滿1000元外送／光復店 0916-397148 滿一千元外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/463742",
+    "phone": "0916-397-148",
+    "address": "新竹縣竹北市福竹街2號"
+  },
+  {
+    "id": "hc-scout-lead-70",
+    "slug": "佳湘麵食館",
+    "name": "佳湘麵食館",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "麵食／小吃",
+    "cuisineTags": [
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週六公休（店卡）",
+    "evidence": "dinbendon meta：**「滿500外送 週六公休 不送唐榮園區」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/302345",
+    "phone": "03-598-1568",
+    "address": "新竹縣湖口鄉大勇路3巷11號"
+  },
+  {
+    "id": "hc-scout-lead-71",
+    "slug": "八方雲集",
+    "name": "八方雲集(仁和店)",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "鍋貼／水餃／小吃",
+    "cuisineTags": [
+      "鍋貼",
+      "水餃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「滿500元外送 10:00後打電話」**",
+    "source": "dinbendon；fonfood",
+    "orderUrl": "https://www.dinbendon.net/do/shop/305118",
+    "phone": "03-598-6246",
+    "address": "新竹縣湖口鄉仁和路41號"
+  },
+  {
+    "id": "hc-scout-lead-72",
+    "slug": "有一套煎餅果子",
+    "name": "有一套煎餅果子",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "煎餅果子／小吃",
+    "cuisineTags": [
+      "煎餅果子",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「外送1500元」**",
+    "source": "dinbendon；chickpt",
+    "orderUrl": "https://www.dinbendon.net/do/shop/566711",
+    "phone": "0975-895-773",
+    "address": "新竹縣新豐鄉中興路152-2號"
+  },
+  {
+    "id": "hc-scout-lead-73",
+    "slug": "新豐餃頭",
+    "name": "新豐餃頭",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "煎餃／小吃",
+    "cuisineTags": [
+      "煎餃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「工業區800元」**（工業區外送門檻）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/324613",
+    "address": "新竹縣新豐鄉建興路一段179號"
+  },
+  {
+    "id": "hc-scout-lead-74",
+    "slug": "川島家便當專賣",
+    "name": "川島家便當專賣（竹科總店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～五約 11:30–13:30、17:00–19:30；週休二日（LINE）",
+    "evidence": "LINE OA Delivery 欄明示：**Minimum order total $500**；**Delivery areas：竹科園區週邊**；Note：**「竹科園區跟關埔週邊5個即可外送若其他區域請電洽或訊息詢問～」**；Delivery fee 0；約需提前 2 小時",
+    "source": "LINE OA Delivery",
+    "orderUrl": "https://page.line.me/559xgkvd",
+    "lineUrl": "https://page.line.me/559xgkvd",
+    "phone": "0965-077-978",
+    "address": "新竹市東區光復路一段531巷58號"
+  },
+  {
+    "id": "hc-scout-lead-75",
+    "slug": "第一香羹的專賣店",
+    "name": "第一香 羹的專賣店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "肉羹／小吃",
+    "cuisineTags": [
+      "肉羹",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 10:30–20:00（店卡）",
+    "evidence": "dinbendon meta／店卡：**「高鐵附近滿500送」**；營業時間註星期一～五 10:30–20:00",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/329944",
+    "address": "新竹縣竹北市隘口二路136號"
+  },
+  {
+    "id": "hc-scout-lead-76",
+    "slug": "黑皮驊魯肉飯",
+    "name": "黑皮驊魯肉飯",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "魯肉飯／小吃",
+    "cuisineTags": [
+      "魯肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon meta：**「富宇財經滿500元外送，事先通知店家卡外送名額」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/265135",
+    "address": "新竹縣竹北市嘉興路150號"
+  },
+  {
+    "id": "hc-scout-lead-77",
+    "slug": "大庄118",
+    "name": "大庄118",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "鍋燒麵／小吃",
+    "cuisineTags": [
+      "鍋燒麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「3碗以上即可外送」**；送達地區列香山區；最後修改 2024/03/19",
+    "source": "dinbendon Chrome 店卡 2026-09-22",
+    "orderUrl": "https://www.dinbendon.net/do/shop/538676",
+    "phone": "0908-687-719",
+    "address": "新竹市香山區大庄路118巷2號"
+  },
+  {
+    "id": "hc-scout-lead-78",
+    "slug": "鹿咖哩",
+    "name": "鹿咖哩",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "咖哩／丼飯",
+    "cuisineTags": [
+      "咖哩",
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「請於前一天下班前訂餐」**＋**「滿1000元台元有外送」**；最後修改 2026/03/05",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/586215",
+    "phone": "0905-483-565",
+    "address": "新竹縣竹北市福興東路二段97號"
+  },
+  {
+    "id": "hc-scout-lead-79",
+    "slug": "粵萊叉燒",
+    "name": "粵萊叉燒",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "港式叉燒／便當",
+    "cuisineTags": [
+      "港式叉燒",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 11:00–14:00、17:00–20:00；六日公休（2025-06 食記）",
+    "evidence": "dinbendon 訂購說明明示：**「滿千可外送」**（並註「實際以店家公告價格為主」）；最後修改 2024/06/06",
+    "source": "dinbendon Chrome；jeremyfoodie 2025-06",
+    "orderUrl": "https://www.dinbendon.net/do/shop/527333",
+    "phone": "03-5678298",
+    "address": "新竹市東區金山十街100號"
+  },
+  {
+    "id": "hc-scout-lead-80",
+    "slug": "胖丸肉圓",
+    "name": "胖丸肉圓",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "肉圓／小吃",
+    "cuisineTags": [
+      "肉圓",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／店卡明示：**「新竹外送滿600元，需前一天預訂喔」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/458477",
+    "phone": "03-5301978",
+    "address": "新竹市香山區牛埔東路65號"
+  },
+  {
+    "id": "hc-scout-lead-81",
+    "slug": "一碗香粥飯麵食館",
+    "name": "一碗香粥飯麵食館",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "粥／炒飯／麵",
+    "cuisineTags": [
+      "粥",
+      "炒飯",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介：**「要560~600元才可以送」**；訂購說明另見：**「*買10送1，5份即可外送」**；最後修改 2026/09/16",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/364459",
+    "phone": "0922-698-199",
+    "address": "新竹市香山區瑞光街9號"
+  },
+  {
+    "id": "hc-scout-lead-82",
+    "slug": "麻子辣蒙古麻辣燙",
+    "name": "麻子辣蒙古麻辣燙（竹東中興店）",
+    "city": "新竹縣",
+    "district": "竹東鎮",
+    "cuisine": "麻辣燙／小吃",
+    "cuisineTags": [
+      "麻辣燙",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡明示：**「10份可外送」**（摘要另見需提前）",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/432168",
+    "phone": "03-5773922",
+    "address": "新竹縣竹東鎮中興路四段1004號"
+  },
+  {
+    "id": "hc-scout-lead-83",
+    "slug": "米撰雞腿壩王",
+    "name": "米撰雞腿壩王（寶山店）",
+    "city": "新竹縣",
+    "district": "寶山鄉",
+    "cuisine": "雞腿／便當",
+    "cuisineTags": [
+      "雞腿",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（摘要見營業約 10:xx）",
+    "evidence": "dinbendon 店卡明示：**「園區7個以上可送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/627493",
+    "phone": "0963-513-150",
+    "address": "新竹縣寶山鄉湳坑路二段121巷15號"
+  },
+  {
+    "id": "hc-scout-lead-84",
+    "slug": "八方雲集",
+    "name": "八方雲集（寶山雙園路）",
+    "city": "新竹縣",
+    "district": "寶山鄉",
+    "cuisine": "鍋貼／水餃／小吃",
+    "cuisineTags": [
+      "鍋貼",
+      "水餃",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「距離工業東X路，園區三路，力行X路一帶比較近，300外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/355722",
+    "address": "新竹縣寶山鄉雙園路二段363號"
+  },
+  {
+    "id": "hc-scout-lead-85",
+    "slug": "叫涼麵",
+    "name": "叫涼麵（寶山店）",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "涼麵／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 250,
+    "deliveryMinLabel": "滿 $250",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–18:00；週日／國定公休；售完提早打烊（FB 引文）",
+    "evidence": "目錄／FB 引文明示：**「新竹市(園區)滿250元可外送」**；**「20盒以上請提前一天預訂」**；外送電話同門市",
+    "source": "needmorefood 引 FB；fonfood／目錄",
+    "phone": "0972-866-086",
+    "address": "新竹市東區寶山路6號"
+  },
+  {
+    "id": "hc-scout-lead-86",
+    "slug": "鐵屋涼麵",
+    "name": "鐵屋涼麵（湖口店）",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "涼麵／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「滿700$即可外送」**（另卡 shop=528244 同址寫「湖口地區滿五百外送」→**以本卡 700 為準並來電覆核**）",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/540666",
+    "phone": "0988-385-215",
+    "address": "新竹縣湖口鄉中美路110號"
+  },
+  {
+    "id": "hc-scout-lead-87",
+    "slug": "竹野燒肉飯",
+    "name": "竹野燒肉飯（湖口）",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "燒肉飯／便當",
+    "cuisineTags": [
+      "燒肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「六個外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/582126",
+    "phone": "03-5990017",
+    "address": "新竹縣湖口鄉中山路二段117號"
+  },
+  {
+    "id": "hc-scout-lead-88",
+    "slug": "粗茶淡飯",
+    "name": "粗茶淡飯（湖口店）",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡明示：**「滿八百外送」**／**「滿八百才有外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/476639",
+    "phone": "03-5996153",
+    "address": "新竹縣湖口鄉民權街11-6號"
+  },
+  {
+    "id": "hc-scout-lead-89",
+    "slug": "上野烤肉飯",
+    "name": "上野烤肉飯（新豐中興店）",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "烤肉飯／便當",
+    "cuisineTags": [
+      "烤肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡明示：**「湖口工業區滿500元外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/629593",
+    "phone": "03-557-5199",
+    "address": "新竹縣新豐鄉中興路199號"
+  },
+  {
+    "id": "hc-scout-lead-90",
+    "slug": "暖暖．好食",
+    "name": "暖暖．好食",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "日式豬排／咖哩／定食",
+    "cuisineTags": [
+      "日式豬排",
+      "咖哩",
+      "定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「滿500可外送湖口工業區(外送皆不附味噌湯)」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/620078",
+    "phone": "03-5597018",
+    "address": "新竹縣新豐鄉康泰路278號"
+  },
+  {
+    "id": "hc-scout-lead-91",
+    "slug": "麵時代",
+    "name": "麵時代",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "麵食／小吃",
+    "cuisineTags": [
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「滿500元可外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/625171",
+    "phone": "03-5577555",
+    "address": "新竹縣新豐鄉新興路435號"
+  },
+  {
+    "id": "hc-scout-lead-92",
+    "slug": "角落義式廚坊",
+    "name": "角落義式廚坊",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "義大利麵／燉飯",
+    "cuisineTags": [
+      "義大利麵",
+      "燉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「竹北滿300外送、台元滿500外送、昌益1000外送；最好前一天預約訂餐」**；最後修改 2026/03/19",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/364716",
+    "phone": "0927-951-517",
+    "address": "新竹縣竹北市勝利六街112號"
+  },
+  {
+    "id": "hc-scout-lead-93",
+    "slug": "東北麵食館",
+    "name": "東北麵食館",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "麵食／小吃",
+    "cuisineTags": [
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週四公休（店卡）",
+    "evidence": "dinbendon 訂購說明明示：**「園區1000元外送」**；並註星期四公休、約 10 點左右訂餐",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/251201",
+    "phone": "03-5740071",
+    "address": "新竹市東區新源街102號"
+  },
+  {
+    "id": "hc-scout-lead-94",
+    "slug": "翔記精緻快餐店",
+    "name": "翔記精緻快餐店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "快餐／便當",
+    "cuisineTags": [
+      "快餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店卡明示：**「外送金額看地區有所不同，可電洽門市謝謝 400起送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/311292",
+    "phone": "03-5540862",
+    "address": "新竹縣竹北市中正東路165號"
+  },
+  {
+    "id": "hc-scout-lead-95",
+    "slug": "57食堂手作便當",
+    "name": "57食堂手作便當",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「生醫園區滿300元外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/317687",
+    "phone": "03-6582265",
+    "address": "新竹縣竹北市嘉興路323號"
+  },
+  {
+    "id": "hc-scout-lead-96",
+    "slug": "義鍋坊",
+    "name": "義鍋坊",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "鍋物／麵",
+    "cuisineTags": [
+      "鍋物",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「高鐵地區滿300外送 台元地區滿1000外送」**；另句 **「文興路及高鐵地區滿300外送」**",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/285598",
+    "phone": "03-658-8318",
+    "address": "新竹縣竹北市光明六路東二段36號"
+  },
+  {
+    "id": "hc-scout-lead-97",
+    "slug": "嘉興小館",
+    "name": "嘉興小館",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "麵食／炒飯／便當",
+    "cuisineTags": [
+      "麵食",
+      "炒飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店家詳細說明明示：**「5公里 滿500外送」**；**「5公里以上 滿 1000外送」**；**「昌益1.1公里 滿500外送」**；最後修改 2024/02/21",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/469036",
+    "phone": "0916-284-847",
+    "address": "新竹縣竹北市中華路343之5號"
+  },
+  {
+    "id": "hc-scout-lead-98",
+    "slug": "你餓了吧",
+    "name": "你餓了吧",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "快炒／便當",
+    "cuisineTags": [
+      "快炒",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「竹北地區滿600元即可外送」**；最後修改 2025/10/22",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/611043",
+    "phone": "0938-302-764",
+    "address": "新竹縣竹北市博愛街223號"
+  },
+  {
+    "id": "hc-scout-lead-99",
+    "slug": "可可燒臘",
+    "name": "可可燒臘",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「台元滿3~5個可外送」**；最後修改 2024/02/23",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/465085",
+    "phone": "03-5520660",
+    "address": "新竹縣竹北市中華路138號"
+  },
+  {
+    "id": "hc-scout-lead-100",
+    "slug": "六街小吃",
+    "name": "六街小吃",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "炒飯／麵食／小吃",
+    "cuisineTags": [
+      "炒飯",
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon **兩卡同址同電話**核清後併入：shop=110645 簡介／訂購說明：**「高鐵地區 10:15前訂購，滿500送」**＋**「台元科技園區不外送」**（最後修改 2026/03/30）；別名卡 shop=194901「六家小吃」：**「富宇財經滿500元外送」**（最後修改 2026/04/01）",
+    "source": "dinbendon Chrome 雙卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/110645",
+    "phone": "03-6578416",
+    "address": "新竹縣竹北市興隆路三段37巷83號"
+  },
+  {
+    "id": "hc-scout-lead-101",
+    "slug": "麻辣麵線",
+    "name": "麻辣麵線",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "麵線／小吃",
+    "cuisineTags": [
+      "麵線",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日早～午（店卡）；週六日公休",
+    "evidence": "dinbendon 訂購說明明示：**「滿300元可外送」**；簡介營業約上午 6:00–13:00（週六日公休）；最後修改 2025/03/17",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/456419",
+    "phone": "03-6565520",
+    "address": "新竹縣竹北市博愛街917號"
+  },
+  {
+    "id": "hc-scout-lead-102",
+    "slug": "燕京麵食館",
+    "name": "燕京麵食館",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "麵食／小吃",
+    "cuisineTags": [
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–20:30（店卡）",
+    "evidence": "dinbendon 店家詳細說明明示：**「滿500元可外送(10點前訂餐)」**；訂購說明營業 **11:00–14:00／17:00–20:30**；最後修改 2025/10/01",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/112585",
+    "phone": "03-5513889",
+    "address": "新竹縣竹北市中正東路225號"
+  },
+  {
+    "id": "hc-scout-lead-103",
+    "slug": "浪漫食堂",
+    "name": "浪漫食堂",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「滿1000送」**；最後修改 2025/07/10",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/610668",
+    "phone": "0976-384-789",
+    "address": "新竹縣竹北市中和街17號"
+  },
+  {
+    "id": "hc-scout-lead-104",
+    "slug": "北平麵食館",
+    "name": "北平麵食館",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "麵食／小吃",
+    "cuisineTags": [
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–20:30（店卡）",
+    "evidence": "dinbendon 簡介／訂購說明明示：**「滿500送」**（並註 11:00–14:00、17:00–20:30）；最後修改 2026/04/08",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/498239",
+    "phone": "03-5505838",
+    "address": "新竹縣竹北市福興東路二段178號"
+  },
+  {
+    "id": "hc-scout-lead-105",
+    "slug": "明爐燒臘竹北店",
+    "name": "明爐燒臘竹北店",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「6個以上可外送// 高鐵站要滿10個才送」**；最後修改 2026/08/04",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/266686",
+    "phone": "03-555-9837",
+    "address": "新竹縣竹北市博愛街465號"
+  },
+  {
+    "id": "hc-scout-lead-106",
+    "slug": "鐵屋涼麵",
+    "name": "鐵屋涼麵（華興店）",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "涼麵／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介／訂購說明明示：**「滿500可外送」**；最後修改 2026/07/28",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/491982",
+    "phone": "03-6565085",
+    "address": "新竹縣竹北市華興街210號"
+  },
+  {
+    "id": "hc-scout-lead-107",
+    "slug": "好呷味食堂",
+    "name": "好呷味食堂",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "便當／食堂",
+    "cuisineTags": [
+      "便當",
+      "食堂"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「外送10個以上才有每份90元,菜單每個月會微調整」**（份數門檻＋外送價）；最後修改 2023/05/17",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/305364",
+    "phone": "03-5600754",
+    "address": "新竹縣竹北市台元街34號"
+  },
+  {
+    "id": "hc-scout-lead-108",
+    "slug": "咖丼",
+    "name": "咖丼",
+    "city": "新竹縣",
+    "district": "竹北市",
+    "cuisine": "丼飯／咖哩",
+    "cuisineTags": [
+      "丼飯",
+      "咖哩"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店家詳細說明／訂購說明明示：**「竹北滿 $700 即送」**；**「新竹 / 湖口 / 新豐工業區滿 $1000 即送」**；並註 Line Pay／現金；最後修改 2026/02/02",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/619520",
+    "phone": "0903-380-715",
+    "address": "新竹縣竹北市勝利九街7號"
+  },
+  {
+    "id": "hc-scout-lead-109",
+    "slug": "鴿子廚房",
+    "name": "鴿子廚房",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「滿500元外送」**；最後修改 2024/10/23",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/435288",
+    "phone": "03-5777883",
+    "address": "新竹市東區關新路33號"
+  },
+  {
+    "id": "hc-scout-lead-110",
+    "slug": "溫州大餛飩",
+    "name": "溫州大餛飩",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "餛飩／麵食／小吃",
+    "cuisineTags": [
+      "餛飩",
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:30；週一公休（店卡）",
+    "evidence": "dinbendon 簡介明示：**「園區滿500外送，老虎醬很厲害(周一公休)」**；最後修改 2022/04/01",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/287984",
+    "phone": "03-564-5151",
+    "address": "新竹市東區金山街73號"
+  },
+  {
+    "id": "hc-scout-lead-111",
+    "slug": "金龍涼麵",
+    "name": "金龍涼麵",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "涼麵／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 現行卡 shop=492162 訂購說明明示：**「滿1000元方可外送」**／**「1000元以上可外送。」**；最後修改 2026/04/14（舊卡 shop=269772「附近滿500」不採）",
+    "source": "dinbendon Chrome 店卡（採 2026 卡）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/492162",
+    "phone": "03-5771189",
+    "address": "新竹市科學園路49號"
+  },
+  {
+    "id": "hc-scout-lead-112",
+    "slug": "馬來老爹",
+    "name": "馬來老爹",
+    "city": "新竹市",
+    "district": "東區",
+    "cuisine": "星馬／小吃",
+    "cuisineTags": [
+      "星馬",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「園區附近滿500元外送，10:00前訂好」**；最後修改 2026/08/28",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/183988",
+    "phone": "0958-887-393",
+    "address": "新竹市東區建功一路64之1號"
+  },
+  {
+    "id": "hc-scout-lead-113",
+    "slug": "小夫妻壹號飯麵食堂",
+    "name": "小夫妻壹號飯麵食堂",
+    "city": "新竹市",
+    "district": "香山區",
+    "cuisine": "飯麵／小吃",
+    "cuisineTags": [
+      "飯麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「500外送娜魯灣文化聚落，line訂」**；最後修改 2025/03/14",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/599916",
+    "phone": "0936-272-152",
+    "address": "新竹市香山區中華路五段648巷72弄1號"
+  },
+  {
+    "id": "hc-scout-lead-114",
+    "slug": "東城燒臘",
+    "name": "東城燒臘",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「5個可外送(YES)」**；最後修改 2025/08/01",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/121830",
+    "phone": "03-5982099",
+    "address": "新竹縣湖口鄉鳳凰村仁和路72號"
+  },
+  {
+    "id": "hc-scout-lead-115",
+    "slug": "味香雞腿大王湖豐店",
+    "name": "味香雞腿大王 湖豐店",
+    "city": "新竹縣",
+    "district": "湖口鄉",
+    "cuisine": "雞腿／便當",
+    "cuisineTags": [
+      "雞腿",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「8個外送」**；最後修改 2024/06/13",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/422680",
+    "phone": "03-5599125",
+    "address": "新竹縣湖口鄉新興路48號"
+  },
+  {
+    "id": "hc-scout-lead-116",
+    "slug": "伍師傅車輪餅新豐店",
+    "name": "伍師傅車輪餅新豐店",
+    "city": "新竹縣",
+    "district": "新豐鄉",
+    "cuisine": "車輪餅／小吃",
+    "cuisineTags": [
+      "車輪餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「30個可外送」**；最後修改 2024/01/15",
+    "source": "dinbendon Chrome 店卡",
+    "orderUrl": "https://www.dinbendon.net/do/shop/559127",
+    "phone": "03-5572761",
+    "address": "新竹縣新豐鄉泰安街67號"
+  },
+  {
+    "id": "ch-scout-lead-1",
+    "slug": "日出川-鹽麴舒肥餐盒",
+    "name": "日出川-鹽麴舒肥餐盒",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "健康餐盒／日式定食",
+    "cuisineTags": [
+      "健康餐盒",
+      "日式定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（食記未列完整工時）",
+    "evidence": "食記店卡明示：**「1公里內滿$300元即可外送」**；**「1-3公里滿$1,000元即可外送」**；另列官方 Line 線上點餐",
+    "source": "catalinas.blog/hinodegawa 2023-07",
+    "phone": "04-7226778",
+    "address": "彰化市旭光路209號"
+  },
+  {
+    "id": "ch-scout-lead-2",
+    "slug": "禾火食堂",
+    "name": "禾火食堂",
+    "city": "彰化縣",
+    "district": "鹿港鎮",
+    "cuisine": "有機米日式定食／餐盒",
+    "cuisineTags": [
+      "有機米日式定食",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "內用 11:00–14:00、17:00–20:00；外帶至 19:30；週三、週四公休（Portaly；以現場為準）",
+    "evidence": "Portaly 明示：**「平日可外送，假日需電話洽詢」**；**「鹿港鎮2公里內：滿500元可外送」**；**「彰濱工業區：滿2000可外送」**；**「福興工業區：滿2000可外送」**；lukang-future 另文：**「平日單筆消費滿 500 元，與食堂 2 公里內距離皆可外送」**",
+    "source": "portaly.cc/ourshokudo；lukang-future.tw",
+    "orderUrl": "https://lihi1.com/ai10q",
+    "lineUrl": "https://lin.ee/vbax5fk",
+    "phone": "04-7772557",
+    "address": "彰化縣鹿港鎮復興路318號"
+  },
+  {
+    "id": "ch-scout-lead-3",
+    "slug": "蛋白盒子健康低卡餐盒員林店",
+    "name": "蛋白盒子健康低卡餐盒 員林店",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～五 11:00–14:00、17:00–20:00；週六 11:00–14:00；週日公休",
+    "evidence": "官網 weebly 明示：**「店內外送： 2公里內 電洽」**；**「600元 起送： 3公里內」**；**「其他距離歡迎來電洽詢！」**",
+    "source": "tanpaihetzu.weebly.com",
+    "orderUrl": "https://tanpaihetzu.weebly.com/",
+    "phone": "04-832-0237",
+    "address": "彰化縣員林市三民街39-1號"
+  },
+  {
+    "id": "ch-scout-lead-4",
+    "slug": "慈膳便當",
+    "name": "慈膳便當",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "便當／平價四菜",
+    "cuisineTags": [
+      "便當",
+      "平價四菜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–19:30；周六日休息（ikiwi）",
+    "evidence": "食記外送資訊明示：**「店家滿五個便當以上可外送（距離限制需事先詢問）」**",
+    "source": "ikiwi.tw/bento-box-takeout-changhua 2025-01",
+    "phone": "04-726-0287",
+    "address": "彰化市仁愛路151號"
+  },
+  {
+    "id": "ch-scout-lead-5",
+    "slug": "福祥排骨酥麵",
+    "name": "福祥排骨酥麵（福祥小吃）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "排骨酥麵／小吃",
+    "cuisineTags": [
+      "排骨酥麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–20:30；週日休（ikiwi）",
+    "evidence": "食記外送資訊明示：**「滿300元外送服務」**",
+    "source": "ikiwi.tw/bento-box-takeout-changhua",
+    "phone": "04-723-2546",
+    "address": "彰化市中興路106號"
+  },
+  {
+    "id": "ch-scout-lead-6",
+    "slug": "品翔當歸鴨",
+    "name": "品翔當歸鴨（大埔店）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon description 明示：**「滿300$外送」**",
+    "source": "dinbendon；ikiwi",
+    "orderUrl": "https://www.dinbendon.net/do/shop/335501",
+    "phone": "04-711-2788",
+    "address": "彰化市大埔路369號"
+  },
+  {
+    "id": "ch-scout-lead-7",
+    "slug": "野餐，日。健康廚房",
+    "name": "野餐，日。健康廚房（彰基店）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–13:30／17:00–19:30；週日公休（2022 食記）",
+    "evidence": "食記明示：**「滿5個餐盒，市區3公里可外送」**；**「大量團體訂單，周遭縣市也可以送，詳細資訊再直接詢問店家」**",
+    "source": "fatchien.tw 2022-07-08",
+    "orderUrl": "https://shop.ichefpos.com/store/hOjw7qKN/ordering",
+    "lineUrl": "https://lin.ee/Cu3sEdl",
+    "phone": "04-720-0158",
+    "address": "彰化市博愛街91號"
+  },
+  {
+    "id": "ch-scout-lead-8",
+    "slug": "阿順當歸鴨",
+    "name": "阿順當歸鴨",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon description 明示：**「1000元外送」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/592682",
+    "phone": "04-833-8577",
+    "address": "彰化縣員林市員水路二段442號"
+  },
+  {
+    "id": "ch-scout-lead-9",
+    "slug": "花壇林記排骨飯",
+    "name": "花壇林記排骨飯",
+    "city": "彰化縣",
+    "district": "花壇鄉",
+    "cuisine": "排骨飯／便當",
+    "cuisineTags": [
+      "排骨飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 20,
+    "deliveryMinLabel": "滿 20 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00／17:00–19:00；週日休（2025 食記）",
+    "evidence": "dinbendon 公用店家說明明示：**「滿20個外送彰化市，請多多訂購」**／**「20個便當才外送彰化市，週日店休。」**",
+    "source": "dinbendon；nanai.tw 2025-07",
+    "orderUrl": "https://www.dinbendon.net/do/shop/527030",
+    "phone": "04-788-0358",
+    "address": "彰化縣花壇鄉光明路93號"
+  },
+  {
+    "id": "ch-scout-lead-10",
+    "slug": "清心緣蔬食坊",
+    "name": "清心緣蔬食坊（清心緣食坊）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "素食／蔬食便當",
+    "cuisineTags": [
+      "素食",
+      "蔬食便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "疫情期間曾註 10:30～13:00（2021）；現行工時 **請來電確認**",
+    "evidence": "防疫外送懶人包明示：**「彰化市區內滿500元免費外送」**／**「彰化市區內滿500元也可免費外送」**；並有 iCHEF 訂餐",
+    "source": "yiwutrip.tw 2021-10",
+    "orderUrl": "https://shop.ichefpos.com/store/89TfTUch/ordering",
+    "phone": "04-762-2399",
+    "address": "彰化市中華西路165號"
+  },
+  {
+    "id": "ch-scout-lead-11",
+    "slug": "名野日本料理",
+    "name": "名野日本料理",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "日式便當",
+    "cuisineTags": [
+      "日式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（2021 文）",
+    "evidence": "防疫懶人包明示：**「彰化市區便當滿10個可免費外送」**",
+    "source": "yiwutrip.tw 2021-10",
+    "phone": "04-763-5820",
+    "address": "彰化市平等街3號"
+  },
+  {
+    "id": "ch-scout-lead-12",
+    "slug": "大聖烤食餐盒",
+    "name": "大聖烤食餐盒（大聖燒肉便當烤飯糰）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "燒肉便當／烤飯糰",
+    "cuisineTags": [
+      "燒肉便當",
+      "烤飯糰"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:00；週日休（目錄；以現場為準）",
+    "evidence": "食記明示店家自送預訂：**「訂購電話：04-7220911(外送服務請於11:00之前訂購)」**",
+    "source": "ants／lovetpe 食記；footinder",
+    "phone": "04-722-0911",
+    "address": "舊址陳稜路65號"
+  },
+  {
+    "id": "ch-scout-lead-13",
+    "slug": "愛吃餐盒",
+    "name": "愛吃餐盒",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "健康便當／無油炸",
+    "cuisineTags": [
+      "健康便當",
+      "無油炸"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30–13:30、16:30–19:30；週日公休（2019 食記）",
+    "evidence": "食記明示：**「員林市內滿$300就可以外送」**",
+    "source": "kakayang.com 2019-12",
+    "phone": "04-833-4939",
+    "address": "彰化縣員林市林森路423號"
+  },
+  {
+    "id": "ch-scout-lead-14",
+    "slug": "八渡の新日本料理",
+    "name": "八渡の新日本料理",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "日式便當／餐盒",
+    "cuisineTags": [
+      "日式便當",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–21:00（2021 食記）",
+    "evidence": "食記明示：**「滿300就能外送」**（並另提可 FP）",
+    "source": "pingu.blog 2021-06",
+    "phone": "04-838-0181",
+    "address": "彰化縣員林市員鹿路62號"
+  },
+  {
+    "id": "ch-scout-lead-15",
+    "slug": "溪湖美味便當",
+    "name": "溪湖美味便當（二溪路店）",
+    "city": "彰化縣",
+    "district": "溪湖鎮",
+    "cuisine": "便當／排骨",
+    "cuisineTags": [
+      "便當",
+      "排骨"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "懶人包／情報彙整摘要：**「3公里內滿500元可外送」**（3–4 公里門檻各源寫法不一，曾見滿800／1000 — **請電話確認**）",
+    "source": "tag.gotoformosa／txg 彙整摘要",
+    "phone": "04-885-3602",
+    "address": "見地址溪湖鎮二溪路一段88號"
+  },
+  {
+    "id": "ch-scout-lead-16",
+    "slug": "蛋白盒子健康低卡餐盒彰化店",
+    "name": "蛋白盒子健康低卡餐盒 彰化店",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以 Ocard 時段為準）",
+    "evidence": "Ocard 訂餐頁明示：**運送距離上限 3 公里**；**0–1 km 運費 $85／滿 $800 免運**；**1–2 km 運費 $95／滿 $1,000 免運**；**2–3 km 運費 $105／滿 $1,500 免運**（Delivery 通道可下單）",
+    "source": "d.ocard.co/theproteinbox/w0kM4K DOM 2026-09-22",
+    "orderUrl": "https://d.ocard.co/theproteinbox/w0kM4K",
+    "phone": "04-7238327",
+    "address": "常見地址中山路二段393號"
+  },
+  {
+    "id": "ch-scout-lead-17",
+    "slug": "蛋白盒子健康低卡餐盒和美店",
+    "name": "蛋白盒子健康低卡餐盒 和美店",
+    "city": "彰化縣",
+    "district": "和美鎮",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "Ocard 可選時段約 11:00–14:00／17:00–20:00（以當日為準）",
+    "evidence": "Ocard 訂餐頁明示：同品牌費階 — **上限 3 公里**；**0–1 km $85／滿 $800**；**1–2 km $95／滿 $1,000**；**2–3 km $105／滿 $1,500**",
+    "source": "d.ocard.co/theproteinbox/KrD8vQ Chrome DOM 2026-09-22",
+    "orderUrl": "https://d.ocard.co/theproteinbox/KrD8vQ",
+    "phone": "04-7575-5382",
+    "address": "和美鎮和頭路33號"
+  },
+  {
+    "id": "ch-scout-lead-18",
+    "slug": "布拉葛利廚房",
+    "name": "布拉葛利廚房",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "低GI／健康餐盒",
+    "cuisineTags": [
+      "低GI",
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "bendon：11:00–13:30、17:00–19:00（以平台當日為準）",
+    "evidence": "bendon-dao 店卡明示：**「滿200元可外送」**",
+    "source": "bendon-dao.com/shops/11036；chgoodfood.pixnet",
+    "orderUrl": "https://www.bendon-dao.com/shops/11036",
+    "phone": "04-728-3803",
+    "address": "彰化市華山路187巷4號"
+  },
+  {
+    "id": "ch-scout-lead-19",
+    "slug": "安熱小廚房",
+    "name": "安熱小廚房",
+    "city": "彰化縣",
+    "district": "田中鎮",
+    "cuisine": "便當／自助餐／丼飯",
+    "cuisineTags": [
+      "便當",
+      "自助餐",
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄／粉專摘錄明示：**「田中 3個便當以上即可外送」**；**「跨鄉鎮地區 5個便當以上即可外送」**",
+    "source": "txg.twagoda entry/23171615（引粉專）",
+    "phone": "0932-600-335",
+    "address": "田中鎮中正路489號"
+  },
+  {
+    "id": "ch-scout-lead-20",
+    "slug": "和可咖哩",
+    "name": "和可咖哩",
+    "city": "彰化縣",
+    "district": "鹿港鎮",
+    "cuisine": "咖哩定食／便當",
+    "cuisineTags": [
+      "咖哩定食",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "簡介另註約 10:30 營業、10 點前可先電話（以現場為準）",
+    "evidence": "dinbendon 公用店家明示：**「滿500可外送」**",
+    "source": "dinbendon shop=629118",
+    "orderUrl": "https://www.dinbendon.net/do/shop/629118",
+    "phone": "04-7788039",
+    "address": "鹿港鎮鹿東路99巷2號"
+  },
+  {
+    "id": "ch-scout-lead-21",
+    "slug": "佳興燒臘",
+    "name": "佳興燒臘",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "燒臘便當",
+    "cuisineTags": [
+      "燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:30、16:00–18:40（2025 食記）",
+    "evidence": "2025 食記明示店家自送：**「彰化市區午餐滿500元、晚餐滿300元即可外送」**",
+    "source": "annatree2014.pixnet 2025-05-05",
+    "phone": "04-7234055",
+    "address": "彰化市中山路二段817號"
+  },
+  {
+    "id": "ch-scout-lead-22",
+    "slug": "豪記快餐",
+    "name": "豪記快餐（彰安對面）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "便當／快餐",
+    "cuisineTags": [
+      "便當",
+      "快餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 明示：**「5個外送」**／**「五個外送」**",
+    "source": "dinbendon shop=500370",
+    "orderUrl": "https://www.dinbendon.net/do/shop/500370",
+    "phone": "04-7251988",
+    "address": "彰化市中正路二段541號"
+  },
+  {
+    "id": "ch-scout-lead-23",
+    "slug": "杏花村-彰化",
+    "name": "杏花村-彰化",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 明示：**「滿三百外送」**",
+    "source": "dinbendon shop=465670",
+    "orderUrl": "https://www.dinbendon.net/do/shop/465670",
+    "phone": "04-7271492",
+    "address": "彰化市南郭路一段191巷15號"
+  },
+  {
+    "id": "ch-scout-lead-24",
+    "slug": "正忠",
+    "name": "正忠（秀水）",
+    "city": "彰化縣",
+    "district": "秀水鄉",
+    "cuisine": "便當／團膳",
+    "cuisineTags": [
+      "便當",
+      "團膳"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「20個以上外送」**；須 10:00 前訂餐",
+    "source": "dinbendon shop=438747",
+    "orderUrl": "https://www.dinbendon.net/do/shop/438747",
+    "phone": "04-7225333"
+  },
+  {
+    "id": "ch-scout-lead-25",
+    "slug": "東池池上",
+    "name": "東池池上（秀水）",
+    "city": "彰化縣",
+    "district": "秀水鄉",
+    "cuisine": "池上便當",
+    "cuisineTags": [
+      "池上便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「5個外送」**；須 10:00 前訂餐",
+    "source": "dinbendon shop=438734",
+    "orderUrl": "https://www.dinbendon.net/do/shop/438734",
+    "phone": "04-7616583"
+  },
+  {
+    "id": "ch-scout-lead-26",
+    "slug": "72度C舒肥健康餐員林店",
+    "name": "72度C舒肥健康餐 員林店",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "舒肥健康餐盒",
+    "cuisineTags": [
+      "舒肥健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00/10:30–19:30；週日公休（食記）",
+    "evidence": "食記明示：**「員林區只要5個就能外送」**／**「員林地區滿5個可外送」**",
+    "source": "chevigal.com/72c-yuanlin；sunnylife.tw/72cyl",
+    "phone": "0958-037-698",
+    "address": "員林市民生路149號"
+  },
+  {
+    "id": "ch-scout-lead-27",
+    "slug": "72度C舒肥健康餐鹿港店",
+    "name": "72度C舒肥健康餐 鹿港店",
+    "city": "彰化縣",
+    "district": "鹿港鎮",
+    "cuisine": "舒肥健康餐盒",
+    "cuisineTags": [
+      "舒肥健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00（2020 食記 — **請覆核**）",
+    "evidence": "食記明示：**「滿五份就能外送囉」**",
+    "source": "ieatcandy.tw/changhuafood422",
+    "phone": "0968-772-976",
+    "address": "鹿港鎮中山路33-2號"
+  },
+  {
+    "id": "ch-scout-lead-28",
+    "slug": "石饕鐵板低卡餐盒坊",
+    "name": "石饕鐵板低卡餐盒坊（彰化曉陽店）",
+    "city": "彰化市",
+    "district": "彰化市",
+    "cuisine": "鐵板低卡餐盒",
+    "cuisineTags": [
+      "鐵板低卡餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00／17:00–20:00（2022 文）",
+    "evidence": "WalkerLand 明示店家自送：**「只要滿400元就能送」**（另合作 UE/FP — **orderUrl 不用平台**）",
+    "source": "walkerland.com.tw/article/view/338470",
+    "phone": "04-7266006",
+    "address": "彰化市曉陽路102號"
+  },
+  {
+    "id": "ch-scout-lead-29",
+    "slug": "員湘園當歸鴨肉麵線",
+    "name": "員湘園當歸鴨肉麵線",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "當歸鴨／鴨肉飯／麵線",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯",
+      "麵線"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄曾列 11:00–21:00",
+    "evidence": "員林外食網目錄明示：**「外送門檻：員林市區滿200外送」**（更新日期偏舊 105/5/30 — **請電話覆核**）",
+    "source": "txg.twagoda entry/3892560",
+    "phone": "04-8367457",
+    "address": "員林市新生路243號"
+  },
+  {
+    "id": "ch-scout-lead-30",
+    "slug": "辰龍燒臘餐廳",
+    "name": "辰龍燒臘餐廳（辰龍港式燒臘）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "港式燒臘便當",
+    "cuisineTags": [
+      "港式燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "彙整引 2022 文明示：**「員林市區訂滿300元且…距離店家3公里內…免費外送」**",
+    "source": "txg.lovetpe 員林燒臘彙整引 2022-04 文；footinder",
+    "phone": "04-8383611",
+    "address": "現址常見寫大同路一段282-1號"
+  },
+  {
+    "id": "ch-scout-lead-31",
+    "slug": "爆爆羊",
+    "name": "爆爆羊（珍味饌羊肉羹）",
+    "city": "彰化縣",
+    "district": "鹿港鎮",
+    "cuisine": "羊肉羹／小吃",
+    "cuisineTags": [
+      "羊肉羹",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "觀光網註請電話洽詢工時；食記常見約 09:00–22:00（以現場為準）",
+    "evidence": "dinbendon 公用店家明示：**「滿800外送」**；彰化縣觀光網店卡另明示：**「10份以上可外送」**",
+    "source": "dinbendon shop=621242；tourism.chcg.gov.tw FoodContent id=402；peigogo 2024-07",
+    "orderUrl": "https://www.dinbendon.net/do/shop/621242",
+    "phone": "04-778-3479",
+    "address": "彰化縣鹿港鎮民族路206號"
+  },
+  {
+    "id": "ch-scout-lead-32",
+    "slug": "青輕盒食",
+    "name": "青輕盒食",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "低GI／健康餐盒",
+    "cuisineTags": [
+      "低GI",
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:30、16:30–19:30（週一到四）；週五六僅午；週一休（2021 文 — **請覆核**）",
+    "evidence": "ikiwi 外帶清單明示：**「員林市滿五個可以外送」**；可加 LINE 訂餐 @bluefresh",
+    "source": "ikiwi.tw/take-out-lunch-yuanlin-foods 2021-06",
+    "orderUrl": "https://line.me/R/ti/p/@bluefresh",
+    "lineUrl": "https://line.me/R/ti/p/@bluefresh",
+    "phone": "0921-862-827",
+    "address": "彰化縣員林市新生路244號"
+  },
+  {
+    "id": "ch-scout-lead-33",
+    "slug": "扒穀扒穀燒肉丼飯",
+    "name": "扒穀扒穀燒肉丼飯（員林店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "燒肉丼／咖哩飯",
+    "cuisineTags": [
+      "燒肉丼",
+      "咖哩飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:30–23:00（ikiwi；beri 2025 仍營業）",
+    "evidence": "ikiwi 明示：**「消費滿10個便當，自送」**",
+    "source": "ikiwi.tw/take-out-lunch-yuanlin-foods；beri.tw/pakupaku 2025-07",
+    "phone": "04-836-3250",
+    "address": "見地址員林市中山路二段50號1"
+  },
+  {
+    "id": "ch-scout-lead-34",
+    "slug": "超吉大盛鐵板燒丼飯",
+    "name": "超吉大盛鐵板燒丼飯（員林中山店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "鐵板丼飯／便當",
+    "cuisineTags": [
+      "鐵板丼飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄曾列 11:00–20:45",
+    "evidence": "外食目錄明示：**「外送門檻：員林市區滿300元．外鄉鎮滿600元」**；**「餐點外送請於用餐前一小時訂購」**",
+    "source": "txg 彙整引 510.54vip／fonfood 系目錄句；請電話覆核現行門檻",
+    "phone": "04-833-3448",
+    "address": "員林市中山路二段88號"
+  },
+  {
+    "id": "ch-scout-lead-35",
+    "slug": "丐幫滷味",
+    "name": "丐幫滷味（員林萬年分舵）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "滷味／小吃",
+    "cuisineTags": [
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 16:30–24:00；週日／重大節日休（目錄 — **請覆核**）",
+    "evidence": "外食網目錄明示：**「外送門檻：員林市區滿200元」**（外鄉鎮電洽）",
+    "source": "txg.taiwaneast／fonfood store/50522 引目錄句",
+    "phone": "04-836-1517",
+    "address": "員林市中正路421號"
+  },
+  {
+    "id": "ch-scout-lead-36",
+    "slug": "九龍香港燒臘快餐",
+    "name": "九龍香港燒臘快餐",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "港式燒臘便當",
+    "cuisineTags": [
+      "港式燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄明示：**「滿3個即可外送」**",
+    "source": "txg.lovetpe／lovekhc 員林九龍彙整",
+    "phone": "04-835-2608",
+    "address": "員林市新生路261號"
+  },
+  {
+    "id": "ch-scout-lead-37",
+    "slug": "圓林燒鴨",
+    "name": "圓林燒鴨",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "燒鴨／便當",
+    "cuisineTags": [
+      "燒鴨",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 2,
+    "deliveryMinLabel": "滿 2 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄明示：**「員林市區外送滿2個以上」**",
+    "source": "txg.taiwaneast 圓林燒鴨彙整",
+    "phone": "04-835-7215",
+    "address": "員林市南昌路37號"
+  },
+  {
+    "id": "ch-scout-lead-38",
+    "slug": "丼寶-丼飯專賣店",
+    "name": "丼寶-丼飯專賣店（員林店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "丼飯",
+    "cuisineTags": [
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄明示：**「員林大道範圍內消費滿400即可外送」**",
+    "source": "taiwaneast／needmorefood 員林丼飯靜修路彙整",
+    "phone": "0903-658-110",
+    "address": "員林市靜修路43號"
+  },
+  {
+    "id": "ch-scout-lead-39",
+    "slug": "旺來傳統豆花",
+    "name": "旺來傳統豆花",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "豆花／剉冰",
+    "cuisineTags": [
+      "豆花",
+      "剉冰"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–22:00；週二公休（食記／目錄）",
+    "evidence": "目錄明示：**「員林市區滿300元」**可外送（建議電話確認範圍）",
+    "source": "txg.taiwaneast 旺來菜單彙整；whitneyblog 食記",
+    "phone": "04-832-1168",
+    "address": "員林市中正路267號"
+  },
+  {
+    "id": "ch-scout-lead-40",
+    "slug": "阿東麵線",
+    "name": "阿東麵線（總店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "麵線／小吃",
+    "cuisineTags": [
+      "麵線",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:00/09:00–19:00（目錄不一 — **請覆核**）",
+    "evidence": "目錄明示：**員林市區消費滿100元可外送**；外鄉鎮請電洽",
+    "source": "txg.twagoda entry/21495617 引文；needmorefood",
+    "phone": "04-838-0151",
+    "address": "員林市中山路一段617–619號"
+  },
+  {
+    "id": "ch-scout-lead-41",
+    "slug": "丐幫滷味",
+    "name": "丐幫滷味（秀水分舵）",
+    "city": "彰化縣",
+    "district": "秀水鄉",
+    "cuisine": "滷味／小吃",
+    "cuisineTags": [
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄／fonfood 系彙整明示：**「滿300元外送」**",
+    "source": "fonfood store/175867；taiwaneast 秀水丐幫彙整",
+    "phone": "04-769-0886",
+    "address": "秀水鄉中山路297號"
+  },
+  {
+    "id": "ch-scout-lead-42",
+    "slug": "阿鎮日式碳烤便當",
+    "name": "阿鎮日式碳烤便當",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "碳烤便當",
+    "cuisineTags": [
+      "碳烤便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（2022 前後資料 — **請先確認仍營業**）",
+    "evidence": "目錄明示：**外送至少3個便當即可**",
+    "source": "txg.taiwaneast 阿鎮日式碳烤便當彙整",
+    "phone": "04-838-0775",
+    "address": "員林市靜修東路4號"
+  },
+  {
+    "id": "ch-scout-lead-43",
+    "slug": "呷碗公風味炸物店",
+    "name": "呷碗公風味炸物店",
+    "city": "彰化縣",
+    "district": "北斗鎮",
+    "cuisine": "鹹酥雞／炸物／小吃",
+    "cuisineTags": [
+      "鹹酥雞",
+      "炸物",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "15:30–22:00；週四休息（食記）",
+    "evidence": "2025 食記店家親述：**「其他在北斗的鄉民們，也只要滿300元就可以外送」**；另軍公教／護理／消防於北斗範圍內不限金額免費外送",
+    "source": "ozoc73.pixnet.net/blog/posts/5071581960 2025-08-06",
+    "phone": "0970-200-598",
+    "address": "彰化縣北斗鎮興農路二段453號"
+  },
+  {
+    "id": "ch-scout-lead-44",
+    "slug": "百川通食舖",
+    "name": "百川通食舖",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "海鮮湯麵／臭豆腐／小吃",
+    "cuisineTags": [
+      "海鮮湯麵",
+      "臭豆腐",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–20:00；週日公休（2023 食記）",
+    "evidence": "員林外送懶人包明示：**「滿$150即可外送 (限定員林市區…)」**",
+    "source": "ieatcandy.tw/yuanlin 2021-05；buuz.tw/baichuantong 2023-03",
+    "phone": "04-839-0755",
+    "address": "員林市大同路一段286號"
+  },
+  {
+    "id": "ch-scout-lead-45",
+    "slug": "六錢湯包",
+    "name": "六錢湯包",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "湯包／小吃",
+    "cuisineTags": [
+      "湯包",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:00–20:30；週二公休（食記）",
+    "evidence": "懶人包明示：**「員林市區滿三百免收服務費」**（外送）",
+    "source": "ieatcandy.tw/yuanlin 2021-05；ieatcandy.tw/changhuafood343",
+    "phone": "0919-533-797",
+    "address": "員林市和平街10-8號"
+  },
+  {
+    "id": "ch-scout-lead-46",
+    "slug": "辛北門爌肉飯",
+    "name": "辛北門爌肉飯（三民東街店／二店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "爌肉飯／便當",
+    "cuisineTags": [
+      "爌肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄曾列約 10:00–15:00／17:00–21:00（**請覆核**）",
+    "evidence": "員林外食網／54vip 系目錄明示：**「外送門檻：180元即可外送」**",
+    "source": "needmorefood.com/hkRnb4 引 510.54vip；txg 彙整",
+    "phone": "04-836-5691",
+    "address": "員林市三民東街150號"
+  },
+  {
+    "id": "ch-scout-lead-47",
+    "slug": "九州博多拉麵",
+    "name": "九州博多拉麵（員林）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "拉麵／麵食",
+    "cuisineTags": [
+      "拉麵",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "懶人包明示：**「五百公尺內滿百免費外送」**／外帶自取曾註 79 折（活動句另計）",
+    "source": "ieatcandy.tw/yuanlin 2021-05；needmorefood／gotoformosa 電話彙整",
+    "phone": "04-833-8602",
+    "address": "見地址員林市大同路250號"
+  },
+  {
+    "id": "ch-scout-lead-48",
+    "slug": "老漾享食",
+    "name": "老漾享食（員林總店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "日式／咖哩飯／炸蛋小火鍋",
+    "cuisineTags": [
+      "日式",
+      "咖哩飯",
+      "炸蛋小火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "目錄彙整明示：**「員林市區消費滿400元可外送」**（建議提前電話預訂）",
+    "source": "txg.taiwaneast 員林火鍋外帶彙整；footinder",
+    "phone": "0906-302-533",
+    "address": "員林市員水路二段383號"
+  },
+  {
+    "id": "ch-scout-lead-49",
+    "slug": "第一家爌肉飯",
+    "name": "第一家爌肉飯（溪湖）",
+    "city": "彰化縣",
+    "district": "溪湖鎮",
+    "cuisine": "爌肉飯／豬腳／便當",
+    "cuisineTags": [
+      "爌肉飯",
+      "豬腳",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30–14:30、16:30–20:30；月首週一二公休（彙整 — **請覆核**）",
+    "evidence": "情報彙整明示：**「另外也有做便當外送服務滿500元就可以了」**",
+    "source": "taiwaneast／txg 溪湖滷肉／焢肉彙整；footinder",
+    "phone": "0956-662-777",
+    "address": "見地址溪湖鎮員鹿路一段458–459/459號"
+  },
+  {
+    "id": "ch-scout-lead-50",
+    "slug": "夢幻三家元老–員林小吃",
+    "name": "夢幻三家元老–員林小吃",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "排骨飯／爌肉飯／小吃",
+    "cuisineTags": [
+      "排骨飯",
+      "爌肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（2025 食記仍營業）",
+    "evidence": "懶人包明示：**「外帶，滿三百附近有外送」**",
+    "source": "ieatcandy.tw/yuanlin 2021-05；fruitlovelife 2025-05 仍營業覆核",
+    "phone": "04-833-7816",
+    "address": "員林市中山路二段33號"
+  },
+  {
+    "id": "ch-scout-lead-51",
+    "slug": "滿添心",
+    "name": "滿添心（北斗店）",
+    "city": "彰化縣",
+    "district": "北斗鎮",
+    "cuisine": "拌麵／拌飯／小吃",
+    "cuisineTags": [
+      "拌麵",
+      "拌飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30/11:00–20:00；週六公休（食記／PR；以現場為準）",
+    "evidence": "2025–2026 店家／PR 明示：**「1–2 公里內滿百元外送服務」**／**「滿百元即可提供北斗小吃外送」**",
+    "source": "buzzdaily／enn 2025–2026 PR；nanai.tw 2026-01 仍營業覆核",
+    "phone": "04-887-2419",
+    "address": "彰化縣北斗鎮福安巷12號"
+  },
+  {
+    "id": "ch-scout-lead-52",
+    "slug": "燒瓶子。大肆の鍋",
+    "name": "燒瓶子。大肆の鍋（員林店）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 16:00–01:00/02:00（目錄／官網 — **請覆核**）",
+    "evidence": "peipeipigtravel 明示：**「外送88折(三公里內折扣滿600即可外送)」**；ieatcandy 懶人包另明示：**「專人外送，三公里內、滿2鍋」**",
+    "source": "peipeipigtravel.com/takeaway；ieatcandy.tw/yuanlin；shaopingzi 門市頁",
+    "phone": "04-839-5577",
+    "address": "員林市大同路二段266號"
+  },
+  {
+    "id": "ch-scout-lead-53",
+    "slug": "關於餐桌AboutTables",
+    "name": "關於餐桌 About Tables（與希拉餐廳聯合窗口）",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "西／歐式餐館",
+    "cuisineTags": [
+      "西",
+      "歐式餐館"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–13:30／16:30–19:00（2021 文 — **請覆核**）",
+    "evidence": "peipeipigtravel 明示：**「員林市區，訂購金額滿1000元，享免費外送服務」**；LINE TODAY 同組亞米餐飲亦述市區滿1000免費外送",
+    "source": "peipeipigtravel.com/takeaway；today.line.me 2021-06",
+    "phone": "04-837-2406",
+    "address": "員林市和平東街40號"
+  },
+  {
+    "id": "ch-scout-lead-54",
+    "slug": "鰭酒藏日式料理",
+    "name": "鰭酒藏日式料理",
+    "city": "彰化縣",
+    "district": "員林市",
+    "cuisine": "日式料理／丼",
+    "cuisineTags": [
+      "日式料理",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:00–00:30；無公休（食記 — **請覆核**）",
+    "evidence": "peipeipigtravel 明示：**「距本店3公里內滿$500即可外送」**；**「距本店5公里內滿$1000即可外送」**（依 Google 導航）",
+    "source": "peipeipigtravel.com/takeaway；peipeipigtravel.com/cgz",
+    "phone": "04-833-4400",
+    "address": "員林市南昌路39號"
+  },
+  {
+    "id": "ch-scout-lead-55",
+    "slug": "官東燒肉",
+    "name": "官東燒肉（員林店／埔心）",
+    "city": "彰化縣",
+    "district": "埔心鄉",
+    "cuisine": "燒肉",
+    "cuisineTags": [
+      "燒肉"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–13:00／17:30–19:30（2021 文 — **請覆核**）",
+    "evidence": "peipeipigtravel 明示：**「三個以上，三公里內可外送」**",
+    "source": "peipeipigtravel.com/takeaway",
+    "phone": "0905-720-111",
+    "address": "彰化縣埔心鄉員林大道七段318號"
+  },
+  {
+    "id": "cy-scout-lead-1",
+    "slug": "梁社漢排骨",
+    "name": "梁社漢排骨（嘉義仁愛店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "排骨便當／麵",
+    "cuisineTags": [
+      "排骨便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:30（achingfoodie／食記）",
+    "evidence": "品牌訂購分店頁／彙整明示：**「3個主餐(飯或麵)以上可外送，若有其他需求請與本店聯繫」**；另 baliman 整理官網規則：**「單筆訂單滿 500 元免外送費，未滿 500 元需加 30 元運費」**（buygood 官網訂餐）",
+    "source": "hotel.twagoda.com/entry/94631298；baliman.tw 2026-09；achingfoodie.tw/buygood",
+    "orderUrl": "https://www.buygood.com.tw/",
+    "phone": "05-2270058",
+    "address": "嘉義市西區仁愛路238號1"
+  },
+  {
+    "id": "cy-scout-lead-3",
+    "slug": "蕭老師火雞肉飯",
+    "name": "蕭老師火雞肉飯",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "火雞肉飯／便當",
+    "cuisineTags": [
+      "火雞肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00–14:00、16:00–20:00（每週五公休；enn 2026）",
+    "evidence": "2026-05 店卡 Q&A 明示：**「本區滿 $500 起送，隔區則需滿 $1000」**；並建議大量／商務外送提前電話預訂",
+    "source": "enn.tw/729942 2026-05",
+    "phone": "05-2326836",
+    "address": "嘉義市西區自由路101號"
+  },
+  {
+    "id": "cy-scout-lead-4",
+    "slug": "喜樂便當",
+    "name": "喜樂便當（喜樂快餐便當）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "便當／快餐",
+    "cuisineTags": [
+      "便當",
+      "快餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "AM 10:30–13:00、PM 16:30–19:00；星期六下午、星期日公休（店文）",
+    "evidence": "店家訂購文明示：**「滿300即可外送（大量訂單請提早三天來電）」**；**「訂購便當只接受來電訂購」**／不接受網路訂單",
+    "source": "hotel.twagoda.com/entry/8559624",
+    "phone": "05-2779362",
+    "address": "嘉義市新生路410號"
+  },
+  {
+    "id": "cy-scout-lead-5",
+    "slug": "強記燒臘",
+    "name": "強記燒臘（嘉義上海店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "港式燒臘便當",
+    "cuisineTags": [
+      "港式燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:45–13:30、15:45–18:30（官網）",
+    "evidence": "**官網外送規則（2026）：** 嘉義市 **10個便當以上**；市外開車 **15分鐘內→10個+**／**30分鐘內→20個+**；且菜單金額另須至少 **NT$1,000**。另愛食記／食記可佐證自送。訂購：官網／LINE／電話",
+    "source": "qiangji1996.com；ifoodie 2026-01；maxfoodfun 2026-02",
+    "orderUrl": "https://qiangji1996.com/store.php?slug=chiayi-shanghai",
+    "lineUrl": "https://page.line.me/633dtdvg",
+    "phone": "05-2363637",
+    "address": "嘉義市西區上海路250-1號"
+  },
+  {
+    "id": "cy-scout-lead-6",
+    "slug": "我們的‧健康食堂",
+    "name": "我們的‧健康食堂",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以店家最新公告為準）",
+    "evidence": "店家檔案／Linktree 彙整明示：**「嘉義市區消費 300即可外送」**；另文確認支援嘉義市區外送與團體訂購",
+    "source": "hotel.twagoda.com/entry/96797900；buzzdaily.tw/news/109021 2025-08",
+    "orderUrl": "https://rink.cc/o0fpu",
+    "phone": "0919-516-775",
+    "address": "嘉義市西區民族路557號"
+  },
+  {
+    "id": "cy-scout-lead-7",
+    "slug": "偶鵝嚐嚐鵝肉專賣店",
+    "name": "偶鵝嚐嚐 鵝肉專賣店（水上店）",
+    "city": "嘉義縣",
+    "district": "水上鄉",
+    "cuisine": "鵝肉飯／鵝肉小吃",
+    "cuisineTags": [
+      "鵝肉飯",
+      "鵝肉小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00、16:30–19:30（週四公休；fonfood／WalkerLand）",
+    "evidence": "footinder／店卡評語彙整明示：**「滿300元可外送」**",
+    "source": "footinder.app/places/642b19dddbf53b7e7e2de734；fonfood；WalkerLand",
+    "phone": "05-2681098",
+    "address": "嘉義縣水上鄉中興路116號"
+  },
+  {
+    "id": "cy-scout-lead-8",
+    "slug": "松築創作和食料理",
+    "name": "松築創作和食料理",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "日式和食／餐盒",
+    "cuisineTags": [
+      "日式和食",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "Tue–Sun 約 11:30–14:00、17:30–21:00（LINE）",
+    "evidence": "**LINE OA（fresher）：** Minimum order **$2,000**；限嘉義市區（縣需看距離）。舊 amonblog：**「8公里內免另外收費，超過1公里以$10計費」**（2021 歷史參考）",
+    "source": "page.line.me/vzq2022m；amonblog 2021",
+    "orderUrl": "https://page.line.me/vzq2022m",
+    "lineUrl": "https://page.line.me/vzq2022m",
+    "phone": "05-2910181",
+    "address": "嘉義市西區中興路221號"
+  },
+  {
+    "id": "cy-scout-lead-10",
+    "slug": "方程式早午餐",
+    "name": "方程式早午餐",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "早午餐",
+    "cuisineTags": [
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:00–16:00（OpenRice／平台彙整；以現場為準）",
+    "evidence": "amonblog 明示：**「店家自送，市區3公里內，消費滿$300免費外送」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2271992",
+    "address": "嘉義市東區吳鳳南路174號"
+  },
+  {
+    "id": "cy-scout-lead-12",
+    "slug": "渼橘客新鮮果優格專賣店",
+    "name": "渼橘客新鮮果優格專賣店",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "優格飲／冰品",
+    "cuisineTags": [
+      "優格飲",
+      "冰品"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「店家外送，嘉義市區訂購滿200元即可外送」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2750019",
+    "address": "嘉義市東區義教街927號"
+  },
+  {
+    "id": "cy-scout-lead-13",
+    "slug": "正方芬cafe",
+    "name": "正方芬 cafe",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "咖啡／茶飲",
+    "cuisineTags": [
+      "咖啡",
+      "茶飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「消費金額達$300可免費外送」**（原文並附期間優惠句；門檻本體為滿額外送）",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2713103",
+    "address": "嘉義市東區林森東路103號"
+  },
+  {
+    "id": "cy-scout-lead-14",
+    "slug": "博愛蚵庄餐廳",
+    "name": "博愛蚵庄餐廳",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "合菜／蚵料理",
+    "cuisineTags": [
+      "合菜",
+      "蚵料理"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「滿$2000免收外送費(限嘉義市地區)」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2319987",
+    "address": "嘉義市西區博愛路二段396號"
+  },
+  {
+    "id": "cy-scout-lead-15",
+    "slug": "小洋蔥手作料理",
+    "name": "小洋蔥手作料理",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "義式／簡餐",
+    "cuisineTags": [
+      "義式",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「店家自送」**＋**「電話預約打8折且需滿$200UP，免收外送費(限嘉義市區)」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2752500",
+    "address": "嘉義市東區忠孝路368之2號"
+  },
+  {
+    "id": "cy-scout-lead-16",
+    "slug": "麻辣風暴鴛鴦火鍋",
+    "name": "麻辣風暴鴛鴦火鍋",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「滿$500市區免費外送」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2857978",
+    "address": "嘉義市西區興達路358號"
+  },
+  {
+    "id": "cy-scout-lead-17",
+    "slug": "名都觀光渡假大飯店",
+    "name": "名都觀光渡假大飯店（餐盒外送）",
+    "city": "嘉義縣",
+    "district": "番路鄉",
+    "cuisine": "飯店餐盒",
+    "cuisineTags": [
+      "飯店餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「訂購滿$1000元，嘉義縣市即可免費外送，數量達10個9折，20個85折，30個8折」**；取餐前2小時來電預訂",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2712658",
+    "address": "嘉義縣番路鄉28號"
+  },
+  {
+    "id": "cy-scout-lead-18",
+    "slug": "早安山丘",
+    "name": "早安山丘（朴子南通店）",
+    "city": "嘉義縣",
+    "district": "朴子市",
+    "cuisine": "早午餐",
+    "cuisineTags": [
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 05:30–13:00（achingfoodie 分店表）",
+    "evidence": "彙整引門市／FB 文明示：**「朴子地區滿百即可外送唷」**；電話／地址與分店表一致",
+    "source": "lovekhc.com/info/早安山丘朴子（curl 正文）；achingfoodie.tw/morninghill",
+    "phone": "05-3708737",
+    "address": "嘉義縣朴子市南通路三段669號"
+  },
+  {
+    "id": "cy-scout-lead-19",
+    "slug": "飽飽泰式",
+    "name": "飽飽泰式",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "泰式簡餐／便當",
+    "cuisineTags": [
+      "泰式簡餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–20:00（週三公休；食記／彙整）",
+    "evidence": "iCHEF 雲端餐廳店名即標：**「平日外帶滿500元嘉義市可外送」**；另有官方 LINE 訂餐",
+    "source": "shop.ichefpos.com/store/GYYnBipf；iloveeateateat.pixnet；chickpt 公司頁",
+    "orderUrl": "https://shop.ichefpos.com/store/GYYnBipf/ordering",
+    "lineUrl": "https://page.line.me/636kwpin",
+    "phone": "05-2326624",
+    "address": "嘉義市西區八德路157號(舊址民生南路107號"
+  },
+  {
+    "id": "cy-scout-lead-20",
+    "slug": "威尼爾食堂",
+    "name": "威尼爾食堂",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "食堂／便當簡餐",
+    "cuisineTags": [
+      "食堂",
+      "便當簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:30（週六店休；彙整）",
+    "evidence": "Threads 店家檔／彙整明示：**嘉義市區消費滿 500 元可外送**；**15 份以上建議至少提前一天預訂**（大量宜提前兩天）",
+    "source": "threads.com/@vernier2272899；opengovtw ban/88934266",
+    "phone": "05-2272899",
+    "address": "嘉義市西區民族路543號"
+  },
+  {
+    "id": "cy-scout-lead-21",
+    "slug": "悅德素食",
+    "name": "悅德素食（嘉義店）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "素食便當",
+    "cuisineTags": [
+      "素食便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至六約 11:00 起（彙整；以現場為準）",
+    "evidence": "復業／店文彙整明示：**「外送每份120元」「市區 10份就可免費外送」**",
+    "source": "east.twagoda.com/entry/100941279；vegemap.merit-times",
+    "phone": "05-2205987",
+    "address": "嘉義市東區忠孝北街91號"
+  },
+  {
+    "id": "cy-scout-lead-22",
+    "slug": "珍煮丹",
+    "name": "珍煮丹（嘉義民雄店）",
+    "city": "嘉義縣",
+    "district": "民雄鄉",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以 Ocard／門市為準）",
+    "evidence": "Ocard 線上點彙整／搜尋引擎摘店規：**配送上限 15 公里；0～15 公里運費 0 元；最低消費 100 元**（另須購杯袋：每個 2 元、最多裝 6 杯）",
+    "source": "order.ocard.co/truedan/mOM4Pw（WebSearch 店規摘要）",
+    "orderUrl": "https://order.ocard.co/truedan/mOM4Pw"
+  },
+  {
+    "id": "cy-scout-lead-23",
+    "slug": "樸素齋坊／阿義師素食館",
+    "name": "樸素齋坊／阿義師素食館（朴子店）",
+    "city": "嘉義縣",
+    "district": "朴子市",
+    "cuisine": "素食自助／合菜／團體便當",
+    "cuisineTags": [
+      "素食自助",
+      "合菜",
+      "團體便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 06:30–14:00、16:00–19:00（Threads／門市表）",
+    "evidence": "服務項明示：**「精緻宴席外燴（一桌可外送到家）」**＋團體便當（門檻＝**一桌**）",
+    "source": "khc.twagoda.com/entry/81133274；threads @poethero 門市表",
+    "phone": "05-3701919",
+    "address": "嘉義縣朴子市市西路7-3號"
+  },
+  {
+    "id": "cy-scout-lead-24",
+    "slug": "熊本家",
+    "name": "熊本家（新光三越嘉義垂楊店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "日式丼／鍋",
+    "cuisineTags": [
+      "日式丼",
+      "鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（百貨餐廳時段）",
+    "evidence": "新光三越美食地圖（skmeats）線上外送頁／彙整明示：**每筆外送訂單酌收 40 元配送費**（商戶通道非 UE/FP）",
+    "source": "rsv.skm.com.tw …/delivery；needmorefood.com/mokzw",
+    "orderUrl": "https://rsv.skm.com.tw/groups/skm-ChiayiChuiyang/companies/-MWNwHRHCf-NqbUgArcd:inline-live-2/restaurants/-Ma1Il04x9V8YEnnitEs/delivery",
+    "phone": "05-2256182",
+    "address": "嘉義市西區垂楊路726號"
+  },
+  {
+    "id": "cy-scout-lead-25",
+    "slug": "瓦城泰國料理",
+    "name": "瓦城泰國料理（嘉義垂楊店／新光三越）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "泰式料理",
+    "cuisineTags": [
+      "泰式料理"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "skmeats 線上外送頁／彙整明示：**每筆外送訂單酌收 40 元配送費**",
+    "source": "rsv.skm.com.tw …/delivery；WebSearch 頁摘",
+    "orderUrl": "https://rsv.skm.com.tw/groups/skm-ChiayiChuiyang/companies/-KW_p1r8kjOziXsHmha0:inline-live-thaitown/restaurants/-L5CSDaOrVrBCGoULO7Y/delivery",
+    "phone": "05-2278686",
+    "address": "嘉義市西區垂楊路726號"
+  },
+  {
+    "id": "cy-scout-lead-26",
+    "slug": "丸亀製麵",
+    "name": "丸亀製麵（嘉義垂楊店／新光三越）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "烏龍麵",
+    "cuisineTags": [
+      "烏龍麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "skmeats 線上外送頁／彙整明示：**每筆外送訂單酌收 40 元配送費**",
+    "source": "rsv.skm.com.tw …/delivery；WebSearch 頁摘",
+    "orderUrl": "https://rsv.skm.com.tw/groups/skm-ChiayiChuiyang/companies/-MTxiMAVMXjtXfGrJy4U:inline-live-2/restaurants/-MTxkr8wrtQQtK_aK6fe/delivery",
+    "phone": "05-2280852",
+    "address": "嘉義市西區垂楊路726號"
+  },
+  {
+    "id": "cy-scout-lead-27",
+    "slug": "桃城雞排",
+    "name": "桃城雞排（中正創始店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "炸雞／鹹酥雞",
+    "cuisineTags": [
+      "炸雞",
+      "鹹酥雞"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:30–22:30（五六可至 23:30；食記）",
+    "evidence": "食記明示：**「嘉義市區消費滿200元可外送」**／電話旁註同句；另文列外送區域＝嘉義市東、西區",
+    "source": "zi.media/@zineblog/post/kmMt9s；alinalife.tw/taocheng",
+    "phone": "05-2238553",
+    "address": "嘉義市西區中正路698號"
+  },
+  {
+    "id": "cy-scout-lead-28",
+    "slug": "小花椰健康／健身餐盒",
+    "name": "小花椰 健康／健身餐盒（蘭井店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "健康餐盒／健身餐",
+    "cuisineTags": [
+      "健康餐盒",
+      "健身餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（週六店休；彙整）",
+    "evidence": "彙整／Threads 店規明示：**店家自送至少 2 份**；實際低消依距離調整",
+    "source": "shop.ichefpos.com/store/hnbQHOo-；threads @superfood_co；ifoodie",
+    "orderUrl": "https://shop.ichefpos.com/store/hnbQHOo-/ordering",
+    "phone": "0978-997-669",
+    "address": "嘉義市西區蘭井街222號"
+  },
+  {
+    "id": "cy-scout-lead-29",
+    "slug": "中埔寶島餐廳／寶島饗宴會館",
+    "name": "中埔寶島餐廳／寶島饗宴會館",
+    "city": "嘉義縣",
+    "district": "中埔鄉",
+    "cuisine": "經濟便當／合菜",
+    "cuisineTags": [
+      "經濟便當",
+      "合菜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–14:00、17:00–20:00（fonfood／彙整；以現場為準）",
+    "evidence": "FB／彙整轉載門市文明示：**「嘉義地區提供外送服務5個就可外送哦」**",
+    "source": "txg.taiwaneast.com／info/寶島餐廳中埔；facebook.com/formosa598 轉載句；fonfood",
+    "phone": "05-2533598"
+  },
+  {
+    "id": "cy-scout-lead-30",
+    "slug": "勝博殿",
+    "name": "勝博殿（新光三越嘉義垂楊店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "日式炸豬排",
+    "cuisineTags": [
+      "日式炸豬排"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（百貨餐廳時段）",
+    "evidence": "skmeats 線上外送頁／彙整明示：**每筆外送訂單酌收 40 元配送費**（商戶通道非 UE/FP；同館 #24–#26 規則）",
+    "source": "rsv.skm.com.tw …/delivery；saboten.com.tw store；WebSearch 頁摘",
+    "orderUrl": "https://rsv.skm.com.tw/groups/skm-ChiayiChuiyang/companies/-KuUwaEhVKljatiaBnAM:inline-live-2a466/restaurants/-MPCOVwakTiug-p9UO4z/delivery",
+    "phone": "05-3103993",
+    "address": "嘉義市西區垂楊路726號"
+  },
+  {
+    "id": "cy-scout-lead-31",
+    "slug": "可不可熟成茶",
+    "name": "可不可熟成茶（嘉義民雄）",
+    "city": "嘉義縣",
+    "district": "民雄鄉",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以 Ocard／門市為準）",
+    "evidence": "Ocard 店規摘要：**配送上限 20 公里；各距離運費 0 元**；最低消費依距離：**0–1km $100／1–2 $150／2–3 $200／3–4 $300／4–5 $400／5–6 $500／6–9 $600／9–11 $650／11–20 $700**",
+    "source": "order.ocard.co/kebuke/wz5X6K（WebSearch 店規摘要）",
+    "orderUrl": "https://order.ocard.co/kebuke/wz5X6K"
+  },
+  {
+    "id": "cy-scout-lead-32",
+    "slug": "新悦花園酒店",
+    "name": "新悦花園酒店（餐盒外送）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "飯店餐盒",
+    "cuisineTags": [
+      "飯店餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "彙整曾列約 10:00–18:30（以門市最新為準）",
+    "evidence": "彙整明示：**消費滿 $2,000 即享外送**；**嘉義市及嘉義縣（民雄鄉／頭橋工業區／民雄工業區／大林慈濟）免運**；其他地區超過 10 公里運費每公里 20 元",
+    "source": "yiwutrip.tw/chiayi-delivery-food/",
+    "phone": "05-2777208",
+    "address": "嘉義市東區保順路69號"
+  },
+  {
+    "id": "cy-scout-lead-33",
+    "slug": "鈺通大飯店",
+    "name": "鈺通大飯店（餐盒）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "飯店便當",
+    "cuisineTags": [
+      "飯店便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "彙整：午／晚取餐窗（提前約 1 小時；以門市為準）",
+    "evidence": "彙整明示：**滿五個便當，嘉義市區距離飯店 5km 內可免費外送**",
+    "source": "yiwutrip.tw/chiayi-delivery-food/；khc.twagoda 轉述「滿5個」",
+    "phone": "05-2756111",
+    "address": "嘉義市東區維新路7號"
+  },
+  {
+    "id": "cy-scout-lead-34",
+    "slug": "樂億皇家渡假酒店",
+    "name": "樂億皇家渡假酒店（餐盒／港飲外帶）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "飯店便當／港式",
+    "cuisineTags": [
+      "飯店便當",
+      "港式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "多源彙整明示：**消費滿 $2,000 以上嘉義市區可免費外送**；外帶免 10% 服務費敘述同見",
+    "source": "yiwutrip.tw/chiayi-delivery-food/；tag.gotoformosa／taiwaneast 彙整",
+    "phone": "05-2830099",
+    "address": "嘉義市西區玉山路501號"
+  },
+  {
+    "id": "cy-scout-lead-35",
+    "slug": "冠閣大飯店",
+    "name": "冠閣大飯店（養生便當）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "飯店便當",
+    "cuisineTags": [
+      "飯店便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "彙整送餐窗約午 11:30–12:30／晚 17:30–19:00（以門市為準）",
+    "evidence": "彙整明示：**飯店五公里範圍內免費外送**；**嘉義市區酌收外送服務費 $120／趟**；另有一次訂購 10 個以上單價優惠句（團膳）",
+    "source": "yiwutrip.tw/chiayi-delivery-food/",
+    "phone": "05-2318111",
+    "address": "嘉義市西區忠順一街27號"
+  },
+  {
+    "id": "cy-scout-lead-36",
+    "slug": "鉅陞嘉義亮點旅店",
+    "name": "鉅陞嘉義亮點旅店（72候の飯盒）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "旅店便當",
+    "cuisineTags": [
+      "旅店便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "彙整：週一至五；早上 11 點前接中午單（以門市為準）",
+    "evidence": "彙整明示：**嘉義市區內金額達 $300 以上可外送**；**民雄／橋頭達 $800**；**嘉太工業區達 $1,200**",
+    "source": "yiwutrip.tw/chiayi-delivery-food/；amonblog 亦見「滿$300以上95折」外帶句（非外送門檻）",
+    "phone": "05-2160345",
+    "address": "嘉義市西區仁愛路560號"
+  },
+  {
+    "id": "cy-scout-lead-37",
+    "slug": "野餐，日。健康廚房",
+    "name": "野餐，日。健康廚房（安和／總店）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "健康餐盒／低卡",
+    "cuisineTags": [
+      "健康餐盒",
+      "低卡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、17:00–19:30（週日公休；fatchien／愛食記；以現場為準）",
+    "evidence": "**便當報報（bendon-dao）店標明示：「滿500元可外送」**；外送須知另提醒午餐 10:00 前／晚餐 16:30 前完成訂購，超過 10 個提前一天",
+    "source": "bendon-dao.com/shops/5804（curl 確認「滿500元可外送」）；fatchien.tw/picnicday-anhe；ifoodie",
+    "orderUrl": "https://shop.ichefpos.com/store/WGy00LO1/ordering",
+    "phone": "0987-821-112",
+    "address": "嘉義市東區安和街106號"
+  },
+  {
+    "id": "cy-scout-lead-38",
+    "slug": "吉購吉日式丼飯",
+    "name": "吉購吉日式丼飯（嘉義太保店）",
+    "city": "嘉義縣",
+    "district": "太保市",
+    "cuisine": "日式丼／簡餐",
+    "cuisineTags": [
+      "日式丼",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:30、16:30–20:30（彙整／FB；以現場為準）",
+    "evidence": "FB／彙整轉載門市文明示：**「300元以上外送」**；外送請於中午 11:00 前／晚間時段前來電（FB 訂餐窗句）",
+    "source": "txg.taiwaneast.com/info/吉購吉外送（FB 句）；needmorefood.com/vpfP9；food.gotoformosa.com/vpfP9",
+    "phone": "05-3625777",
+    "address": "嘉義縣太保市祥和三路東段85巷12號"
+  },
+  {
+    "id": "cy-scout-lead-39",
+    "slug": "將太壽司",
+    "name": "將太壽司（嘉義民族店）",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "壽司／日式",
+    "cuisineTags": [
+      "壽司",
+      "日式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:30（FP 彙整；以現場為準）",
+    "evidence": "FB 店卡／彙整明示：**「滿200即可外送(嘉義市區)」**",
+    "source": "lovekhc.com/info/將太壽司嘉義；khc.twagoda.com/entry/90016882；facebook 店卡轉載",
+    "phone": "05-2233460",
+    "address": "嘉義市西區民族路675號"
+  },
+  {
+    "id": "cy-scout-lead-40",
+    "slug": "純情專売所",
+    "name": "純情專売所（純情粗食餐盒）",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "健康／粗食餐盒",
+    "cuisineTags": [
+      "健康",
+      "粗食餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 13:00–18:00（完售為止；不定期店休以 FB/IG 為準）",
+    "evidence": "食記明示：**「滿五個可外送」**；預訂制（最晚前一天；LINE／粉專／電話）",
+    "source": "kielkiel.com 純情餐盒；walkerland view/206247；purepastry2018.com/contact",
+    "orderUrl": "https://purepastry2018.com/",
+    "phone": "0958-609-173",
+    "address": "嘉義市東區公明路404號"
+  },
+  {
+    "id": "cy-scout-lead-41",
+    "slug": "Bette美味蔥抓餅",
+    "name": "Bette美味蔥抓餅",
+    "city": "嘉義市",
+    "district": "西區",
+    "cuisine": "蔥抓餅／小吃",
+    "cuisineTags": [
+      "蔥抓餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "店家／靠北餐廳彙整明示：**「滿200還有外送ㄛ」**",
+    "source": "lovekhc.com/info/嘉義市+Bette美味蔥抓餅；khc.twagoda 國華街 TOP；needmorefood 轉載句",
+    "phone": "0939-605-800",
+    "address": "嘉義市西區國華街237號"
+  },
+  {
+    "id": "cy-scout-lead-42",
+    "slug": "小自由廚房",
+    "name": "小自由廚房",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "早午餐／飲品",
+    "cuisineTags": [
+      "早午餐",
+      "飲品"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 06:00–13:30／至 14:00（週二公休；彙整；以現場為準）",
+    "evidence": "外送服務文明示外送項目含鮮蔬／溫沙拉、鮮果無糖優格、早餐綜盒；並明示：**「飲品系列滿三百即可外送」**",
+    "source": "east.twagoda.com/entry/75451093；foodyas／chickpt 2026 仍見營業資訊",
+    "orderUrl": "https://shop.ichefpos.com/store/jJ0zkMfA/ordering",
+    "phone": "05-2719389",
+    "address": "嘉義市東區文雅街148號"
+  },
+  {
+    "id": "cy-scout-lead-9",
+    "slug": "藤川味之屋",
+    "name": "藤川味之屋",
+    "city": "嘉義市",
+    "district": "東區",
+    "cuisine": "日式料理／便當",
+    "cuisineTags": [
+      "日式料理",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "amonblog 明示：**「店家自送，至少買2個且在市區5公里內」**",
+    "source": "amonblog.com/blog/post/61092",
+    "phone": "05-2233690",
+    "address": "嘉義市東區成仁街247號"
+  },
+  {
+    "id": "yl-scout-lead-1",
+    "slug": "饗棧弁當",
+    "name": "饗棧弁當（斗六饗棧餐飲企業）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "便當／團體客製",
+    "cuisineTags": [
+      "便當",
+      "團體客製"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "服務 08:00–17:00；供餐 10:30～售完為止",
+    "evidence": "官網明示：**「我們當然有提供外送服務」**；頁面定位公司／企業／工廠／機關團體便當外送與訂餐配送",
+    "source": "yummybento1688.com",
+    "orderUrl": "https://www.yummybento1688.com/",
+    "phone": "05-5360730",
+    "address": "雲林縣斗六市明德北路一段649之1號"
+  },
+  {
+    "id": "yl-scout-lead-2",
+    "slug": "雙醬咖喱",
+    "name": "雙醬咖喱（斗六石榴店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "咖哩飯／便當",
+    "cuisineTags": [
+      "咖哩飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（findglocal；週二列缺 — **請確認**）；外送時段曾註「早上11:30-下午5點」",
+    "evidence": "店家 FB／findglocal 多次公告明示：**「石榴&斗六工業區滿300外送」**；**「科班工業區&林內滿500外送」**；**「科加工業區滿600外送」**；**「斗六市區以距離滿700外送」**；**「雲科工業區滿1000外送」**（另見較早版「斗六市區以距離滿800-1000」句 — **以最新粉專為準**）",
+    "source": "findglocal／店家 FB 2025–2026",
+    "phone": "0933-232-978",
+    "address": "雲林縣斗六市石榴路106-7號"
+  },
+  {
+    "id": "yl-scout-lead-3",
+    "slug": "偶鵝嚐嚐",
+    "name": "偶鵝嚐嚐（土庫店）",
+    "city": "雲林縣",
+    "district": "土庫鎮",
+    "cuisine": "鵝肉／便當",
+    "cuisineTags": [
+      "鵝肉",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–20:00；星期四店休（2025 食記）",
+    "evidence": "食記店卡明示：**「土庫市區滿300元免費外送」**；**「消費滿３００元就免費外送，其它地區建議電話洽詢」**",
+    "source": "bearlovefood.com 2025-03",
+    "phone": "05-6629988",
+    "address": "雲林縣土庫鎮中正路223號"
+  },
+  {
+    "id": "yl-scout-lead-4",
+    "slug": "精食巧韓國傳統美食",
+    "name": "精食巧韓國傳統美食（斗南店／斗南圓環店）",
+    "city": "雲林縣",
+    "district": "斗南鎮",
+    "cuisine": "韓式／飯捲／簡餐",
+    "cuisineTags": [
+      "韓式",
+      "飯捲",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00；週二休（2022 食記）",
+    "evidence": "FB 店卡明示：**「歡迎外送和學校預約 外送金額：街上$300 區外$500」**；預約專線同店電話",
+    "source": "FB 店卡／yingoyingo 食記；txg 彙整",
+    "phone": "05-5971115",
+    "address": "雲林縣斗南鎮福德街57號"
+  },
+  {
+    "id": "yl-scout-lead-5",
+    "slug": "宥心食事堂",
+    "name": "宥心食事堂（便當專賣店）",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午約 10:30–13:00、晚上 16:30–19:30（彙整）",
+    "evidence": "虎尾便當外送彙整／店家資訊明示：**「虎尾市區一個便當即可外送」**；訂購／外送電話同列",
+    "source": "txg.taiwaneast 虎尾便當外送彙整",
+    "phone": "05-6339888",
+    "address": "雲林縣虎尾鎮和平路123號"
+  },
+  {
+    "id": "yl-scout-lead-6",
+    "slug": "便當家廚",
+    "name": "便當家廚",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "店家颱風假／外送貼文明示：**「虎尾市區2-3份皆可外送」**；訂購專線同列",
+    "source": "txg 虎尾便當外送彙整貼文引文",
+    "phone": "05-6320862",
+    "address": "雲林縣虎尾鎮林森路一段253號"
+  },
+  {
+    "id": "yl-scout-lead-7",
+    "slug": "日健便當",
+    "name": "日健便當（虎尾日健便當）",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–13:30、16:30–20:00（目錄）",
+    "evidence": "FB／彙整引述明示：**「數量有限滿兩百市區可以外送」**",
+    "source": "txg.lovetpe／miami.pixnet；FB 引文",
+    "phone": "05-6332780",
+    "address": "雲林縣虎尾鎮工專路88號"
+  },
+  {
+    "id": "yl-scout-lead-8",
+    "slug": "杉午排骨飯便當",
+    "name": "杉午排骨飯便當（杉午雞腿便當）",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "cuisine": "便當／雞腿排骨",
+    "cuisineTags": [
+      "便當",
+      "雞腿排骨"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中餐約 10:30–14:00、晚餐約 16:00–19:00／20:00；週一～六（目錄；以現場為準）",
+    "evidence": "店卡／FB 明示 **「外送專線(05)636-5273」**；並標 **「工程包月便當外送／客製化便當／會議便當／長期配合團體合菜」**；Line 點餐 ID: wasiking",
+    "source": "soeasy.today；FB／txg 彙整",
+    "phone": "05-6365273",
+    "address": "雲林縣虎尾鎮林森路一段458號"
+  },
+  {
+    "id": "yl-scout-lead-9",
+    "slug": "麵家二眷",
+    "name": "麵家二眷（斗六店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "麵／小吃",
+    "cuisineTags": [
+      "麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:30（2021）",
+    "evidence": "2021 防疫懶人包引店家規則：**「距離本店2公里內滿300即可外送」**；**「離峰時段滿200即可外送」**；並註量大或稍遠可先來電",
+    "source": "twobaby.tw 2021-05",
+    "phone": "0936-965-199",
+    "address": "雲林縣斗六市中山路13號"
+  },
+  {
+    "id": "yl-scout-lead-10",
+    "slug": "光字號涼麵",
+    "name": "光字號涼麵（雲科創始店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "涼麵／熱拌麵",
+    "cuisineTags": [
+      "涼麵",
+      "熱拌麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週六、日公休（2021）；現行工時 **請來電確認**",
+    "evidence": "2021 防疫懶人包明示：**「滿500即可外送～《外送請於10點前訂餐》 限（斗六市區）（工業區需滿1000）」**；大量訂餐前三天預訂",
+    "source": "twobaby.tw 2021-05",
+    "phone": "05-5360910",
+    "address": "雲林縣斗六市和平路19號"
+  },
+  {
+    "id": "yl-scout-lead-11",
+    "slug": "元野食堂",
+    "name": "元野食堂",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "日式丼／食堂",
+    "cuisineTags": [
+      "日式丼",
+      "食堂"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "2021 防疫懶人包明示：**「斗六市區滿500元外送」**；**「工業區滿1000元外送」**；「每日中午只會外送一趟」",
+    "source": "twobaby.tw 2021-05",
+    "phone": "0939-888-074",
+    "address": "雲林縣斗六市仁義路84號"
+  },
+  {
+    "id": "yl-scout-lead-12",
+    "slug": "斗六元品當歸鴨",
+    "name": "斗六元品當歸鴨",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00／16:30–21:30（2021）",
+    "evidence": "2021 防疫懶人包明示：**「外送滿300元（斗六市）」**",
+    "source": "twobaby.tw 2021-05；footinder",
+    "phone": "0937-784-412",
+    "address": "雲林縣斗六市仁義路85號"
+  },
+  {
+    "id": "yl-scout-lead-13",
+    "slug": "精食巧海苔飯卷",
+    "name": "精食巧海苔飯卷（斗六店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "韓式飯捲／簡餐",
+    "cuisineTags": [
+      "韓式飯捲",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00～售完；週二休（2021）",
+    "evidence": "2021 防疫懶人包明示：**「市區滿300即可外送」**",
+    "source": "twobaby.tw 2021-05",
+    "phone": "05-5360406",
+    "address": "雲林縣斗六市中山路328-7號"
+  },
+  {
+    "id": "yl-scout-lead-14",
+    "slug": "潘家台北涼麵",
+    "name": "潘家台北涼麵",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "涼麵",
+    "cuisineTags": [
+      "涼麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（2021）",
+    "evidence": "2021 防疫懶人包明示：**「防疫期間消費滿（100）市區可外送」**",
+    "source": "twobaby.tw 2021-05",
+    "phone": "0983-477-617",
+    "address": "吆鬼街)64號"
+  },
+  {
+    "id": "yl-scout-lead-15",
+    "slug": "美味食刻",
+    "name": "美味食刻",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "cuisine": "麵食／餛飩／意麵",
+    "cuisineTags": [
+      "麵食",
+      "餛飩",
+      "意麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "西螺便當外送彙整引開幕公告：**「市區滿百元即可外送」**（開幕當日優惠句）",
+    "source": "txg.lovetpe 西螺便當外送彙整；ericboyworld 2020",
+    "phone": "0980-092-166",
+    "address": "址常見西螺鎮民生路37號"
+  },
+  {
+    "id": "yl-scout-lead-16",
+    "slug": "烹小鮮",
+    "name": "烹小鮮",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "家常麵／飯／健康簡餐",
+    "cuisineTags": [
+      "家常麵",
+      "飯",
+      "健康簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、16:30–19:30",
+    "evidence": "2025-08 食記店卡明示：**「滿500元免費外送到家(依外送團隊規範計算)」**；未達免運門檻可改平台（discovery only）",
+    "source": "janice.life 2025-08",
+    "phone": "0932-738-300",
+    "address": "雲林縣斗六市八德路88號"
+  },
+  {
+    "id": "yl-scout-lead-17",
+    "slug": "許瓜鴨莊",
+    "name": "許瓜鴨莊",
+    "city": "雲林縣",
+    "district": "北港鎮",
+    "cuisine": "燒臘／烤鴨鵝便當",
+    "cuisineTags": [
+      "燒臘",
+      "烤鴨鵝便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:40–14:00；週二公休（食記）",
+    "evidence": "食記／店卡明示：**「店家自已有外送(一個就送喔)」**",
+    "source": "footinder.app 店卡引文",
+    "phone": "05-7833249",
+    "address": "雲林縣北港鎮大同路220號"
+  },
+  {
+    "id": "yl-scout-lead-18",
+    "slug": "OPPAHOUSE歐巴好食",
+    "name": "OPPA HOUSE 歐巴好食",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "韓式／簡餐",
+    "cuisineTags": [
+      "韓式",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–14:00／16:30–20:00（2021）",
+    "evidence": "2021 防疫懶人包引店家規則：**「斗六市區滿$300元即可外送」**；**「郊區依距離滿額也能外送」**；請提前來電",
+    "source": "twobaby.tw Part 6 2021-05",
+    "phone": "05-5362453",
+    "address": "雲林縣斗六市中山路332-2號"
+  },
+  {
+    "id": "yl-scout-lead-19",
+    "slug": "全州韓二石－豆腐·石鍋專門店",
+    "name": "全州韓二石－豆腐·石鍋專門店（斗六店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "韓式／石鍋／便當",
+    "cuisineTags": [
+      "韓式",
+      "石鍋",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–14:00／17:00–21:00；假日 11:00–21:00（目錄）",
+    "evidence": "店家／彙整引述明示：**「滿500元即可外送（限斗六市區、5公里內）」**；另見「500元即可外送（限市區）」句",
+    "source": "txg.twagoda 引 FB／店卡；資料年代混雜 — **請覆核現行門檻**",
+    "phone": "05-5332299",
+    "address": "雲林縣斗六市中堅西路226號"
+  },
+  {
+    "id": "yl-scout-lead-20",
+    "slug": "焼肉ショジョYakinikuSHOJO",
+    "name": "焼肉ショジョ Yakiniku SHOJO（雲林斗六店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "燒肉便當",
+    "cuisineTags": [
+      "燒肉便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "2021 防疫懶人包引「職人外送服務規範」：**「5公里以內 未滿5個者 如需外送 酌收外送費100元」**；**「5公里以上10公里以內 訂購10個以上可外送 酌收外送費200元」**",
+    "source": "twobaby.tw Part 2／4 2021",
+    "phone": "05-5361761",
+    "address": "雲林縣斗六市中堅西路585號(懶人包另見中山路253號"
+  },
+  {
+    "id": "yl-scout-lead-21",
+    "slug": "大埔鐵板燒",
+    "name": "大埔鐵板燒（斗六店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "鐵板燒／便當套餐",
+    "cuisineTags": [
+      "鐵板燒",
+      "便當套餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午約 11:00 起／晚餐約 17:00 起接受訂餐（2021）",
+    "evidence": "2021 防疫懶人包明示：**「市區滿3份餐，郊區滿6份餐即可外送」**",
+    "source": "twobaby.tw Part 2／4 2021",
+    "phone": "05-5338331",
+    "address": "雲林縣斗六市民生南路53號"
+  },
+  {
+    "id": "yl-scout-lead-22",
+    "slug": "鐵町心作鐵板料理",
+    "name": "鐵町心作鐵板料理",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "鐵板／外帶餐",
+    "cuisineTags": [
+      "鐵板",
+      "外帶餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–21:00；週二公休（2021）",
+    "evidence": "2021 防疫懶人包明示：**「環內滿300元可外送，環外可來電詢問」**",
+    "source": "twobaby.tw Part 4 2021",
+    "phone": "05-5332616",
+    "address": "雲林縣斗六市中堅西路722號"
+  },
+  {
+    "id": "yl-scout-lead-23",
+    "slug": "花鳥山日式創意料理",
+    "name": "花鳥山日式創意料理",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "日式／定食",
+    "cuisineTags": [
+      "日式",
+      "定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "2021 防疫懶人包明示：**「市區滿200元提供外送服務」**；外帶自取9折",
+    "source": "twobaby.tw Part 4 2021",
+    "phone": "05-5362089",
+    "address": "雲林縣斗六市民生南路233號"
+  },
+  {
+    "id": "yl-scout-lead-24",
+    "slug": "小食曉食早午餐",
+    "name": "小食曉食早午餐",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "早午餐",
+    "cuisineTags": [
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 06:30–15:00；最後點餐 14:00（2021）",
+    "evidence": "2021 防疫懶人包明示：**「訂購滿300元以上可外送（斗六市區）」**",
+    "source": "twobaby.tw Part 5 2021",
+    "phone": "05-5223053",
+    "address": "雲林縣斗六市崙南路41之17號"
+  },
+  {
+    "id": "yl-scout-lead-25",
+    "slug": "霖家女孩×早午餐",
+    "name": "霖家女孩 × 早午餐",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "早午餐／輕食",
+    "cuisineTags": [
+      "早午餐",
+      "輕食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–15:00（2021）",
+    "evidence": "2021 防疫懶人包明示：**「斗六市市區滿300元可外送」**；**「訂單滿300元以上可外送（斗六市區離門市2公里內）」**",
+    "source": "twobaby.tw Part 5 2021",
+    "phone": "05-5375331",
+    "address": "雲林縣斗六市長春路31號"
+  },
+  {
+    "id": "yl-scout-lead-26",
+    "slug": "品香日式居酒屋",
+    "name": "品香日式居酒屋",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "日式定食／居酒屋",
+    "cuisineTags": [
+      "日式定食",
+      "居酒屋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–21:00；週日公休（2021）",
+    "evidence": "2021 防疫懶人包明示：**「凡打電話訂餐不限金額提供送到府服務」**",
+    "source": "twobaby.tw Part 2／4 2021",
+    "phone": "05-5371829",
+    "address": "雲林縣斗六市太平路5-1號"
+  },
+  {
+    "id": "yl-scout-lead-27",
+    "slug": "魚二爺",
+    "name": "魚二爺",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "砂鍋魚／熱炒",
+    "cuisineTags": [
+      "砂鍋魚",
+      "熱炒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "2021 防疫懶人包明示：提供外送 **「斗六市區3km內」**（另可平台）",
+    "source": "twobaby.tw Part 3 2021",
+    "phone": "05-5360576",
+    "address": "雲林縣斗六市長春路10號"
+  },
+  {
+    "id": "yl-scout-lead-28",
+    "slug": "愛波茶館",
+    "name": "愛波茶館（北港文化店）",
+    "city": "雲林縣",
+    "district": "北港鎮",
+    "cuisine": "豆花／茶／義麵燉飯",
+    "cuisineTags": [
+      "豆花",
+      "茶",
+      "義麵燉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "開幕／粉專彙整引文明示：**「愛波提供外送服務北港鎮內不限金額皆可外送喔！」**",
+    "source": "needmorefood／FB 聯絡 057823268",
+    "phone": "05-7823268",
+    "address": "雲林縣北港鎮文化路129號"
+  },
+  {
+    "id": "yl-scout-lead-29",
+    "slug": "廚種王異國料理",
+    "name": "廚種王異國料理（麥寮中山店）",
+    "city": "雲林縣",
+    "district": "麥寮鄉",
+    "cuisine": "異國／咖哩／簡餐",
+    "cuisineTags": [
+      "異國",
+      "咖哩",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–21:00（食記）",
+    "evidence": "店卡／彙整明示有外送，並列配送地：**「麥寮，六輕，台西，崙背，東勢大有，褒忠，元長，橋頭」**；大量請提早告知；**無公開滿額數字**（區域自送敘述）",
+    "source": "txg.twagoda 店卡引文",
+    "phone": "0909-581-939",
+    "address": "雲林縣麥寮鄉中山路265號"
+  },
+  {
+    "id": "yl-scout-lead-30",
+    "slug": "午光NoonLight",
+    "name": "午光Noon Light（午光紅茶／早午餐）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "早午餐／紅茶",
+    "cuisineTags": [
+      "早午餐",
+      "紅茶"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–15:30",
+    "evidence": "findglocal 粉專貼文（2025-12）明示：**「市區免費外送服務」**；**「五公里以外，需滿500元唷」**",
+    "source": "findglocal 2025-12",
+    "phone": "0986-983-967",
+    "address": "雲林縣斗六市九如街33號"
+  },
+  {
+    "id": "yl-scout-lead-31",
+    "slug": "NUPASTA雲林斗六店",
+    "name": "NU PASTA 雲林斗六店",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "義大利麵／燉飯",
+    "cuisineTags": [
+      "義大利麵",
+      "燉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:00（最後點餐 20:30）",
+    "evidence": "findglocal 粉專（2026-09）外送說明明示：**「1公里內➤最少訂購1份主餐」**；**「2公里內➤最少2份」**；**「3公里內➤最少3份」**；**「依此類推，1公里增加1份主餐」**；依當日人力提供",
+    "source": "findglocal 2026-09",
+    "orderUrl": "https://order.nidin.shop/menu/17555",
+    "phone": "05-5333309",
+    "address": "雲林縣斗六市民生路178號"
+  },
+  {
+    "id": "yl-scout-lead-32",
+    "slug": "味烙握飯糰",
+    "name": "味烙握飯糰（斗六後站店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "飯糰／簡餐",
+    "cuisineTags": [
+      "飯糰",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 10:00–13:00、16:30–20:00；假日約 10:00–18:00（以粉專為準）",
+    "evidence": "findglocal 粉專多次明示：**「3公里內滿500元」**；**「3-5公里滿800元」**；**「5-8公里滿1200元」** 即可外送",
+    "source": "findglocal 2025–2026",
+    "orderUrl": "https://shop.ichefpos.com/store/-FyeGvzT/ordering",
+    "lineUrl": "https://lin.ee/1w608MI",
+    "phone": "0905-188-829",
+    "address": "雲林縣斗六市漢口路243號"
+  },
+  {
+    "id": "yl-scout-lead-33",
+    "slug": "好食堂懷舊麵館",
+    "name": "好食堂懷舊麵館",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "懷舊麵／飯／家常",
+    "cuisineTags": [
+      "懷舊麵",
+      "飯",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:30、17:00–19:30",
+    "evidence": "findglocal 粉專（至 2026-07）明示：**「市區依照距離300元以上外送」**；**「工業區1000元以上外送」**（較早貼文曾見市區200／工業區600–1000 — **以最新貼文為準**）",
+    "source": "findglocal 2026-07",
+    "phone": "05-5361259",
+    "address": "雲林縣斗六市中正路86號"
+  },
+  {
+    "id": "yl-scout-lead-34",
+    "slug": "咿品香雞排",
+    "name": "咿品香雞排（雲林斗六中山總店／原巧之脆）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "雞排／炸物宵夜",
+    "cuisineTags": [
+      "雞排",
+      "炸物宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:00–23:00",
+    "evidence": "findglocal 粉專（2026-07–08）明示：**「外送：市區🈵500元 三個工業區🈵1000元」**",
+    "source": "findglocal 2026-08",
+    "phone": "05-5324198",
+    "address": "雲林縣斗六市中山路148號"
+  },
+  {
+    "id": "yl-scout-lead-35",
+    "slug": "蔗一攤",
+    "name": "蔗一攤（斗六雲林店）",
+    "city": "雲林縣",
+    "district": "斗六市",
+    "cuisine": "甘蔗飲／飲料",
+    "cuisineTags": [
+      "甘蔗飲",
+      "飲料"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30–21:00",
+    "evidence": "findglocal 店卡明示店家自送時段 10:00～13:00，並掛配送費：**「市區100、外環150、工業區250外送」**（解讀為**外送費**表，非滿額；仍屬公開數字配送規則）",
+    "source": "findglocal 店卡",
+    "orderUrl": "https://lin.ee/3K90gPr",
+    "lineUrl": "https://lin.ee/3K90gPr",
+    "phone": "05-5361452",
+    "address": "雲林縣斗六市雲林路一段23號"
+  },
+  {
+    "id": "yl-scout-lead-36",
+    "slug": "斗南音符精緻便當",
+    "name": "斗南音符精緻便當",
+    "city": "雲林縣",
+    "district": "斗南鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–12:10；週一～六，週日公休（彙整）",
+    "evidence": "FB／txg 彙整引店家菜單貼文明示：**「滿三個即可外送」**；盡量 10:30 前來電；外送地區來電詢問",
+    "source": "txg.taiwaneast／FB 菜單貼文引文",
+    "phone": "05-5979259",
+    "address": "雲林縣斗南鎮光聖路13號"
+  },
+  {
+    "id": "yl-scout-lead-37",
+    "slug": "魯肉春",
+    "name": "魯肉春",
+    "city": "雲林縣",
+    "district": "虎尾鎮",
+    "cuisine": "滷肉飯／控肉／豬腳飯",
+    "cuisineTags": [
+      "滷肉飯",
+      "控肉",
+      "豬腳飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–13:30、16:30–19:00；週日公休（目錄）",
+    "evidence": "2026-09 新聞／buzzdaily 店家訪談明示：虎尾地區專屬外送，**「不設低消限制，即便是一、兩碗滷肉飯，店家也願意親自送達」**（另見「低門檻甚至無門檻」「一碗、兩碗皆可送達」）",
+    "source": "twline365 2026-09-01；buzzdaily；enn.tw",
+    "phone": "05-6366549",
+    "address": "雲林縣虎尾鎮光復路464號"
+  },
+  {
+    "id": "yl-scout-lead-38",
+    "slug": "三角廚房",
+    "name": "三角廚房",
+    "city": "雲林縣",
+    "district": "北港鎮",
+    "cuisine": "便當／自助餐",
+    "cuisineTags": [
+      "便當",
+      "自助餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:30–12:00；週日休（footinder／目錄）",
+    "evidence": "「第121家」北港便當系列／anthailand 問答引文明示：**「北港鎮內不限金額都可以外送喔！」**；訂購電話同列；工商／食品業者登記仍在",
+    "source": "anthailand 北港便當問答；mygov／opengovtw 登記",
+    "phone": "05-7830082",
+    "address": "雲林縣北港鎮扶朝里扶朝路82-9號"
+  },
+  {
+    "id": "yl-scout-lead-39",
+    "slug": "老客馥廣東粥品",
+    "name": "老客馥廣東粥品（西螺店）",
+    "city": "雲林縣",
+    "district": "西螺鎮",
+    "cuisine": "廣東粥／粥品",
+    "cuisineTags": [
+      "廣東粥",
+      "粥品"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:00–20:30（目錄／FP 混雜 — **請確認**）；部分資料週日休",
+    "evidence": "多家彙整引 FB 粉專 About／店卡明示：**「西螺附近滿200以上均可外送!!」**；**「較遠需滿300以上」**",
+    "source": "taiwaneast／lovekhc 引 FB；iwans／footinder 店卡",
+    "phone": "05-5865819",
+    "address": "雲林縣西螺鎮中山路209號"
+  },
+  {
+    "id": "yl-scout-lead-40",
+    "slug": "岩葉拉麵",
+    "name": "岩葉拉麵（麥寮店）",
+    "city": "雲林縣",
+    "district": "麥寮鄉",
+    "cuisine": "拉麵／丼",
+    "cuisineTags": [
+      "拉麵",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–14:00、17:00–21:00；假日／國定約 11:00–21:00；全年無休（粉專／鏡像）",
+    "evidence": "FB 公告（toplocalplaces 鏡像）明示：**「1.麥寮市區內 不限金額即可外送」**；**「2.六輕 滿1000即可外送」**；另見較早句「六輕滿十份餐即可外送」及「市區街上一份餐點也有外送」— **以編號公告為準**",
+    "source": "toplocalplaces FB 鏡像；needmorefood／opengovtw",
+    "phone": "05-6938633",
+    "address": "雲林縣麥寮鄉麥津村中興路28之1號"
+  },
+  {
+    "id": "nto-scout-lead-1",
+    "slug": "小春-草屯創始店",
+    "name": "小春-草屯創始店（小春日本懷石料理）",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "日式懷石／精選便當／丼",
+    "cuisineTags": [
+      "日式懷石",
+      "精選便當",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 5000,
+    "deliveryMinLabel": "滿 $5000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:30（iCHEF／懶人包；以現場為準）",
+    "evidence": "iCHEF 線上點餐提醒明示：**「單筆訂單滿$5,000元可享免費外送服務。請透過客服提前預訂，以利安排配送。」**；客服 LINE(@jut8887a)／電話同列",
+    "source": "shop.ichefpos.com 2026 擷取；33onelove 2021",
+    "orderUrl": "https://shop.ichefpos.com/store/V6tqfdTS/ordering",
+    "lineUrl": "https://line.me/R/ti/p/@jut8887a",
+    "phone": "049-236-5277",
+    "address": "南投縣草屯鎮中興路240號"
+  },
+  {
+    "id": "nto-scout-lead-2",
+    "slug": "嘉恩餐飲",
+    "name": "嘉恩餐飲（嘉恩｜膳蒔：健康餐）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "健康餐／會議餐盒",
+    "cuisineTags": [
+      "健康餐",
+      "會議餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "dinbendon 店家詳細說明／訂購說明明示：**「滿1500元就可外送。」**／**「滿1500元可以外送。」**；送達地區含 **草屯鎮、埔里鎮、國姓鄉**（另列台中南屯／北屯／74沿線）",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/606950",
+    "phone": "049-290-1539",
+    "address": "南投縣埔里鎮西安路一段113號"
+  },
+  {
+    "id": "nto-scout-lead-3",
+    "slug": "排骨王便當",
+    "name": "排骨王便當",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "便當／排骨／控肉",
+    "cuisineTags": [
+      "便當",
+      "排骨",
+      "控肉"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 店家詳細說明／訂購說明明示（原文照錄）：**「10個可外送暨大」**；送達地區 **南投縣埔里鎮**",
+    "source": "dinbendon（最後修改 2024/11/21）",
+    "orderUrl": "https://www.dinbendon.net/do/shop/589972",
+    "phone": "0978-838-956",
+    "address": "南投縣埔里鎮中正路470號(頁面寫「470"
+  },
+  {
+    "id": "nto-scout-lead-4",
+    "slug": "A-bao／阿寶",
+    "name": "A-bao／阿寶（埔里市區外送／崎下店資訊併列）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "早餐／早午餐",
+    "cuisineTags": [
+      "早餐",
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "崎下店常見約 06:00–12:30（目錄；以現場為準）",
+    "evidence": "情報彙整／UE 店卡備註明示：**「埔里市區➡️滿200即可外送」**／**「埔里市區滿200元即可外送，歡迎來電洽詢：0988-366442」**；外送時間彙整曾列 **08:00~13:00**",
+    "source": "lovekhc 情報；txg.twagoda 引 UE 店卡備註",
+    "phone": "0988-366-442",
+    "address": "南投縣埔里鎮中山路三段676號"
+  },
+  {
+    "id": "nto-scout-lead-5",
+    "slug": "便當人I.MBento",
+    "name": "便當人 I.M Bento（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "健康便當／低GI",
+    "cuisineTags": [
+      "健康便當",
+      "低GI"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:30–19:30（awei45 2022；另見 11:00–19:00／19:30）",
+    "evidence": "2021 埔里防疫懶人包明示：**「埔里市區一顆便當就外送」**；食記／目錄店名亦常標「免費外送｜埔里外送便當」",
+    "source": "dudu2.tw 2021-05；awei45.tw 2022",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "049-290-0338",
+    "address": "南投縣埔里鎮中山路二段37號"
+  },
+  {
+    "id": "nto-scout-lead-6",
+    "slug": "MissEnergy低GI廚房／能量小姐",
+    "name": "Miss Energy 低GI廚房／能量小姐（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "健康餐盒／低GI",
+    "cuisineTags": [
+      "健康餐盒",
+      "低GI"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～五 11:00–19:30；週六 11:00–19:00；週日公休（weebly）",
+    "evidence": "2021 埔里防疫懶人包明示：**「便當外送市區1公里內滿100元可外送，2公里內滿150元可外送」**",
+    "source": "dudu2.tw 2021-05；missenergy-puli.weebly.com",
+    "orderUrl": "https://missenergy-puli.weebly.com/",
+    "phone": "049-299-9336",
+    "address": "南投縣埔里鎮中山路二段243號"
+  },
+  {
+    "id": "nto-scout-lead-7",
+    "slug": "联亭泡菜鍋",
+    "name": "联亭泡菜鍋（草屯店）",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "火鍋／泡菜鍋",
+    "cuisineTags": [
+      "火鍋",
+      "泡菜鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–22:30（2021 懶人包）",
+    "evidence": "草屯外帶懶人包明示：**「滿 300元就可以外送（星期日無外送）」**",
+    "source": "33onelove.com/caotun-takeout 2021-05",
+    "phone": "049-232-8668",
+    "address": "南投縣草屯鎮中興路283號"
+  },
+  {
+    "id": "nto-scout-lead-8",
+    "slug": "杰作JayCoffee",
+    "name": "杰作 Jay Coffee",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "義大利麵／咖啡簡餐",
+    "cuisineTags": [
+      "義大利麵",
+      "咖啡簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:30、17:00–20:30；週三公休（2021）",
+    "evidence": "草屯外帶懶人包明示：**「義大利麵防疫期間外帶8折，滿300可外送」**",
+    "source": "33onelove.com/caotun-takeout 2021-05",
+    "phone": "049-239-4602",
+    "address": "南投縣草屯鎮新富路151號"
+  },
+  {
+    "id": "nto-scout-lead-9",
+    "slug": "植田割烹",
+    "name": "植田割烹",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "日式割烹／防疫便當",
+    "cuisineTags": [
+      "日式割烹",
+      "防疫便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:00／14:00、17:00／17:30–19:00／20:00（各源略異—**請確認**）",
+    "evidence": "2021 食記明示：**「方圓5公里內凡滿1000元即可外送 (每日9：00起即可來電預定)」**",
+    "source": "vagrantcloud.pixnet 2021-10；33onelove",
+    "phone": "0931-117-269",
+    "address": "南投縣草屯鎮信義街207號"
+  },
+  {
+    "id": "nto-scout-lead-10",
+    "slug": "屯鱻火鍋",
+    "name": "屯鱻火鍋",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "火鍋／外帶套餐",
+    "cuisineTags": [
+      "火鍋",
+      "外帶套餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–15:00、17:00–20:30／21:30（各源；以現場為準）",
+    "evidence": "防疫懶人包／食記明示：**「訂購599元抗疫無雙套餐3公里免費送」**；**「訂購999元抗疫四俠套餐5公里免費送」**（食記亦寫雙人599／3公里、四人999／5公里免費送）",
+    "source": "ipapago.net 2021-06；sunnylife.tw 2021-06",
+    "phone": "049-232-3668",
+    "address": "南投縣草屯鎮育英街208號"
+  },
+  {
+    "id": "nto-scout-lead-11",
+    "slug": "天利食堂",
+    "name": "天利食堂（南投民族店）",
+    "city": "南投縣",
+    "district": "南投市",
+    "cuisine": "丼／食堂／便當",
+    "cuisineTags": [
+      "丼",
+      "食堂",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:30（2021）",
+    "evidence": "南投市外帶懶人包明示：**「提前一天預訂，滿500元可外送」**",
+    "source": "33onelove.com/nantou-takeout 2021-07",
+    "orderUrl": "https://line.me/R/ti/p/@126xtigz",
+    "lineUrl": "https://line.me/R/ti/p/@126xtigz",
+    "phone": "049-224-5888",
+    "address": "南投縣南投市民族路110號"
+  },
+  {
+    "id": "nto-scout-lead-12",
+    "slug": "丘山茶Hilltea",
+    "name": "丘山茶 Hilltea",
+    "city": "南投縣",
+    "district": "南投市",
+    "cuisine": "甜點／千層／下午茶",
+    "cuisineTags": [
+      "甜點",
+      "千層",
+      "下午茶"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以粉專／現場為準）",
+    "evidence": "南投市／草屯懶人包明示：**「車程15分鐘內*最少2片蛋糕，就幫大家外送到府的服務喔！」**",
+    "source": "33onelove nantou／caotun-takeout 2021",
+    "phone": "049-237-2038",
+    "address": "南投縣南投市光明一路38號"
+  },
+  {
+    "id": "nto-scout-lead-13",
+    "slug": "雨傘店阿川麵店",
+    "name": "雨傘店阿川麵店",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "麵／熱炒／宵夜",
+    "cuisineTags": [
+      "麵",
+      "熱炒",
+      "宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 14:30–22:00；星期五公休（ifoodie 2025–2026 食記仍推）",
+    "evidence": "2021 埔里防疫懶人包明示：**「買滿200元就免費外送(限市區)」**；電話同列 **0919736470**",
+    "source": "dudu2.tw 2021-05；ifoodie／fonfood",
+    "phone": "0919-736-470",
+    "address": "南投縣埔里鎮南昌街250號"
+  },
+  {
+    "id": "nto-scout-lead-14",
+    "slug": "丐幫滷味",
+    "name": "丐幫滷味（埔里分舵）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "滷味",
+    "cuisineTags": [
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「滿300元市區可外送」**",
+    "source": "dudu2.tw 2021-05；fonfood／LINE OA",
+    "phone": "049-290-4805",
+    "address": "南投縣埔里鎮中山路二段209號"
+  },
+  {
+    "id": "nto-scout-lead-15",
+    "slug": "５２０餐廚",
+    "name": "５２０餐廚（520餐廚）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準；部分目錄週三休）",
+    "evidence": "2021 埔里防疫懶人包明示：**「3份市區可外送」**",
+    "source": "dudu2.tw 2021-05；twcompanys／ypage",
+    "phone": "049-298-5533",
+    "address": "南投縣埔里鎮北環路198號1"
+  },
+  {
+    "id": "nto-scout-lead-16",
+    "slug": "娘子醬燒",
+    "name": "娘子醬燒（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "便當／烤肉串燒",
+    "cuisineTags": [
+      "便當",
+      "烤肉串燒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "2021 埔里防疫懶人包明示：**「滿五個即可外送(埔里市區)」**",
+    "source": "dudu2.tw 2021-05；footinder 目錄",
+    "phone": "0905-039-186",
+    "address": "南投縣埔里鎮北平街124號"
+  },
+  {
+    "id": "nto-scout-lead-17",
+    "slug": "順記鴨肉飯",
+    "name": "順記鴨肉飯（順記鴨香飯）",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "鴨肉飯／便當／麵",
+    "cuisineTags": [
+      "鴨肉飯",
+      "便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:00；星期二休息（dinbendon；以現場為準）",
+    "evidence": "dinbendon 店家詳細說明／訂購說明明示：**「市區300外送，非市區500外送 (EX草商)」**；簡介亦寫 **「500外送」**；送達地區 **南投縣草屯鎮**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/395123",
+    "phone": "049-232-8966",
+    "address": "南投縣草屯鎮碧山路28號"
+  },
+  {
+    "id": "nto-scout-lead-18",
+    "slug": "胡國雄古早麵",
+    "name": "胡國雄古早麵",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "古早麵／滷味／便當",
+    "cuisineTags": [
+      "古早麵",
+      "滷味",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00（食記；中午不休息—以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「滿200元可外送」**；2022 食記店資同列 **「市區滿200可外送」**",
+    "source": "dudu2.tw 2021-05；ricelala.com 2022-05",
+    "orderUrl": "https://shop.ichefpos.com/store/e544o3fs/ordering",
+    "phone": "049-299-0586",
+    "address": "南投縣埔里鎮仁愛路319號"
+  },
+  {
+    "id": "nto-scout-lead-19",
+    "slug": "山貓茶事",
+    "name": "山貓茶事（竹山／老街訂餐專線）",
+    "city": "南投縣",
+    "district": "竹山鎮",
+    "cuisine": "手搖／茶飲",
+    "cuisineTags": [
+      "手搖",
+      "茶飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "在地商圈彙整明示：**「竹山市區滿100元即可外送」**；並寫大量訂餐及外送歡迎提前訂餐",
+    "source": "txg.twagoda／txg.lovekhc 竹山商圈彙整",
+    "phone": "049-264-6333",
+    "address": "老街店南投縣竹山鎮下橫街28-5號"
+  },
+  {
+    "id": "nto-scout-lead-20",
+    "slug": "清寶鹹油條魚池店",
+    "name": "清寶鹹油條魚池店（露營區專用）",
+    "city": "南投縣",
+    "district": "魚池鄉",
+    "cuisine": "早餐／鹹油條",
+    "cuisineTags": [
+      "早餐",
+      "鹹油條"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「滿1000元外送（先問過）」**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/593769",
+    "phone": "0906-582-227",
+    "address": "南投縣魚池鄉魚池街361號"
+  },
+  {
+    "id": "nto-scout-lead-21",
+    "slug": "世傳魷魚羹",
+    "name": "世傳魷魚羹（草屯總店）",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "魷魚羹／小吃／乾麵",
+    "cuisineTags": [
+      "魷魚羹",
+      "小吃",
+      "乾麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–15:00、16:00–19:30；週末時段見食記（以現場為準）",
+    "evidence": "FB 外送公告原文（彙整轉載）：**「即日起配合外送團隊，市區內滿600元，市區外環滿1000元免外送費」**；南崗工業區請電話洽詢；未滿金額另由外送團隊收費",
+    "source": "facebook.com/CHFOODGOOD 公告轉載；ningl.tw 2025-10",
+    "phone": "049-230-1939",
+    "address": "南投縣草屯鎮碧山路95號(2025"
+  },
+  {
+    "id": "nto-scout-lead-22",
+    "slug": "黑肉麵",
+    "name": "黑肉麵（埔里）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "麵／便當",
+    "cuisineTags": [
+      "麵",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「市區便當3個可外送」**（另有配合外送平台—**orderUrl 不用平台**）",
+    "source": "dudu2.tw 2021-05；okgo／目錄",
+    "phone": "049-299-9959",
+    "address": "南投縣埔里鎮中山路二段105號"
+  },
+  {
+    "id": "nto-scout-lead-23",
+    "slug": "餉便當",
+    "name": "餉便當（埔里中山店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄常見約 11:00–19:00／售完為止（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「市區三顆便當可外送」**",
+    "source": "dudu2.tw 2021-05；目錄／UE discovery",
+    "phone": "0909-673-049",
+    "address": "南投縣埔里鎮中山路二段409號"
+  },
+  {
+    "id": "nto-scout-lead-24",
+    "slug": "炸雞大獅／炸鷄大獅",
+    "name": "炸雞大獅／炸鷄大獅（埔里中山店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "炸雞／小吃",
+    "cuisineTags": [
+      "炸雞",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄約 11:00–22:00（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「另有滿額免費外送(1km內滿300元就外送……詳炸雞大獅FB)」**",
+    "source": "dudu2.tw 2021-05；footinder 目錄",
+    "phone": "0905-297-805"
+  },
+  {
+    "id": "nto-scout-lead-25",
+    "slug": "麗苑韓式料理",
+    "name": "麗苑韓式料理",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "韓式",
+    "cuisineTags": [
+      "韓式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「埔里鎮上點1份餐即可外送」**；**「以下地區滿$500即可外送(埔里鎮近郊，埔里基督教醫院、埔里榮民醫院)」**",
+    "source": "dudu2.tw 2021-05；sweetday.tw 等食記",
+    "phone": "049-298-8560",
+    "address": "南投縣埔里鎮北澤街156號"
+  },
+  {
+    "id": "nto-scout-lead-26",
+    "slug": "樂云食堂",
+    "name": "樂云食堂",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "越式／食堂／便當",
+    "cuisineTags": [
+      "越式",
+      "食堂",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "不定休（目錄註店休日見 IG／FB）",
+    "evidence": "2021 埔里防疫懶人包明示：**「消費滿200送小菜，滿300免費外送」**（電話當時列 0926381992）",
+    "source": "dudu2.tw 2021-05；footinder.app 2026 目錄",
+    "phone": "0926-919-001",
+    "address": "南投縣埔里鎮中山路三段333-1號"
+  },
+  {
+    "id": "nto-scout-lead-27",
+    "slug": "小串居酒屋",
+    "name": "小串居酒屋",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "居酒屋／燒烤宵夜",
+    "cuisineTags": [
+      "居酒屋",
+      "燒烤宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:30–01:00；週一公休（食記／目錄；以現場為準）",
+    "evidence": "草屯外帶懶人包明示：**「外送滿600元九折優惠」**（滿額句＝自送門檻）",
+    "source": "33onelove caotun-takeout 2021；ifoodie／食記",
+    "phone": "049-231-0941",
+    "address": "南投縣草屯鎮育英街9號(勿與聯亭同址中興路283"
+  },
+  {
+    "id": "nto-scout-lead-28",
+    "slug": "草屯阿綢麵攤",
+    "name": "草屯阿綢麵攤",
+    "city": "南投縣",
+    "district": "草屯鎮",
+    "cuisine": "麵／魯肉飯／涼麵／小吃",
+    "cuisineTags": [
+      "麵",
+      "魯肉飯",
+      "涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30–20:30／08:30–21:30（各源；以現場為準）",
+    "evidence": "目錄彙整轉載 FB 店資原文：**「滿300元(限草屯地區)即可外送」**；營業時段同列約 08:30–21:30（食記另見 09:30–20:30—**以現場為準**）",
+    "source": "txg.twagoda 目錄轉 FB；candylife.tw 食記",
+    "phone": "049-233-3758",
+    "address": "南投縣草屯鎮炎峰街23-3號"
+  },
+  {
+    "id": "nto-scout-lead-30",
+    "slug": "敝姓鍋",
+    "name": "敝姓鍋（南投埔里店／中正店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "個人小火鍋",
+    "cuisineTags": [
+      "個人小火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:00–15:00、17:00–22:00；假日約 11:00–22:00（食記；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「消費滿$500可外送市區」**",
+    "source": "dudu2.tw 2021-05；paulyear.com 2021",
+    "phone": "049-298-4728",
+    "address": "南投縣埔里鎮中正路188號"
+  },
+  {
+    "id": "nto-scout-lead-31",
+    "slug": "藝鍋物",
+    "name": "藝鍋物（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（目錄午晚餐時段；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「2鍋以上外送免運費」**",
+    "source": "dudu2.tw 2021-05；hotpot.footinder／目錄",
+    "phone": "049-291-6355",
+    "address": "南投縣埔里鎮中山路三段423號"
+  },
+  {
+    "id": "nto-scout-lead-32",
+    "slug": "大呼過癮",
+    "name": "大呼過癮（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "火鍋／臭臭鍋",
+    "cuisineTags": [
+      "火鍋",
+      "臭臭鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「2鍋以上可外送，折20元」**（折價句為防疫期—**外送門檻本體＝2鍋以上**）",
+    "source": "dudu2.tw 2021-05；hotpot.footinder／目錄",
+    "phone": "049-298-5393",
+    "address": "南投縣埔里鎮中山路三段173號"
+  },
+  {
+    "id": "nto-scout-lead-33",
+    "slug": "喫鍋·龜隱田園",
+    "name": "喫鍋·龜隱田園（埔里店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "火鍋／咖哩飯／漢堡",
+    "cuisineTags": [
+      "火鍋",
+      "咖哩飯",
+      "漢堡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 11:30–14:30、17:00–21:30；假日約 11:30–22:00（weebly；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「訂滿五鍋可免費外送埔里市區」**；同列咖哩飯套餐「一樣五份就外送」",
+    "source": "dudu2.tw 2021-05；0492990085hotpot.weebly.com",
+    "phone": "049-299-0085",
+    "address": "南投縣埔里鎮忠孝路12號"
+  },
+  {
+    "id": "nto-scout-lead-34",
+    "slug": "老豆達人",
+    "name": "老豆達人（埔里仁愛店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "手搖／潮飲",
+    "cuisineTags": [
+      "手搖",
+      "潮飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄約 10:00–22:00（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「滿200元可外送(埔里市區)」**",
+    "source": "dudu2.tw 2021-05；目錄彙整",
+    "phone": "049-299-8258",
+    "address": "南投縣埔里鎮仁愛路35號"
+  },
+  {
+    "id": "nto-scout-lead-35",
+    "slug": "樂卓手搖飲",
+    "name": "樂卓手搖飲",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "手搖／茶飲",
+    "cuisineTags": [
+      "手搖",
+      "茶飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄約 09:30–22:00（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「滿100元即可外送(也享買五送一優惠)」**",
+    "source": "dudu2.tw 2021-05；drink.footinder／目錄",
+    "phone": "049-299-3509",
+    "address": "南投縣埔里鎮北平街197號"
+  },
+  {
+    "id": "nto-scout-lead-36",
+    "slug": "嘟嘟冷熱冰",
+    "name": "嘟嘟冷熱冰",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "冰品／剉冰／豆花",
+    "cuisineTags": [
+      "冰品",
+      "剉冰",
+      "豆花"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄約 10:30–22:00（以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「市區滿200元可外送」**",
+    "source": "dudu2.tw 2021-05；txg.twagoda／目錄",
+    "phone": "049-290-0299",
+    "address": "南投縣埔里鎮中山路二段272巷2號"
+  },
+  {
+    "id": "nto-scout-lead-37",
+    "slug": "BonVoyageCoffee樂悠遊咖啡",
+    "name": "Bon Voyage Coffee 樂悠遊咖啡",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "咖啡／外帶簡餐",
+    "cuisineTags": [
+      "咖啡",
+      "外帶簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–18:00；週三公休（目錄；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「埔里鎮上一杯就免費外送」**",
+    "source": "dudu2.tw 2021-05；fonfood／目錄",
+    "phone": "0927-787-687",
+    "address": "南投縣埔里鎮自強路182號"
+  },
+  {
+    "id": "nto-scout-lead-38",
+    "slug": "梅里納人LeMerina",
+    "name": "梅里納人 Le Merina",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "異國／馬達加斯加料理",
+    "cuisineTags": [
+      "異國",
+      "馬達加斯加料理"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 12:00–21:00；週一、週二公休（舊食記；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「前一日訂餐四份以上可外送」**",
+    "source": "dudu2.tw 2021-05；lyes.tw 2020",
+    "phone": "049-291-7881",
+    "address": "南投縣埔里鎮大同街6號"
+  },
+  {
+    "id": "nto-scout-lead-39",
+    "slug": "好週到食堂",
+    "name": "好週到食堂（中興新村光明市場）",
+    "city": "南投縣",
+    "district": "南投市",
+    "cuisine": "熱炒／食堂／便當",
+    "cuisineTags": [
+      "熱炒",
+      "食堂",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:00／14:00、16:30–19:00（目錄；週六常見公休—**以現場為準**）",
+    "evidence": "店家公告（foodbevg 轉載 2026-08-29）：**「自8/31日（ㄧ）起，好週到開始外送服務，滿300元即外送（限中興地區），歡迎鄉親與好友們多加利用。」**；食記亦述老闆兒子騎車自送",
+    "source": "foodbevg.com 2026-08；venus150106.pixnet 食記",
+    "phone": "0986-180-228",
+    "address": "南投縣南投市光明一路60號"
+  },
+  {
+    "id": "nto-scout-lead-40",
+    "slug": "美味久久",
+    "name": "美味久久（美味久久熱炒美食／路邊攤）",
+    "city": "南投縣",
+    "district": "南投市",
+    "cuisine": "熱炒／快炒／便當燴飯",
+    "cuisineTags": [
+      "熱炒",
+      "快炒",
+      "便當燴飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "目錄約 10:30–13:30、17:00–21:00（以現場為準）",
+    "evidence": "FB 防疫外送公告原文（彙整轉載）：**「另有貼心外送服務（需滿500，例假日除外）」**；同帖外帶自取滿500另贈飲料／白飯（與外送門檻分開）",
+    "source": "FB 美味久久熱炒轉載；txg.twagoda／gotoformosa 目錄",
+    "phone": "049-222-7998",
+    "address": "南投縣南投市南陽路**19-1號"
+  },
+  {
+    "id": "nto-scout-lead-41",
+    "slug": "八方雲集",
+    "name": "八方雲集（南投民族店）",
+    "city": "南投縣",
+    "district": "南投市",
+    "cuisine": "鍋貼／水餃／麵",
+    "cuisineTags": [
+      "鍋貼",
+      "水餃",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:00（美美網；以現場為準）",
+    "evidence": "美美網分店頁明示：**「訂餐滿300元可享外送服務」**；**「中餐請於11:00以前來電預約」**",
+    "source": "mmweb.tw/84448；txg.taiwaneast 轉載",
+    "phone": "049-220-1898",
+    "address": "南投縣南投市民族路125號"
+  },
+  {
+    "id": "nto-scout-lead-43",
+    "slug": "TEATOP／台灣第一味",
+    "name": "TEA TOP／台灣第一味（竹山店＋竹山2店）",
+    "city": "南投縣",
+    "district": "竹山鎮",
+    "cuisine": "手搖／茶飲",
+    "cuisineTags": [
+      "手搖",
+      "茶飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "FB 店資原文（商圈彙整轉載）：**「TEATOP竹山、竹山2店 @市區外送滿百就送！」**；另列訂購滿30杯以上大杯飲品 85 折",
+    "source": "txg.lovekhc 竹山商圈轉 FB；teatop.com.tw 二店開幕",
+    "phone": "049-265-3922",
+    "address": "南投縣竹山鎮下橫街47-2號"
+  },
+  {
+    "id": "nto-scout-lead-44",
+    "slug": "名間便當店",
+    "name": "名間便當店（名間扣仔嗲老店兼售自助餐／便當）",
+    "city": "南投縣",
+    "district": "名間鄉",
+    "cuisine": "便當／自助餐／扣仔嗲",
+    "cuisineTags": [
+      "便當",
+      "自助餐",
+      "扣仔嗲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "扣仔嗲常見約 09:00–19:00（目錄；星期日公休—**以便當外送公告為準**）",
+    "evidence": "名間扣仔嗲老店 FB 公告原文（目錄轉載）：**「名間便當店名間，華山，新街，2顆就有送喔南投工業區,市區滿5顆有外送喔請於10點前來電歡迎來電訂購專線：2734775 （星期日公休）」**",
+    "source": "FB 名間扣仔嗲老店轉載；txg.lovetpe／foodbevg",
+    "phone": "049-273-4775",
+    "address": "南投縣名間鄉南雅街**151/151-1"
+  },
+  {
+    "id": "nto-scout-lead-45",
+    "slug": "香。現烤工坊",
+    "name": "香。現烤工坊（埔里中正店）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "cuisine": "烘焙／麵包／牛奶棒",
+    "cuisineTags": [
+      "烘焙",
+      "麵包",
+      "牛奶棒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–20:00；售完為止（IG／目錄；以現場為準）",
+    "evidence": "2021 埔里防疫懶人包明示：**「買100元可外送(埔里市區)」**；同列電話訂購自取打9折",
+    "source": "dudu2.tw/puli-eat-takeout 2021-05；IG @puli_phang／目錄",
+    "phone": "049-242-3710",
+    "address": "南投縣埔里鎮中正路298號"
+  },
+  {
+    "id": "ml-scout-lead-1",
+    "slug": "天雲扁食",
+    "name": "天雲扁食（頭份建國店）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "扁食／餛飩／麵食／飯",
+    "cuisineTags": [
+      "扁食",
+      "餛飩",
+      "麵食",
+      "飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "上午10:30~晚上8:30；每星期二公休（官網）",
+    "evidence": "官網明示：**「外送專線:(037)680616 市區滿400元；園區滿500元」**；價目表腳註：**「外送需滿 市區滿400元 / 園區滿500元」**",
+    "source": "037680616.webnode.tw",
+    "orderUrl": "https://037680616.webnode.tw/",
+    "phone": "037-680616",
+    "address": "頭份鎮建國路54號"
+  },
+  {
+    "id": "ml-scout-lead-2",
+    "slug": "健康餐／團膳便當",
+    "name": "健康餐／團膳便當（uncle-mu／頭份中華路）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "健康餐盒／團膳便當",
+    "cuisineTags": [
+      "健康餐盒",
+      "團膳便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "官網 FAQ 明示：**「路程在5分鐘內，只需滿500元，我們可以協助外送。路程在10分鐘~20分鐘以上的路程，金額滿800元，我們可以協助外送。」**；服務項亦寫 **「訂購金額(含)800元即提供便當餐盒外送」**；訂餐：**LINE @unclemu**／電話",
+    "source": "uncle-mu0.webnode.tw",
+    "orderUrl": "https://uncle-mu0.webnode.tw/",
+    "lineUrl": "https://line.me/R/ti/p/@unclemu",
+    "phone": "037-664621",
+    "address": "苗栗縣頭份市中華路1334號"
+  },
+  {
+    "id": "ml-scout-lead-3",
+    "slug": "胡記便當",
+    "name": "胡記便當",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00-13:00、16:30-19:00（週六晚上時間、每週日全天公休；食記）",
+    "evidence": "2026-01 食記明示店家備有四台外送車，並多次寫：**「兩、三個便當就可外送」**／**「少少兩三個就能外送」**",
+    "source": "sillycoupleblog.tw 2026-01",
+    "phone": "037-357261"
+  },
+  {
+    "id": "ml-scout-lead-4",
+    "slug": "甲一飯包",
+    "name": "甲一飯包（苗栗店）",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "木盒便當／飯包",
+    "cuisineTags": [
+      "木盒便當",
+      "飯包"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日約 10:30-14:00、16:30-19:30（食記）",
+    "evidence": "食記店卡明示：**「苗栗市中正路及中山路1個就可外送，其他路段3個以上可以外送(詳情仍需電洽確認)」**；外送時段：**「11:00-13:00,17:10-19:00(午餐請於10:50以前訂購)」**",
+    "source": "vivawei.tw/miaoli-gaeetop",
+    "phone": "037-377778",
+    "address": "苗栗市中正路666號"
+  },
+  {
+    "id": "ml-scout-lead-5",
+    "slug": "一月初健康餐盒便當",
+    "name": "一月初健康餐盒便當（竹南總店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "健康餐盒／輕食",
+    "cuisineTags": [
+      "健康餐盒",
+      "輕食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週五 11:00-19:00（週六週日公休,除非有企業大量訂單）",
+    "evidence": "食記店卡明示：**「竹南頭份市區點兩份即可外送,但因外送人力有限,超過當日限量配餐數量就不供應建議提前3天預約(竹南園區需滿5份,廣源園區需滿10份)。」**",
+    "source": "vivawei.tw/january-first",
+    "phone": "037-611089",
+    "address": "苗栗縣竹南鎮新南里維新路50號"
+  },
+  {
+    "id": "ml-scout-lead-6",
+    "slug": "蒔飯•餐盒GleanersBento",
+    "name": "蒔飯•餐盒 Gleaners Bento",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "健康餐盒／蒸烤便當",
+    "cuisineTags": [
+      "健康餐盒",
+      "蒸烤便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週六 11:00-14:00、16:30-19:30（每週日公休）",
+    "evidence": "2025-02 食記明示：**「店家也有提供外送服務（3公里內滿500元可外送）」**；另詳列：**「外送三公里內滿5個可外送，科專或大埔竹南園區滿10個可外送，頭份工業區6-10個可外送、廣源園區10-15個可外送（數量較多至少提前1-3天預訂…）」**；可加 LINE 訂餐",
+    "source": "vivawei.tw/gleaners-bento-2025",
+    "phone": "037-696966",
+    "address": "苗栗縣頭份市忠孝二路2之2號"
+  },
+  {
+    "id": "ml-scout-lead-7",
+    "slug": "林家鴨香飯",
+    "name": "林家鴨香飯",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "鴨香飯／滷味／小吃",
+    "cuisineTags": [
+      "鴨香飯",
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一到週六 11:00-14:00、17:00-20:30（每週日公休）",
+    "evidence": "2026-02 食記明示：**「店家還有提供外送服務：苗栗市區2公里內滿200元、超過2公里滿500元（實際外送距離門檻，請致電詢問店家）」**",
+    "source": "vivawei.tw/linjia-duck-2026",
+    "phone": "037-376288",
+    "address": "苗栗市縣府路88號"
+  },
+  {
+    "id": "ml-scout-lead-8",
+    "slug": "梁社漢排骨",
+    "name": "梁社漢排骨（苗栗中正店）",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "排骨便當／麵",
+    "cuisineTags": [
+      "排骨便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:30（fonfood）",
+    "evidence": "品牌訂購分店頁彙整明示：**「10個主餐(飯或麵)以上可外送(14：00-16：00滿100元即可外送)，若有其他需求請與本店聯繫」**",
+    "source": "buygood.com.tw Shop_id=360001；fonfood",
+    "orderUrl": "https://www.buygood.com.tw/Stores.asp?Shop_id=360001",
+    "phone": "037-365958",
+    "address": "苗栗縣苗栗市中正路1049號"
+  },
+  {
+    "id": "ml-scout-lead-9",
+    "slug": "萬安當歸鴨",
+    "name": "萬安當歸鴨",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日 11:00-21:00（食記）",
+    "evidence": "食記明示：**「若是需要請店家外送～頭份市區和竹南園區皆為300元以上外送～廣源園區和頭份工業區皆為500元以上外送～其餘外送距離及門檻可致電詢問店家唷！」**",
+    "source": "vivawei.tw/wanan",
+    "phone": "037-696690",
+    "address": "苗栗縣頭份市建國路42號"
+  },
+  {
+    "id": "ml-scout-lead-10",
+    "slug": "淺草咖哩蛋包",
+    "name": "淺草咖哩蛋包",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "咖哩／蛋包飯／拉麵",
+    "cuisineTags": [
+      "咖哩",
+      "蛋包飯",
+      "拉麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "曾列週二至週日 11:00-13:30、17:00-20:00（每週一公休；懶人包）— **現行工時請確認**（較新食記另見週一週二公休）",
+    "evidence": "vivawei 2021 外送懶人包明示親送門檻：**「苗栗市區（不超過後龍溪）消費滿500元免費外送，如果你近近的or店家剛好閒閒的，也許不用500元也可外送，請先致電詢問不要客氣！」**；另有 iCHEF 線上點餐頁",
+    "source": "vivawei.tw/miaoli-takeout；asakusa-curry",
+    "orderUrl": "https://shop.ichefpos.com/store/4WN_-AwX/ordering",
+    "phone": "037-365998",
+    "address": "苗栗市府前路96號"
+  },
+  {
+    "id": "ml-scout-lead-11",
+    "slug": "好食好時GoodFoodGoodTimes",
+    "name": "好食好時 Good Food Good Times（中正店／台式居酒屋）",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "居酒屋／宵夜／小吃",
+    "cuisineTags": [
+      "居酒屋",
+      "宵夜",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日 16:00-凌晨02:00（每週三公休；懶人包）",
+    "evidence": "vivawei 2021 外送懶人包明示：**「滿500元以上免費外送，未滿500元需加收50元外送費用（外送服務區域請見店家粉絲團公告）」**",
+    "source": "vivawei.tw/miaoli-takeout",
+    "phone": "037-371598",
+    "address": "苗栗市中正路673號"
+  },
+  {
+    "id": "ml-scout-lead-12",
+    "slug": "清水茶香",
+    "name": "清水茶香（苗栗店）",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一～週日約 10:00-21:30（懶人包）",
+    "evidence": "vivawei 2021 外送懶人包明示：**「店周圍的1公里內滿200元可外送（詳細外送門檻請致電詢問店家）」**",
+    "source": "vivawei.tw/miaoli-takeout；fonfood",
+    "phone": "037-352498",
+    "address": "苗栗市府前路163號"
+  },
+  {
+    "id": "ml-scout-lead-13",
+    "slug": "恰恰駡丸",
+    "name": "恰恰駡丸",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "丸類／小吃",
+    "cuisineTags": [
+      "丸類",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週二至週日 11:30-15:00、17:30-19:30（每週一公休；懶人包）",
+    "evidence": "vivawei 2021 外送懶人包明示：**「離峰時段 頭份市區300元、園區和竹南地區500元」**",
+    "source": "vivawei.tw/miaoli-takeout",
+    "phone": "0911-880-624",
+    "address": "苗栗縣頭份市中華路1212號"
+  },
+  {
+    "id": "ml-scout-lead-15",
+    "slug": "幸福小城",
+    "name": "幸福小城（後龍中山店）",
+    "city": "苗栗縣",
+    "district": "後龍鎮",
+    "cuisine": "拉麵／鍋燒／燴飯／滷肉便當",
+    "cuisineTags": [
+      "拉麵",
+      "鍋燒",
+      "燴飯",
+      "滷肉便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日 10:00-14:00、16:30-21:00（2025 食記）",
+    "evidence": "2025-07 食記店卡明示：**「後龍市區離峰時段一份即可外送（實際外送距離和金額，需致電詢問店家）。」**",
+    "source": "vivawei.tw/happy-town-2025",
+    "phone": "037-725508",
+    "address": "苗栗縣後龍鎮中山路93號"
+  },
+  {
+    "id": "ml-scout-lead-16",
+    "slug": "潮麻吉香雞潮排",
+    "name": "潮麻吉香雞潮排（苗栗苑裡店）",
+    "city": "苗栗縣",
+    "district": "苑裡鎮",
+    "cuisine": "雞排／炸物宵夜",
+    "cuisineTags": [
+      "雞排",
+      "炸物宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日 15:00-22:30（食記）",
+    "evidence": "食記店卡明示：**「苑裡市區滿300元可外送、幼獅工業區滿1000元可外送（實際外送距離及金額需要先致電詢問店家）」**",
+    "source": "vivawei.tw/yuanli-fashion-chiu；miaoli-takeout",
+    "phone": "037-857200",
+    "address": "苗栗縣苑裡鎮和平路165號"
+  },
+  {
+    "id": "ml-scout-lead-17",
+    "slug": "詠記蒸餃／甜不辣",
+    "name": "詠記蒸餃／甜不辣（×紐約洋雞飯）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "蒸餃／甜不辣／小吃",
+    "cuisineTags": [
+      "蒸餃",
+      "甜不辣",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30-20:00（每週三公休；2024 食記）",
+    "evidence": "**2024-11** 食記明示：**「消費滿500元店家可外送（實際外送距離請致電詢問店家）」**（覆核升級；2021／2022 曾寫滿350）",
+    "source": "vivawei.tw/hello-ny-chicken-2024",
+    "phone": "0968-895-968",
+    "address": "苗栗縣頭份市文化街208號"
+  },
+  {
+    "id": "ml-scout-lead-18",
+    "slug": "瑞盛客家米食",
+    "name": "瑞盛客家米食",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "客家米食／燒麻糬／剉冰",
+    "cuisineTags": [
+      "客家米食",
+      "燒麻糬",
+      "剉冰"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 14:00-21:00（食記寫週一公休；以現場為準）",
+    "evidence": "**2022-08** 食記外送區塊明示：**「頭份市區、竹南市區滿250元」**；**「竹南科學園區、市區以外及團購訂單滿$300~$500元請先來電洽詢」**；電話／Line 訂",
+    "source": "2afoodie.com/rueishenghakkarice ；vivawei.tw/miaoli-takeout",
+    "orderUrl": "https://www.rueishenghakkarice.com/",
+    "phone": "0911-811-120",
+    "address": "苗栗縣頭份市中央路598號"
+  },
+  {
+    "id": "ml-scout-lead-19",
+    "slug": "第一香焿的專賣店",
+    "name": "第一香焿的專賣店（頭份中正店）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "焿湯／小吃",
+    "cuisineTags": [
+      "焿湯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00-14:00、16:00-20:10（每週三公休；懶人包）",
+    "evidence": "vivawei 2021 懶人包親送門檻：**「滿500元即可外送（詳細外送門檻請致電詢問店家）」**",
+    "source": "vivawei.tw/miaoli-takeout",
+    "phone": "037-689453",
+    "address": "苗栗縣頭份市中正一路546號"
+  },
+  {
+    "id": "ml-scout-lead-20",
+    "slug": "龍來熱炒",
+    "name": "龍來熱炒（龍來小館／頭份建國）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "熱炒／客家小館",
+    "cuisineTags": [
+      "熱炒",
+      "客家小館"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 700,
+    "deliveryMinLabel": "滿 $700",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30-13:30、16:30-20:30（每週二公休；懶人包）— **店名／工時請覆核**（後續食記見「龍來小館」轉型）",
+    "evidence": "vivawei 2021 懶人包親送門檻：**「距離店家6公里內滿700元可外送（詳細外送門檻請致電詢問店家）」**",
+    "source": "vivawei.tw/miaoli-takeout",
+    "phone": "037-670186",
+    "address": "苗栗縣頭份市建國路二段135號"
+  },
+  {
+    "id": "ml-scout-lead-21",
+    "slug": "清水茶香",
+    "name": "清水茶香（苑裡店）",
+    "city": "苗栗縣",
+    "district": "苑裡鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00-21:00（懶人包／專文）",
+    "evidence": "vivawei 2021 懶人包親送門檻：**「苑裡街上滿100元可外送（詳細外送門檻請致電詢問店家）」**；專文另有「外送門檻」圖卡（數字以懶人包句為準）",
+    "source": "vivawei.tw/miaoli-takeout ；vivawei.tw/yuanli128",
+    "phone": "037-868997",
+    "address": "苗栗縣苑裡鎮和平路128號"
+  },
+  {
+    "id": "ml-scout-lead-22",
+    "slug": "許家茶飲×好柒車輪餅",
+    "name": "許家茶飲 × 好柒車輪餅（原涼心茶飲）",
+    "city": "苗栗縣",
+    "district": "頭屋鄉",
+    "cuisine": "手搖飲／車輪餅",
+    "cuisineTags": [
+      "手搖飲",
+      "車輪餅"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "飲品約 09:30-21:00；車輪餅夏季常歇（2024 食記）",
+    "evidence": "**2024-10** 食記店卡明示：**「外送門檻：頭屋市區100元、北苗300元(實際外送金額與距離請致電詢問店家)」**",
+    "source": "vivawei.tw/liang-2024",
+    "phone": "037-255866",
+    "address": "苗栗縣頭屋鄉尖豐路123號"
+  },
+  {
+    "id": "ml-scout-lead-23",
+    "slug": "喜力茶飲",
+    "name": "喜力茶飲（竹南店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-22:30（食記）",
+    "evidence": "食記明示：**「竹南市區1杯即可外送，頭份市區、竹南園區滿5杯即可外送」**（另 2021 Pixnet 同：「一杯可外送竹南市區／五杯可外送頭份市區&竹南科學園區」）",
+    "source": "huablog.tw/heine-tea ；rosastay111.pixnet.net/blog/post/16045741868",
+    "phone": "037-550130",
+    "address": "苗栗縣竹南鎮光復路237號"
+  },
+  {
+    "id": "ml-scout-lead-24",
+    "slug": "川莫廚房",
+    "name": "川莫廚房",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "漢堡／早午餐／義麵燉飯",
+    "cuisineTags": [
+      "漢堡",
+      "早午餐",
+      "義麵燉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 06:00-13:30、16:30-20:00（不定休見粉專／LINE）",
+    "evidence": "**2025-08** 食記明示：**「滿$200(0-2公里)/$300(2-3公里)/$500(3公里)就可以免費外送」**；LINE 線上點餐",
+    "source": "huablog.tw/chuanmo",
+    "phone": "0981-994-886",
+    "address": "苗栗縣頭份市文化街224巷10號"
+  },
+  {
+    "id": "ml-scout-lead-25",
+    "slug": "燒胖肉蛋吐司",
+    "name": "燒胖肉蛋吐司（苗栗頭份店）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "吐司／炸物宵夜",
+    "cuisineTags": [
+      "吐司",
+      "炸物宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:30-22:00（食記）",
+    "evidence": "食記明示：**「外送金額滿1000元即可外送，範圍為5公里內，5公里以上請電洽」**；訂餐時段註 **14:00-22:00**（11:00後可來電訂）",
+    "source": "huablog.tw/shaopang_toufen",
+    "phone": "037-680896",
+    "address": "苗栗縣頭份市中央路125之1號"
+  },
+  {
+    "id": "ml-scout-lead-26",
+    "slug": "龍角DragonHorn",
+    "name": "龍角 Dragon Horn（苗栗竹南店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "手搖飲／咖啡",
+    "cuisineTags": [
+      "手搖飲",
+      "咖啡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 10:30-20:00；六日約 11:00-20:00（食記）",
+    "evidence": "**2023-09** 食記外送資訊：**「竹南科學園區$450(6.9km)、廣源科學園區$550(6.4km)、頭份工業區、市區(3.5km)$450左右。因目前人力關係，請記得提前來電預訂！」**",
+    "source": "huablog.tw/dragon_horn",
+    "phone": "037-460588",
+    "address": "苗栗縣竹南鎮民治街27-5號"
+  },
+  {
+    "id": "ml-scout-lead-27",
+    "slug": "喜樂Beverages",
+    "name": "喜樂 Beverages",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "手搖飲／鮮榨",
+    "cuisineTags": [
+      "手搖飲",
+      "鮮榨"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-22:00（專文）",
+    "evidence": "vivawei 專文備註明示：**「尚順/頭份市區2-3杯即可外送、竹南科學園區滿200元可外送」**（2021 懶人包另寫「頭份市區滿100元」— **請以電話覆核現行**）",
+    "source": "vivawei.tw/beverages ；vivawei.tw/miaoli-takeout",
+    "phone": "037-687366",
+    "address": "苗栗縣頭份市建國路116號(2020"
+  },
+  {
+    "id": "ml-scout-lead-28",
+    "slug": "甲一飯包",
+    "name": "甲一飯包（竹南延平店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "木盒便當／飯包",
+    "cuisineTags": [
+      "木盒便當",
+      "飯包"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "舊目錄／彙整明示：**「10個以上外送」**",
+    "source": "txg.twagoda.com/entry/85912 ；Batch 1 deferred 覆核",
+    "phone": "037-551692",
+    "address": "苗栗縣竹南鎮延平路124號"
+  },
+  {
+    "id": "ml-scout-lead-29",
+    "slug": "茶棧",
+    "name": "茶棧（竹南中正店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30-20:30（食記）",
+    "evidence": "**2025-08** 食記明示：**「市區滿$200、園區滿$500就能外送！」**／店卡：**「竹南市區滿 $200、園區滿 $500即可免費外送！」**",
+    "source": "huablog.tw/chazhan_zhunan",
+    "phone": "037-550208",
+    "address": "苗栗縣竹南鎮中正路157號"
+  },
+  {
+    "id": "ml-scout-lead-30",
+    "slug": "穩飲茶府",
+    "name": "穩飲茶府（竹南）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-22:00（食記）",
+    "evidence": "食記外送區塊明示：**「園區10杯或滿300元就送」**；另：**「消費滿100元(1公里)、200元(2公里)、300元(3公里)也享外送服務！」**；預訂優惠另列 20／50 杯",
+    "source": "huablog.tw/wincha2022",
+    "phone": "037-551886",
+    "address": "苗栗縣竹南鎮光復路246號"
+  },
+  {
+    "id": "ml-scout-lead-31",
+    "slug": "順道茶飲店ShunDao",
+    "name": "順道茶飲店 ShunDao（後龍店）",
+    "city": "苗栗縣",
+    "district": "後龍鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00-20:00／20:30（食記）",
+    "evidence": "食記明示：**「苗栗竹南、頭份市區消費滿$1000也可外送，其餘地區來電詢問即可。」**",
+    "source": "huablog.tw/shundao ；huablog.tw/shundao2010",
+    "phone": "037-724177",
+    "address": "苗栗縣後龍鎮中山路69號"
+  },
+  {
+    "id": "ml-scout-lead-32",
+    "slug": "順道茶飲店ShunDao",
+    "name": "順道茶飲店 ShunDao（頭份店）",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 350,
+    "deliveryMinLabel": "滿 $350",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00-20:00（食記）",
+    "evidence": "**2022-11** vivawei 店卡明示：**「竹南科學園區滿250即可外送／廣源科學園區滿350元即可外送」**（與 huablog 店卡同句）",
+    "source": "vivawei.tw/shundao-toufen ；huablog.tw/shundao",
+    "phone": "037-688386",
+    "address": "苗栗縣頭份市八德二路300號"
+  },
+  {
+    "id": "ml-scout-lead-33",
+    "slug": "紅吱吱平價牛排館",
+    "name": "紅吱吱平價牛排館（苗栗店）",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "平價牛排／鐵板麵",
+    "cuisineTags": [
+      "平價牛排",
+      "鐵板麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週四 11:00-14:00、16:30-21:30；週五至 22:00；六日 11:00-22:00（食記）",
+    "evidence": "**2025-09** 食記外送區塊明示：**「外送1公里內300-500元，1公里外700-1000元。」**；**「公司行號如需外送，5份以上請提前1小時訂購。」**",
+    "source": "vivawei.tw/hong-zhi-zhi",
+    "phone": "037-350678",
+    "address": "苗栗市光復路77號"
+  },
+  {
+    "id": "ml-scout-lead-34",
+    "slug": "富有便當",
+    "name": "富有便當",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-13:00、16:00-19:00（週六日與紅字公休；食記）",
+    "evidence": "食記明示：**「如果在店家附近 1、 2個就送，南苗、大千、聯大這種距離大約 5、 6個就送嚕！其他位置建議致電詢問！」**",
+    "source": "sillycoupleblog.tw/miaoli-city-food-fuyoubd-2510",
+    "phone": "037-268391",
+    "address": "苗栗市玉清里為民街127號"
+  },
+  {
+    "id": "ml-scout-lead-35",
+    "slug": "新禾便當",
+    "name": "新禾便當",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "木盒便當",
+    "cuisineTags": [
+      "木盒便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30-13:30、16:30-19:30（週日／國定公休；食記）",
+    "evidence": "食記明示：**「外送的話4個便當即可，但了解下發現外送範圍其實不大，僅限於南苗這一帶」**",
+    "source": "sillycoupleblog.tw/miaoli-city-food-xinhebiandang-2510",
+    "phone": "037-377071",
+    "address": "苗栗市天雲街36號"
+  },
+  {
+    "id": "ml-scout-lead-36",
+    "slug": "天喜好食",
+    "name": "天喜好食",
+    "city": "苗栗縣",
+    "district": "苗栗市",
+    "cuisine": "便當／會議便當",
+    "cuisineTags": [
+      "便當",
+      "會議便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–13:30、16:30–19:30（週六僅上午、週日公休；食記）",
+    "evidence": "食記明示：**「四個便當即可外送，每天8:50開始即可訂購！」**",
+    "source": "sillycoupleblog.tw/miaoli-city-food-tianxitasty",
+    "phone": "037-278622",
+    "address": "苗栗市府東路77號"
+  },
+  {
+    "id": "ml-scout-lead-37",
+    "slug": "豐廚平價鐵板燒",
+    "name": "豐廚平價鐵板燒",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "鐵板燒／套餐",
+    "cuisineTags": [
+      "鐵板燒",
+      "套餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00～21:30（彙整）",
+    "evidence": "地方彙整明示：**「滿1000元即可外送」**",
+    "source": "taiwantour.net/miaoli-toufen",
+    "phone": "037-671616",
+    "address": "苗栗縣頭份市和平路81號"
+  },
+  {
+    "id": "ml-scout-lead-38",
+    "slug": "紫柏毅／小宗胡椒料理",
+    "name": "紫柏毅／小宗胡椒料理",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "胡椒料理／小吃",
+    "cuisineTags": [
+      "胡椒料理",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:00–01:30（彙整轉載）",
+    "evidence": "防疫外帶文轉載店家公告：**「竹南/頭份：滿3個免費送」**；Line 線上訂餐",
+    "source": "taiwantour.net/miaoli-toufen",
+    "orderUrl": null,
+    "lineUrl": null,
+    "phone": "0971-122-555",
+    "address": "苗栗縣頭份市中央路365號"
+  },
+  {
+    "id": "ml-scout-lead-39",
+    "slug": "Q小妹手作甜品店",
+    "name": "Q小妹手作甜品店",
+    "city": "苗栗縣",
+    "district": "頭份市",
+    "cuisine": "豆花／豆腐冰／甜品",
+    "cuisineTags": [
+      "豆花",
+      "豆腐冰",
+      "甜品"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:30-20:00（食記）",
+    "evidence": "食記店卡明示：**「頭份市區滿300元、竹南市區、科學園區滿500元即可外送。」**",
+    "source": "huablog.tw/qsweet",
+    "phone": "037-851061",
+    "address": "苗栗縣頭份市信義路467號"
+  },
+  {
+    "id": "ml-scout-lead-40",
+    "slug": "清安粉圓",
+    "name": "清安粉圓（後龍店）",
+    "city": "苗栗縣",
+    "district": "後龍鎮",
+    "cuisine": "粉圓飲料",
+    "cuisineTags": [
+      "粉圓飲料"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30-19:30 售完就收（食記）",
+    "evidence": "食記／店卡明示：**「後龍市區滿200元就能外送」**／**「後龍市區滿200元可外送」**",
+    "source": "vivawei.tw/houlung-chingan",
+    "phone": "0980-388-318",
+    "address": "苗栗縣後龍鎮三民路124號"
+  },
+  {
+    "id": "ml-scout-lead-42",
+    "slug": "梁社漢排骨",
+    "name": "梁社漢排骨（竹南博愛店）",
+    "city": "苗栗縣",
+    "district": "竹南鎮",
+    "cuisine": "排骨便當／麵",
+    "cuisineTags": [
+      "排骨便當",
+      "麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:30（fonfood）",
+    "evidence": "目錄／轉載品牌分店資訊明示：**「10個主餐(飯或麵)以上可外送(14：00-16…」**（SEO 截斷；句式與 #8／#41 同品牌模板；30 份以上須提前訂）",
+    "source": "txg.twagoda.com/entry/22616076；fonfood store/1025381",
+    "phone": "037-551798",
+    "address": "苗栗縣竹南鎮博愛街186號"
+  },
+  {
+    "id": "ml-scout-lead-43",
+    "slug": "小椪柑の店",
+    "name": "小椪柑の店",
+    "city": "苗栗縣",
+    "district": "銅鑼鄉",
+    "cuisine": "冷滷味／滷味便當／豆干堡",
+    "cuisineTags": [
+      "冷滷味",
+      "滷味便當",
+      "豆干堡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00-14:30、16:30-19:00（每週日公休；食記）",
+    "evidence": "**2024-10** 食記明示：**「店家有提供外送服務！銅鑼工業區和中興工業區滿600元即可外送，其餘距離與外送門檻，請直接致電詢問店家！」**",
+    "source": "vivawei.tw/penggan",
+    "phone": "037-987918",
+    "address": "苗栗縣銅鑼鄉中正路267號"
+  },
+  {
+    "id": "tgb-inline-1",
+    "slug": "很牛炭燒牛排-台北東興店",
+    "name": "很牛炭燒牛排｜台北東興店（TGB／Godbeef）",
+    "city": "台北市",
+    "district": "松山區",
+    "address": "東興路18號1樓",
+    "cuisine": "牛排／炭燒排餐",
+    "cuisineTags": [
+      "牛排",
+      "西餐",
+      "炭燒",
+      "連鎖"
+    ],
+    "phone": "02-2756-8818",
+    "orderUrl": "https://inline.app/order/-LCY717nx0-MpY8cDJVd/-LIEg0Ii3P5fzMhaKl7L",
+    "hours": "平日約 11:30–15:00／17:30–22:00；假日午間／晚間（以門市為準）",
+    "range": "配送範圍由官方 Inline 依送達地址判定（未公開固定公里數）",
+    "terms": "官方 Inline 可選外送；最低消費／運費／免運門檻以下單頁為準",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "evidence": "官方 Inline 點餐頁（brand id -LCY717nx0-MpY8cDJVd）明示可選「外送」與「外帶」，並列出含台北東興店、台北小巨蛋店、台中崇德旗艦店、台中向上店、南投埔里店等分店；非 UE/FP 主通路。配送範圍／低消／運費以 Inline 結帳為準。",
+    "source": "https://inline.app/order/-LCY717nx0-MpY8cDJVd?language=zh-tw；godbeef.com.tw／公開分店資料",
+    "origin": "inline-scout",
+    "chain": true,
+    "featured": false,
+    "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "tgb-inline-2",
+    "slug": "很牛炭燒牛排-台北小巨蛋店",
+    "name": "很牛炭燒牛排｜台北小巨蛋店（TGB／Godbeef）",
+    "city": "台北市",
+    "district": "松山區",
+    "address": "南京東路三段303巷6弄10號1樓",
+    "cuisine": "牛排／炭燒排餐",
+    "cuisineTags": [
+      "牛排",
+      "西餐",
+      "炭燒",
+      "連鎖"
+    ],
+    "phone": "02-2718-8328",
+    "orderUrl": "https://inline.app/order/-LCY717nx0-MpY8cDJVd/-LcZey93zK54LDuxBIm7",
+    "hours": "平日約 11:30–14:00／17:30–21:00；週末午間略延（以門市為準）",
+    "range": "配送範圍由官方 Inline 依送達地址判定（未公開固定公里數）",
+    "terms": "官方 Inline 可選外送；最低消費／運費／免運門檻以下單頁為準",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "evidence": "官方 Inline 點餐頁（brand id -LCY717nx0-MpY8cDJVd）明示可選「外送」與「外帶」，並列出含台北東興店、台北小巨蛋店、台中崇德旗艦店、台中向上店、南投埔里店等分店；非 UE/FP 主通路。配送範圍／低消／運費以 Inline 結帳為準。",
+    "source": "https://inline.app/order/-LCY717nx0-MpY8cDJVd?language=zh-tw；godbeef.com.tw／公開分店資料",
+    "origin": "inline-scout",
+    "chain": true,
+    "featured": false,
+    "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "tgb-inline-3",
+    "slug": "很牛炭燒牛排-台中崇德旗艦店",
+    "name": "很牛炭燒牛排｜台中崇德旗艦店（TGB／Godbeef）",
+    "city": "台中市",
+    "district": "北屯區",
+    "address": "崇德路三段169號",
+    "cuisine": "牛排／炭燒排餐",
+    "cuisineTags": [
+      "牛排",
+      "西餐",
+      "炭燒",
+      "連鎖"
+    ],
+    "phone": "04-2422-9878",
+    "orderUrl": "https://inline.app/order/-LCY717nx0-MpY8cDJVd/-LCY717nx0-MpY8cDJVe",
+    "hours": "約 11:45–14:00 等時段（以 Inline／門市為準）",
+    "range": "配送範圍由官方 Inline 依送達地址判定（未公開固定公里數）",
+    "terms": "官方 Inline 可選外送；最低消費／運費／免運門檻以下單頁為準",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "evidence": "官方 Inline 點餐頁（brand id -LCY717nx0-MpY8cDJVd）明示可選「外送」與「外帶」，並列出含台北東興店、台北小巨蛋店、台中崇德旗艦店、台中向上店、南投埔里店等分店；非 UE/FP 主通路。配送範圍／低消／運費以 Inline 結帳為準。",
+    "source": "https://inline.app/order/-LCY717nx0-MpY8cDJVd?language=zh-tw；godbeef.com.tw／公開分店資料",
+    "origin": "inline-scout",
+    "chain": true,
+    "featured": false,
+    "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "tgb-inline-4",
+    "slug": "很牛炭燒牛排-台中向上店",
+    "name": "很牛炭燒牛排｜台中向上店（TGB／Godbeef）",
+    "city": "台中市",
+    "district": "南屯區",
+    "address": "向上路二段372號",
+    "cuisine": "牛排／炭燒排餐",
+    "cuisineTags": [
+      "牛排",
+      "西餐",
+      "炭燒",
+      "連鎖"
+    ],
+    "phone": "04-2380-2718",
+    "orderUrl": "https://inline.app/order/-LCY717nx0-MpY8cDJVd/-LGcNJVWCQ5TS4fEt4-n",
+    "hours": "約 11:45–14:00 等時段（以 Inline／門市為準）",
+    "range": "配送範圍由官方 Inline 依送達地址判定（未公開固定公里數）",
+    "terms": "官方 Inline 可選外送；最低消費／運費／免運門檻以下單頁為準",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "evidence": "官方 Inline 點餐頁（brand id -LCY717nx0-MpY8cDJVd）明示可選「外送」與「外帶」，並列出含台北東興店、台北小巨蛋店、台中崇德旗艦店、台中向上店、南投埔里店等分店；非 UE/FP 主通路。配送範圍／低消／運費以 Inline 結帳為準。",
+    "source": "https://inline.app/order/-LCY717nx0-MpY8cDJVd?language=zh-tw；godbeef.com.tw／公開分店資料",
+    "origin": "inline-scout",
+    "chain": true,
+    "featured": false,
+    "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "tgb-inline-5",
+    "slug": "很牛炭燒牛排-南投埔里店",
+    "name": "很牛炭燒牛排｜南投埔里店（岩燒／TGB／Godbeef）",
+    "city": "南投縣",
+    "district": "埔里鎮",
+    "address": "中山路二段41號",
+    "cuisine": "牛排／炭燒排餐",
+    "cuisineTags": [
+      "牛排",
+      "西餐",
+      "炭燒",
+      "連鎖"
+    ],
+    "phone": "049-242-4888",
+    "orderUrl": "https://inline.app/order/-LCY717nx0-MpY8cDJVd/-LGcQ5yUBwyQp9BKGnZn",
+    "hours": "約 11:45–14:00 等時段（以 Inline／門市為準）",
+    "range": "配送範圍由官方 Inline 依送達地址判定（未公開固定公里數）",
+    "terms": "官方 Inline 可選外送；最低消費／運費／免運門檻以下單頁為準",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "evidence": "官方 Inline 點餐頁（brand id -LCY717nx0-MpY8cDJVd）明示可選「外送」與「外帶」，並列出含台北東興店、台北小巨蛋店、台中崇德旗艦店、台中向上店、南投埔里店等分店；非 UE/FP 主通路。配送範圍／低消／運費以 Inline 結帳為準。",
+    "source": "https://inline.app/order/-LCY717nx0-MpY8cDJVd?language=zh-tw；godbeef.com.tw／公開分店資料",
+    "origin": "inline-scout",
+    "chain": true,
+    "featured": false,
+    "checkedAt": "2026-09-22"
+  },
+  {
+    "id": "kl-scout-lead-1",
+    "slug": "小劉便當",
+    "name": "小劉便當（孝三店／品牌自送）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當／排骨飯／會議餐盒",
+    "cuisineTags": [
+      "便當",
+      "排骨飯",
+      "會議餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以官網／現場為準）；訂購 50 份以上提前 1 天、100 份以上提前 3 天（官網）",
+    "evidence": "官網外送頁明示：**「目前外送服務涵蓋基隆全區，包括七堵、仁愛、信義、中正、中山、安樂、暖暖等行政區。」**／**「基隆市區(仁愛區、中正區、信義區、中正區)：5 個以上即可外送」**；並寫「擁有自家便當物流專車與配送人員」",
+    "source": "siaoliu.com.tw/delivery 2026-09-22 擷取；klepb 名冊",
+    "orderUrl": "https://www.siaoliu.com.tw/delivery/",
+    "phone": "02-2426-2516",
+    "address": "基隆市仁愛區孝三路55號"
+  },
+  {
+    "id": "kl-scout-lead-2",
+    "slug": "硬烤",
+    "name": "硬烤",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "便當／鹽烤",
+    "cuisineTags": [
+      "便當",
+      "鹽烤"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「5個以上外送」**；送達地區含 **基隆**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/592409",
+    "phone": "0908-627-870",
+    "address": "基隆市中正區祥豐街66號"
+  },
+  {
+    "id": "kl-scout-lead-3",
+    "slug": "廣知味燒腊店",
+    "name": "廣知味燒腊店",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「五個以上外送/有時會要7個以上」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/567947",
+    "phone": "02-2423-9267",
+    "address": "基隆市仁愛區仁二路15號"
+  },
+  {
+    "id": "kl-scout-lead-4",
+    "slug": "洪燒肉",
+    "name": "洪燒肉",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當／紅燒肉／雞腿",
+    "cuisineTags": [
+      "便當",
+      "紅燒肉",
+      "雞腿"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "周一公休（簡介）",
+    "evidence": "dinbendon 簡介明示：**「400 市區外送 周一公休」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/572215",
+    "phone": "0981-301-477",
+    "address": "基隆市仁愛區仁四路47號"
+  },
+  {
+    "id": "kl-scout-lead-5",
+    "slug": "深溪食堂",
+    "name": "深溪食堂",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「8個外送」**",
+    "source": "dinbendon；pixnet 食記",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568835",
+    "phone": "02-2468-3259",
+    "address": "基隆市信義區深溪路54號"
+  },
+  {
+    "id": "kl-scout-lead-6",
+    "slug": "廣津豬腳腿庫便當",
+    "name": "廣津豬腳腿庫便當",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "豬腳／腿庫／便當",
+    "cuisineTags": [
+      "豬腳",
+      "腿庫",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:30（食記；以現場為準）",
+    "evidence": "dinbendon 簡介明示：**「7個以上」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon；keelungplay／pixnet",
+    "orderUrl": "https://www.dinbendon.net/do/shop/572217",
+    "phone": "02-2427-7388",
+    "address": "基隆市仁愛區孝四路30號"
+  },
+  {
+    "id": "kl-scout-lead-7",
+    "slug": "五香便當",
+    "name": "五香便當",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「10個送 前一日定」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/619667",
+    "phone": "0960-218-333",
+    "address": "基隆市仁愛區孝二路74號旁邊巷內1"
+  },
+  {
+    "id": "kl-scout-lead-8",
+    "slug": "饕饕堂",
+    "name": "饕饕堂",
+    "city": "基隆市",
+    "district": "中山區",
+    "cuisine": "中式／便當",
+    "cuisineTags": [
+      "中式",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「15個以上送」**（另有飲料備註句）；送達地區含 **基隆／中山區**；QA 2026-09-22：dinbendon 點餐殼不可用，改 phone-only",
+    "source": "dinbendon；storesearchtw",
+    "phone": "02-2436-2000",
+    "address": "基隆市中山區復興路245-1號1"
+  },
+  {
+    "id": "kl-scout-lead-9",
+    "slug": "十二橋麵食館",
+    "name": "十二橋麵食館",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "麵食／便當",
+    "cuisineTags": [
+      "麵食",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「前一日確定是否有外送員,外送費一律60」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/570491",
+    "phone": "02-2426-1616",
+    "address": "基隆市仁愛區仁一路295-6號"
+  },
+  {
+    "id": "kl-scout-lead-10",
+    "slug": "悅來便當",
+    "name": "悅來便當",
+    "city": "基隆市",
+    "district": "七堵區",
+    "cuisine": "便當／少油少鹽",
+    "cuisineTags": [
+      "便當",
+      "少油少鹽"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 10:00–售完（週一至週五；食記／名冊）",
+    "evidence": "食記明示：**「七堵區滿 5 個即可外送、基隆其他區域滿 10 個即可外送」**；環保局名冊同列「七堵區5個以上／其他區10個以上」「外送,自取」",
+    "source": "100tastes.tw 2021；klepb PDF；dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/431469",
+    "phone": "02-2452-5280",
+    "address": "基隆市七堵區工建路32號"
+  },
+  {
+    "id": "kl-scout-lead-11",
+    "slug": "菜集口廚房",
+    "name": "菜集口廚房",
+    "city": "基隆市",
+    "district": "七堵區",
+    "cuisine": "便當／葷素",
+    "cuisineTags": [
+      "便當",
+      "葷素"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–18:30；1天前（名冊）",
+    "evidence": "基隆市環保局便當業者名冊明示：送餐方式 **外送,自取**；訂購條件 **「七堵區10個以上」**；服務區域 **基隆市**",
+    "source": "klepb PDF（f1762157070502）",
+    "phone": "02-2455-1277",
+    "address": "基隆市七堵區自治街18號"
+  },
+  {
+    "id": "kl-scout-lead-12",
+    "slug": "東橋便當店",
+    "name": "東橋便當店",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "便當／葷素",
+    "cuisineTags": [
+      "便當",
+      "葷素"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:30–19:30；1天前（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域 **基隆市**",
+    "source": "klepb PDF；mygov／footinder",
+    "phone": "02-2465-0129",
+    "address": "基隆市信義區東信路262號"
+  },
+  {
+    "id": "kl-scout-lead-13",
+    "slug": "佳香自助餐",
+    "name": "佳香自助餐",
+    "city": "基隆市",
+    "district": "安樂區",
+    "cuisine": "自助餐／便當",
+    "cuisineTags": [
+      "自助餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "常見午／晚窗 11:00–12:00、16:30–18:00（名冊；以現場為準）；1天前",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域 **基隆市**",
+    "source": "klepb PDF",
+    "phone": "02-2432-1759",
+    "address": "基隆市安樂區安樂路二段108號"
+  },
+  {
+    "id": "kl-scout-lead-14",
+    "slug": "福隆便當",
+    "name": "福隆便當",
+    "city": "基隆市",
+    "district": "暖暖區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–17:30；2天前（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域 **基隆市**；備註 **每周三公休**",
+    "source": "klepb PDF",
+    "phone": "02-2459-1682",
+    "address": "基隆市暖暖區源遠路183號"
+  },
+  {
+    "id": "kl-scout-lead-15",
+    "slug": "RITA廚房",
+    "name": "RITA廚房",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "便當／葷素",
+    "cuisineTags": [
+      "便當",
+      "葷素"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:00（週六公休；名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域 **基隆市**",
+    "source": "klepb PDF",
+    "phone": "02-2425-3889",
+    "address": "基隆市信義區義四路17號1"
+  },
+  {
+    "id": "kl-scout-lead-16",
+    "slug": "好食雞便當",
+    "name": "好食雞便當",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "便當／雞肉",
+    "cuisineTags": [
+      "便當",
+      "雞肉"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:30–20:00；1天前（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域 **基隆市**",
+    "source": "klepb PDF",
+    "phone": "0963-512-053",
+    "address": "基隆市中正區北寧路3號"
+  },
+  {
+    "id": "kl-scout-lead-17",
+    "slug": "碼頭報飯館",
+    "name": "碼頭報飯館",
+    "city": "基隆市",
+    "district": "中山區",
+    "cuisine": "便當／葷素",
+    "cuisineTags": [
+      "便當",
+      "葷素"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–13:00；2天前（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「10個以上」**；服務區域列 **中山區、仁愛區(其他區域請致電洽詢)**",
+    "source": "klepb PDF",
+    "phone": "0925-700-421",
+    "address": "基隆市中山區光華路37巷120號"
+  },
+  {
+    "id": "kl-scout-lead-18",
+    "slug": "飯丸屋-基隆海大店",
+    "name": "飯丸屋-基隆海大店",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "飯糰／輕食",
+    "cuisineTags": [
+      "飯糰",
+      "輕食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「大家不愛 1000元 前一日訂購」**（滿額＋提前訂）；送達地區含 **基隆／中正區**",
+    "source": "dinbendon",
+    "orderUrl": "https://www.dinbendon.net/do/shop/605294",
+    "phone": "0979-335-851",
+    "address": "基隆市中正區北寧路17號1"
+  },
+  {
+    "id": "kl-scout-lead-19",
+    "slug": "光壽司",
+    "name": "光壽司",
+    "city": "基隆市",
+    "district": "七堵區",
+    "cuisine": "壽司／捲壽司／餐盒",
+    "cuisineTags": [
+      "壽司",
+      "捲壽司",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–19:30（名冊；食記另見午／晚窗差異—**以現場為準**）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「外送需達1000元以上」**；服務區域 **基隆市**；運費欄 **50-300元**；2天前",
+    "source": "klepb PDF（f1762157070502）；nanocakl／TVBS 資訊卡",
+    "phone": "0975-695-619",
+    "address": "基隆市七堵區百三街126號"
+  },
+  {
+    "id": "kl-scout-lead-20",
+    "slug": "綠竹園山薯農場",
+    "name": "綠竹園山薯農場",
+    "city": "基隆市",
+    "district": "七堵區",
+    "cuisine": "農場／山產餐盒",
+    "cuisineTags": [
+      "農場",
+      "山產餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–17:00（名冊；農場頁另標至 19:00、周一公休—**以現場為準**）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；服務區域 **6公里內**；訂購條件 **「10個以上」**；3天前；價位欄 150-300元",
+    "source": "klepb PDF；bamboo147.wixsite.com",
+    "phone": "02-2455-8518",
+    "address": "基隆市七堵區自強路147之1號"
+  },
+  {
+    "id": "kl-scout-lead-21",
+    "slug": "無爭•手作料理",
+    "name": "無爭 • 手作料理",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "手作料理／便當",
+    "cuisineTags": [
+      "手作料理",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 12:00–21:00（星期一休息；名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送**；訂購條件 **「10個以上」**；服務區域 **基隆市**；價位欄肉類120／海鮮150／海陸180；1天前",
+    "source": "klepb PDF",
+    "phone": "0909-593-038",
+    "address": "基隆市信義區義三路4巷14號"
+  },
+  {
+    "id": "kl-scout-lead-22",
+    "slug": "八斗邀友善餐廳",
+    "name": "八斗邀友善餐廳",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "友善／永續餐盒",
+    "cuisineTags": [
+      "友善",
+      "永續餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "預約制（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；備註 **「基隆市區十個以上才有外送服務」**；預約／訂購欄另見 **20個-50個**；至少1天前；服務區列中正、信義、仁愛",
+    "source": "klepb PDF；smiletaiwan／綠媒體",
+    "phone": "0928-066-052",
+    "address": "基隆市中正區八斗街35號"
+  },
+  {
+    "id": "kl-scout-lead-24",
+    "slug": "范師傅燒烤便當",
+    "name": "范師傅燒烤便當（孝三店）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "燒烤／便當",
+    "cuisineTags": [
+      "燒烤",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:30–18:45（名冊；舊版 16:00–19:00）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「30個以上」**；服務區域 **基隆市**；1天前；價位欄 85-100元",
+    "source": "klepb PDF",
+    "phone": "02-2422-3530",
+    "address": "基隆市仁愛區孝三路74號"
+  },
+  {
+    "id": "kl-scout-lead-25",
+    "slug": "烤宴基隆",
+    "name": "烤宴(便當) 基隆",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當／燒烤",
+    "cuisineTags": [
+      "便當",
+      "燒烤"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UE 頁見週一–六約 11:00–20:00（平台 discovery only—**orderUrl 不用平台**）",
+    "evidence": "dinbendon 簡介明示：**「4個以上送」**；地址列基隆市仁愛區仁二路38號",
+    "source": "dinbendon；UE discovery；mygov",
+    "orderUrl": "https://www.dinbendon.net/do/shop/570751",
+    "phone": "0955-980-709",
+    "address": "登記仁二路38號1"
+  },
+  {
+    "id": "kl-scout-lead-26",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（基隆孝三店）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當／池上飯包",
+    "cuisineTags": [
+      "便當",
+      "池上飯包"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "dinbendon 簡介明示：**「6個以上」**；送達地區語境為基隆孝三店",
+    "source": "dinbendon；wu-tau.com",
+    "orderUrl": "https://www.dinbendon.net/do/shop/569778",
+    "phone": "02-2425-8966",
+    "address": "基隆市仁愛區孝三路50號1"
+  },
+  {
+    "id": "kl-scout-lead-27",
+    "slug": "牛丁次郎坊",
+    "name": "牛丁次郎坊（基隆廟口支店）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "日式丼／平日日式便當",
+    "cuisineTags": [
+      "日式丼",
+      "平日日式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:00、17:00–21:00（食記）",
+    "evidence": "WalkerLand 食記明示：**「平日中午訂他們的日式便當10個以上店家就親自外送」**；另寫 **「基隆市區的朋友只要訂滿1000元、也能請店家幫忙外送(因為不同的距離會有不同的門檻，細節請詢問店家)」**",
+    "source": "walkerland 2023-10-31",
+    "phone": "02-2425-4507",
+    "address": "基隆市仁愛區仁二路182號"
+  },
+  {
+    "id": "kl-scout-lead-28",
+    "slug": "阿惠便當",
+    "name": "阿惠便當（安樂店）",
+    "city": "基隆市",
+    "district": "安樂區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:00–20:00（食記）",
+    "evidence": "食記明示品牌政策：**「只要市區四個便當以上就會外送」**（孝三總店／東信／安樂多分店）",
+    "source": "bravejim.pixnet／vocus；UE discovery",
+    "phone": "02-2433-2879",
+    "address": "基隆市安樂區安樂路二段110號"
+  },
+  {
+    "id": "kl-scout-lead-29",
+    "slug": "小劉排骨安一店",
+    "name": "小劉排骨安一店",
+    "city": "基隆市",
+    "district": "中山區",
+    "cuisine": "便當／排骨飯",
+    "cuisineTags": [
+      "便當",
+      "排骨飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00（名冊）",
+    "evidence": "環保局名冊明示：送餐方式 **外送,自取**；訂購條件 **「40份以上」**；服務區域 **基隆市**；1天前",
+    "source": "klepb PDF；siaoliu.com.tw",
+    "phone": "02-2422-9856",
+    "address": "基隆市中山區安一路2號"
+  },
+  {
+    "id": "kl-scout-lead-30",
+    "slug": "范師傅燒烤便當",
+    "name": "范師傅燒烤便當（新豐店）",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "燒烤／便當",
+    "cuisineTags": [
+      "燒烤",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（舊版未列完整時段）",
+    "evidence": "舊版環保局名冊明示：送餐方式 **外送、自取**；訂購條件 **「30個以上」**；服務區域 **基隆市**；1天前",
+    "source": "klepb PDF（f1672306724020）",
+    "phone": "02-2423-5320",
+    "address": "基隆市中正區新豐街349號"
+  },
+  {
+    "id": "kl-scout-lead-31",
+    "slug": "健安雞肉飯",
+    "name": "健安雞肉飯",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "雞肉飯／滷肉飯",
+    "cuisineTags": [
+      "雞肉飯",
+      "滷肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–20:00（週六公休；懶人包）",
+    "evidence": "懶人包／食記明示外送門檻：**「1公里內滿100元、1～2公里滿200元、2～3公里滿300元、3～4公里滿400元；消費滿300元不需外送費；5公里以上請來電洽詢」**",
+    "source": "nanocakl／pixnet 懶人包；mygov",
+    "phone": "02-2425-9293",
+    "address": "基隆市仁愛區孝三路25號"
+  },
+  {
+    "id": "kl-scout-lead-32",
+    "slug": "粥大福",
+    "name": "粥大福（基隆深溪店）",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "粥品／燉雞粥",
+    "cuisineTags": [
+      "粥品",
+      "燉雞粥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以門市為準）",
+    "evidence": "dinbendon 簡介明示：**「500外送」**（頁面另寫「問外送直接掛電話」—門檻本體仍為 500）；送達地區含 **基隆／信義區**",
+    "source": "dinbendon；joudafu.com/store",
+    "orderUrl": "https://www.dinbendon.net/do/shop/571134",
+    "phone": "02-2465-1168",
+    "address": "基隆市信義區深溪路20號"
+  },
+  {
+    "id": "kl-scout-lead-33",
+    "slug": "鴨肉松",
+    "name": "鴨肉松（基隆）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "鴨肉／下水／麵食",
+    "cuisineTags": [
+      "鴨肉",
+      "下水",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「滿500外送」**；送達地區含 **基隆／仁愛區**",
+    "source": "dinbendon JSON",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568373",
+    "phone": "0976-076-533",
+    "address": "基隆市仁愛區孝二路82號"
+  },
+  {
+    "id": "kl-scout-lead-34",
+    "slug": "基隆水產炸蛋豬腳大王",
+    "name": "基隆水產炸蛋豬腳大王",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "豬腳／炸蛋／便當",
+    "cuisineTags": [
+      "豬腳",
+      "炸蛋",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「20個 前一天定」**；送達地區含 **基隆／中正區**",
+    "source": "dinbendon JSON；UE discovery",
+    "orderUrl": "https://www.dinbendon.net/do/shop/625006",
+    "phone": "02-2462-6911",
+    "address": "基隆市中正區中正路668號"
+  },
+  {
+    "id": "kl-scout-lead-35",
+    "slug": "阿惠便當",
+    "name": "阿惠便當（孝三店／麗惠飲食店）",
+    "city": "基隆市",
+    "district": "仁愛區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:00–20:00（食記）",
+    "evidence": "食記明示品牌政策：**「只要市區四個便當以上就會外送」**（孝三總店／東信／安樂多分店）",
+    "source": "bravejim.pixnet／vocus",
+    "phone": "02-2428-0238",
+    "address": "基隆市仁愛區孝三路57號"
+  },
+  {
+    "id": "kl-scout-lead-36",
+    "slug": "阿惠便當",
+    "name": "阿惠便當（東信店）",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–14:00、16:00–20:00（食記）",
+    "evidence": "同品牌政策：**「市區四個便當以上就會外送」**",
+    "source": "bravejim.pixnet／vocus；lovetpe",
+    "phone": "02-2466-3533",
+    "address": "基隆市信義區東信路71號"
+  },
+  {
+    "id": "kl-scout-lead-37",
+    "slug": "基隆巷口鹹水雞",
+    "name": "基隆巷口鹹水雞（安和一街）",
+    "city": "基隆市",
+    "district": "安樂區",
+    "cuisine": "鹹水雞／雞肉飯／小吃",
+    "cuisineTags": [
+      "鹹水雞",
+      "雞肉飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約週二–日 17:30 起（週一公休；食記）",
+    "evidence": "2026-09 食記明示：**「基隆全區都可以外送，滿200元以上免運費」**／**「老闆就會親自騎車外送到家裡」**；LINE 群組／官方帳號訂餐",
+    "source": "nanocakl.com/laneinkeelung 2026-09-04",
+    "phone": "0977-333-122",
+    "address": "基隆市安樂區安和一街2"
+  },
+  {
+    "id": "kl-scout-lead-38",
+    "slug": "牛來扭去平價牛排館",
+    "name": "牛來扭去平價牛排館",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "平價牛排／排餐",
+    "cuisineTags": [
+      "平價牛排",
+      "排餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "常見平日約 11:00–15:00、16:30–21:00（彙整；**以現場為準**）",
+    "evidence": "懶人包明示：**「3份以上排餐外送到府、外送加麵不用錢」**；**「市區以及大武崙點5份以上排餐」**",
+    "source": "peter2410.pixnet 懶人包；lovetpe",
+    "phone": "02-2469-7781",
+    "address": "基隆市中正區新豐街251巷13號"
+  },
+  {
+    "id": "kl-scout-lead-39",
+    "slug": "老賴滷肉飯",
+    "name": "老賴滷肉飯（原金仙安樂）",
+    "city": "基隆市",
+    "district": "安樂區",
+    "cuisine": "滷肉飯／便當外帶",
+    "cuisineTags": [
+      "滷肉飯",
+      "便當外帶"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:00（週六公休；食記／媒體）",
+    "evidence": "2025 媒體明示店家規定：**「三個便當才外送」**（並述老闆曾破例單份親送）；2026-09 食記仍營業",
+    "source": "keelunghihi 2025-12-11；nanocakl 2026-09-12",
+    "phone": "02-2432-7787",
+    "address": "基隆市安樂區安樂路二段102號"
+  },
+  {
+    "id": "kl-scout-lead-40",
+    "slug": "鴨珍鄉",
+    "name": "鴨珍鄉（港式燒臘）",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（食記常見午／晚窗；以現場為準）",
+    "evidence": "dinbendon 簡介明示：**「滿200外送」**；送達地區含 **基隆市**；食記亦述滿 200 可外送",
+    "source": "dinbendon API；gamer／blog 食記 2023",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568357",
+    "phone": "02-2469-9693",
+    "address": "基隆市中正區新豐街243號"
+  },
+  {
+    "id": "kl-scout-lead-41",
+    "slug": "易品餐盒",
+    "name": "易品餐盒",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "便當／滷雞腿／排骨",
+    "cuisineTags": [
+      "便當",
+      "滷雞腿",
+      "排骨"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「五個外送」**；送達地區含 **基隆／中正區**",
+    "source": "dinbendon API",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568361",
+    "phone": "02-2462-8580",
+    "address": "基隆市中正區中正路169號"
+  },
+  {
+    "id": "kl-scout-lead-42",
+    "slug": "大無敵烤肉飯",
+    "name": "大無敵烤肉飯（基隆安一店）",
+    "city": "基隆市",
+    "district": "中山區",
+    "cuisine": "烤肉飯／便當",
+    "cuisineTags": [
+      "烤肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「10個外送」**",
+    "source": "dinbendon API",
+    "orderUrl": "https://www.dinbendon.net/do/shop/646656",
+    "phone": "02-2422-2111",
+    "address": "基隆市中山區安一路65號"
+  },
+  {
+    "id": "kl-scout-lead-43",
+    "slug": "江禾苑",
+    "name": "江禾苑",
+    "city": "基隆市",
+    "district": "安樂區",
+    "cuisine": "便當／家常",
+    "cuisineTags": [
+      "便當",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「500以上外送」**；送達地區含 **基隆／安樂區**",
+    "source": "dinbendon API；mygov",
+    "orderUrl": "https://www.dinbendon.net/do/shop/636971",
+    "phone": "0988-320-192",
+    "address": "基隆市安樂區樂一路8號"
+  },
+  {
+    "id": "kl-scout-lead-44",
+    "slug": "古灶煨烤肉飯",
+    "name": "古灶煨烤肉飯",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "烤肉飯／便當",
+    "cuisineTags": [
+      "烤肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 簡介明示：**「10個以上送」**；送達地區含 **基隆／信義區**",
+    "source": "dinbendon API",
+    "orderUrl": "https://www.dinbendon.net/do/shop/569485",
+    "phone": "02-2428-6855",
+    "address": "基隆市信義區信一路141巷21號"
+  },
+  {
+    "id": "kl-scout-lead-45",
+    "slug": "好記腿庫飯",
+    "name": "好記腿庫飯",
+    "city": "基隆市",
+    "district": "中山區",
+    "cuisine": "腿庫／便當",
+    "cuisineTags": [
+      "腿庫",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "周一周二休息（簡介）",
+    "evidence": "dinbendon 簡介明示：**「800外送」**（另寫「有石頭」「周一周二休息」「10點可訂購」）",
+    "source": "dinbendon API",
+    "orderUrl": "https://www.dinbendon.net/do/shop/568977",
+    "phone": "0966-309-236",
+    "address": "基隆市中山區成功二路28號"
+  },
+  {
+    "id": "kl-scout-lead-46",
+    "slug": "鐵板饄",
+    "name": "鐵板饄（基隆海大店）",
+    "city": "基隆市",
+    "district": "中正區",
+    "cuisine": "鐵板便當／烏龍麵",
+    "cuisineTags": [
+      "鐵板便當",
+      "烏龍麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "海大頁：平日約 11:00–20:00、週末公休",
+    "evidence": "dinbendon 簡介明示：**「10份以上送市區」**；送達地區含 **基隆／中正區**",
+    "source": "dinbendon API；olife.ntou.edu.tw 2025-03",
+    "orderUrl": "https://www.dinbendon.net/do/shop/607814",
+    "phone": "0921-932-103",
+    "address": "基隆市中正區北寧路2號"
+  },
+  {
+    "id": "kl-scout-lead-47",
+    "slug": "新鮮便當",
+    "name": "新鮮便當（新鮮小吃店）",
+    "city": "基隆市",
+    "district": "信義區",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "dinbendon 訂購說明明示：**「基隆地區十個可外送」**（另寫新北可電話議、量大有優待）",
+    "source": "dinbendon API；opengovtw faden",
+    "orderUrl": "https://www.dinbendon.net/do/shop/159872",
+    "phone": "02-2424-3858",
+    "address": "基隆市信義區義五路19號"
+  },
+  {
+    "id": "yln-scout-lead-1",
+    "slug": "飯町烤肉飯",
+    "name": "飯町烤肉飯（礁溪店）",
+    "city": "宜蘭縣",
+    "district": "礁溪鄉",
+    "cuisine": "烤肉飯／便當",
+    "cuisineTags": [
+      "烤肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "dinbendon 簡介明示：**「市區內滿五份即可外送，附湯、飲料」**；送達地區含 **宜蘭縣礁溪鄉**",
+    "source": "dinbendon API",
+    "orderUrl": "https://www.dinbendon.net/do/shop/626804",
+    "phone": "03-988-0082",
+    "address": "宜蘭縣礁溪鄉溫泉路7號"
+  },
+  {
+    "id": "yln-scout-lead-2",
+    "slug": "蘭波LanPO",
+    "name": "蘭波 LanPO",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "手作簡餐／飯麵漢堡",
+    "cuisineTags": [
+      "手作簡餐",
+      "飯麵漢堡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日11:00-21:00、假日10:00-21:00（kafu；以現場為準）",
+    "evidence": "食記店卡明示自送車隊分區門檻：**「宜蘭市-滿200元免運費，未滿額酌收運費20元」**／**「礁溪、員山、壯圍、五結和羅東-滿500免運費，未滿額酌收運費50元」**／**「頭城、冬山、三星、大同、蘇澳和南澳-滿1000免運費，未滿額酌收運費100元」**；並寫 **「蘭波有自家外送車隊，全宜蘭縣都可以外送」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan ；ichef",
+    "orderUrl": "https://shop.ichefpos.com/store/80u2PXf9/ordering",
+    "phone": "03-935-8516",
+    "address": "宜蘭縣宜蘭市女中路二段185號"
+  },
+  {
+    "id": "yln-scout-lead-3",
+    "slug": "約翰兄弟二號店",
+    "name": "約翰兄弟二號店",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "炒飯／燴飯／咖哩飯",
+    "cuisineTags": [
+      "炒飯",
+      "燴飯",
+      "咖哩飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:00（週四、月底週末公休；食記—以現場為準）",
+    "evidence": "食記／懶人包明示：**「羅東鎮只要滿200元即可外送」**／懶人包複述 **「外送：羅東鎮滿200元即可外送」**",
+    "source": "kafu.tw/brotherjohn ；kafu.tw/luodong-takeout",
+    "phone": "0912-424-530",
+    "address": "宜蘭縣羅東鎮愛國路248號"
+  },
+  {
+    "id": "yln-scout-lead-4",
+    "slug": "美好時光",
+    "name": "美好時光",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "歐陸／便當餐盒",
+    "cuisineTags": [
+      "歐陸",
+      "便當餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:00（懶人包）",
+    "evidence": "懶人包明示：**「滿十個以上提供宜蘭市外送」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-935-3253",
+    "address": "宜蘭市農權路二段89號"
+  },
+  {
+    "id": "yln-scout-lead-5",
+    "slug": "藍城燒貨BlueCity",
+    "name": "藍城燒貨 BlueCity",
+    "city": "宜蘭縣",
+    "district": "礁溪鄉",
+    "cuisine": "炭火串燒／定食便當",
+    "cuisineTags": [
+      "炭火串燒",
+      "定食便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（懶人包）",
+    "evidence": "懶人包明示：**「礁溪不限金額即可外送」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-988-9596",
+    "address": "宜蘭縣礁溪路五段150號"
+  },
+  {
+    "id": "yln-scout-lead-6",
+    "slug": "食柒義式餐桌",
+    "name": "食柒義式餐桌（宜蘭店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "義式／便當",
+    "cuisineTags": [
+      "義式",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:30、17:00–20:30（懶人包）",
+    "evidence": "懶人包明示：**「宜蘭市、羅東鎮內滿300即可外送」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-935-1788",
+    "address": "宜蘭市中山路二段123號"
+  },
+  {
+    "id": "yln-scout-lead-7",
+    "slug": "食柒義式餐桌",
+    "name": "食柒義式餐桌（羅東創始店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "義式／便當",
+    "cuisineTags": [
+      "義式",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "取餐／外送時段約 10:00–14:00（懶人包）",
+    "evidence": "同懶人包：**「宜蘭市、羅東鎮內滿300即可外送」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-961-3700",
+    "address": "宜蘭縣羅東鎮維揚路12-1號"
+  },
+  {
+    "id": "yln-scout-lead-8",
+    "slug": "林北烤好／千花石鍋藝",
+    "name": "林北烤好／千花石鍋藝（宜蘭店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "燒肉飯／便當",
+    "cuisineTags": [
+      "燒肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "懶人包明示聯合外送：**「滿500元宜蘭市區、礁溪市區免費，距店10分鐘內車程」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-931-1593",
+    "address": "宜蘭縣宜蘭市宜興路一段31號"
+  },
+  {
+    "id": "yln-scout-lead-9",
+    "slug": "豚兵衛",
+    "name": "豚兵衛（礁溪店／元祖燒肉飯）",
+    "city": "宜蘭縣",
+    "district": "礁溪鄉",
+    "cuisine": "燒肉飯／串燒",
+    "cuisineTags": [
+      "燒肉飯",
+      "串燒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同聯合句：**「滿500元宜蘭市區、礁溪市區免費，距店10分鐘內車程」**",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-988-6511",
+    "address": "宜蘭縣礁溪鄉溫泉路48號"
+  },
+  {
+    "id": "yln-scout-lead-10",
+    "slug": "西堤牛排TASTY",
+    "name": "西堤牛排 TASTY（宜蘭新月）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "牛排／餐盒",
+    "cuisineTags": [
+      "牛排",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:30（懶人包）",
+    "evidence": "懶人包明示：**「滿$568元3公里內就可以免費外送到家」**；並寫電話預約可送到新月樓下",
+    "source": "kafu.tw/the-choice-of-takeout-yilan",
+    "phone": "03-931-2725",
+    "address": "宜蘭縣宜蘭市民權路二段38巷6號4"
+  },
+  {
+    "id": "yln-scout-lead-11",
+    "slug": "銅房ToneHouse韓式專門烤肉",
+    "name": "銅房 Tone House 韓式專門烤肉",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "韓食／便當",
+    "cuisineTags": [
+      "韓食",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:30、17:30–21:30（懶人包）",
+    "evidence": "懶人包明示：**「車程10分鐘內，滿千即可外送」**／標頭 **「外送服務 ：滿1000可外送(10分鐘車程內)」**",
+    "source": "fullfenblog.tw/yilan-delivery",
+    "phone": "03-936-8788",
+    "address": "宜蘭市嵐峰路一段117號"
+  },
+  {
+    "id": "yln-scout-lead-12",
+    "slug": "宜蘭陳記當歸鴨",
+    "name": "宜蘭陳記當歸鴨（慈安路店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "當歸鴨／鴨肉便當",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（週一公休；懶人包）",
+    "evidence": "防疫懶人包明示：**「疫情期間滿150元可外送宜蘭市區」**；訂餐管道含 FB／LINE／電話",
+    "source": "kiwi326.pixnet 2021-06",
+    "orderUrl": "https://line.me/R/ti/p/@698lfvde",
+    "lineUrl": "https://line.me/R/ti/p/@698lfvde",
+    "phone": "03-938-6670",
+    "address": "宜蘭市慈安路50號"
+  },
+  {
+    "id": "yln-scout-lead-13",
+    "slug": "御村牛肉麵",
+    "name": "御村牛肉麵",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "牛肉麵／便當",
+    "cuisineTags": [
+      "牛肉麵",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–21:00（週四公休；懶人包）",
+    "evidence": "防疫懶人包明示：**「滿400元宜蘭市區可外送」**／標題複述同句",
+    "source": "kiwi326.pixnet 2021-06",
+    "phone": "03-933-0535",
+    "address": "宜蘭市和睦路1-22號"
+  },
+  {
+    "id": "yln-scout-lead-14",
+    "slug": "歐林鐵板燒",
+    "name": "歐林鐵板燒",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "鐵板燒",
+    "cuisineTags": [
+      "鐵板燒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–21:00（週二三公休；懶人包）",
+    "evidence": "羅東外帶外送懶人包明示：**「外送：羅東鎮400元以上可外送」**",
+    "source": "kafu.tw/luodong-takeout",
+    "phone": "03-954-2690",
+    "address": "宜蘭縣羅東鎮興東路280號"
+  },
+  {
+    "id": "yln-scout-lead-15",
+    "slug": "芳香aromatic",
+    "name": "芳香 aromatic（羅東愛國店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "簡餐／義式",
+    "cuisineTags": [
+      "簡餐",
+      "義式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:30、16:00–20:00（週休日；懶人包）",
+    "evidence": "懶人包明示：**「羅東鎮內滿200元以上即可外送」**（同頁亦列 FP/UE—discovery only）",
+    "source": "kafu.tw/luodong-takeout",
+    "phone": "03-957-2123",
+    "address": "宜蘭縣羅東鎮愛國路252號"
+  },
+  {
+    "id": "yln-scout-lead-16",
+    "slug": "大王冰鋪",
+    "name": "大王冰鋪（羅東夜市總店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "手搖／冰沙",
+    "cuisineTags": [
+      "手搖",
+      "冰沙"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "懶人包明示：**「羅東地區滿200元可以外送，宜蘭其他地區（工業園區）滿1000元可以外送，偏遠地區除外」**",
+    "source": "kafu.tw/luodong-takeout",
+    "phone": "0985-908-181",
+    "address": "宜蘭縣羅東鎮民權路1103號"
+  },
+  {
+    "id": "yln-scout-lead-17",
+    "slug": "好吃．一直吃",
+    "name": "好吃．一直吃",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "小吃／米粉羹／抓餅",
+    "cuisineTags": [
+      "小吃",
+      "米粉羹",
+      "抓餅"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–22:00（無公休；懶人包—以現場為準）",
+    "evidence": "懶人包明示：**「宜蘭市滿300元即可外送」**",
+    "source": "kafu.tw/yilancity-takeout",
+    "phone": "0932-396-403",
+    "address": "宜蘭市神農路1段27號"
+  },
+  {
+    "id": "yln-scout-lead-18",
+    "slug": "碳休今呷",
+    "name": "碳休今呷",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "串燒／居酒屋便當",
+    "cuisineTags": [
+      "串燒",
+      "居酒屋便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 18:00–01:00（懶人包—以現場為準）",
+    "evidence": "懶人包明示：**「滿300外送宜蘭市」**",
+    "source": "kafu.tw/yilancity-takeout",
+    "phone": "0970-537-532",
+    "address": "宜蘭市復興路二段190號"
+  },
+  {
+    "id": "yln-scout-lead-19",
+    "slug": "綠海咖啡",
+    "name": "綠海咖啡",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "咖啡／簡餐",
+    "cuisineTags": [
+      "咖啡",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:00、17:00–20:30（懶人包）",
+    "evidence": "懶人包明示自送門檻：**「滿額600元外送」**（同頁亦列 Foodpanda—discovery only；**orderUrl 不用平台**）",
+    "source": "kafu.tw/yilancity-takeout",
+    "phone": "03-936-7868",
+    "address": "宜蘭市女中路三段293號"
+  },
+  {
+    "id": "yln-scout-lead-20",
+    "slug": "麟手創料理",
+    "name": "麟手創料理（＋Linktofu cuisine）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "國宴主廚便當／簡餐",
+    "cuisineTags": [
+      "國宴主廚便當",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–20:00（週二公休；懶人包—以現場為準）",
+    "evidence": "專頁明示：**「宜蘭市以內滿10個便當可外送」**",
+    "source": "kafu.tw/link2009taiwan-takeout",
+    "phone": "03-936-8658",
+    "address": "宜蘭縣宜蘭市泰山路58-2號"
+  },
+  {
+    "id": "yln-scout-lead-21",
+    "slug": "環東小棧",
+    "name": "環東小棧",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "中式合菜／精緻便當",
+    "cuisineTags": [
+      "中式合菜",
+      "精緻便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–22:00（近期店卡／食記—以現場為準）",
+    "evidence": "防疫懶人包明示：**「便當五個以上外送免加費用」**",
+    "source": "kiwi326.pixnet 2021-06 ；buzzdaily 店卡",
+    "phone": "03-938-9309",
+    "address": "宜蘭縣宜蘭市環市東路二段593號"
+  },
+  {
+    "id": "yln-scout-lead-22",
+    "slug": "Pocafes波咖啡",
+    "name": "Pocafes 波咖啡",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "咖啡／早午餐／義式",
+    "cuisineTags": [
+      "咖啡",
+      "早午餐",
+      "義式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–18:00／20:00（各源不一—以現場為準）",
+    "evidence": "懶人包明示：**「滿額500元，視地區可外送。羅東博愛、聖母醫院人員不限金額可外送」**（同頁亦列 UE—discovery only）",
+    "source": "kafu.tw/luodong-takeout",
+    "phone": "03-955-0105",
+    "address": "宜蘭縣羅東鎮純精路一段192號"
+  },
+  {
+    "id": "yln-scout-lead-23",
+    "slug": "鬥炙原味炙燒牛排",
+    "name": "鬥炙原味炙燒牛排（羅東中山店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "牛排／排餐",
+    "cuisineTags": [
+      "牛排",
+      "排餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 399,
+    "deliveryMinLabel": "滿 $399",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:00（以現場為準）",
+    "evidence": "懶人包明示：**「消費滿$399免費外送，活動至5/31（限羅東/宜蘭店）」**；並寫請多用 Line 點餐",
+    "source": "kafu.tw/luodong-takeout",
+    "phone": "03-950-3193",
+    "address": "宜蘭縣羅東鎮中山路二段337號"
+  },
+  {
+    "id": "yln-scout-lead-24",
+    "slug": "鶴茶樓",
+    "name": "鶴茶樓（羅東成功街）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 900,
+    "deliveryMinLabel": "滿 $900",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00 開始（頁面）",
+    "evidence": "dinbendon 簡介／meta 明示：**「滿$900元外送」**",
+    "source": "dinbendon idine HTML／search hit",
+    "orderUrl": "https://www.dinbendon.net/do/shop/448225",
+    "phone": "03-961-0013",
+    "address": "宜蘭縣羅東鎮成功街150巷2號"
+  },
+  {
+    "id": "yln-scout-lead-25",
+    "slug": "陳記當歸湯",
+    "name": "陳記當歸湯（羅東中正南路店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（週一公休；fullfen）",
+    "evidence": "fullfen 明示：**「滿150可送宜蘭市區」**／標頭 **「外送服務 ：滿150可送宜蘭市區」**",
+    "source": "fullfenblog.tw/yilan-delivery",
+    "phone": "03-957-5600",
+    "address": "宜蘭縣羅東鎮中正南路33號"
+  },
+  {
+    "id": "yln-scout-lead-26",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭站前店）",
+    "city": "宜蘭縣",
+    "district": "羅東鎮",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（頁面「目前不在營業時間內」時可見—以現場為準）",
+    "evidence": "Ocard Notices 明示：**「如有大量（30份以上）外送需求，煩請電話連繫店家訂購！」**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/mGYoxw",
+    "phone": "03-957-6637",
+    "address": "宜蘭縣羅東鎮公正路47號"
+  },
+  {
+    "id": "yln-scout-lead-28",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭宜興店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/mXWXjQ",
+    "phone": "03-931-3787",
+    "address": "宜蘭縣宜蘭市宜興路一段71號"
+  },
+  {
+    "id": "yln-scout-lead-30",
+    "slug": "家合美味便當",
+    "name": "家合美味便當",
+    "city": "宜蘭縣",
+    "district": "員山鄉",
+    "cuisine": "便當／自助餐式配菜",
+    "cuisineTags": [
+      "便當",
+      "自助餐式配菜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "官網（weebly）明示：**「我們有外送工地、公司、一般住家 皆有外送！歡迎長期配合！」**＋外送訂購專線（**無公開滿額／滿份數字**—merchant courier 證據）",
+    "source": "weebly 官網",
+    "orderUrl": "https://039232855.weebly.com/",
+    "phone": "0963-916-799",
+    "address": "宜蘭縣員山鄉員山路一段90號"
+  },
+  {
+    "id": "yln-scout-lead-31",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭頭城店）",
+    "city": "宜蘭縣",
+    "district": "頭城鎮",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（頁面「目前不在營業時間內」時可見—以現場為準）",
+    "evidence": "Ocard Notices 明示：**「如有大量（30份以上）外送需求，煩請電話連繫店家訂購！」**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/w6JqDw",
+    "phone": "03-977-5645",
+    "address": "宜蘭縣頭城鎮城東里青雲路三段252號"
+  },
+  {
+    "id": "yln-scout-lead-32",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭蘇澳店）",
+    "city": "宜蘭縣",
+    "district": "蘇澳鎮",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/KV9Lom",
+    "phone": "03-997-3977",
+    "address": "宜蘭縣蘇澳鎮蘇北里中山路一段107號"
+  },
+  {
+    "id": "yln-scout-lead-34",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭冬山店）",
+    "city": "宜蘭縣",
+    "district": "冬山鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/mN9k5Q",
+    "phone": "03-959-5859",
+    "address": "宜蘭縣冬山鄉香和村冬山路一段866號"
+  },
+  {
+    "id": "yln-scout-lead-35",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭五結店）",
+    "city": "宜蘭縣",
+    "district": "五結鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/KDX7GK",
+    "phone": "03-950-3612",
+    "address": "宜蘭縣五結鄉五結村五結路二段360-6號"
+  },
+  {
+    "id": "yln-scout-lead-36",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭員山店）",
+    "city": "宜蘭縣",
+    "district": "員山鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/wvgbWQ",
+    "phone": "03-923-0732",
+    "address": "宜蘭縣員山鄉員山村員山路一段192號"
+  },
+  {
+    "id": "yln-scout-lead-37",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭礁溪店）",
+    "city": "宜蘭縣",
+    "district": "礁溪鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/w1xD5K",
+    "phone": "03-988-8589",
+    "address": "鄉德陽村湯圍礁溪路五段5巷1號"
+  },
+  {
+    "id": "yln-scout-lead-38",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭壯圍店）",
+    "city": "宜蘭縣",
+    "district": "壯圍鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/QpOZ3w",
+    "phone": "03-938-8877",
+    "address": "宜蘭縣壯圍鄉吉祥村壯五路305號"
+  },
+  {
+    "id": "yln-scout-lead-39",
+    "slug": "悟饕池上飯包",
+    "name": "悟饕池上飯包（宜蘭三星店）",
+    "city": "宜蘭縣",
+    "district": "三星鄉",
+    "cuisine": "池上飯包／便當",
+    "cuisineTags": [
+      "池上飯包",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "同 Ocard Notices：**「30份以上」外送請電話連繫**",
+    "source": "Ocard Chrome dump 2026-09-22",
+    "orderUrl": "https://order.ocard.co/toymodel/wY09LK",
+    "phone": "03-989-5795",
+    "address": "宜蘭縣三星鄉月眉村三星路四段438號"
+  },
+  {
+    "id": "yln-scout-lead-40",
+    "slug": "晉品麵飧館",
+    "name": "晉品麵飧館",
+    "city": "宜蘭縣",
+    "district": "冬山鄉",
+    "cuisine": "麵食／餃類／炒飯",
+    "cuisineTags": [
+      "麵食",
+      "餃類",
+      "炒飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:00（黃頁—以現場為準）",
+    "evidence": "中華黃頁店卡營業項目明示：**「滿300元可外送(限冬山鄉地區)」**",
+    "source": "iyp.com.tw/039595017",
+    "phone": "03-959-5017",
+    "address": "宜蘭縣冬山鄉冬山村冬山路283號"
+  },
+  {
+    "id": "yln-scout-lead-41",
+    "slug": "2派克脆皮雞排",
+    "name": "2派克脆皮雞排（宜蘭頭城店）",
+    "city": "宜蘭縣",
+    "district": "頭城鎮",
+    "cuisine": "雞排／炸物",
+    "cuisineTags": [
+      "雞排",
+      "炸物"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:00–23:00（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「頭城市區滿300可外送」**",
+    "source": "wanja.com.tw/minitw.php?no=2164",
+    "phone": "0978-467-167",
+    "address": "宜蘭縣頭城鎮沙成路77號"
+  },
+  {
+    "id": "yln-scout-lead-42",
+    "slug": "竹園鴨莊",
+    "name": "竹園鴨莊（冬山店）",
+    "city": "宜蘭縣",
+    "district": "冬山鄉",
+    "cuisine": "鴨肉／燒臘便當",
+    "cuisineTags": [
+      "鴨肉",
+      "燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "evidence": "FB／愛呷宜花東轉載店家貼文明示：**「3個以上（含）可外送」**（並寫量大可簽單、月結）",
+    "source": "taiwaneast.com 竹園鴨莊冬山 ；FB 竹園鴨莊冬山店",
+    "phone": "03-959-5718",
+    "address": "宜蘭縣冬山鄉冬山路一段982-1號"
+  },
+  {
+    "id": "yln-scout-lead-43",
+    "slug": "幸福鐵板便當",
+    "name": "幸福鐵板便當",
+    "city": "宜蘭縣",
+    "district": "員山鄉",
+    "cuisine": "鐵板便當",
+    "cuisineTags": [
+      "鐵板便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、17:00–19:00（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「滿三百元可外送」**",
+    "source": "wanja.com.tw/minitw.php?no=2002",
+    "phone": "03-922-7398",
+    "address": "宜蘭縣員山鄉員山路一段279號"
+  },
+  {
+    "id": "yln-scout-lead-44",
+    "slug": "美美冷熱飲專賣",
+    "name": "美美冷熱飲專賣",
+    "city": "宜蘭縣",
+    "district": "員山鄉",
+    "cuisine": "手搖／冰沙",
+    "cuisineTags": [
+      "手搖",
+      "冰沙"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 07:00–23:00（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「300元以上可外送(限員山市區)」**",
+    "source": "yilan.wanja.com.tw/minitw.php?no=2316",
+    "phone": "03-922-9051",
+    "address": "宜蘭縣員山鄉員山路一段281號對面攤位11號"
+  },
+  {
+    "id": "yln-scout-lead-45",
+    "slug": "阿丹芋頭牛奶冰",
+    "name": "阿丹芋頭牛奶冰",
+    "city": "宜蘭縣",
+    "district": "頭城鎮",
+    "cuisine": "冰沙／複合餐飲",
+    "cuisineTags": [
+      "冰沙",
+      "複合餐飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 07:00–22:30、無固定公休（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「市區5分鐘內滿200元可外送」**",
+    "source": "yilan.wanja.com.tw/minitw.php?no=2543",
+    "phone": "03-977-7491",
+    "address": "宜蘭縣頭城鎮纘祥路14-1號"
+  },
+  {
+    "id": "yln-scout-lead-46",
+    "slug": "哇茶！",
+    "name": "哇茶！（頭城店）",
+    "city": "宜蘭縣",
+    "district": "頭城鎮",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–21:00、星期三公休（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「滿100元可外送(限頭城市區)」**",
+    "source": "yilan.wanja.com.tw/minitw.php?no=2157",
+    "phone": "03-977-2586",
+    "address": "宜蘭縣頭城鎮沙成路73-1號"
+  },
+  {
+    "id": "yln-scout-lead-47",
+    "slug": "日出茶太",
+    "name": "日出茶太（宜蘭五結店）",
+    "city": "宜蘭縣",
+    "district": "五結鄉",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–22:00、每月最後一個星期日公休（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「市區5分鐘內滿100元可外送」**",
+    "source": "yilan.wanja.com.tw/minitw.php?no=2480",
+    "phone": "03-960-0263",
+    "address": "宜蘭縣五結鄉五結路二段508號"
+  },
+  {
+    "id": "yln-scout-lead-48",
+    "slug": "波霸櫻桃鴨燒臘便當",
+    "name": "波霸櫻桃鴨燒臘便當（宜蘭泰山店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "燒臘／鴨肉便當",
+    "cuisineTags": [
+      "燒臘",
+      "鴨肉便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:20–13:30（補給站；他源亦列晚間—以現場為準）",
+    "evidence": "蘭陽陸行鳥補給站店卡明示：**「７顆以上即可外送」**",
+    "source": "yilanpanda.webnode.tw 波霸櫻桃鴨燒臘便當",
+    "phone": "03-933-0579",
+    "address": "宜蘭縣宜蘭市泰山路162號"
+  },
+  {
+    "id": "yln-scout-lead-49",
+    "slug": "鳳記燒臘便當",
+    "name": "鳳記燒臘便當",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "燒臘便當",
+    "cuisineTags": [
+      "燒臘便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–14:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿500以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 鳳記燒臘便當",
+    "phone": "03-937-3132",
+    "address": "宜蘭縣宜蘭市東港路二段65號"
+  },
+  {
+    "id": "yln-scout-lead-50",
+    "slug": "日食麵店",
+    "name": "日食麵店",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "麵食／早餐麵",
+    "cuisineTags": [
+      "麵食",
+      "早餐麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 05:30–13:30（補給站—以現場為準）",
+    "evidence": "補給站明示：**「3公里內滿150以上即可外送」**＋**「外送需加 NT. $30」**；並寫 07:00前外送請前一晚 LINE",
+    "source": "yilanpanda.webnode.tw 日食麵店",
+    "phone": "0976-228-165",
+    "address": "宜蘭縣宜蘭市延平路30號"
+  },
+  {
+    "id": "yln-scout-lead-51",
+    "slug": "老魏牛肉捏麵",
+    "name": "老魏牛肉捏麵",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "牛肉麵／捏麵",
+    "cuisineTags": [
+      "牛肉麵",
+      "捏麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:30–20:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿400以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 老魏牛肉捏麵",
+    "phone": "03-931-4141",
+    "address": "宜蘭縣宜蘭市中山路三段215號"
+  },
+  {
+    "id": "yln-scout-lead-52",
+    "slug": "香鄉甕窯滷肉飯",
+    "name": "香鄉甕窯滷肉飯",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "滷肉飯／便當",
+    "cuisineTags": [
+      "滷肉飯",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–21:30（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿300以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 香鄉甕窯滷肉飯",
+    "phone": "03-931-3331",
+    "address": "宜蘭縣宜蘭市中山路二段15號"
+  },
+  {
+    "id": "yln-scout-lead-53",
+    "slug": "粥粥頌廣東粥專賣店",
+    "name": "粥粥頌廣東粥專賣店（神農店）",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "廣東粥",
+    "cuisineTags": [
+      "廣東粥"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–23:00；外送下單約 10:30–19:30（補給站—以現場為準）",
+    "evidence": "補給站明示：**「４碗以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 粥粥頌神農店",
+    "phone": "03-933-0090",
+    "address": "宜蘭縣宜蘭市神農路一段166號"
+  },
+  {
+    "id": "yln-scout-lead-54",
+    "slug": "好吃嘴川味小吃",
+    "name": "好吃嘴川味小吃",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "川味小吃／麵飯",
+    "cuisineTags": [
+      "川味小吃",
+      "麵飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「宜蘭市區300$，超出市區500$ 以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 好吃嘴川味小吃",
+    "phone": "03-936-6625",
+    "address": "宜蘭縣宜蘭市城隍街43號"
+  },
+  {
+    "id": "yln-scout-lead-55",
+    "slug": "阿華當歸鴨",
+    "name": "阿華當歸鴨",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "當歸鴨／鴨肉飯",
+    "cuisineTags": [
+      "當歸鴨",
+      "鴨肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 350,
+    "deliveryMinLabel": "滿 $350",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日約 10:30–14:00／16:30–19:30、假日 11:00–20:00、週一公休（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿$350可外送」**＋**「外送需加 NT. $30」**＋**「離店3公里內才可外送」**",
+    "source": "yilanpanda.webnode.tw 阿華當歸鴨",
+    "phone": "03-933-0138",
+    "address": "宜蘭縣宜蘭市健康路二段139號"
+  },
+  {
+    "id": "yln-scout-lead-56",
+    "slug": "林聚裡臭臭鍋",
+    "name": "林聚裡臭臭鍋",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "臭臭鍋／火鍋",
+    "cuisineTags": [
+      "臭臭鍋",
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–14:00、16:30–21:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「消費四鍋或滿400元以上即可外送」**／**「消費七鍋或滿700元以上免運費（限三公里內，如超過三公里以上請來電詢問）」**＋頁面亦列外送加價句",
+    "source": "yilanpanda.webnode.tw 林聚裡臭臭鍋",
+    "phone": "03-932-1252",
+    "address": "宜蘭縣宜蘭市復興路二段64號"
+  },
+  {
+    "id": "yln-scout-lead-57",
+    "slug": "麻將麻辣臭豆腐",
+    "name": "麻將麻辣臭豆腐",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "臭豆腐／麻辣小吃",
+    "cuisineTags": [
+      "臭豆腐",
+      "麻辣小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 350,
+    "deliveryMinLabel": "滿 $350",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 16:00–23:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿$350可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 麻將麻辣臭豆腐",
+    "phone": "0981-648-647",
+    "address": "宜蘭縣宜蘭市神農路一段27號"
+  },
+  {
+    "id": "yln-scout-lead-58",
+    "slug": "日飲飲料店",
+    "name": "日飲 飲料店",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–20:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿 300 以上即可外送」**",
+    "source": "yilanpanda.webnode.tw 日飲飲料店",
+    "phone": "03-935-5911",
+    "address": "宜蘭縣宜蘭市女中路二段532號"
+  },
+  {
+    "id": "yln-scout-lead-59",
+    "slug": "樂食鍋",
+    "name": "樂食鍋",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "火鍋／小火鍋",
+    "cuisineTags": [
+      "火鍋",
+      "小火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:00–00:00；外送下單約 17:30–23:00（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿165以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 樂食鍋",
+    "phone": "03-933-0192",
+    "address": "宜蘭縣宜蘭市同興街10號"
+  },
+  {
+    "id": "yln-scout-lead-60",
+    "slug": "哇茶！",
+    "name": "哇茶！（壯圍店）",
+    "city": "宜蘭縣",
+    "district": "壯圍鄉",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–20:00、星期日公休（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「壯圍市區滿百即可外送」**（同句亦列訂購滿500元一律9.5折）",
+    "source": "wanja.com.tw/minitw.php?no=2188",
+    "phone": "03-937-0522",
+    "address": "宜蘭縣壯圍鄉壯五路154號"
+  },
+  {
+    "id": "yln-scout-lead-61",
+    "slug": "巧味香香雞排",
+    "name": "巧味香香雞排（蘇澳店）",
+    "city": "宜蘭縣",
+    "district": "蘇澳鎮",
+    "cuisine": "雞排／炸物",
+    "cuisineTags": [
+      "雞排",
+      "炸物"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 15:00–23:00、無固定公休（萬家—以現場為準）",
+    "evidence": "萬家微網站明示：**「滿300元可外送(限蘇澳市區)」**",
+    "source": "yilan.wanja.com.tw/minitw.php?no=2408",
+    "phone": "03-997-1371",
+    "address": "宜蘭縣蘇澳鎮中山路一段153號"
+  },
+  {
+    "id": "yln-scout-lead-62",
+    "slug": "頑茶WANTTEA",
+    "name": "頑茶 WANT TEA",
+    "city": "宜蘭縣",
+    "district": "冬山鄉",
+    "cuisine": "手搖／茶飲",
+    "cuisineTags": [
+      "手搖",
+      "茶飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 09:00–11:30（黃頁服務時間／工業區導向—以現場為準）",
+    "evidence": "中華黃頁營業項目明示：**「消費滿150元即可外送」**／另列滿300↑9折、工業區特約不限金額（特約另議）",
+    "source": "iyp.com.tw/039591770",
+    "phone": "03-959-1770",
+    "address": "宜蘭縣冬山鄉冬山路一段864號"
+  },
+  {
+    "id": "yln-scout-lead-63",
+    "slug": "木子罐罐米線",
+    "name": "木子罐罐米線",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "米線／麵食",
+    "cuisineTags": [
+      "米線",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:30–14:30、16:30–20:30、星期二公休（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿 300以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 木子罐罐米線",
+    "phone": "03-936-9906",
+    "address": "宜蘭縣宜蘭市神農路一段126號"
+  },
+  {
+    "id": "yln-scout-lead-64",
+    "slug": "店長鴨血",
+    "name": "店長鴨血",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "鴨血／小吃",
+    "cuisineTags": [
+      "鴨血",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "公休日每週日（補給站；營業時段頁面殘缺—以現場為準）",
+    "evidence": "補給站明示：**「滿500以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 店長鴨血",
+    "phone": "03-931-1439",
+    "address": "宜蘭縣宜蘭市民族路406號"
+  },
+  {
+    "id": "yln-scout-lead-65",
+    "slug": "輕熟女極品鹽水雞",
+    "name": "輕熟女極品鹽水雞",
+    "city": "宜蘭縣",
+    "district": "宜蘭市",
+    "cuisine": "鹽水雞／滷味",
+    "cuisineTags": [
+      "鹽水雞",
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-22",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:00–23:00、每週日公休（補給站—以現場為準）",
+    "evidence": "補給站明示：**「滿 300 以上即可外送」**＋**「外送需加 NT. $30」**",
+    "source": "yilanpanda.webnode.tw 輕熟女極品鹽水雞",
+    "phone": "0913-126-587",
+    "address": "宜蘭縣宜蘭市神農路一段27號-1"
+  },
+  {
+    "id": "pt-scout-lead-1",
+    "slug": "嫩嫩燒肉飯",
+    "name": "嫩嫩燒肉飯（屏東華盛店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "便當／燒肉飯",
+    "cuisineTags": [
+      "便當",
+      "燒肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 10:30-13:30、16:30-19:30；週六僅午；週日公休（食記—以現場為準）",
+    "evidence": "食記明示：**「店址附近消費滿３００元就能免費外送」**；並寫每日外送限量、請提早去電",
+    "source": "bearlovefood.com/blog/post/nen2roastporkhuasheng",
+    "orderUrl": "https://line.me/R/ti/p/@801tyqqz",
+    "lineUrl": "https://line.me/R/ti/p/@801tyqqz",
+    "phone": "08-7518880",
+    "address": "屏東市華盛街3之1號"
+  },
+  {
+    "id": "pt-scout-lead-2",
+    "slug": "完食米飯鍋燒",
+    "name": "完食米飯鍋燒",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "鍋燒麵／打拋豬飯／小吃",
+    "cuisineTags": [
+      "鍋燒麵",
+      "打拋豬飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "外帶約 09:30-12:30、18:00-22:30（週三、四公休；食記—以現場為準）",
+    "evidence": "食記明示：**「屏東（市區）消費滿５００元可免費外送」**",
+    "source": "bearlovefood.com/blog/post/pingtung-take-away",
+    "phone": "0976-932-813",
+    "address": "屏東市建華一街155號"
+  },
+  {
+    "id": "pt-scout-lead-3",
+    "slug": "鶉居鷇食chunjukoushi",
+    "name": "鶉居鷇食 chunjukoushi",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "中式定食／家常",
+    "cuisineTags": [
+      "中式定食",
+      "家常"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "官網運費表明示分區免運門檻：**「2 公里內／免運門檻滿 NT$1,197／未達標運費 NT$50」**；**「3 公里內／滿 NT$1,800／未達標 NT$75」**；**「5 公里內／滿 NT$2,001／未達標 NT$100」**；並寫 **「超過 5 公里請來電洽詢」**",
+    "source": "chunjukoushi.kanorio.com",
+    "orderUrl": "https://chunjukoushi.kanorio.com/",
+    "phone": "0958-389-080",
+    "address": "屏東市公勤二街105號"
+  },
+  {
+    "id": "pt-scout-lead-4",
+    "slug": "御食堂",
+    "name": "御食堂",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "丼飯／咖哩／飯食",
+    "cuisineTags": [
+      "丼飯",
+      "咖哩",
+      "飯食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、17:00-20:30（星期三公休；表—以現場為準）",
+    "evidence": "屏東美食不藏私防疫表店卡明示：**「有無外送(基本外送金額限制):有(滿300)」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2 ；groups_900_list",
+    "phone": "08-7213508",
+    "address": "屏東市林森路21-7號"
+  },
+  {
+    "id": "pt-scout-lead-5",
+    "slug": "阿群麵館",
+    "name": "阿群麵館",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "麵食",
+    "cuisineTags": [
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、17:00-20:00（星期五公休；表—以現場為準）",
+    "evidence": "店卡明示：**「中午11:30前市區滿300以上可外送（看地方）」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0914-255-511",
+    "address": "屏東市廣東路29號"
+  },
+  {
+    "id": "pt-scout-lead-6",
+    "slug": "鋤肪健康低卡餐盒",
+    "name": "鋤肪健康低卡餐盒",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、16:30-19:30（星期六晚上／星期日整天休；表—以現場為準）",
+    "evidence": "店卡明示：**「屏東市區內3公里滿3個餐盒」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7366550",
+    "address": "屏東市中正路476號"
+  },
+  {
+    "id": "pt-scout-lead-7",
+    "slug": "飛夢林青年咖啡館",
+    "name": "飛夢林青年咖啡館",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "便當／咖啡簡餐",
+    "cuisineTags": [
+      "便當",
+      "咖啡簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-21:00（表—以現場為準）",
+    "evidence": "店卡明示：**「便當滿三份就外送(便當有附一杯紅茶)、飲料滿200$」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7380518",
+    "address": "屏東市中華路80-2號"
+  },
+  {
+    "id": "pt-scout-lead-8",
+    "slug": "慈好素食",
+    "name": "慈好素食（餐點、滷味）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "素食／滷味",
+    "cuisineTags": [
+      "素食",
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30-13:30、16:30-21:30（表寫 16:30-09:30 疑誤；初二／十六／星期日休—以現場為準）",
+    "evidence": "店卡明示：**「滿300元鶴聲國中附近區域可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7515476",
+    "address": "屏東市大武路286-1號"
+  },
+  {
+    "id": "pt-scout-lead-9",
+    "slug": "米可咖哩",
+    "name": "米可咖哩",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "咖哩／飯",
+    "cuisineTags": [
+      "咖哩",
+      "飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、17:30-21:00（表—以現場為準）",
+    "evidence": "店卡明示：**「外送範圍: 1公里內ㄧ份都可送、1公里外滿$150都可送」**；並附預訂便當欄位含「自取or外送」",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7660080",
+    "address": "屏東市民族路126號"
+  },
+  {
+    "id": "pt-scout-lead-10",
+    "slug": "鬍子先生手做咖哩專賣店",
+    "name": "鬍子先生手做咖哩專賣店",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "咖哩",
+    "cuisineTags": [
+      "咖哩"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:40-14:00、17:30-21:00（星期三公休；表—以現場為準）",
+    "evidence": "店卡明示：**「非屏東市會酌收運費 滿千免運」**（暗示本市自送＋跨市滿千免運）",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7327390",
+    "address": "屏東市北平路28號"
+  },
+  {
+    "id": "pt-scout-lead-11",
+    "slug": "韓咪達韓式料理",
+    "name": "韓咪達韓式料理",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "韓式",
+    "cuisineTags": [
+      "韓式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "一般 11:00-14:00、17:00-21:30（星期一公休；表—以現場為準）",
+    "evidence": "店卡明示：**「餐點滿500皆可外送3公里內、免外送費詳細範圍可來電詢問」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7666098",
+    "address": "屏東市自由路600號"
+  },
+  {
+    "id": "pt-scout-lead-12",
+    "slug": "為了吃飯",
+    "name": "為了吃飯",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "早午餐／餐盒",
+    "cuisineTags": [
+      "早午餐",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 7:00-17:00、假日 10:00-17:00（表—以現場為準）",
+    "evidence": "店卡明示：**「以google map距離決定份數，如果5分鐘內2份餐就提供外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0900-558-538",
+    "address": "屏東市光復路284號"
+  },
+  {
+    "id": "pt-scout-lead-13",
+    "slug": "老家餡餅",
+    "name": "老家餡餅（屏東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "餡餅／小吃",
+    "cuisineTags": [
+      "餡餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "14:30-19:30（星期日公休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿10個即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0963-333-345",
+    "address": "屏東市民族路66號"
+  },
+  {
+    "id": "pt-scout-lead-14",
+    "slug": "和樂餐廳",
+    "name": "和樂餐廳",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "小吃／合菜",
+    "cuisineTags": [
+      "小吃",
+      "合菜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 9:00-21:00（表—以現場為準）",
+    "evidence": "店卡明示：**「小吃路程15分鐘內外送免運」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7383089",
+    "address": "屏東市莊敬街二段110號"
+  },
+  {
+    "id": "pt-scout-lead-15",
+    "slug": "烈火青春外送餐館",
+    "name": "烈火青春外送餐館",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "複合餐／便當簡餐",
+    "cuisineTags": [
+      "複合餐",
+      "便當簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "疫情期間曾列 11:00-16:00（星期日公休）— **現行工時請確認**",
+    "evidence": "店卡明示：**「屏東市區滿300元可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0989-684-181",
+    "address": "屏東市自由路448號2"
+  },
+  {
+    "id": "pt-scout-lead-16",
+    "slug": "21金火鍋",
+    "name": "21金火鍋（屏東廣東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "火鍋",
+    "cuisineTags": [
+      "火鍋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 11:00-14:00、17:00-22:00；周末 11:00-22:00（表—以現場為準）",
+    "evidence": "店卡明示：**「滿500即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7365678",
+    "address": "屏東市廣東路425-1號"
+  },
+  {
+    "id": "pt-scout-lead-17",
+    "slug": "麥光光早餐坊",
+    "name": "麥光光早餐坊",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "早餐",
+    "cuisineTags": [
+      "早餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 80,
+    "deliveryMinLabel": "滿 $80",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 6:00-12:30（表—以現場為準）",
+    "evidence": "店卡明示：**「屏東市區，滿80元即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7375638",
+    "address": "屏東市仁愛路108號"
+  },
+  {
+    "id": "pt-scout-lead-18",
+    "slug": "香潭便當",
+    "name": "香潭便當",
+    "city": "屏東縣",
+    "district": "長治鄉",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00-13:30（表—以現場為準）",
+    "evidence": "店卡明示：**「滿五盒以上提供外送（偏遠地區除外）」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0933-181-060",
+    "address": "屏東縣長治鄉香揚村香潭路113號"
+  },
+  {
+    "id": "pt-scout-lead-19",
+    "slug": "武士咖哩",
+    "name": "武士咖哩",
+    "city": "屏東縣",
+    "district": "長治鄉",
+    "cuisine": "咖哩",
+    "cuisineTags": [
+      "咖哩"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30-14:00、17:00-20:30（週一公休；表—以現場為準）",
+    "evidence": "店卡明示：**「市區300可送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0972-782-717",
+    "address": "屏東縣長治鄉瑞源路32號"
+  },
+  {
+    "id": "pt-scout-lead-20",
+    "slug": "韓味e辣",
+    "name": "韓味e辣",
+    "city": "屏東縣",
+    "district": "萬丹鄉",
+    "cuisine": "韓式",
+    "cuisineTags": [
+      "韓式"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30-14:00、17:30-21:00（星期三公休；表—以現場為準）",
+    "evidence": "店卡明示：**「10分鐘以內車程，滿$500即可外送。超過10分鐘的車程，需滿$1000才有外送服務。」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7760551",
+    "address": "屏東縣萬丹鄉萬丹路一段189號"
+  },
+  {
+    "id": "pt-scout-lead-21",
+    "slug": "龍炭烤",
+    "name": "龍炭烤",
+    "city": "屏東縣",
+    "district": "枋寮鄉",
+    "cuisine": "炭烤／熱炒",
+    "cuisineTags": [
+      "炭烤",
+      "熱炒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "17:00-22:30（星期一公休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿300外送（無優惠），外送區域限枋寮村及北勢寮」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0938-581-202",
+    "address": "屏東縣枋寮鄉安樂村中山路187號"
+  },
+  {
+    "id": "pt-scout-lead-22",
+    "slug": "一品香鹹酥雞",
+    "name": "一品香鹹酥雞",
+    "city": "屏東縣",
+    "district": "里港鄉",
+    "cuisine": "鹹酥雞／炸物宵夜",
+    "cuisineTags": [
+      "鹹酥雞",
+      "炸物宵夜"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 16:00-23:30（表—以現場為準）",
+    "evidence": "店卡明示：**「周邊不限金額 較遠需600以上 請電冾」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0935-470-628",
+    "address": "屏東縣里港鄉八德路88號"
+  },
+  {
+    "id": "pt-scout-lead-23",
+    "slug": "大將日本料理",
+    "name": "大將日本料理",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "日式料理／定食",
+    "cuisineTags": [
+      "日式料理",
+      "定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "表 11:00-14:00、17:00-20:30（不定休；官網另列 11:20-14:00、17:30-21:00—以現場為準）",
+    "evidence": "店卡明示：**「屏東市內單點消費滿1000，即可外送到府」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2 ；dah-jiang.com.tw",
+    "orderUrl": "http://www.dah-jiang.com.tw/",
+    "phone": "08-7327537",
+    "address": "屏東市信義路143號"
+  },
+  {
+    "id": "pt-scout-lead-24",
+    "slug": "日安手作早午坊",
+    "name": "日安手作早午坊",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "早午餐／餐盒",
+    "cuisineTags": [
+      "早午餐",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 7:30-13:30、假日 8:00-14:00（星期二休；表—以現場為準）",
+    "evidence": "店卡明示：**「店址附近消費滿200元可外送（外送金額依外送地區調整，歡迎來電洽詢）」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0903-994-100",
+    "address": "屏東市信義路100-2號"
+  },
+  {
+    "id": "pt-scout-lead-25",
+    "slug": "9198JoyBar",
+    "name": "9198 Joy Bar",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "複合餐／簡餐",
+    "cuisineTags": [
+      "複合餐",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00-14:00、17:00-19:50（星期三休；表—以現場為準；現行工時請確認）",
+    "evidence": "店卡明示：**「滿300元可市區外送、若不滿三百元但需要協助外送，可私訊告知地址溝通」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0916-479-198",
+    "address": "屏東市民勇路四巷1號"
+  },
+  {
+    "id": "pt-scout-lead-26",
+    "slug": "敲咖啡Knockcoffee",
+    "name": "敲咖啡 Knock coffee（屏東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "咖啡／下午茶簡餐",
+    "cuisineTags": [
+      "咖啡",
+      "下午茶簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-19:00（日常星期二公休；表—以現場為準）",
+    "evidence": "店卡明示：**「平常滿$300即可外送 / 疫情活動 預訂下午茶套組即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-732-0800",
+    "address": "屏東市成功路131號之6"
+  },
+  {
+    "id": "pt-scout-lead-27",
+    "slug": "黑瀧堂",
+    "name": "黑瀧堂（廣東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "9:00-22:00（每月最後一週週日休；表—以現場為準）",
+    "evidence": "店卡「基本外送金額限制」欄空白；優惠句明示：**「滿300元外送享9折（不含外送平台）」**（暗示門市自送滿300可折扣）",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7360328",
+    "address": "屏東市廣東路566號"
+  },
+  {
+    "id": "pt-scout-lead-28",
+    "slug": "脆脆果果甘草芭樂",
+    "name": "脆脆果果甘草芭樂",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "水果小吃",
+    "cuisineTags": [
+      "水果小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "13:00-21:00（不定休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿300元市區免費外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0989-225-171",
+    "address": "屏東市林森路101號"
+  },
+  {
+    "id": "pt-scout-lead-29",
+    "slug": "日高甜之滋",
+    "name": "日高甜之滋",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "甜甜圈／甜點",
+    "cuisineTags": [
+      "甜甜圈",
+      "甜點"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-18:00（星期日、一休；表—以現場為準）",
+    "evidence": "店卡明示：**「購買350元以上即可外送（2公里內，大樓請下樓取餐，恕無法上樓）」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0919-584-006",
+    "address": "屏東市崇朝路183號"
+  },
+  {
+    "id": "pt-scout-lead-30",
+    "slug": "渴樂Bar",
+    "name": "渴樂Bar",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "16:00-24:00（不定休；表—以現場為準）",
+    "evidence": "店卡明示：**「屏東市區滿300即可外送，再享95折優惠」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0915-252-535",
+    "address": "屏東市華正路150號"
+  },
+  {
+    "id": "pt-scout-lead-31",
+    "slug": "回憶小時候古早味紅茶冰",
+    "name": "回憶小時候古早味紅茶冰（屏東勝利店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "紅茶冰／手搖",
+    "cuisineTags": [
+      "紅茶冰",
+      "手搖"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "9:00-18:00（不定休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿100元」**（外送）",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0906-892-279",
+    "address": "屏東市勝利路128-10"
+  },
+  {
+    "id": "pt-scout-lead-32",
+    "slug": "玥達人可麗餅",
+    "name": "玥達人可麗餅（屏東廣東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "可麗餅／甜點",
+    "cuisineTags": [
+      "可麗餅",
+      "甜點"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "15:00-22:00（不定休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿百即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0913-510-833",
+    "address": "屏東市廣東路411號"
+  },
+  {
+    "id": "pt-scout-lead-33",
+    "slug": "黑珍珠奶茶舖",
+    "name": "黑珍珠奶茶舖",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30-19:00（不定休；表—以現場為準）",
+    "evidence": "店卡明示：**「2杯以上外送（2公里內）」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0917-550-802",
+    "address": "屏東市瑞光路二段41號"
+  },
+  {
+    "id": "pt-scout-lead-34",
+    "slug": "迷客夏",
+    "name": "迷客夏（屏東大武店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "dinbendon **publicNotice 現行明示**：**「1公里內1杯就送／2公里內100元就送／3公里內150元就送」**（並寫門市外送、建議提早預訂）",
+    "source": "dinbendon.net shopId=585346",
+    "phone": "08-7512828",
+    "address": "屏東市大武路70號"
+  },
+  {
+    "id": "pt-scout-lead-35",
+    "slug": "郎來了咖啡工坊",
+    "name": "郎來了咖啡工坊",
+    "city": "屏東縣",
+    "district": "潮州鎮",
+    "cuisine": "咖啡",
+    "cuisineTags": [
+      "咖啡"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "9:00-18:30（星期一休；表—以現場為準）",
+    "evidence": "店卡明示：**「滿200元 潮州鎮即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7800178",
+    "address": "屏東縣潮州鎮北門路12號"
+  },
+  {
+    "id": "pt-scout-lead-36",
+    "slug": "小獅王咖啡",
+    "name": "小獅王咖啡",
+    "city": "屏東縣",
+    "district": "竹田鄉",
+    "cuisine": "咖啡／咖啡車",
+    "cuisineTags": [
+      "咖啡",
+      "咖啡車"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "預約制（表—以現場為準）",
+    "evidence": "店卡明示：**「連同咖啡豆、掛耳式濾泡包合計滿300元以上可提供小獅王咖啡車外送，目前先限屏東市區、麟洛、竹田、內埔、潮州、萬丹地區」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "0982-307-092",
+    "address": "屏東縣竹田鄉西勢村龍門路246之7號"
+  },
+  {
+    "id": "pt-scout-lead-37",
+    "slug": "柚子茶飲",
+    "name": "柚子茶飲",
+    "city": "屏東縣",
+    "district": "長治鄉",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "9:00-21:00（星期日 18:30 後休?—表寫「星期日6:30後休」疑誤；以現場為準）",
+    "evidence": "店卡明示：**「店家附近買100元即可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7239900",
+    "address": "長治鄉潭頭村潭頭路190-3號"
+  },
+  {
+    "id": "pt-scout-lead-38",
+    "slug": "九秘麻辣燙",
+    "name": "九秘麻辣燙（九如店）",
+    "city": "屏東縣",
+    "district": "九如鄉",
+    "cuisine": "麻辣燙／小吃",
+    "cuisineTags": [
+      "麻辣燙",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（粉專另寫週日、一公休—以現場為準）",
+    "evidence": "粉專／情報摘句明示：**「九如地區滿5碗可外送」**；並寫當日 9:30 後可預訂、大量請提前 2 日",
+    "source": "lovekhc.com 摘 FB；電話同列",
+    "phone": "08-7390258"
+  },
+  {
+    "id": "pt-scout-lead-39",
+    "slug": "玉米三巷冰淇淋工坊",
+    "name": "玉米三巷冰淇淋工坊",
+    "city": "屏東縣",
+    "district": "長治鄉",
+    "cuisine": "冰淇淋",
+    "cuisineTags": [
+      "冰淇淋"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 780,
+    "deliveryMinLabel": "滿 $780",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 12:00-18:00、假日 10:30-18:00（星期二三休；表—以現場為準）",
+    "evidence": "店卡明示：**「防疫期間屏東市和長治鄉滿780元可外送」**",
+    "source": "etaiwan.blog/groups_pingtung_list-2",
+    "phone": "08-7629132",
+    "address": "屏東縣長治鄉玉米三巷39號"
+  },
+  {
+    "id": "pt-scout-lead-40",
+    "slug": "福之饌自助餐1店",
+    "name": "福之饌自助餐1店",
+    "city": "屏東縣",
+    "district": "恆春鎮",
+    "cuisine": "便當／自助餐",
+    "cuisineTags": [
+      "便當",
+      "自助餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（食記—以現場／粉專為準）",
+    "evidence": "食記明示：**「恆春鎮外送不限數量，其他外地鄉鎮至少要5個便當才有送」**",
+    "source": "ihappyday.tw/blog/post/yamiyami2017",
+    "phone": "08-8899355",
+    "address": "屏東縣恆春鎮恆南路144號"
+  },
+  {
+    "id": "pt-scout-lead-41",
+    "slug": "樓梯louti",
+    "name": "樓梯 louti（東港店）",
+    "city": "屏東縣",
+    "district": "東港鎮",
+    "cuisine": "複合簡餐",
+    "cuisineTags": [
+      "複合簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1500,
+    "deliveryMinLabel": "滿 $1500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-20:00（表—以現場為準）",
+    "evidence": "小鎮資訊外送欄／標題明示：**「滿$1500元可外送」**（長期有效標）",
+    "source": "news.tw789.net/st-shopnews-77",
+    "phone": "08-8330379",
+    "address": "屏東縣東港鎮光復路一段379號"
+  },
+  {
+    "id": "pt-scout-lead-42",
+    "slug": "宋家涼麵",
+    "name": "宋家涼麵",
+    "city": "屏東縣",
+    "district": "潮州鎮",
+    "cuisine": "涼麵／麵食／小吃",
+    "cuisineTags": [
+      "涼麵",
+      "麵食",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30-20:00（星期五公休；表—以現場為準）",
+    "evidence": "小鎮資訊優惠文明示：**「潮州鎮內訂餐滿200元即可外送」**；並寫不了解外送區域歡迎來電詢問",
+    "source": "news.tw789.net/st-shopnews-46",
+    "phone": "08-7891020",
+    "address": "屏東縣潮州鎮太平路56號"
+  },
+  {
+    "id": "pt-scout-lead-44",
+    "slug": "王廚活力廚房",
+    "name": "王廚活力廚房（屏東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "健康便當",
+    "cuisineTags": [
+      "健康便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、17:00-20:00（表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「屏東市區3個便當即可外送」**",
+    "source": "news.tw789.net/st-shopnews-59",
+    "phone": "08-7330582",
+    "address": "屏東市民族路242號"
+  },
+  {
+    "id": "pt-scout-lead-45",
+    "slug": "林家繁華滷味",
+    "name": "林家繁華滷味（屏東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "滷味／小吃",
+    "cuisineTags": [
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 17:00-00:30（表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「屏東市區滿150可外送」**（外帶另「滿150送飲料」）",
+    "source": "news.tw789.net/st-shopnews-74",
+    "phone": "0903-060-364",
+    "address": "屏東市復興路13號"
+  },
+  {
+    "id": "pt-scout-lead-46",
+    "slug": "最餓感創意宵夜",
+    "name": "最餓感創意宵夜",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "宵夜／小吃",
+    "cuisineTags": [
+      "宵夜",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "18:00-01:00（表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「屏東市滿150即可外送到府」**",
+    "source": "news.tw789.net/st-shopnews-31",
+    "phone": "08-7368223",
+    "address": "屏東市自由路449號"
+  },
+  {
+    "id": "pt-scout-lead-47",
+    "slug": "鐵の將職人手作弁当",
+    "name": "鐵の將職人手作弁当",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:30、16:30-20:00（星期一公休；表—以現場為準）",
+    "evidence": "小鎮資訊店卡摘句明示：**「屏東市區⭐️200即可外送」**；並列外送專線",
+    "source": "news.tw789.net/st-shopnews-15",
+    "phone": "0980-383-204",
+    "address": "屏東市上海路78號"
+  },
+  {
+    "id": "pt-scout-lead-48",
+    "slug": "保師傅歐風餐館",
+    "name": "保師傅歐風餐館",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "歐風簡餐／餐館",
+    "cuisineTags": [
+      "歐風簡餐",
+      "餐館"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "表列工時片段 10:30-01:30、17:00-19:00（星期二休—以現場為準）",
+    "evidence": "小鎮資訊優惠文明示：**「外送600元市區」**／店介 **「外送600起市區」**",
+    "source": "news.tw789.net/st-shopnews-42",
+    "phone": "0927-252-816",
+    "address": "屏東市公義街17號"
+  },
+  {
+    "id": "pt-scout-lead-49",
+    "slug": "巴菲樂美食餐廳",
+    "name": "巴菲樂美食餐廳",
+    "city": "屏東縣",
+    "district": "長治鄉",
+    "cuisine": "定食／餐盒",
+    "cuisineTags": [
+      "定食",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:30-20:30（星期二公休；表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「『防疫定食餐盒』滿10個免費幫您送到家」**／**「防疫定食餐盒『滿10個』以上免運送費」**",
+    "source": "news.tw789.net/st-shopnews-21",
+    "phone": "08-7222798",
+    "address": "屏東縣長治鄉瑞光路一段337號"
+  },
+  {
+    "id": "pt-scout-lead-51",
+    "slug": "50Pizza",
+    "name": "50Pizza（屏東廣東店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "披薩／簡餐",
+    "cuisineTags": [
+      "披薩",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場為準）",
+    "evidence": "lovekhc meta／情報摘句明示：**「屏東市區消費滿300元“免運費外送”」**",
+    "source": "lovekhc.com/info/50披薩屏東；techscomet 店卡電話地址",
+    "phone": "08-7215656",
+    "address": "屏東市廣東路171號"
+  },
+  {
+    "id": "pt-scout-lead-52",
+    "slug": "屏東費奧納咖啡館",
+    "name": "屏東費奧納咖啡館",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "咖啡／簡餐",
+    "cuisineTags": [
+      "咖啡",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00-21:00（星期四公休；表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「2公里均可送，3公里滿600元即送」**（並有防疫餐可選）",
+    "source": "news.tw789.net/st-shopnews-52",
+    "phone": "08-7215520",
+    "address": "屏東市民學路15巷38號"
+  },
+  {
+    "id": "pt-scout-lead-53",
+    "slug": "萬波島嶼紅茶",
+    "name": "萬波島嶼紅茶（屏東林森店）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "手搖飲",
+    "cuisineTags": [
+      "手搖飲"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:00-22:00（表—以現場為準）",
+    "evidence": "小鎮資訊明示：**「消費滿100元，即可外送！距離1公里，消費需滿100元；距離2公里，消費需滿200元；以此類推…依當天人力可有彈性」**",
+    "source": "news.tw789.net/st-shopnews-56",
+    "phone": "08-7651234",
+    "address": "屏東市林森路110號"
+  },
+  {
+    "id": "pt-scout-lead-54",
+    "slug": "啊麵・屏東深夜麵館",
+    "name": "啊麵・屏東深夜麵館（@amian.noodle）",
+    "city": "屏東縣",
+    "district": "屏東市",
+    "cuisine": "麵食／深夜麵館",
+    "cuisineTags": [
+      "麵食",
+      "深夜麵館"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "20:00–04:00（Threads／簡介—以現場為準）",
+    "evidence": "Threads 店家原文明示：**「下雨天不想出門也沒關係／屏東市區滿5碗就可以外送／而且一樣享有 折50元優惠！！」**",
+    "source": "threads.net/@amian.noodle （post 摘句＋簡介電話地址）",
+    "phone": "0902-256-265",
+    "address": "屏東市和平路265-2號"
+  },
+  {
+    "id": "hl-scout-lead-1",
+    "slug": "川原家眷村小吃",
+    "name": "川原家眷村小吃",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "便當／眷村小吃／熱炒",
+    "cuisineTags": [
+      "便當",
+      "眷村小吃",
+      "熱炒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30–14:00、17:00–22:30（售完為止；週一公休；食記—以現場為準）",
+    "evidence": "食記店卡明示：**「午餐便當有免費外送服務，花蓮市區5個以外10個」**（內文複述同句）",
+    "source": "tutufoodaholic.tw/sichuan-aboriginal-restaurant",
+    "phone": "03-853-0377",
+    "address": "花蓮市建國路73號"
+  },
+  {
+    "id": "hl-scout-lead-2",
+    "slug": "阿樂大飯店",
+    "name": "阿樂大飯店",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "丼飯／鴨腿飯／小吃",
+    "cuisineTags": [
+      "丼飯",
+      "鴨腿飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午11:00-13:00、晚間14:30-19:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿250運費30元 滿500店家親送」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-856-3035",
+    "address": "花蓮市光復街91號"
+  },
+  {
+    "id": "hl-scout-lead-3",
+    "slug": "艋舺老宋甜不辣",
+    "name": "艋舺老宋甜不辣",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "甜不辣／雞絲麵／小吃",
+    "cuisineTags": [
+      "甜不辣",
+      "雞絲麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平假日10:00-22:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿300元店家親送」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "0917-582-688",
+    "address": "花蓮市建國路272號"
+  },
+  {
+    "id": "hl-scout-lead-4",
+    "slug": "以諾廚房",
+    "name": "以諾廚房",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "排餐／漢堡／義大利麵／簡餐",
+    "cuisineTags": [
+      "排餐",
+      "漢堡",
+      "義大利麵",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午11:00-14:00、晚間17:00-21:00（週三公休；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區滿500店家親送」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-831-1324",
+    "address": "花蓮市商校街192-1號"
+  },
+  {
+    "id": "hl-scout-lead-5",
+    "slug": "平和飯店PingHeBBQCompany",
+    "name": "平和飯店 Ping He BBQ Company",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "精緻餐盒／燒肉便當",
+    "cuisineTags": [
+      "精緻餐盒",
+      "燒肉便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午11:30~14:00、晚間17:30~19:00（表—以現場為準）",
+    "evidence": "Mys 表明示：**「三主餐10分鐘車程可送、五主餐10-15分鐘可送」**；kuokuo 另列 **「店家親送」**＋iCHEF 線上訂餐",
+    "source": "sekainomys.com/hualiencovid-19-food ；kuokuo.tw",
+    "phone": "03-822-0981",
+    "address": "花蓮市中美路103號"
+  },
+  {
+    "id": "hl-scout-lead-6",
+    "slug": "玖伍牛肉麵",
+    "name": "玖伍牛肉麵",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "牛肉麵／麵食",
+    "cuisineTags": [
+      "牛肉麵",
+      "麵食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00～20:00（表—以現場為準；另源寫分時段）",
+    "evidence": "Mys 表明示：**「滿500元免費外送，提前15-20分鐘預訂」**（並寫自取滿100折20）",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "03-833-3339",
+    "address": "花蓮市中山路253號"
+  },
+  {
+    "id": "hl-scout-lead-7",
+    "slug": "黑金通",
+    "name": "黑金通",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "米食餐盒／溫沙拉／烏龍麵",
+    "cuisineTags": [
+      "米食餐盒",
+      "溫沙拉",
+      "烏龍麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平假日11:00-19:30（周四公休；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「5個以上店家親送」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-831-1386",
+    "address": "花蓮市中山路48號"
+  },
+  {
+    "id": "hl-scout-lead-8",
+    "slug": "芝麻開門日式食堂",
+    "name": "芝麻開門日式食堂",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "日式便當／定食",
+    "cuisineTags": [
+      "日式便當",
+      "定食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午11:30-14:00、晚間17:30-21:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區2個以上店家親送」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-834-6659",
+    "address": "花蓮市博愛街138號"
+  },
+  {
+    "id": "hl-scout-lead-10",
+    "slug": "食光迴廊義式料理",
+    "name": "食光迴廊義式料理（Kadda 璽賓行旅）",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "義式／餐盒",
+    "cuisineTags": [
+      "義式",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:20 ~ 13:15（表—疫情班次；以現場為準）",
+    "evidence": "Mys 表／文明示：**「滿400元還有專人外送到府」**／文複述 **「滿400就可以免費幫你外送」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "03-831-6631",
+    "address": "花蓮市民權路2-6號"
+  },
+  {
+    "id": "hl-scout-lead-11",
+    "slug": "少年家EightPlusnine",
+    "name": "少年家 Eight Plus nine",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "便當／餐盒",
+    "cuisineTags": [
+      "便當",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00~16:00（表—以現場為準）",
+    "evidence": "Mys 表／文明示：**「一份就幫你外送」**；文複述 **「凡是在花蓮市、吉安只要訂購一份就幫你外送到府」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "0988-940-898"
+  },
+  {
+    "id": "hl-scout-lead-12",
+    "slug": "拉戈姆複合式廚房",
+    "name": "拉戈姆複合式廚房",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "早午餐／義大利麵／漢堡／米飯餐盒",
+    "cuisineTags": [
+      "早午餐",
+      "義大利麵",
+      "漢堡",
+      "米飯餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:30-13:30、17:00-19:30（表—以現場為準）",
+    "evidence": "Mys 表明示：**「花蓮市區滿300免運」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "03-832-9696",
+    "address": "花蓮市中強街20號"
+  },
+  {
+    "id": "hl-scout-lead-13",
+    "slug": "蜜斯蜜複合式餐廳",
+    "name": "蜜斯蜜複合式餐廳",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "複合簡餐",
+    "cuisineTags": [
+      "複合簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30-19:30（表—以現場為準）",
+    "evidence": "Mys 表明示：**「外帶自取/滿千可外送(限花蓮市)」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "03-835-5808",
+    "address": "花蓮市和平路269號"
+  },
+  {
+    "id": "hl-scout-lead-14",
+    "slug": "米形",
+    "name": "米形",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "油飯／小吃",
+    "cuisineTags": [
+      "油飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "07:45-18:00（表—以現場為準）",
+    "evidence": "Mys 表明示：**「市區滿$200可外送油飯」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "0908-151-220",
+    "address": "花蓮市林森路273巷2號"
+  },
+  {
+    "id": "hl-scout-lead-15",
+    "slug": "虎藏燒肉丼食所",
+    "name": "虎藏燒肉丼食所",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "燒肉丼／丼飯",
+    "cuisineTags": [
+      "燒肉丼",
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "中午11:30-14:00、晚間17:00-21:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿500外送九折」**（同格另列 Foodpanda—discovery only）",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-831-5880",
+    "address": "花蓮市中正路371號"
+  },
+  {
+    "id": "hl-scout-lead-16",
+    "slug": "馬媽媽緬式涼麵",
+    "name": "馬媽媽緬式涼麵",
+    "city": "花蓮縣",
+    "district": "吉安鄉",
+    "cuisine": "緬式涼麵／小吃",
+    "cuisineTags": [
+      "緬式涼麵",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "早上七點營業，售完為止（表—以現場為準）",
+    "evidence": "Mys 表／文明示：**「訂購滿兩份即可外送」**（開幕活動句）",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "0909-010-001",
+    "address": "安鄉福興村福興二街46號"
+  },
+  {
+    "id": "hl-scout-lead-17",
+    "slug": "小和山谷",
+    "name": "小和山谷",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "簡餐／餐盒",
+    "cuisineTags": [
+      "簡餐",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿 10 份",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30~14:00、17:30~19:00（表—以現場為準）",
+    "evidence": "Mys 表明示：**「滿10份餐點可外送吉安、壽豐地區」**",
+    "source": "sekainomys.com/hualiencovid-19-food",
+    "phone": "03-865-5172",
+    "address": "花蓮縣壽豐鄉壽文路43號"
+  },
+  {
+    "id": "hl-scout-lead-18",
+    "slug": "九湯屋日本拉麵",
+    "name": "九湯屋日本拉麵（玉里店）",
+    "city": "花蓮縣",
+    "district": "玉里鎮",
+    "cuisine": "日式拉麵",
+    "cuisineTags": [
+      "日式拉麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "FB／情報站摘店卡明示：**「滿300元即可外送(限玉里鎮內)」**",
+    "source": "taiwaneast.com 九湯屋花蓮外送 ；FB 九湯屋玉里店",
+    "phone": "03-888-0666",
+    "address": "花蓮縣玉里鎮中山路二段59號"
+  },
+  {
+    "id": "hl-scout-lead-19",
+    "slug": "九湯屋日本拉麵",
+    "name": "九湯屋日本拉麵（新城北埔店）",
+    "city": "花蓮縣",
+    "district": "新城鄉",
+    "cuisine": "日式拉麵",
+    "cuisineTags": [
+      "日式拉麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "上午11:00～13:30、下午17:00～19:30（FB 防疫班次—以現場為準）",
+    "evidence": "FB 摘句明示：**「防疫期間…提供外送服務兩碗以上可送」**",
+    "source": "FB 九湯屋花蓮新城北埔店 ；cturamen.com.tw",
+    "phone": "03-826-0909",
+    "address": "花蓮縣新城鄉北埔路224號"
+  },
+  {
+    "id": "hl-scout-lead-21",
+    "slug": "樂咖哩",
+    "name": "樂咖哩",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "咖哩／丼飯／炸豬排",
+    "cuisineTags": [
+      "咖哩",
+      "丼飯",
+      "炸豬排"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00～14:00；16:30～21:00（食記—以現場為準）",
+    "evidence": "食記明示：**「花蓮市區訂餐一個就外送」**",
+    "source": "homehualien.com/single-post/2021-takeout3",
+    "phone": "03-835-8625",
+    "address": "花蓮市中原路610號"
+  },
+  {
+    "id": "hl-scout-lead-22",
+    "slug": "小小洋房",
+    "name": "小小洋房",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "炊飯／異國餐盒",
+    "cuisineTags": [
+      "炊飯",
+      "異國餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30-13:30／17:00-18:30（週二週三公休；食記—以現場為準）",
+    "evidence": "食記店卡明示：**「滿三份餐盒花蓮市區外送免運費」**",
+    "source": "tutufoodaholic.tw/littlehouse2011-togo",
+    "phone": "03-831-1610",
+    "address": "花蓮市民德一街32號"
+  },
+  {
+    "id": "hl-scout-lead-23",
+    "slug": "相信幸福x不怕小厝",
+    "name": "相信幸福x不怕小厝",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "港式便當／餐盒",
+    "cuisineTags": [
+      "港式便當",
+      "餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30-13:00（假日／週六日休；食記—以現場為準）",
+    "evidence": "食記明示：**「390元以下酌收30元外送費，滿390元花蓮市區和美崙免費外送」**",
+    "source": "tutufoodaholic.tw/believingxbraving-togo",
+    "phone": "0917-879-560",
+    "address": "花蓮市林森路305巷6號"
+  },
+  {
+    "id": "hl-scout-lead-24",
+    "slug": "花蓮蔬食餐盒Vegetablestyle",
+    "name": "花蓮蔬食餐盒 Vegetable style",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "蔬食餐盒／拌麵",
+    "cuisineTags": [
+      "蔬食餐盒",
+      "拌麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "固定販售時間曾寫僅週一二三中午（食記—以現場為準）",
+    "evidence": "食記明示：**「訂購五個餐盒可外送」**（另寫滿一千贈隱藏版）",
+    "source": "tutufoodaholic.tw/jiangqinyu15",
+    "orderUrl": "https://line.me/R/ti/p/@jiangqinyu15",
+    "lineUrl": "https://line.me/R/ti/p/@jiangqinyu15",
+    "phone": "0919-355-356",
+    "address": "花蓮市中正路516號"
+  },
+  {
+    "id": "hl-scout-lead-25",
+    "slug": "牛匠太郎x直火炙燒丼飯",
+    "name": "牛匠太郎x直火炙燒丼飯（花蓮店）",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "燒肉丼／丼飯",
+    "cuisineTags": [
+      "燒肉丼",
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00~21:00（表—以現場為準）",
+    "evidence": "公開情報／iCHEF 店卡摘句：**「花蓮市區不限金額免費外送；吉安、美崙滿500元免運，未滿收30元」**（偏遠請電詢）",
+    "source": "shop.ichefpos.com ；taiwaneast／公開情報彙整",
+    "phone": "03-833-3788",
+    "address": "花蓮市林森路331號"
+  },
+  {
+    "id": "hl-scout-lead-26",
+    "slug": "雨林Scone&Coffee",
+    "name": "雨林 Scone & Coffee",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "手作司康／咖啡 soft",
+    "cuisineTags": [
+      "手作司康",
+      "咖啡 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平假日12:00-19:00（kuokuo—以現場為準）",
+    "evidence": "Mys 表明示：**「訂購司康6～8顆花蓮市免費外送」**",
+    "source": "sekainomys.com/hualiencovid-19-food ；kuokuo.tw",
+    "phone": "03-831-0128",
+    "address": "花蓮市明義街55號"
+  },
+  {
+    "id": "hl-scout-lead-27",
+    "slug": "銘師父餐廳",
+    "name": "銘師父餐廳",
+    "city": "花蓮縣",
+    "district": "吉安鄉",
+    "cuisine": "烤鴨便當／台式便當",
+    "cuisineTags": [
+      "烤鴨便當",
+      "台式便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "取餐午餐12:00／晚餐18:00（食記—以現場為準）",
+    "evidence": "食記店卡明示：**「買10個以上即可享外送服務（花蓮市、吉安鄉、及美崙區）」**；便當前一日 20:00 前預訂",
+    "source": "tutufoodaholic.tw/chefming-togo",
+    "phone": "03-858-1122",
+    "address": "花蓮縣吉安鄉明義六街38巷22號"
+  },
+  {
+    "id": "hl-scout-lead-28",
+    "slug": "洄瀾灣糖朝",
+    "name": "洄瀾灣糖朝（糖朝）",
+    "city": "花蓮縣",
+    "district": "吉安鄉",
+    "cuisine": "港式燒臘便當／點心",
+    "cuisineTags": [
+      "港式燒臘便當",
+      "點心"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:30、17:00-20:00（Mys 表—以現場為準）",
+    "evidence": "食記明示：**「訂餐滿$1000可外送（花蓮市、吉安鄉、壽豐鄉(志學村)）」**",
+    "source": "homehualien.com/single-post/2021-takeout2",
+    "phone": "0972-309-855",
+    "address": "花蓮縣吉安鄉南濱路一段503號"
+  },
+  {
+    "id": "hl-scout-lead-29",
+    "slug": "太魯閣一家村食堂",
+    "name": "太魯閣一家村食堂",
+    "city": "花蓮縣",
+    "district": "秀林鄉",
+    "cuisine": "土雞便當／限量便當",
+    "cuisineTags": [
+      "土雞便當",
+      "限量便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週二～日 10:00－13:00（週一公休；食記—以現場為準）",
+    "evidence": "2025 食記明示：**「一次訂36份以上，也可以外送到花蓮市區」**",
+    "source": "hsuhsutalk.com/hualien-yijiacun-chicken-bento",
+    "phone": "03-861-1035"
+  },
+  {
+    "id": "hl-scout-lead-30",
+    "slug": "美福素食自助餐",
+    "name": "美福素食自助餐",
+    "city": "花蓮縣",
+    "district": "玉里鎮",
+    "cuisine": "素食自助／便當",
+    "cuisineTags": [
+      "素食自助",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "公開店卡／情報明示：**「3份以上有外送」**（或「3個以上有外送」）",
+    "source": "footinder.com.tw 美福素食自助餐 ；公開情報",
+    "phone": "0919-239-104",
+    "address": "花蓮縣玉里鎮中華路41號"
+  },
+  {
+    "id": "hl-scout-lead-31",
+    "slug": "珍味小館",
+    "name": "珍味小館",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "便當／簡餐／熱炒",
+    "cuisineTags": [
+      "便當",
+      "簡餐",
+      "熱炒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約11:00–14:30、17:00–20:30（公開目錄—以現場為準）",
+    "evidence": "東華防疫外送專區摘句：**「滿5個」可外送**（另寫每個折5元）",
+    "source": "HackMD 東華防疫外送專區（公開摘句）；twcompanys／公開目錄",
+    "phone": "03-866-4906",
+    "address": "花蓮縣壽豐鄉志學村中正路132巷11號"
+  },
+  {
+    "id": "hl-scout-lead-32",
+    "slug": "熊屋食堂",
+    "name": "熊屋食堂",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "早午餐／食堂餐盒",
+    "cuisineTags": [
+      "早午餐",
+      "食堂餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 150,
+    "deliveryMinLabel": "滿 $150",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約週一至三 08:00–14:00、週五至日 08:00–19:00、週四休（公開目錄—以現場為準）",
+    "evidence": "東華／志學外送情報明示：**「滿150元可外送，外送費30元；滿500元免外送費」**（範圍志學村／東華校內）",
+    "source": "taiwaneast 東華外送情報 ；footinder／east.twagoda",
+    "phone": "0915-108-918",
+    "address": "花蓮縣壽豐鄉志學村中正路156-2號"
+  },
+  {
+    "id": "hl-scout-lead-33",
+    "slug": "優派脆皮雞排",
+    "name": "優派脆皮雞排（志學店）",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "雞排／炸物小吃",
+    "cuisineTags": [
+      "雞排",
+      "炸物小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "公開情報明示：**「消費滿300元可外送，限東華大學校園內」**",
+    "source": "taiwaneast 優派志學／東華優派情報",
+    "phone": "0965-113-515",
+    "address": "花蓮縣壽豐鄉志學村中正路191-1號"
+  },
+  {
+    "id": "hl-scout-lead-34",
+    "slug": "遠雄悅來大飯店",
+    "name": "遠雄悅來大飯店（防疫／外帶餐盒）",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "飯店餐盒 soft",
+    "cuisineTags": [
+      "飯店餐盒 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1200,
+    "deliveryMinLabel": "滿 $1200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "取餐班次約 11:30-13:00／17:30-19:00（表—以現場為準）",
+    "evidence": "食記／懶人包明示：**「消費滿$1200可享一次免費外送」**（需提前2日；範圍表寫縣府以南、南埔加油站以北、中央路以東—以訂購單為準）",
+    "source": "tutufoodaholic.tw/fargloryhotel-togo ；kuokuo.tw",
+    "phone": "03-812-3938",
+    "address": "市區取貨曾設中福路122號"
+  },
+  {
+    "id": "hl-scout-lead-35",
+    "slug": "藍天麗池飯店",
+    "name": "藍天麗池飯店（綠波廊／防疫餐）",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "飯店調理包／餐 soft",
+    "cuisineTags": [
+      "飯店調理包",
+      "餐 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以飯店公告為準）",
+    "evidence": "懶人包店卡明示：**「滿1000元免費配送(花蓮市/吉安鄉/北埔村)」**",
+    "source": "kuokuo.tw/hualien-food-delivery",
+    "phone": "03-833-6686",
+    "address": "花蓮市中正路590號"
+  },
+  {
+    "id": "hl-scout-lead-36",
+    "slug": "時光1939",
+    "name": "時光1939",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "炊飯／餐盒／早午餐",
+    "cuisineTags": [
+      "炊飯",
+      "餐盒",
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "滿 3 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:00-17:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿3個餐盒，免費外送喔！（限花蓮市區）」**",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-832-1939",
+    "address": "花蓮市民國路80巷16號"
+  },
+  {
+    "id": "hl-scout-lead-37",
+    "slug": "老時光燒肉酒肴",
+    "name": "老時光燒肉酒肴",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "燒肉定食／麵飯",
+    "cuisineTags": [
+      "燒肉定食",
+      "麵飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-13:30／17:00-21:30（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區三公里內滿500元可免費外送」**",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-831-5848",
+    "address": "花蓮市民國路88-1號"
+  },
+  {
+    "id": "hl-scout-lead-38",
+    "slug": "東鎮臭臭鍋",
+    "name": "東鎮臭臭鍋",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "鍋燒麵／臭臭鍋／小吃",
+    "cuisineTags": [
+      "鍋燒麵",
+      "臭臭鍋",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00~20:00（表—以現場為準）",
+    "evidence": "懶人包文明示：**「距本店2公里內，一鍋即可外送」**",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-835-5272",
+    "address": "花蓮市自由街128之3號"
+  },
+  {
+    "id": "hl-scout-lead-39",
+    "slug": "越蘭Pho",
+    "name": "越蘭Pho",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "越式河粉／潤餅／小吃",
+    "cuisineTags": [
+      "越式河粉",
+      "潤餅",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00／16:30-19:30（週一二公休；表—以現場為準）",
+    "evidence": "懶人包文明示：**「免費外送✔️滿200元(以本店Google位址2公里以內)✔️滿500元(以本店Google位址5公里以內)；超過5公里以上酌收運費」**",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-833-1796",
+    "address": "花蓮市和平路593號"
+  },
+  {
+    "id": "hl-scout-lead-40",
+    "slug": "日光廚房",
+    "name": "日光廚房",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "餐盒／簡餐",
+    "cuisineTags": [
+      "餐盒",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00~13:30（表—以現場為準）",
+    "evidence": "懶人包文明示：**「消費滿500元或三份餐盒，市區免費外送（美崙、豐村及偏遠地區除外），未滿500元酌收外送費」**（需前一日預約）",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "orderUrl": "https://line.me/R/ti/p/@ntg9568t",
+    "lineUrl": "https://line.me/R/ti/p/@ntg9568t",
+    "phone": "03-831-6369",
+    "address": "花蓮市國風街20號1"
+  },
+  {
+    "id": "hl-scout-lead-41",
+    "slug": "嘟BarMv音樂餐廳",
+    "name": "嘟 Bar Mv音樂餐廳（嘟吧便當）",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "午餐時段（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「嘟吧限作便當…滿兩百元可外送（限花蓮市區）」**",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "0981-639-971",
+    "address": "花蓮市建國路338號"
+  },
+  {
+    "id": "hl-scout-lead-42",
+    "slug": "愛上這味懷舊餐廳",
+    "name": "愛上這味懷舊餐廳",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "懷舊台菜／熱炒 soft",
+    "cuisineTags": [
+      "懷舊台菜",
+      "熱炒 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "16:30~22:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「外帶外送滿500元…滿500元免費外送」**（同格另列雙平台—discovery only；**勿用 UE/FP 作 orderUrl**）",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-835-9527",
+    "address": "花蓮市林森路280號"
+  },
+  {
+    "id": "hl-scout-lead-43",
+    "slug": "貨櫃屋台灣料理",
+    "name": "貨櫃屋台灣料理",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "熱炒／合菜 soft",
+    "cuisineTags": [
+      "熱炒",
+      "合菜 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "17:30~24:00（表—以現場為準）",
+    "evidence": "懶人包文明示：**「市區外送點滿350，美崙/吉安近區外送點滿500，太昌/慶豐區域外送點滿550」**（同文另列熊貓—discovery only）",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "0927-288-070",
+    "address": "花蓮市中正路286號"
+  },
+  {
+    "id": "hl-scout-lead-44",
+    "slug": "宮前西村之家",
+    "name": "宮前西村之家",
+    "city": "花蓮縣",
+    "district": "吉安鄉",
+    "cuisine": "肉燥飯／咖哩飯便當",
+    "cuisineTags": [
+      "肉燥飯",
+      "咖哩飯便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00~13:40＆17:00~19:40（表—以現場為準）",
+    "evidence": "懶人包文明示：**「滿400可以外送」**（銷魂肉燥飯／咖哩飯限量便當句）",
+    "source": "tutufoodaholic.tw/covid19-food-togo ；tutufoodaholic.tw/nishimura-house",
+    "phone": "03-852-1852",
+    "address": "街195號"
+  },
+  {
+    "id": "hl-scout-lead-45",
+    "slug": "亞糜廚房YummyKitchen",
+    "name": "亞糜廚房 Yummy Kitchen",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "簡餐／廚房餐盒",
+    "cuisineTags": [
+      "簡餐",
+      "廚房餐盒"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以粉專／iCHEF 為準）",
+    "evidence": "東華外送整理摘句明示：**「東華校區滿300免運、壽豐火車站附近滿500免運，不足加30」**（Dcard 東華板 2022-06 外送整理；愛呷／lovekhc 複述）",
+    "source": "lovekhc 志學外送摘 Dcard ；taiwaneast 東華外送 ；footinder／mygov",
+    "phone": "0987-437-083",
+    "address": "花蓮縣壽豐鄉志學村中正路46號1"
+  },
+  {
+    "id": "hl-scout-lead-46",
+    "slug": "楓丹白露早午餐志學店",
+    "name": "楓丹白露早午餐志學店",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "早午餐／白木耳露複合",
+    "cuisineTags": [
+      "早午餐",
+      "白木耳露複合"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "星期一至六中餐及晚餐外送、星期日只送晚餐（專區—以現場為準）",
+    "evidence": "東華防疫外送專區摘句明示：**「滿300元可外送。（限東華大學校區及店附近7分鐘車程範圍）」**（另 Dcard 整理寫滿200免運／不足加30—以專區滿300為準）",
+    "source": "lovekhc 摘 東華防疫外送專區 ；footinder",
+    "phone": "0982-309-590",
+    "address": "花蓮縣壽豐鄉志學村中正路176號"
+  },
+  {
+    "id": "hl-scout-lead-47",
+    "slug": "齊庭簡餐",
+    "name": "齊庭簡餐",
+    "city": "花蓮縣",
+    "district": "壽豐鄉",
+    "cuisine": "簡餐／便當",
+    "cuisineTags": [
+      "簡餐",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約11:30–14:00、17:00–20:00（公開目錄—以現場為準）",
+    "evidence": "店家常見 Q&A 摘句明示：**「校內滿400元皆可外送。平和，壽豐地區需滿1500元」**",
+    "source": "lovekhc 志學外送摘 Q&A ；footinder／iCHEF",
+    "phone": "0982-918-405",
+    "address": "花蓮縣壽豐鄉志學村中正路201號"
+  },
+  {
+    "id": "hl-scout-lead-49",
+    "slug": "育樂新村美食熱炒",
+    "name": "育樂新村美食熱炒",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "熱炒／熱炒便當 soft",
+    "cuisineTags": [
+      "熱炒",
+      "熱炒便當 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約17:30–00:00／不定休（食記—以現場為準；防疫表曾寫午晚班次）",
+    "evidence": "懶人包正文明示：**「防疫期間凡消費滿$400，就可免費外送到府(外送區域限定:依粉專地圖)」**（Batch 1–3 near-miss「無數字」→本批解鎖）",
+    "source": "tutufoodaholic.tw/covid19-food-togo ；tutufoodaholic.tw/yulexincun",
+    "phone": "03-833-0115"
+  },
+  {
+    "id": "hl-scout-lead-50",
+    "slug": "石屋燒肉店",
+    "name": "石屋燒肉店（歐鄉餐飲）",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "燒肉餐盒／火鍋 soft",
+    "cuisineTags": [
+      "燒肉餐盒",
+      "火鍋 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "午餐約11:00–13:30／晚餐17:00–21:30（表—以現場為準）",
+    "evidence": "食記明示：**「花蓮市區的朋友，訂購買滿399元就可以外送到你家」**；Mys 訂購須知另寫 **「市區滿$500，石屋幫你送到家」**（兩源門檻不同—以較新／電聯為準）",
+    "source": "tutufoodaholic.tw/os0005-togo ；sekainomys.com/os0005",
+    "orderUrl": "https://line.me/R/ti/p/@grkxo",
+    "lineUrl": "https://line.me/R/ti/p/@grkxo",
+    "phone": "03-835-2311",
+    "address": "花蓮市中正路644-2號"
+  },
+  {
+    "id": "hl-scout-lead-51",
+    "slug": "麥式多歐式麵包",
+    "name": "麥式多歐式麵包",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "歐式麵包／西點 soft",
+    "cuisineTags": [
+      "歐式麵包",
+      "西點 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約11:00~20:00（表—以現場為準）",
+    "evidence": "懶人包正文明示：**「訂購滿100元即享花蓮市、吉安鄉免費外送服務 (未滿指定金額需酌收運費50元)」**；另寫全店滿200折20",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-833-4336",
+    "address": "花蓮市民國路139-1號"
+  },
+  {
+    "id": "hl-scout-lead-52",
+    "slug": "Piatto+菜",
+    "name": "Piatto+菜",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "義式蔬食／簡餐",
+    "cuisineTags": [
+      "義式蔬食",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30~14:00／17:00~20:30（表—以現場為準；2025 食記週一二公休）",
+    "evidence": "懶人包正文明示：**「花蓮市滿1000元可外送」**（外帶折扣30／自備容器8折句另列）",
+    "source": "tutufoodaholic.tw/covid19-food-togo ；vocus／公開食記",
+    "phone": "0926-103-232",
+    "address": "花蓮市仁愛街28號2"
+  },
+  {
+    "id": "hl-scout-lead-53",
+    "slug": "貓棒棒咖啡ChatBonCafe",
+    "name": "貓棒棒咖啡 ChatBon Cafe",
+    "city": "花蓮縣",
+    "district": "花蓮市",
+    "cuisine": "咖啡／簡餐 soft",
+    "cuisineTags": [
+      "咖啡",
+      "簡餐 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約11:00~22:00（表—以現場為準）",
+    "evidence": "懶人包正文明示：**「外送距離兩公里內免費外送」**（Batch 1–3 near-miss「無門檻」→本批以距離門檻解鎖）",
+    "source": "tutufoodaholic.tw/covid19-food-togo",
+    "phone": "03-833-0203",
+    "address": "花蓮市博愛街229號"
+  },
+  {
+    "id": "tt-scout-lead-1",
+    "slug": "晟心庇護廚房",
+    "name": "晟心庇護廚房（晟心餐飲庇護工場）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "便當／健康餐盒／庇護廚房",
+    "cuisineTags": [
+      "便當",
+      "健康餐盒",
+      "庇護廚房"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週五 10:30-14:00、16:30-19:00；週六 10:30-14:00（週日休；食記—以現場為準）",
+    "evidence": "食記店卡明示：**「線上點 200就可外送」**／**「晟心線上點（市區滿200元可外送）」**",
+    "source": "loveandpeacebnb.com/box-lunch.html",
+    "orderUrl": "https://order.ocard.co/leekit/mNknzK",
+    "phone": "089-318189",
+    "address": "台東市正氣路489號"
+  },
+  {
+    "id": "tt-scout-lead-2",
+    "slug": "牧心餐坊",
+    "name": "牧心餐坊",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "健康便當／輕食／庇護廚房",
+    "cuisineTags": [
+      "健康便當",
+      "輕食",
+      "庇護廚房"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 $5",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30~14:00、17:30~20:30（食記—以現場為準）",
+    "evidence": "食記明示：**「午餐只有週一～週五，滿5可外送；晚餐每天都有但無外送」**",
+    "source": "loveandpeacebnb.com/box-lunch.html ；mindfarm.org.tw",
+    "phone": "089-230612",
+    "address": "台東市民航路21號"
+  },
+  {
+    "id": "tt-scout-lead-3",
+    "slug": "東鼎牛肉麵館",
+    "name": "東鼎牛肉麵館",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "牛肉麵／水餃／燴飯／滷味",
+    "cuisineTags": [
+      "牛肉麵",
+      "水餃",
+      "燴飯",
+      "滷味"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:15／17:00-20:00（官網文—以現場為準）",
+    "evidence": "官網明示：**「開啟外送模式：台東市區免費外送 200公尺內，滿150元 600公尺內，滿300元」**；《外送》請打電話訂餐",
+    "source": "dungding.com.tw 外帶自取95折文",
+    "orderUrl": "https://dungding.com.tw/",
+    "phone": "089-350321",
+    "address": "台東市光明路107號"
+  },
+  {
+    "id": "tt-scout-lead-4",
+    "slug": "何家傳統滷味",
+    "name": "何家傳統滷味",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "滷味／小吃",
+    "cuisineTags": [
+      "滷味",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 2000,
+    "deliveryMinLabel": "滿 $2000 免運",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "地方報導明示：**「滿300元市區免費外送！」**（另寫宅配滿2000免運—跨縣宅配非本列自送主證據）",
+    "source": "jjmore.com/detailnews.php?id=2323",
+    "phone": "0932-661-307",
+    "address": "台東市中興路二段130號"
+  },
+  {
+    "id": "tt-scout-lead-5",
+    "slug": "初早餐",
+    "name": "初早餐",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "早餐／早午餐",
+    "cuisineTags": [
+      "早餐",
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "週一至週日約 06:00-14:00（表—以現場為準）",
+    "evidence": "粉專／彙整頁明示：**「正市區滿150即外送」**／複述 **「市區滿150即外送」**",
+    "source": "hotel.twagoda.com/entry/86179626 ；同站 entry/87426710",
+    "phone": "089-330798",
+    "address": "台東市正氣路463號(台東高商對面、50"
+  },
+  {
+    "id": "tt-scout-lead-6",
+    "slug": "關山便當",
+    "name": "關山便當",
+    "city": "台東縣",
+    "district": "關山鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "08:30-20:00（表—以現場為準）",
+    "evidence": "防疫懶人包店卡明示：**「關山鎮區免外送費(一個即可外送)」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "089-811100",
+    "address": "台東縣關山鎮和平路83號"
+  },
+  {
+    "id": "tt-scout-lead-7",
+    "slug": "東晨米糕",
+    "name": "東晨米糕",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "米糕／小吃／虱目魚湯",
+    "cuisineTags": [
+      "米糕",
+      "小吃",
+      "虱目魚湯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-14:00、17:00-20:00（週六日店休；Threads—以現場為準）",
+    "evidence": "**現行（Threads 一手）：「市區只要滿 $100 就能出發！」**／建議先私訊預訂；過年期間曾公告「暫無外送」（臨時）。舊懶人包曾寫市區滿$200",
+    "source": "threads.com/@donchen_foodie ；zztaitung.com/19295/take-out",
+    "orderUrl": "https://line.me/R/ti/p/@882hoqtn",
+    "lineUrl": "https://line.me/R/ti/p/@882hoqtn",
+    "phone": "089-333621",
+    "address": "台東市豐榮路270號"
+  },
+  {
+    "id": "tt-scout-lead-8",
+    "slug": "曙拉麵",
+    "name": "曙拉麵",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "拉麵",
+    "cuisineTags": [
+      "拉麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-13:00、17:00-20:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區滿$100免費外送」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "089-324066",
+    "address": "台東市傳廣路272號"
+  },
+  {
+    "id": "tt-scout-lead-9",
+    "slug": "小倆口🌸親食堂",
+    "name": "小倆口🌸親食堂",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "蓋飯／簡餐",
+    "cuisineTags": [
+      "蓋飯",
+      "簡餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-19:30（下午正常營業；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區滿$ 200免費外送」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "0915-759-607",
+    "address": "台東市中華路二段271-1號"
+  },
+  {
+    "id": "tt-scout-lead-10",
+    "slug": "I’mHere手作餐食",
+    "name": "I’m Here手作餐食",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "早午餐／手作餐食",
+    "cuisineTags": [
+      "早午餐",
+      "手作餐食"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "06:30-13:00（公休不定；前一天預訂結單至 22:00；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「台東火車站周邊10分鐘可抵達範圍，滿$ 100元即可免費外送。市區或其他地區，如需要外送可先來電或加LINE洽詢。」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "0985-364-069",
+    "address": "台東市國泰街113號"
+  },
+  {
+    "id": "tt-scout-lead-11",
+    "slug": "川牛木石亭",
+    "name": "川牛木石亭（台東店）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "丼飯",
+    "cuisineTags": [
+      "丼飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-21:00（下午不休息；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「市區滿三百即可免費外送」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "089-333757",
+    "address": "台東市更生路148巷33號"
+  },
+  {
+    "id": "tt-scout-lead-12",
+    "slug": "媽煮樓扁食",
+    "name": "媽煮樓扁食",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "扁食／豬肉麵／紅油炒手／肉飯",
+    "cuisineTags": [
+      "扁食",
+      "豬肉麵",
+      "紅油炒手",
+      "肉飯"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–14:00、17:00–20:00（週二公休；食記—以現場為準）",
+    "evidence": "情報／粉專摘句明示：**「台東市區滿300外送」**（同址品項梅香飄肉飯／紅石豬肉麵等）",
+    "source": "blog.easylife.tw 台東豬肉麵情報彙整 ；happy198.pixnet 店址交叉",
+    "phone": "0955-108-068",
+    "address": "台東市正氣路468號"
+  },
+  {
+    "id": "tt-scout-lead-13",
+    "slug": "電光寶媽食堂",
+    "name": "電光寶媽食堂",
+    "city": "台東縣",
+    "district": "關山鎮",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00-20:00（需提前一天訂購；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿 5個免費外送（關山、鹿野、池上、海端）」**；**「滿 10個以上免費外送台東市」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "0958-600-673"
+  },
+  {
+    "id": "tt-scout-lead-14",
+    "slug": "大伯豆花",
+    "name": "大伯豆花",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "豆花／冰品 soft",
+    "cuisineTags": [
+      "豆花",
+      "冰品 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 12:00/13:30–21:00 售完為止（食記兩組時段—以現場為準）",
+    "evidence": "食記明示：**「可以外送（外送服務 市區5碗可以送2km）」**；標題／結語複述 **「滿五碗可外送」**",
+    "source": "angelababy0822.com/dabo-douhua",
+    "phone": "0979-550-018",
+    "address": "台東市正氣路98號"
+  },
+  {
+    "id": "tt-scout-lead-16",
+    "slug": "出出實驗坊",
+    "name": "出出實驗坊",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "咖啡／甜點／輕食 soft",
+    "cuisineTags": [
+      "咖啡",
+      "甜點",
+      "輕食 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "滿 $200",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "平日 12:00-19:00；假日 11:00-19:00（每週二公休；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「五公里內滿$ 200可免費外送」**（另列外帶9折等）",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "089-355116",
+    "address": "台東市四維路一段671號"
+  },
+  {
+    "id": "tt-scout-lead-17",
+    "slug": "墾墨咖啡館",
+    "name": "墾墨咖啡館",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "咖啡／簡餐／甜點 soft",
+    "cuisineTags": [
+      "咖啡",
+      "簡餐",
+      "甜點 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00-18:00（每週三及每月底週四公休；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「消費滿$300五公里內可外送」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "089-227998",
+    "address": "台東市更生路1208號"
+  },
+  {
+    "id": "tt-scout-lead-18",
+    "slug": "歐巴螞",
+    "name": "歐巴螞（麵包）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "麵包／烘焙 soft",
+    "cuisineTags": [
+      "麵包",
+      "烘焙 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "10:00-21:00（表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「當日麵包任意（依現場）搭配，滿額 150元，市區可免費外送。」**",
+    "source": "zztaitung.com/19295/take-out",
+    "orderUrl": "https://line.me/R/ti/p/%40swl6951w",
+    "lineUrl": "https://line.me/R/ti/p/%40swl6951w",
+    "phone": "089-362266",
+    "address": "取貨點表列新生路59號/大同路210號/開封街669號"
+  },
+  {
+    "id": "tt-scout-lead-19",
+    "slug": "日出禾作",
+    "name": "日出禾作",
+    "city": "台東縣",
+    "district": "關山鎮",
+    "cuisine": "咖啡 soft",
+    "cuisineTags": [
+      "咖啡 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "09:00-17:00（外帶自取需事先來電；外送 10:00-16:00；表—以現場為準）",
+    "evidence": "懶人包店卡明示：**「滿 5杯免費外送（關山、鹿野、池上）」**；**「滿 10杯免費外送台東市」**",
+    "source": "zztaitung.com/19295/take-out",
+    "phone": "0934-254-225"
+  },
+  {
+    "id": "tt-scout-lead-20",
+    "slug": "烏龍院家庭食堂",
+    "name": "烏龍院家庭食堂（烏龍院美食咖啡館）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "簡餐／火鍋／麵／便當",
+    "cuisineTags": [
+      "簡餐",
+      "火鍋",
+      "麵",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300",
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–20:30（表—以現場為準）",
+    "evidence": "店家 FB 貼文一手句（aggregator 轉載）：**「市區滿300元即可外送」**（【烏龍送】／「外帶外送，我們來了」；另見 Call **330375**）",
+    "source": "taiwaneast.com/info/烏龍院+外+送 ；walkerland.com.tw/article/view/357570",
+    "phone": "089-329095",
+    "address": "台東市博愛路438號"
+  },
+  {
+    "id": "tt-scout-lead-21",
+    "slug": "峯仔港式燒臘．便當",
+    "name": "峯仔港式燒臘．便當",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–13:30、17:00–19:00（黃頁／食記—以現場為準）",
+    "evidence": "店家公開簡介／地圖文案明示：**「可提供外送限市區三個便當以上，歡迎預約訂購」**",
+    "source": "taiwaneast.com/info/台東峯仔燒臘 ；iyp.com.tw/089330739",
+    "phone": "089-330739",
+    "address": "台東市開封街581號"
+  },
+  {
+    "id": "tt-scout-lead-22",
+    "slug": "振新港式燒臘",
+    "name": "振新港式燒臘",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "燒臘／便當",
+    "cuisineTags": [
+      "燒臘",
+      "便當"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "UNKNOWN（以現場／粉專為準）",
+    "evidence": "店家 FB 首頁／資訊摘句明示：**「市區便當滿三個或是滿240元有外送。」**",
+    "source": "taiwaneast.com/info/台東+烤鴨+便當 （FB 摘句）；zztaitung.com/20303/taitungbento（電話交叉）",
+    "phone": "089-343328",
+    "address": "博愛路250號**(他源亦見博愛路191"
+  },
+  {
+    "id": "tt-scout-lead-23",
+    "slug": "豚將拉麵",
+    "name": "豚將拉麵（台東店／中華店）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "拉麵／丼",
+    "cuisineTags": [
+      "拉麵",
+      "丼"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:00–21:00（下午不休息；表—以現場為準）",
+    "evidence": "店家 FB 貼文一手句（2021-07-05）：**「豚將市區滿三百即可免費外送!!」**",
+    "source": "taiwaneast.com/info/台東豚將拉麵",
+    "phone": "089-351035",
+    "address": "台東市中華路一段742號"
+  },
+  {
+    "id": "tt-scout-lead-24",
+    "slug": "呷飽食堂",
+    "name": "呷飽食堂",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "便當／肉燥飯／麵線／小吃",
+    "cuisineTags": [
+      "便當",
+      "肉燥飯",
+      "麵線",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 10:00–20:00（blogspot—以現場為準）",
+    "evidence": "店家粉專／情報摘句明示：**「台東市區滿200元即有外送喔！」**",
+    "source": "taiwaneast.com/info/呷飽食堂 ；taitung-food.blogspot.com",
+    "phone": "089-347990",
+    "address": "台東市漢陽北路12號"
+  },
+  {
+    "id": "tt-scout-lead-25",
+    "slug": "蔬念Vegine",
+    "name": "蔬念 Vegine",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "素食滷味／咖哩飯／小吃",
+    "cuisineTags": [
+      "素食滷味",
+      "咖哩飯",
+      "小吃"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "medium",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "11:30–13:30、17:30–20:00（每週一公休；zztaitung—以現場為準）",
+    "evidence": "店家 FB 貼文標題／文案明示：**「［ 台東市免費外送］…蔬念的我們都聽到了台東市免費外送喔！」**（**無公開滿額數字**—距離／金額請電聯）",
+    "source": "taiwaneast.com/info/蔬念台東 ；zztaitung.com/18307/vegine",
+    "phone": "089-330218",
+    "address": "台東市正氣路312巷12號"
+  },
+  {
+    "id": "tt-scout-lead-26",
+    "slug": "瀧瀧－輕盈時光",
+    "name": "瀧瀧－輕盈時光（輕食沙拉／蔬果鍋燒）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "健康餐盒／輕食／早午餐",
+    "cuisineTags": [
+      "健康餐盒",
+      "輕食",
+      "早午餐"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 08:00–20:00（表—以現場為準）",
+    "evidence": "品牌頁明示：**「外送服務：全市區6公里內不限金額一律49元」**",
+    "source": "hemusih.com/fbk-kitchen/ ；east.twagoda.com/entry/95564149",
+    "phone": "0979-680-928",
+    "address": "台東市太原路一段426巷3弄4號"
+  },
+  {
+    "id": "tt-scout-lead-27",
+    "slug": "翠安儂手感烘焙",
+    "name": "翠安儂手感烘焙（翠安儂手感烘焙／Trianon）",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "麵包／烘焙 soft",
+    "cuisineTags": [
+      "麵包",
+      "烘焙 soft"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "Available from 11:30（iCHEF 菜單—以現場為準）",
+    "evidence": "iCHEF 店面 Reminder **一手明示**：**「滿300可提供外送服務」**／**「未滿300需酌收50元外送費用」**／**「外送範圍以6公里為限制」**（另列外送須提供地址／手機／姓名／日期／時間）",
+    "source": "shop.ichefpos.com/store/Fiz9XnM3/ordering （Chrome dump Reminder）",
+    "orderUrl": "https://shop.ichefpos.com/store/Fiz9XnM3/ordering",
+    "phone": "089-229971",
+    "address": "台東市四維路三段150號"
+  },
+  {
+    "id": "tt-scout-lead-28",
+    "slug": "鄉親牛肉麵",
+    "name": "鄉親牛肉麵",
+    "city": "台東縣",
+    "district": "台東市",
+    "cuisine": "牛肉麵／無錫小排麵",
+    "cuisineTags": [
+      "牛肉麵",
+      "無錫小排麵"
+    ],
+    "chain": false,
+    "featured": false,
+    "origin": "scout",
+    "confidence": "high",
+    "checkedAt": "2026-09-23",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "freeDeliveryThreshold": null,
+    "deliveryFee": null,
+    "hours": "約 11:00–19:00（觀光網／粉專—公休 FB 公告；以現場為準）",
+    "evidence": "店家 FB About／資訊摘句明示：**「市區外送專線(兩碗以上)089-322142。」**",
+    "source": "taiwaneast.com/info/台東鄉親牛肉麵 （FB About 摘句）；facebook.com/xiangchin.beef",
+    "phone": "089-322142",
+    "address": "台東市安慶街86號"
   }
 ];

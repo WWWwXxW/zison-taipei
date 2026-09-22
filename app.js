@@ -1,89 +1,12 @@
 (function () {
   'use strict';
 
-  const DISTRICTS = [
-    '大同區','中山區','中正區','萬華區','大安區','松山區','信義區',
-    '內湖區','南港區','士林區','北投區','文山區','台北多區','板橋區',
-    '中和區','永和區','新莊區','三重區','蘆洲區','土城區','樹林區',
-    '淡水區','林口區','汐止區','新店區','八里區','深坑區','三峽區',
-    '五股區','鶯歌區','瑞芳區','金山區','三芝區','石門區','坪林區',
-    '貢寮區','萬里區','雙溪區','平溪區','烏來區','石碇區','泰山區',
-    '新北多區',
-    '中區',
-    '東區',
-    '南區',
-    '西區',
-    '北區',
-    '北屯區',
-    '西屯區',
-    '南屯區',
-    '太平區',
-    '大里區',
-    '霧峰區',
-    '烏日區',
-    '豐原區',
-    '后里區',
-    '石岡區',
-    '東勢區',
-    '和平區',
-    '新社區',
-    '潭子區',
-    '大雅區',
-    '神岡區',
-    '大肚區',
-    '沙鹿區',
-    '龍井區',
-    '梧棲區',
-    '清水區',
-    '大甲區',
-    '外埔區',
-    '台中大安區',
-    '台中多區',
-    '三民區',
-    '鳳山區',
-    '左營區',
-    '苓雅區',
-    '新興區',
-    '楠梓區',
-    '前鎮區',
-    '鼓山區',
-    '小港區',
-    '仁武區',
-    '前金區',
-    '鹽埕區',
-    '岡山區',
-    '路竹區',
-    '大社區',
-    '彌陀區',
-    '旗山區',
-    '旗津區',
-    '鳥松區',
-    '林園區',
-    '湖內區',
-    '茄萣區',
-    '橋頭區',
-    '燕巢區',
-    '梓官區',
-    '大寮區',
-    '大樹區',
-    '美濃區',
-    '高雄多區',
-    '桃園區',
-    '中壢區',
-    '平鎮區',
-    '八德區',
-    '楊梅區',
-    '蘆竹區',
-    '大溪區',
-    '龍潭區',
-    '龜山區',
-    '大園區',
-    '觀音區',
-    '新屋區',
-    '復興區',
-    '桃園多區'
-
-  ];
+  var CITY_ORDER = ['台北市', '新北市', '基隆市', '桃園市', '新竹市', '新竹縣', '苗栗縣', '台中市', '南投縣', '彰化市', '彰化縣', '雲林縣', '嘉義市', '嘉義縣', '台南市', '高雄市'];
+  /** District names that collide across cities nationwide — option/URL use city|district. */
+  var AMBIGUOUS_DISTRICTS = {
+    '北區': 1, '南區': 1, '東區': 1, '西區': 1, '中區': 1,
+    '中正區': 1, '中山區': 1, '信義區': 1
+  };
 
   function $(sel, root) { return (root || document).querySelector(sel); }
   function $all(sel, root) { return Array.from((root || document).querySelectorAll(sel)); }
@@ -93,12 +16,12 @@
   }
 
   function setParams(obj) {
-    const sp = new URLSearchParams(location.search);
+    var sp = new URLSearchParams(location.search);
     Object.keys(obj).forEach(function (k) {
       if (obj[k] == null || obj[k] === '') sp.delete(k);
       else sp.set(k, obj[k]);
     });
-    const q = sp.toString();
+    var q = sp.toString();
     history.replaceState(null, '', q ? ('?' + q) : location.pathname);
   }
 
@@ -110,15 +33,110 @@
       .replace(/"/g, '&quot;');
   }
 
-  function cuisineOptions(list) {
-    const set = new Set();
+  function encodeDistrictValue(city, district) {
+    if (!district) return '';
+    if (AMBIGUOUS_DISTRICTS[district] && city) return city + '|' + district;
+    return district;
+  }
+
+  function parseDistrictParam(raw, cityHint) {
+    if (!raw) return { city: cityHint || '', district: '' };
+    if (raw.indexOf('|') !== -1) {
+      var parts = raw.split('|');
+      return { city: parts[0] || cityHint || '', district: parts.slice(1).join('|') };
+    }
+    return { city: cityHint || '', district: raw };
+  }
+
+  function citiesPresent(list) {
+    var set = {};
     list.forEach(function (r) {
-      (r.cuisineTags || []).forEach(function (t) { if (t) set.add(t); });
-      if (r.cuisine) set.add(r.cuisine.split(/[、,/／]/)[0].trim());
+      if (r.city) set[r.city] = 1;
     });
-    return Array.from(set).filter(Boolean).sort(function (a, b) {
+    var ordered = CITY_ORDER.filter(function (c) { return set[c]; });
+    Object.keys(set).sort(function (a, b) {
+      return a.localeCompare(b, 'zh-Hant');
+    }).forEach(function (c) {
+      if (ordered.indexOf(c) === -1) ordered.push(c);
+    });
+    return ordered;
+  }
+
+  function districtsForCity(list, city) {
+    if (!city) return [];
+    var set = {};
+    list.forEach(function (r) {
+      if (r.city === city && r.district) set[r.district] = 1;
+    });
+    return Object.keys(set).sort(function (a, b) {
       return a.localeCompare(b, 'zh-Hant');
     });
+  }
+
+  /**
+   * Curated cuisine filters (~20). Dropdown shows these labels only.
+   * Matching is keyword substring against cuisine + cuisineTags (casefold),
+   * not exact raw-tag equality. A venue may match multiple filters.
+   */
+  var CUISINE_FILTERS = [
+    { label: '便當／快餐', keywords: ['便當', '快餐', '飯包', '盒餐', '會議便當', '會議餐盒', '池上', '自助餐', '簡餐', '排骨飯', '烤肉飯', '雞腿', '排骨', '鐵路便當', '鐵道便當'] },
+    { label: '健康餐盒', keywords: ['健康餐盒', '健康低卡', '健康便當', '低卡', '舒肥', '循環盒', '健身餐', '輕盈'] },
+    { label: '燒臘', keywords: ['燒臘', '燒鴨', '烤鴨', '叉燒', '油雞'] },
+    { label: '麵食', keywords: ['麵食', '涼麵', '牛肉麵', '刀削', '麵線', '義大利麵', '拉麵', '陽春麵', '担担', '擔擔', '鍋燒', '炒麵', '湯麵', '水餃', '鍋貼', '餛飩', '義麵'] },
+    { label: '蓋飯／丼', keywords: ['蓋飯', '丼飯', '丼', '滷肉飯', '雞肉飯', '咖哩飯', '燒肉飯'] },
+    { label: '火鍋', keywords: ['火鍋', '麻辣鍋', '涮鍋', '鍋物', '部隊鍋', '麻辣', '石頭火鍋', '小火鍋'] },
+    { label: '小吃', keywords: ['小吃', '滷味', '鹹水雞', '蔥油餅', '肉羹', '滷肉', '臭豆腐', '刈包', '鹽酥雞', '路邊'] },
+    { label: '早午餐', keywords: ['早午餐', '輕食', '三明治', 'Brunch', 'brunch', '吐司', '蛋餅'] },
+    { label: '咖啡／甜點', keywords: ['咖啡', '甜點', '蛋糕', '可麗露', '烘焙', '甜品', '布丁', '糕點', '私房甜點', '蛋糕甜點', '豆花', '巧克力', '糕餅', '麵包', '伴手禮'] },
+    { label: '手搖飲', keywords: ['手搖', '茶飲', '手搖飲', '手搖飲料', '手搖茶飲', '飲料店', '珍奶', '珍珠奶茶'] },
+    { label: '日式', keywords: ['日式', '日本和食', '和食', '壽司', '拉麵', '鰻魚', '定食', '丼', '刺身', '居酒屋', '日式便當', '丼飯', '握壽司'] },
+    { label: '韓式', keywords: ['韓式', '韓國', '韓定食', '部隊鍋', '石鍋拌飯', '韓式炸雞'] },
+    { label: '泰式／東南亞', keywords: ['泰式', '南洋', '海南雞', '越南', '印尼', '马来', '馬來', '咖哩', '叻沙', '新加坡'] },
+    { label: '義式／西式', keywords: ['義式', '披薩', 'pizza', 'Pizza', '義大利', '義法', '西式', '歐式', '美式', '漢堡', '牛排', 'Pasta', 'pasta', '西餐廳'] },
+    { label: '中式／台菜', keywords: ['中式', '台菜', '台式', '中港', '川菜', '粵菜', '湘菜', '合菜', '熱炒', '客家', '江浙', '上海', '家常', '港式', '粵式', '魯肉'] },
+    { label: '蔬食／素食', keywords: ['蔬食', '素食', '素食蔬食', '蔬食友善', '純素', '奶蛋素', '植物肉'] },
+    { label: '炸物', keywords: ['炸物', '炸雞', '雞排', '鹽酥雞', '唐揚', '炸豬排', '卡啦'] },
+    { label: '其他', keywords: [] } // special: venues matching no other filter
+  ];
+
+  function cuisineBlob(r) {
+    return ((r.cuisine || '') + ' ' + (r.cuisineTags || []).join(' ')).toLowerCase();
+  }
+
+  function filterByKeywords(blob, keywords) {
+    for (var i = 0; i < keywords.length; i++) {
+      if (blob.indexOf(String(keywords[i]).toLowerCase()) !== -1) return true;
+    }
+    return false;
+  }
+
+  function matchesCuisineFilter(r, cuisineLabel) {
+    if (!cuisineLabel) return true;
+    var blob = cuisineBlob(r);
+    var filter = null;
+    for (var i = 0; i < CUISINE_FILTERS.length; i++) {
+      if (CUISINE_FILTERS[i].label === cuisineLabel) {
+        filter = CUISINE_FILTERS[i];
+        break;
+      }
+    }
+    if (!filter) {
+      // Legacy URL / unknown label: fall back to substring on label itself
+      return blob.indexOf(cuisineLabel.toLowerCase()) !== -1;
+    }
+    if (filter.label === '其他') {
+      for (var j = 0; j < CUISINE_FILTERS.length; j++) {
+        var f = CUISINE_FILTERS[j];
+        if (f.label === '其他') continue;
+        if (filterByKeywords(blob, f.keywords)) return false;
+      }
+      return true;
+    }
+    return filterByKeywords(blob, filter.keywords);
+  }
+
+  function cuisineOptions(_list) {
+    return CUISINE_FILTERS.map(function (f) { return f.label; });
   }
 
   function orderHref(r) {
@@ -154,17 +172,14 @@
     return '<div class="channels" aria-label="訂餐通道">' + chips.join('') + '</div>';
   }
 
-
-    /** Delivery chips: 起送 primary; 免運 secondary (never the hero). */
+  /** Delivery chips: 起送 primary; 免運 secondary (never the hero). */
   function deliveryChips(r) {
     var chips = [];
     var label = r.deliveryMinLabel;
     var isFreeLabel = label && String(label).indexOf('免運') !== -1;
-    // Primary: 起送 / min order (not free-shipping)
     if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN' && !isFreeLabel) {
       chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
     }
-    // Secondary: 免運門檻 — muted chip only
     var freeLabel = null;
     if (isFreeLabel) {
       freeLabel = String(label).trim();
@@ -178,13 +193,29 @@
     return chips.slice(0, 2);
   }
 
+  /** District chip (solid) + muted city chip — sitewide. */
+  function placeBadges(r) {
+    var badges = [];
+    var district = r.district || '';
+    var city = r.city || '';
+    if (district) {
+      badges.push('<span class="badge district">' + escapeHtml(district) + '</span>');
+    }
+    if (city) {
+      badges.push('<span class="badge city">' + escapeHtml(city) + '</span>');
+    }
+    if (!badges.length) {
+      badges.push('<span class="badge district">未標行政區</span>');
+    }
+    return badges;
+  }
+
   function cardHtml(r) {
-    const badges = [];
-    badges.push('<span class="badge district">' + escapeHtml(r.district || '台北') + '</span>');
+    var badges = placeBadges(r);
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
 
-    const actions = [];
-    const oh = orderHref(r);
+    var actions = [];
+    var oh = orderHref(r);
     if (oh) {
       actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐 ↗</a>');
     }
@@ -201,71 +232,209 @@
         (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
         (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
         (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
-        (function(){ var dc=deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
+        (function () { var dc = deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
         '<div class="actions">' + actions.join('') + '</div>' +
       '</article>'
     );
   }
 
-  function matches(r, q, district, cuisine) {
-    if (district && r.district !== district) return false;
-    if (cuisine) {
-      const blob = ((r.cuisine || '') + ' ' + (r.cuisineTags || []).join(' ')).toLowerCase();
-      if (blob.indexOf(cuisine.toLowerCase()) === -1) return false;
-    }
-    if (q) {
-      const hay = [
-        r.name, r.district, r.address, r.cuisine,
-        (r.cuisineTags || []).join(' '), r.phone, r.evidence
-      ].join(' ').toLowerCase();
-      const tokens = q.toLowerCase().trim().split(/\s+/);
-      for (let i = 0; i < tokens.length; i++) {
-        if (hay.indexOf(tokens[i]) === -1) return false;
+
+  /** Longest-first food terms for splitting CJK queries without spaces. */
+  var SEARCH_TERMS = [
+    '健康餐盒','手搖飲料','手搖茶飲','早午餐','牛肉麵','滷肉飯','雞肉飯','火雞肉飯',
+    '牛排','便當','盒餐','餐盒','燒臘','燒鴨','火鍋','拉麵','壽司','丼飯','蓋飯',
+    '小吃','麵食','涼麵','水餃','鍋貼','炸雞','雞排','鹽酥雞','咖哩','定食','居酒屋',
+    '韓式','日式','泰式','義式','西餐','咖啡','甜點','蛋糕','飲料','茶飲','手搖',
+    '素食','蔬食','自助餐','熱炒','合菜','鐵板','排骨','雞腿','豬排','魚排'
+  ];
+
+  function tokenizeQuery(q) {
+    q = String(q || '').toLowerCase().trim();
+    if (!q) return [];
+    if (/\s/.test(q)) return q.split(/\s+/).filter(Boolean);
+    var found = [];
+    var rest = q;
+    var terms = SEARCH_TERMS.slice().sort(function (a, b) { return b.length - a.length; });
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i].toLowerCase();
+      if (t.length >= 2 && rest.indexOf(t) !== -1) {
+        found.push(t);
+        rest = rest.split(t).join('\u0001');
       }
+    }
+    if (!found.length) return [q];
+    var seen = {};
+    var out = [];
+    for (var j = 0; j < found.length; j++) {
+      if (!seen[found[j]]) { seen[found[j]] = 1; out.push(found[j]); }
+    }
+    return out;
+  }
+
+  function haystackOf(r) {
+    return [
+      r.name, r.city, r.district, r.address, r.cuisine,
+      (r.cuisineTags || []).join(' '), r.phone, r.evidence
+    ].join(' ').toLowerCase();
+  }
+
+  function tokensMatchAnd(hay, tokens) {
+    for (var i = 0; i < tokens.length; i++) {
+      if (hay.indexOf(tokens[i]) === -1) return false;
     }
     return true;
   }
 
-  function initIndex() {
-    const data = window.RESTAURANTS || [];
-    const qEl = $('#q');
-    const dEl = $('#district');
-    const cEl = $('#cuisine');
-    const listEl = $('#list');
-    const countEl = $('#count');
-    if (!listEl) return;
+  function tokensMatchOr(hay, tokens) {
+    for (var i = 0; i < tokens.length; i++) {
+      if (hay.indexOf(tokens[i]) !== -1) return true;
+    }
+    return false;
+  }
 
-    DISTRICTS.forEach(function (d) {
-      if (!data.some(function (r) { return r.district === d; })) return;
-      const opt = document.createElement('option');
-      opt.value = d;
+  function matches(r, q, city, district, cuisine, softOr) {
+    if (city && r.city !== city) return false;
+    if (district && r.district !== district) return false;
+    if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
+    if (q) {
+      var hay = haystackOf(r);
+      var raw = String(q).toLowerCase().trim();
+      // Prefer exact phrase when present
+      if (hay.indexOf(raw) !== -1) return true;
+      var tokens = tokenizeQuery(q);
+      if (!tokens.length) return true;
+      if (softOr && tokens.length > 1) return tokensMatchOr(hay, tokens);
+      return tokensMatchAnd(hay, tokens);
+    }
+    return true;
+  }
+
+
+  function rebuildDistrictSelect(dEl, data, city, selectedDistrict) {
+    dEl.innerHTML = '';
+    if (!city) {
+      dEl.disabled = true;
+      var ph = document.createElement('option');
+      ph.value = '';
+      ph.textContent = '先選縣市';
+      dEl.appendChild(ph);
+      return;
+    }
+    dEl.disabled = false;
+    var all = document.createElement('option');
+    all.value = '';
+    all.textContent = '全部行政區';
+    dEl.appendChild(all);
+    districtsForCity(data, city).forEach(function (d) {
+      var opt = document.createElement('option');
+      opt.value = encodeDistrictValue(city, d);
       opt.textContent = d;
       dEl.appendChild(opt);
     });
+    var want = encodeDistrictValue(city, selectedDistrict);
+    if (want && Array.prototype.some.call(dEl.options, function (o) { return o.value === want; })) {
+      dEl.value = want;
+    } else {
+      dEl.value = '';
+    }
+  }
+
+  function initIndex() {
+    var data = window.RESTAURANTS || [];
+    var qEl = $('#q');
+    var cityEl = $('#city');
+    var dEl = $('#district');
+    var cEl = $('#cuisine');
+    var listEl = $('#list');
+    var countEl = $('#count');
+    if (!listEl || !cityEl || !dEl) return;
+
+    citiesPresent(data).forEach(function (city) {
+      var opt = document.createElement('option');
+      opt.value = city;
+      opt.textContent = city;
+      cityEl.appendChild(opt);
+    });
 
     cuisineOptions(data).forEach(function (c) {
-      const opt = document.createElement('option');
+      var opt = document.createElement('option');
       opt.value = c;
       opt.textContent = c;
       cEl.appendChild(opt);
     });
 
     qEl.value = getParam('q') || '';
-    dEl.value = getParam('district') || '';
     cEl.value = getParam('cuisine') || '';
 
-    function render() {
-      const q = qEl.value.trim();
-      const district = dEl.value;
-      const cuisine = cEl.value;
-      setParams({ q: q || null, district: district || null, cuisine: cuisine || null });
+    var rawCity = getParam('city');
+    var rawDistrict = getParam('district') || '';
+    var parsed = parseDistrictParam(rawDistrict, rawCity || '');
+    // Default city = 台北市 when no city param (and district didn't imply otherwise)
+    var city = rawCity;
+    if (city == null || city === undefined) {
+      // absent from URL → default Taipei
+      city = parsed.city || '台北市';
+    }
+    // empty string means user chose 全部縣市
+    var district = parsed.district || '';
+    if (parsed.city && (!city || city === parsed.city)) {
+      city = parsed.city;
+    }
+    if (district && city && data.every(function (r) {
+      return !(r.city === city && r.district === district);
+    })) {
+      // invalid combo
+      district = '';
+    }
+    cityEl.value = city || '';
+    rebuildDistrictSelect(dEl, data, city || '', district);
 
-      const filtered = data.filter(function (r) { return matches(r, q, district, cuisine); });
+    function render() {
+      var q = qEl.value.trim();
+      var cityVal = cityEl.value;
+      var parsedD = parseDistrictParam(dEl.value, cityVal);
+      var districtVal = parsedD.district;
+      var cuisine = cEl.value;
+      var districtParam = encodeDistrictValue(cityVal, districtVal) || null;
+      setParams({
+        q: q || null,
+        city: cityVal || null,
+        district: districtParam,
+        cuisine: cuisine || null
+      });
+
+      var searchRelaxed = false;
+      var filtered = data.filter(function (r) {
+        return matches(r, q, cityVal, districtVal, cuisine, false);
+      });
+      if (q && filtered.length === 0) {
+        var _tok = tokenizeQuery(q);
+        if (_tok.length > 1) {
+          searchRelaxed = true;
+          filtered = data.filter(function (r) {
+            return matches(r, q, cityVal, districtVal, cuisine, true);
+          });
+        }
+      }
       filtered.sort(function (a, b) {
         return (a.name || '').localeCompare(b.name || '', 'zh-Hant');
       });
 
-      countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家';
+      countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家' +
+        (cityVal ? ('（目前：' + escapeHtml(cityVal) + (districtVal ? (' · ' + escapeHtml(districtVal)) : '') + '）') : '');
+      var hint = document.getElementById('search-relaxed-hint');
+      if (!hint && countEl && countEl.parentNode) {
+        hint = document.createElement('p');
+        hint.id = 'search-relaxed-hint';
+        hint.className = 'muted search-relaxed-hint';
+        countEl.parentNode.insertBefore(hint, countEl.nextSibling);
+      }
+      if (hint) {
+        hint.textContent = searchRelaxed
+          ? '找不到同時符合的店，已改為較寬鬆搜尋（符合其中一個詞即可）。'
+          : '';
+        hint.hidden = !searchRelaxed;
+      }
       var heroStats = $('#hero-stats');
       if (heroStats) {
         heroStats.innerHTML = '目前收錄 <strong>' + data.length + '</strong> 家店家自送通道';
@@ -277,10 +446,14 @@
       listEl.innerHTML = filtered.map(cardHtml).join('');
     }
 
-    let t;
+    var t;
     qEl.addEventListener('input', function () {
       clearTimeout(t);
       t = setTimeout(render, 120);
+    });
+    cityEl.addEventListener('change', function () {
+      rebuildDistrictSelect(dEl, data, cityEl.value, '');
+      render();
     });
     dEl.addEventListener('change', render);
     cEl.addEventListener('change', render);
@@ -288,15 +461,15 @@
   }
 
   function findByIdOrSlug(id) {
-    const data = window.RESTAURANTS || [];
+    var data = window.RESTAURANTS || [];
     return data.find(function (r) { return r.id === id || r.slug === id; });
   }
 
   function initDetail() {
-    const root = $('#detail');
+    var root = $('#detail');
     if (!root) return;
-    const id = getParam('id') || getParam('slug');
-    const r = id ? findByIdOrSlug(id) : null;
+    var id = getParam('id') || getParam('slug');
+    var r = id ? findByIdOrSlug(id) : null;
     if (!r) {
       root.innerHTML =
         '<div class="detail-card"><h1>找不到店家</h1>' +
@@ -311,13 +484,12 @@
         (html ? value : escapeHtml(String(value))) + '</dd></div>';
     }
 
-    const badges = [];
-    badges.push('<span class="badge district">' + escapeHtml(r.district || '') + '</span>');
+    var badges = placeBadges(r);
     deliveryChips(r).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">全國／大型連鎖</span>');
 
-    const actions = [];
-    const oh = orderHref(r);
+    var actions = [];
+    var oh = orderHref(r);
     if (oh) {
       actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐</a>');
     }
@@ -328,22 +500,23 @@
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">LINE 官方帳號</a>');
     }
 
-    let freeText = '';
+    var freeText = '';
     if (r.freeDeliveryThreshold != null) {
       freeText = typeof r.freeDeliveryThreshold === 'number'
         ? ('滿 NT$' + r.freeDeliveryThreshold)
         : String(r.freeDeliveryThreshold);
     }
-    let feeText = '';
+    var feeText = '';
     if (r.deliveryFee != null) {
       feeText = typeof r.deliveryFee === 'number'
         ? ('NT$' + r.deliveryFee)
         : String(r.deliveryFee);
     }
 
+    var backCity = r.city ? ('?city=' + encodeURIComponent(r.city)) : '';
     root.innerHTML =
       '<div class="detail-card">' +
-        '<a class="back-link" href="index.html">← 回目錄</a>' +
+        '<a class="back-link" href="index.html' + backCity + '">← 回目錄</a>' +
         '<div class="badges">' + badges.join('') + '</div>' +
         '<h1>' + escapeHtml(r.name) + '</h1>' +
         channelChips(r) +
@@ -353,6 +526,7 @@
         '</div>' +
         '<dl>' +
           row('料理類型', r.cuisine) +
+          row('縣市', r.city) +
           row('行政區', r.district) +
           row('地址', r.address) +
           row('電話', r.phone ? ('<a href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>') : null, true) +
