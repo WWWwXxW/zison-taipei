@@ -197,6 +197,26 @@ DISTRICTS = [
     ("新竹縣多區", "hsinchu-county-multi"),
 
 
+    # Miaoli County
+    ("苗栗市", "miaoli-city"),
+    ("頭份市", "toufen"),
+    ("竹南鎮", "zhunan"),
+    ("後龍鎮", "houlong"),
+    ("通霄鎮", "tongxiao"),
+    ("苑裡鎮", "yuanli"),
+    ("卓蘭鎮", "zhuolan"),
+    ("造橋鄉", "zaoqiao"),
+    ("西湖鄉", "xihu-ml"),
+    ("頭屋鄉", "touwu"),
+    ("公館鄉", "gongguan"),
+    ("銅鑼鄉", "tongluo"),
+    ("三義鄉", "sanyi"),
+    ("南庄鄉", "nanzhuang"),
+    ("獅潭鄉", "shitan"),
+    ("泰安鄉", "taian-ml"),
+    ("三灣鄉", "sanwan"),
+    ("苗栗縣多區", "miaoli-county-multi"),
+
     # Nantou County
     ("南投市", "nantou-city"),
     ("埔里鎮", "puli"),
@@ -287,7 +307,7 @@ DISTRICTS = [
 DISTRICT_SLUG = {name: slug for name, slug in DISTRICTS}
 DISTRICT_NAME = {slug: name for name, slug in DISTRICTS}
 
-CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "台中市", "南投縣", "彰化市", "彰化縣", "雲林縣", "嘉義市", "嘉義縣", "台南市", "高雄市"]
+CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "苗栗縣", "台中市", "南投縣", "彰化市", "彰化縣", "雲林縣", "嘉義市", "嘉義縣", "台南市", "高雄市"]
 
 # District → city (same partitions as DISTRICTS list above)
 _DISTRICT_CITY_PARTS = [
@@ -299,6 +319,7 @@ _DISTRICT_CITY_PARTS = [
     (["中西區", "安平區", "安南區", "永康區", "歸仁區", "新化區", "左鎮區", "玉井區", "楠西區", "南化區", "仁德區", "關廟區", "龍崎區", "官田區", "麻豆區", "佳里區", "西港區", "七股區", "將軍區", "學甲區", "北門區", "新營區", "後壁區", "白河區", "東山區", "六甲區", "下營區", "柳營區", "鹽水區", "善化區", "大內區", "山上區", "新市區", "安定區", "台南多區"], "台南市"),
     (["香山區", "新竹市多區"], "新竹市"),
     (["竹北市", "竹東鎮", "新埔鎮", "關西鎮", "湖口鄉", "新豐鄉", "芎林鄉", "橫山鄉", "北埔鄉", "寶山鄉", "峨眉鄉", "尖石鄉", "五峰鄉", "新竹縣多區"], "新竹縣"),
+    (["苗栗市", "頭份市", "竹南鎮", "後龍鎮", "通霄鎮", "苑裡鎮", "卓蘭鎮", "造橋鄉", "西湖鄉", "頭屋鄉", "公館鄉", "銅鑼鄉", "三義鄉", "南庄鄉", "獅潭鄉", "泰安鄉", "三灣鄉", "苗栗縣多區"], "苗栗縣"),
     (["南投市", "埔里鎮", "草屯鎮", "竹山鎮", "集集鎮", "名間鄉", "鹿谷鄉", "中寮鄉", "魚池鄉", "國姓鄉", "水里鄉", "信義鄉", "仁愛鄉", "南投縣多區"], "南投縣"),
     (["彰化市", "彰化市多區"], "彰化市"),
     (["員林市", "鹿港鎮", "和美鎮", "北斗鎮", "溪湖鎮", "田中鎮", "二林鎮", "線西鄉", "伸港鄉", "福興鄉", "秀水鄉", "花壇鄉", "芬園鄉", "大村鄉", "埔鹽鄉", "埔心鄉", "永靖鄉", "社頭鄉", "彰化縣多區"], "彰化縣"),
@@ -313,71 +334,34 @@ for _names, _city in _DISTRICT_CITY_PARTS:
 
 AMBIGUOUS_DISTRICTS = {"北區", "南區", "東區", "西區", "中區"}
 
-# Bucket pages: slug, display label, keyword list (substring match on cuisine + tags)
+# Curated cuisine filters only (aligned with app.js CUISINE_FILTERS).
+# slug, display label, keyword list (substring match on cuisine + tags, casefold).
+# "其他" is special: venues matching no other filter's keywords.
 BUCKETS = [
-    ("taiwanese", "台菜", ["台菜", "台式", "台灣料理", "台灣創意", "客家", "滷肉", "江浙", "上海", "合菜", "中式飯館"]),
-    ("hotpot", "火鍋", ["火鍋", "麻辣", "涮鍋", "鍋物", "部隊鍋"]),
-    ("japanese", "日式", ["日式", "壽司", "拉麵", "鰻魚", "沖繩", "和菓子", "定食", "丼"]),
-    ("italian", "義式", ["義式", "披薩", "義大利", "Pizza", "薄皮披薩"]),
-    ("thai", "泰式", ["泰式"]),
-    ("korean", "韓式", ["韓式"]),
-    ("chinese", "中式", ["中式", "川菜", "江浙", "粵", "湘", "上海", "烤鴨", "燒臘", "熱炒"]),
-    ("american", "美式", ["美式", "漢堡", "BBQ", "速食"]),
-    ("cafe-dessert", "咖啡甜點", ["甜點", "咖啡", "蛋糕", "可麗露", "烘焙", "甜品", "布丁", "糕點", "雞蛋糕", "豆花", "巧克力"]),
-    ("bento", "便當小吃", ["便當", "小吃", "餐盒", "滷味", "雞排", "蔥油餅", "鹹水雞", "炸物"]),
+    ("bento", "便當／快餐", ["便當", "快餐", "飯包", "盒餐", "會議便當", "會議餐盒", "池上", "自助餐", "簡餐", "排骨飯", "烤肉飯", "雞腿", "排骨", "鐵路便當", "鐵道便當"]),
+    ("healthy-box", "健康餐盒", ["健康餐盒", "健康低卡", "健康便當", "低卡", "舒肥", "循環盒", "健身餐", "輕盈"]),
+    ("siu-mei", "燒臘", ["燒臘", "燒鴨", "烤鴨", "叉燒", "油雞"]),
+    ("noodles", "麵食", ["麵食", "涼麵", "牛肉麵", "刀削", "麵線", "義大利麵", "拉麵", "陽春麵", "担担", "擔擔", "鍋燒", "炒麵", "湯麵", "水餃", "鍋貼", "餛飩", "義麵"]),
+    ("rice-bowl", "蓋飯／丼", ["蓋飯", "丼飯", "丼", "滷肉飯", "雞肉飯", "咖哩飯", "燒肉飯"]),
+    ("hotpot", "火鍋", ["火鍋", "麻辣鍋", "涮鍋", "鍋物", "部隊鍋", "麻辣", "石頭火鍋", "小火鍋"]),
+    ("snacks", "小吃", ["小吃", "滷味", "鹹水雞", "蔥油餅", "肉羹", "滷肉", "臭豆腐", "刈包", "鹽酥雞", "路邊"]),
+    ("brunch", "早午餐", ["早午餐", "輕食", "三明治", "Brunch", "brunch", "吐司", "蛋餅"]),
+    ("cafe-dessert", "咖啡／甜點", ["咖啡", "甜點", "蛋糕", "可麗露", "烘焙", "甜品", "布丁", "糕點", "私房甜點", "蛋糕甜點", "豆花", "巧克力", "糕餅", "麵包", "伴手禮"]),
+    ("hand-drink", "手搖飲", ["手搖", "茶飲", "手搖飲", "手搖飲料", "手搖茶飲", "飲料店", "珍奶", "珍珠奶茶"]),
+    ("japanese", "日式", ["日式", "日本和食", "和食", "壽司", "拉麵", "鰻魚", "定食", "丼", "刺身", "居酒屋", "日式便當", "丼飯", "握壽司"]),
+    ("korean", "韓式", ["韓式", "韓國", "韓定食", "部隊鍋", "石鍋拌飯", "韓式炸雞"]),
+    ("thai-sea", "泰式／東南亞", ["泰式", "南洋", "海南雞", "越南", "印尼", "马来", "馬來", "咖哩", "叻沙", "新加坡"]),
+    ("western", "義式／西式", ["義式", "披薩", "pizza", "Pizza", "義大利", "義法", "西式", "歐式", "美式", "漢堡", "牛排", "Pasta", "pasta", "西餐廳"]),
+    ("chinese-taiwanese", "中式／台菜", ["中式", "台菜", "台式", "中港", "川菜", "粵菜", "湘菜", "合菜", "熱炒", "客家", "江浙", "上海", "家常", "港式", "粵式", "魯肉"]),
+    ("vegetarian", "蔬食／素食", ["蔬食", "素食", "素食蔬食", "蔬食友善", "純素", "奶蛋素", "植物肉"]),
+    ("fried", "炸物", ["炸物", "炸雞", "雞排", "鹽酥雞", "唐揚", "炸豬排", "卡啦"]),
+    ("other", "其他", []),  # filled specially in main()
 ]
 BUCKET_SLUGS = {s for s, _, _ in BUCKETS}
 
-# Exact cuisineTag → slug (same table as before + new Oddle tags)
-TAG_SLUG = {
-    "台菜": "taiwanese",
-    "泰式": "thai",
-    "韓式": "korean",
-    "美式": "american",
-    "火鍋": "hotpot",
-    "日式": "japanese",
-    "義式": "italian",
-    "中式": "chinese",
-    "Pizza": "pizza",
-    "手搖飲": "hand-drink",
-    "手搖飲料": "hand-beverage",
-    "咖啡": "coffee",
-    "甜點": "dessert",
-    "早午餐": "brunch",
-    "可麗露": "cannele",
-    "咖啡豆": "coffee-beans",
-    "素食蔬食": "vegetarian",
-    "輕食": "light-bites",
-    "台式便當": "taiwanese-bento",
-    "西式料理": "western",
-    "伴手禮": "souvenir",
-    "南北貨": "dry-goods",
-    "烘焙": "bakery",
-    "健康餐盒": "healthy-box",
-    "甜品": "tianpin",
-    "蛋糕": "cake",
-    "會議便當": "meeting-bento",
-    "會議餐盒": "meeting-box",
-    "茶飲": "tea-drink",
-    # New Oddle discover tags (≥3 expected)
-    "私房甜點": "private-dessert",
-    "蔬食友善": "veggie-friendly",
-    "蛋糕甜點": "cake-dessert",
-    "中港料理": "chinese-hk",
-    "南洋料理": "nanyang",
-    "義法料理": "italo-french",
-    "生鮮系列": "fresh-goods",
-    "美式餐點": "american-meals",
-    "日本和食": "washoku",
-    "泰式料理": "thai-cuisine",
-    "歐式料理": "european",
-    "麻辣鍋": "mala-hotpot",
-    "海鮮合菜": "seafood-banquet",
-    "西餐廳": "western-dining",
-    "台北早午餐": "taipei-brunch",
-    "海鮮百匯": "seafood-buffet",
-    "韓國料理": "korean-cuisine",
-}
+# Legacy exact-tag slug map kept only for any external refs; cuisine pages
+# are curated BUCKETS only (no noisy per-tag cuisine/*.html).
+TAG_SLUG = {}
 
 
 def escape_html(s: object) -> str:
@@ -391,7 +375,7 @@ def escape_html(s: object) -> str:
 
 
 def blob(r: dict) -> str:
-    return (r.get("cuisine") or "") + " " + " ".join(r.get("cuisineTags") or [])
+    return ((r.get("cuisine") or "") + " " + " ".join(r.get("cuisineTags") or [])).lower()
 
 
 def order_href(r: dict) -> str | None:
@@ -769,41 +753,33 @@ def main() -> None:
             district_page(name, slug, items, district_counts_sorted), encoding="utf-8"
         )
 
-    # --- Cuisines ---
+    # --- Cuisines (curated filters only; no per-raw-tag pages) ---
     cuisine_groups: dict[str, tuple[str, list[dict]]] = {}  # slug -> (label, items)
 
+    def matches_kws(r: dict, kws: list[str]) -> bool:
+        b = blob(r)
+        return any(k.lower() in b for k in kws)
+
+    matched_any: set[str] = set()
     for slug, label, kws in BUCKETS:
-        items = [r for r in data if any(k in blob(r) for k in kws)]
-        if len(items) >= 3:
+        if label == "其他":
+            continue
+        items = [r for r in data if matches_kws(r, kws)]
+        for r in items:
+            rid = r.get("id")
+            if rid:
+                matched_any.add(rid)
+        if items:
             cuisine_groups[slug] = (label, items)
 
-    tag_counts: Counter[str] = Counter()
-    tag_members: dict[str, list[dict]] = defaultdict(list)
-    for r in data:
-        seen = set()
-        for t in r.get("cuisineTags") or []:
-            if not t or t == SKIP_CUISINE or t in seen:
-                continue
-            seen.add(t)
-            tag_counts[t] += 1
-            tag_members[t].append(r)
+    other_items = [r for r in data if r.get("id") not in matched_any]
+    if other_items:
+        cuisine_groups["other"] = ("其他", other_items)
 
-    for tag, cnt in tag_counts.items():
-        if cnt < 3 or tag == SKIP_CUISINE:
-            continue
-        slug = resolve_tag_page_slug(tag)
-        # If slug already used by a bucket with same label semantics, keep bucket;
-        # -tag pages are for exact membership when base slug is a bucket.
-        if slug in cuisine_groups and not slug.endswith("-tag"):
-            # Exact tag page would overwrite bucket — only skip if it's the same membership intent.
-            # Buckets always win the base slug; exact-only tags that map to unused slugs are fine.
-            # If TAG_SLUG maps to a bucket slug without -tag (shouldn't after resolve), skip.
-            continue
-        cuisine_groups[slug] = (tag, tag_members[tag])
-
+    bucket_order = {slug: i for i, (slug, _, _) in enumerate(BUCKETS)}
     cuisine_counts_sorted = sorted(
         [(label, slug, len(items)) for slug, (label, items) in cuisine_groups.items()],
-        key=lambda x: (-x[2], x[0]),
+        key=lambda x: (bucket_order.get(x[1], 999), -x[2], x[0]),
     )
 
     cui_dir = ROOT / "cuisine"
