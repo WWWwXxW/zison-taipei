@@ -163,6 +163,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/taitung-city.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/zhongxi.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -644,6 +650,12 @@
   </url>
   <url>
     <loc>https://wwwwxxw.github.io/zison-taipei/district/taoyuan-luzhu.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://wwwwxxw.github.io/zison-taipei/district/guanshan.html</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
