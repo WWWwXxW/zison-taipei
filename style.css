@@ -363,6 +363,10 @@ img { max-width: 100%; }
 
 .badge.delivery-free {
   background: transparent;
+  color: #8a735a;
+  border: 1px dashed #d4c4b0;
+  font-weight: 500;
+  background: transparent;
   color: var(--accent-dark);
   border: 1px solid var(--accent-soft);
 }
@@ -748,3 +752,18 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 @media(min-width:768px){.filters .row{grid-template-columns:2fr 1fr 1fr}.filters .row>div:first-child{grid-column:auto}.browse-blocks{grid-template-columns:1fr 1fr}.site-header{padding-block:20px}}
 @media(min-width:960px){.cards{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* founder: 免運 = secondary (muted), 起送 = primary */
+.badge.delivery-min {
+  background: #ffe1a0 !important;
+  color: #70400b !important;
+  font-weight: 700 !important;
+}
+.badge.delivery-free {
+  background: transparent !important;
+  color: #8a735a !important;
+  border: 1px dashed #d4c4b0 !important;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+  opacity: 0.85;
+}

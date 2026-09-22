@@ -81,21 +81,27 @@
   }
 
 
-  /** Up to 2 delivery-condition chips from deliveryMinLabel + optional free threshold. */
+    /** Delivery chips: 起送 primary; 免運 secondary (never the hero). */
   function deliveryChips(r) {
     var chips = [];
     var label = r.deliveryMinLabel;
-    // founder: hide 免運門檻 — high free-shipping thresholds scare users; keep 起送 mins only
-    if (label && String(label).indexOf('免運') !== -1) {
-      label = null;
-    }
-    if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN') {
+    var isFreeLabel = label && String(label).indexOf('免運') !== -1;
+    // Primary: 起送 / min order (not free-shipping)
+    if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN' && !isFreeLabel) {
       chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
     }
-    /* founder: do not show 免運門檻 chips — thresholds are usually too high */
-    var ft = r.freeDeliveryThreshold; // kept in data, not rendered on cards
+    // Secondary: 免運門檻 — muted chip only
+    var freeLabel = null;
+    if (isFreeLabel) {
+      freeLabel = String(label).trim();
+    } else if (r.freeDeliveryThreshold != null && r.freeDeliveryThreshold !== '') {
+      var n = Number(r.freeDeliveryThreshold);
+      freeLabel = isFinite(n) ? ('滿 $' + n + ' 免運') : null;
     }
-    return chips;
+    if (freeLabel) {
+      chips.push('<span class="badge delivery-free" title="免運門檻通常較高，付運費往往仍划算">' + escapeHtml(freeLabel) + '</span>');
+    }
+    return chips.slice(0, 2);
   }
 
   function cardHtml(r) {
@@ -121,7 +127,7 @@
         (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
         (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
         (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
-        '<div class="delivery-conditions" aria-label="外送門檻">' + (deliveryChips(r).join('') || '<span class="condition-unknown">外送門檻未提供，請洽店家</span>') + '</div>' +
+        (function(){ var dc=deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
         '<div class="actions">' + actions.join('') + '</div>' +
       '</article>'
     );
