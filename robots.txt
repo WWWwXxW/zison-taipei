@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wwwwxxw.github.io/zison-taipei/sitemap.xml
+Sitemap: https://zisong.tw/sitemap.xml
+
+# see also https://zisong.tw/llms.txt
