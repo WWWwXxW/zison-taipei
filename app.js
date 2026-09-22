@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var CITY_ORDER = ['台北市', '新北市', '桃園市', '新竹市', '新竹縣', '台中市', '彰化市', '彰化縣', '台南市', '高雄市'];
+  var CITY_ORDER = ['台北市', '新北市', '桃園市', '新竹市', '新竹縣', '台中市', '彰化市', '彰化縣', '嘉義市', '嘉義縣', '台南市', '高雄市'];
   /** District names that collide across cities nationwide — option/URL use city|district. */
   var AMBIGUOUS_DISTRICTS = {
     '北區': 1, '南區': 1, '東區': 1, '西區': 1, '中區': 1
