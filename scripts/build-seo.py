@@ -220,11 +220,34 @@ DISTRICTS = [
     ("永靖鄉", "yongjing"),
     ("社頭鄉", "shetou"),
     ("彰化縣多區", "changhua-county-multi"),
+
+    # Chiayi City (東區/西區 are AMBIGUOUS — shared slug with Taichung; browse uses city|district filter)
+    ("嘉義市多區", "chiayi-city-multi"),
+
+    # Chiayi County
+    ("太保市", "taibao"),
+    ("朴子市", "puzi"),
+    ("民雄鄉", "minxiong"),
+    ("大林鎮", "dalin"),
+    ("中埔鄉", "zhongpu"),
+    ("水上鄉", "shuishang"),
+    ("番路鄉", "fanlu"),
+    ("新港鄉", "xingang-cy"),
+    ("六腳鄉", "liujiao"),
+    ("東石鄉", "dongshi-cy"),
+    ("布袋鎮", "budai"),
+    ("義竹鄉", "yizhu"),
+    ("鹿草鄉", "lucao"),
+    ("竹崎鄉", "zhuqi"),
+    ("梅山鄉", "meishan"),
+    ("阿里山鄉", "alishan"),
+    ("溪口鄉", "xikou"),
+    ("嘉義縣多區", "chiayi-county-multi"),
 ]
 DISTRICT_SLUG = {name: slug for name, slug in DISTRICTS}
 DISTRICT_NAME = {slug: name for name, slug in DISTRICTS}
 
-CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "台中市", "彰化市", "彰化縣", "台南市", "高雄市"]
+CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "台中市", "彰化市", "彰化縣", "嘉義市", "嘉義縣", "台南市", "高雄市"]
 
 # District → city (same partitions as DISTRICTS list above)
 _DISTRICT_CITY_PARTS = [
@@ -238,6 +261,8 @@ _DISTRICT_CITY_PARTS = [
     (["竹北市", "竹東鎮", "新埔鎮", "關西鎮", "湖口鄉", "新豐鄉", "芎林鄉", "橫山鄉", "北埔鄉", "寶山鄉", "峨眉鄉", "尖石鄉", "五峰鄉", "新竹縣多區"], "新竹縣"),
     (["彰化市", "彰化市多區"], "彰化市"),
     (["員林市", "鹿港鎮", "和美鎮", "北斗鎮", "溪湖鎮", "田中鎮", "二林鎮", "線西鄉", "伸港鄉", "福興鄉", "秀水鄉", "花壇鄉", "芬園鄉", "大村鄉", "埔鹽鄉", "埔心鄉", "永靖鄉", "社頭鄉", "彰化縣多區"], "彰化縣"),
+    (["嘉義市多區"], "嘉義市"),
+    (["太保市", "朴子市", "民雄鄉", "大林鎮", "中埔鄉", "水上鄉", "番路鄉", "新港鄉", "六腳鄉", "東石鄉", "布袋鎮", "義竹鄉", "鹿草鄉", "竹崎鄉", "梅山鄉", "阿里山鄉", "溪口鄉", "嘉義縣多區"], "嘉義縣"),
 ]
 DISTRICT_CITY: dict[str, str] = {}
 for _names, _city in _DISTRICT_CITY_PARTS:
@@ -596,48 +621,57 @@ def update_index(
     cuisine_counts: list[tuple[str, str, int]],
     data: list[dict],
 ) -> None:
-    """Rewrite index browse: city-grouped districts + cuisine list."""
+    """Rewrite index browse: city-grouped districts + cuisine list.
+
+    Groups by live venue city so multi-city ambiguous districts (東區/西區/…)
+    appear under each city. Ambiguous districts link to index filter
+    (?city=&district=city|district); unique districts link to static pages.
+    """
     index_path = ROOT / "index.html"
     text = index_path.read_text(encoding="utf-8")
 
-    # Prefer live city from venues; fall back to DISTRICT_CITY map
-    city_of: dict[str, str] = {}
+    slug_of = {name: slug for name, slug, _n in district_counts}
+    # Live counts: city → district → n
+    live: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     for r in data:
-        d = r.get("district")
         c = (r.get("city") or "").strip()
-        if d and c and d not in city_of:
-            city_of[d] = c
-    for name, _slug, _n in district_counts:
-        if name not in city_of:
-            city_of[name] = DISTRICT_CITY.get(name, "其他")
+        d = (r.get("district") or "").strip()
+        if c and d:
+            live[c][d] += 1
 
-    by_city: dict[str, list[tuple[str, str, int]]] = defaultdict(list)
-    for name, slug, n in district_counts:
-        by_city[city_of.get(name, "其他")].append((name, slug, n))
-
-    city_keys = [c for c in CITY_ORDER if c in by_city]
-    for c in sorted(by_city.keys()):
+    city_keys = [c for c in CITY_ORDER if c in live]
+    for c in sorted(live.keys()):
         if c not in city_keys:
             city_keys.append(c)
 
     parts: list[str] = []
     for city in city_keys:
-        items = sorted(by_city[city], key=lambda x: (-x[2], x[0]))
-        parts.append(f'        <h3>{escape_html(city)}</h3>')
+        items = sorted(live[city].items(), key=lambda x: (-x[1], x[0]))
+        parts.append(f"        <h3>{escape_html(city)}</h3>")
         parts.append('        <ul class="browse-list">')
-        for name, slug, n in items:
+        for name, n in items:
+            if name in AMBIGUOUS_DISTRICTS:
+                href = f"index.html?city={quote(city)}&district={quote(city + '|' + name)}"
+                label = name
+            elif name in slug_of:
+                href = f"district/{slug_of[name]}.html"
+                label = name
+            else:
+                href = f"index.html?city={quote(city)}&district={quote(name)}"
+                label = name
             parts.append(
-                f'        <li><a href="district/{slug}.html">{escape_html(name)}</a><span class="muted">（{n}）</span></li>'
+                f'        <li><a href="{href}">{escape_html(label)}</a>'
+                f'<span class="muted">（{n}）</span></li>'
             )
-        parts.append('        </ul>')
+        parts.append("        </ul>")
     d_block = "\n".join(parts)
 
     c_lis = "\n".join(
-        f'        <li><a href="cuisine/{slug}.html">{escape_html(label)}</a><span class="muted">（{n}）</span></li>'
+        f'        <li><a href="cuisine/{slug}.html">{escape_html(label)}</a>'
+        f'<span class="muted">（{n}）</span></li>'
         for label, slug, n in cuisine_counts
     )
 
-    # Replace whole district browse block (h2 + content until cuisine h2)
     text2, n1 = re.subn(
         r'(<div class="prose browse-block">\n\s*<h2>)依(?:行政區|縣市)瀏覽(</h2>\n)(.*?)(\n      </div>\n      <div class="prose browse-block">\n        <h2>依料理瀏覽</h2>)',
         r"\1依縣市瀏覽\2" + d_block + r"\4",
@@ -652,7 +686,6 @@ def update_index(
         count=1,
         flags=re.S,
     )
-    # disclosure summary
     text3 = text3.replace("依行政區／料理瀏覽所有分類", "依縣市／料理瀏覽所有分類")
     text3 = text3.replace("依縣市／料理瀏覽所有分類", "依縣市／料理瀏覽所有分類")  # idempotent
     if n1 != 1 or n2 != 1:
