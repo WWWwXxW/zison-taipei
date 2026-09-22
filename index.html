@@ -37,9 +37,15 @@
           <input id="q" type="search" placeholder="搜尋店名、料理、地址…" autocomplete="off" />
         </div>
         <div>
+          <label for="city">縣市</label>
+          <select id="city">
+            <option value="">全部縣市</option>
+          </select>
+        </div>
+        <div>
           <label for="district">行政區</label>
-          <select id="district">
-            <option value="">全部行政區</option>
+          <select id="district" disabled>
+            <option value="">先選縣市</option>
           </select>
         </div>
         <div>
@@ -57,112 +63,125 @@
 
     <section id="list" class="cards" aria-live="polite"><p class="empty">正在載入店家資料…</p></section>
 <noscript><p class="notice">請開啟 JavaScript 使用搜尋，或展開下方分類瀏覽店家。</p></noscript>
-<details class="browse-disclosure"><summary>依行政區／料理瀏覽所有分類</summary>
+<details class="browse-disclosure"><summary>依縣市／料理瀏覽所有分類</summary>
     <section class="browse-blocks" aria-label="分類瀏覽">
       <div class="prose browse-block">
-        <h2>依行政區瀏覽</h2>
+        <h2>依縣市瀏覽</h2>
+        <h3>台北市</h3>
         <ul class="browse-list">
         <li><a href="district/daan.html">大安區</a><span class="muted">（117）</span></li>
         <li><a href="district/zhongshan.html">中山區</a><span class="muted">（103）</span></li>
         <li><a href="district/datong.html">大同區</a><span class="muted">（90）</span></li>
+        <li><a href="district/xinyi.html">信義區</a><span class="muted">（63）</span></li>
+        <li><a href="district/songshan.html">松山區</a><span class="muted">（58）</span></li>
+        <li><a href="district/neihu.html">內湖區</a><span class="muted">（53）</span></li>
+        <li><a href="district/zhongzheng.html">中正區</a><span class="muted">（47）</span></li>
+        <li><a href="district/nangang.html">南港區</a><span class="muted">（23）</span></li>
+        <li><a href="district/beitou.html">北投區</a><span class="muted">（22）</span></li>
+        <li><a href="district/wenshan.html">文山區</a><span class="muted">（21）</span></li>
+        <li><a href="district/shilin.html">士林區</a><span class="muted">（20）</span></li>
+        <li><a href="district/wanhua.html">萬華區</a><span class="muted">（20）</span></li>
+        </ul>
+        <h3>新北市</h3>
+        <ul class="browse-list">
         <li><a href="district/xinzhuang.html">新莊區</a><span class="muted">（86）</span></li>
         <li><a href="district/zhonghe.html">中和區</a><span class="muted">（74）</span></li>
         <li><a href="district/xindian.html">新店區</a><span class="muted">（65）</span></li>
-        <li><a href="district/xinyi.html">信義區</a><span class="muted">（63）</span></li>
         <li><a href="district/banqiao.html">板橋區</a><span class="muted">（62）</span></li>
-        <li><a href="district/songshan.html">松山區</a><span class="muted">（58）</span></li>
         <li><a href="district/xizhi.html">汐止區</a><span class="muted">（54）</span></li>
-        <li><a href="district/neihu.html">內湖區</a><span class="muted">（53）</span></li>
-        <li><a href="district/zhongzheng.html">中正區</a><span class="muted">（47）</span></li>
-        <li><a href="district/xitun.html">西屯區</a><span class="muted">（39）</span></li>
         <li><a href="district/tucheng.html">土城區</a><span class="muted">（30）</span></li>
         <li><a href="district/sanchong.html">三重區</a><span class="muted">（26）</span></li>
-        <li><a href="district/taichung-north.html">北區</a><span class="muted">（26）</span></li>
-        <li><a href="district/nangang.html">南港區</a><span class="muted">（23）</span></li>
-        <li><a href="district/beitou.html">北投區</a><span class="muted">（22）</span></li>
-        <li><a href="district/nantun.html">南屯區</a><span class="muted">（21）</span></li>
-        <li><a href="district/wenshan.html">文山區</a><span class="muted">（21）</span></li>
-        <li><a href="district/shilin.html">士林區</a><span class="muted">（20）</span></li>
-        <li><a href="district/taoyuan.html">桃園區</a><span class="muted">（20）</span></li>
-        <li><a href="district/wanhua.html">萬華區</a><span class="muted">（20）</span></li>
-        <li><a href="district/taichung-west.html">西區</a><span class="muted">（20）</span></li>
         <li><a href="district/yonghe.html">永和區</a><span class="muted">（19）</span></li>
-        <li><a href="district/sanmin.html">三民區</a><span class="muted">（18）</span></li>
         <li><a href="district/linkou.html">林口區</a><span class="muted">（15）</span></li>
-        <li><a href="district/fengshan.html">鳳山區</a><span class="muted">（12）</span></li>
-        <li><a href="district/guishan.html">龜山區</a><span class="muted">（12）</span></li>
-        <li><a href="district/beitun.html">北屯區</a><span class="muted">（11）</span></li>
-        <li><a href="district/taichung-south.html">南區</a><span class="muted">（11）</span></li>
-        <li><a href="district/zuoying.html">左營區</a><span class="muted">（11）</span></li>
         <li><a href="district/taishan.html">泰山區</a><span class="muted">（11）</span></li>
         <li><a href="district/luzhou.html">蘆洲區</a><span class="muted">（11）</span></li>
-        <li><a href="district/xinxing.html">新興區</a><span class="muted">（10）</span></li>
-        <li><a href="district/lingya.html">苓雅區</a><span class="muted">（10）</span></li>
-        <li><a href="district/zhongli.html">中壢區</a><span class="muted">（9）</span></li>
         <li><a href="district/wugu.html">五股區</a><span class="muted">（9）</span></li>
         <li><a href="district/tamsui.html">淡水區</a><span class="muted">（9）</span></li>
-        <li><a href="district/nanzi.html">楠梓區</a><span class="muted">（8）</span></li>
-        <li><a href="district/bade.html">八德區</a><span class="muted">（7）</span></li>
-        <li><a href="district/qianzhen.html">前鎮區</a><span class="muted">（7）</span></li>
         <li><a href="district/shulin.html">樹林區</a><span class="muted">（7）</span></li>
         <li><a href="district/yingge.html">鶯歌區</a><span class="muted">（7）</span></li>
+        <li><a href="district/sanxia.html">三峽區</a><span class="muted">（5）</span></li>
+        <li><a href="district/shenkeng.html">深坑區</a><span class="muted">（3）</span></li>
+        <li><a href="district/ruifang.html">瑞芳區</a><span class="muted">（2）</span></li>
+        <li><a href="district/wanli.html">萬里區</a><span class="muted">（2）</span></li>
+        <li><a href="district/shuangxi.html">雙溪區</a><span class="muted">（2）</span></li>
+        <li><a href="district/sanzhi.html">三芝區</a><span class="muted">（1）</span></li>
+        <li><a href="district/bali.html">八里區</a><span class="muted">（1）</span></li>
+        <li><a href="district/pinglin.html">坪林區</a><span class="muted">（1）</span></li>
+        <li><a href="district/pingxi.html">平溪區</a><span class="muted">（1）</span></li>
+        <li><a href="district/newtaipei-multi.html">新北多區</a><span class="muted">（1）</span></li>
+        <li><a href="district/wulai.html">烏來區</a><span class="muted">（1）</span></li>
+        <li><a href="district/shiding.html">石碇區</a><span class="muted">（1）</span></li>
+        <li><a href="district/shimen.html">石門區</a><span class="muted">（1）</span></li>
+        <li><a href="district/gongliao.html">貢寮區</a><span class="muted">（1）</span></li>
+        <li><a href="district/jinshan.html">金山區</a><span class="muted">（1）</span></li>
+        </ul>
+        <h3>桃園市</h3>
+        <ul class="browse-list">
+        <li><a href="district/taoyuan.html">桃園區</a><span class="muted">（20）</span></li>
+        <li><a href="district/guishan.html">龜山區</a><span class="muted">（12）</span></li>
+        <li><a href="district/zhongli.html">中壢區</a><span class="muted">（9）</span></li>
+        <li><a href="district/bade.html">八德區</a><span class="muted">（7）</span></li>
+        <li><a href="district/yangmei.html">楊梅區</a><span class="muted">（4）</span></li>
+        <li><a href="district/longtan.html">龍潭區</a><span class="muted">（4）</span></li>
+        <li><a href="district/pingzhen.html">平鎮區</a><span class="muted">（3）</span></li>
+        <li><a href="district/taoyuan-luzhu.html">蘆竹區</a><span class="muted">（3）</span></li>
+        <li><a href="district/dayuan.html">大園區</a><span class="muted">（2）</span></li>
+        <li><a href="district/daxi.html">大溪區</a><span class="muted">（2）</span></li>
+        <li><a href="district/xinwu.html">新屋區</a><span class="muted">（1）</span></li>
+        </ul>
+        <h3>台中市</h3>
+        <ul class="browse-list">
+        <li><a href="district/xitun.html">西屯區</a><span class="muted">（39）</span></li>
+        <li><a href="district/taichung-north.html">北區</a><span class="muted">（26）</span></li>
+        <li><a href="district/nantun.html">南屯區</a><span class="muted">（21）</span></li>
+        <li><a href="district/taichung-west.html">西區</a><span class="muted">（20）</span></li>
+        <li><a href="district/beitun.html">北屯區</a><span class="muted">（11）</span></li>
+        <li><a href="district/taichung-south.html">南區</a><span class="muted">（11）</span></li>
         <li><a href="district/longjing.html">龍井區</a><span class="muted">（7）</span></li>
         <li><a href="district/taichung-central.html">中區</a><span class="muted">（6）</span></li>
         <li><a href="district/wuri.html">烏日區</a><span class="muted">（6）</span></li>
         <li><a href="district/fengyuan.html">豐原區</a><span class="muted">（6）</span></li>
-        <li><a href="district/gushan.html">鼓山區</a><span class="muted">（6）</span></li>
-        <li><a href="district/sanxia.html">三峽區</a><span class="muted">（5）</span></li>
-        <li><a href="district/renwu.html">仁武區</a><span class="muted">（5）</span></li>
         <li><a href="district/dali.html">大里區</a><span class="muted">（5）</span></li>
-        <li><a href="district/xiaogang.html">小港區</a><span class="muted">（5）</span></li>
         <li><a href="district/tanzi.html">潭子區</a><span class="muted">（5）</span></li>
-        <li><a href="district/qianjin.html">前金區</a><span class="muted">（4）</span></li>
         <li><a href="district/houli.html">后里區</a><span class="muted">（4）</span></li>
         <li><a href="district/daya.html">大雅區</a><span class="muted">（4）</span></li>
         <li><a href="district/taichung-east.html">東區</a><span class="muted">（4）</span></li>
-        <li><a href="district/yangmei.html">楊梅區</a><span class="muted">（4）</span></li>
         <li><a href="district/wufeng.html">霧峰區</a><span class="muted">（4）</span></li>
-        <li><a href="district/longtan.html">龍潭區</a><span class="muted">（4）</span></li>
         <li><a href="district/taiping.html">太平區</a><span class="muted">（3）</span></li>
-        <li><a href="district/gangshan.html">岡山區</a><span class="muted">（3）</span></li>
-        <li><a href="district/pingzhen.html">平鎮區</a><span class="muted">（3）</span></li>
         <li><a href="district/shalu.html">沙鹿區</a><span class="muted">（3）</span></li>
-        <li><a href="district/shenkeng.html">深坑區</a><span class="muted">（3）</span></li>
         <li><a href="district/qingshui.html">清水區</a><span class="muted">（3）</span></li>
-        <li><a href="district/taoyuan-luzhu.html">蘆竹區</a><span class="muted">（3）</span></li>
-        <li><a href="district/yancheng.html">鹽埕區</a><span class="muted">（3）</span></li>
-        <li><a href="district/dayuan.html">大園區</a><span class="muted">（2）</span></li>
-        <li><a href="district/daxi.html">大溪區</a><span class="muted">（2）</span></li>
         <li><a href="district/dajia.html">大甲區</a><span class="muted">（2）</span></li>
         <li><a href="district/dadu.html">大肚區</a><span class="muted">（2）</span></li>
-        <li><a href="district/ruifang.html">瑞芳區</a><span class="muted">（2）</span></li>
         <li><a href="district/shigang.html">石岡區</a><span class="muted">（2）</span></li>
-        <li><a href="district/wanli.html">萬里區</a><span class="muted">（2）</span></li>
-        <li><a href="district/luzhu.html">路竹區</a><span class="muted">（2）</span></li>
-        <li><a href="district/shuangxi.html">雙溪區</a><span class="muted">（2）</span></li>
-        <li><a href="district/sanzhi.html">三芝區</a><span class="muted">（1）</span></li>
-        <li><a href="district/bali.html">八里區</a><span class="muted">（1）</span></li>
         <li><a href="district/taichung-multi.html">台中多區</a><span class="muted">（1）</span></li>
         <li><a href="district/taichung-daan.html">台中大安區</a><span class="muted">（1）</span></li>
         <li><a href="district/heping.html">和平區</a><span class="muted">（1）</span></li>
-        <li><a href="district/pinglin.html">坪林區</a><span class="muted">（1）</span></li>
         <li><a href="district/waipu.html">外埔區</a><span class="muted">（1）</span></li>
+        <li><a href="district/dongshi.html">東勢區</a><span class="muted">（1）</span></li>
+        <li><a href="district/wuqi.html">梧棲區</a><span class="muted">（1）</span></li>
+        <li><a href="district/shengang.html">神岡區</a><span class="muted">（1）</span></li>
+        </ul>
+        <h3>高雄市</h3>
+        <ul class="browse-list">
+        <li><a href="district/sanmin.html">三民區</a><span class="muted">（18）</span></li>
+        <li><a href="district/fengshan.html">鳳山區</a><span class="muted">（12）</span></li>
+        <li><a href="district/zuoying.html">左營區</a><span class="muted">（11）</span></li>
+        <li><a href="district/xinxing.html">新興區</a><span class="muted">（10）</span></li>
+        <li><a href="district/lingya.html">苓雅區</a><span class="muted">（10）</span></li>
+        <li><a href="district/nanzi.html">楠梓區</a><span class="muted">（8）</span></li>
+        <li><a href="district/qianzhen.html">前鎮區</a><span class="muted">（7）</span></li>
+        <li><a href="district/gushan.html">鼓山區</a><span class="muted">（6）</span></li>
+        <li><a href="district/renwu.html">仁武區</a><span class="muted">（5）</span></li>
+        <li><a href="district/xiaogang.html">小港區</a><span class="muted">（5）</span></li>
+        <li><a href="district/qianjin.html">前金區</a><span class="muted">（4）</span></li>
+        <li><a href="district/gangshan.html">岡山區</a><span class="muted">（3）</span></li>
+        <li><a href="district/yancheng.html">鹽埕區</a><span class="muted">（3）</span></li>
+        <li><a href="district/luzhu.html">路竹區</a><span class="muted">（2）</span></li>
         <li><a href="district/dashe.html">大社區</a><span class="muted">（1）</span></li>
-        <li><a href="district/pingxi.html">平溪區</a><span class="muted">（1）</span></li>
         <li><a href="district/mito.html">彌陀區</a><span class="muted">（1）</span></li>
-        <li><a href="district/newtaipei-multi.html">新北多區</a><span class="muted">（1）</span></li>
-        <li><a href="district/xinwu.html">新屋區</a><span class="muted">（1）</span></li>
         <li><a href="district/qishan.html">旗山區</a><span class="muted">（1）</span></li>
         <li><a href="district/qijin.html">旗津區</a><span class="muted">（1）</span></li>
-        <li><a href="district/dongshi.html">東勢區</a><span class="muted">（1）</span></li>
         <li><a href="district/linyuan.html">林園區</a><span class="muted">（1）</span></li>
-        <li><a href="district/wuqi.html">梧棲區</a><span class="muted">（1）</span></li>
-        <li><a href="district/wulai.html">烏來區</a><span class="muted">（1）</span></li>
-        <li><a href="district/shiding.html">石碇區</a><span class="muted">（1）</span></li>
-        <li><a href="district/shimen.html">石門區</a><span class="muted">（1）</span></li>
-        <li><a href="district/shengang.html">神岡區</a><span class="muted">（1）</span></li>
-        <li><a href="district/gongliao.html">貢寮區</a><span class="muted">（1）</span></li>
-        <li><a href="district/jinshan.html">金山區</a><span class="muted">（1）</span></li>
         <li><a href="district/niaosong.html">鳥松區</a><span class="muted">（1）</span></li>
         </ul>
       </div>
