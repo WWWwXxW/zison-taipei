@@ -1,10 +1,11 @@
 (function () {
   'use strict';
 
-  var CITY_ORDER = ['台北市', '新北市', '桃園市', '新竹市', '新竹縣', '苗栗縣', '台中市', '南投縣', '彰化市', '彰化縣', '雲林縣', '嘉義市', '嘉義縣', '台南市', '高雄市'];
+  var CITY_ORDER = ['台北市', '新北市', '基隆市', '桃園市', '新竹市', '新竹縣', '苗栗縣', '台中市', '南投縣', '彰化市', '彰化縣', '雲林縣', '嘉義市', '嘉義縣', '台南市', '高雄市'];
   /** District names that collide across cities nationwide — option/URL use city|district. */
   var AMBIGUOUS_DISTRICTS = {
-    '北區': 1, '南區': 1, '東區': 1, '西區': 1, '中區': 1
+    '北區': 1, '南區': 1, '東區': 1, '西區': 1, '中區': 1,
+    '中正區': 1, '中山區': 1, '信義區': 1
   };
 
   function $(sel, root) { return (root || document).querySelector(sel); }
