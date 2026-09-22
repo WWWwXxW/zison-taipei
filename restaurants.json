@@ -6521,32 +6521,6 @@
     "origin": "scout"
   },
   {
-    "id": "scout-b5-197",
-    "slug": "Hala-Chicken-台大校園店-大安區",
-    "name": "Hala Chicken 台大校園店[2024六月結束營業]",
-    "district": "大安區",
-    "address": "羅斯福路四段1號",
-    "cuisine": "蔬食友善、美式餐點、義法料理",
-    "cuisineTags": [
-      "蔬食友善",
-      "美式餐點",
-      "義法料理"
-    ],
-    "phone": "02-2363-5054",
-    "orderUrl": "https://halachicken.oddle.me",
-    "hours": "Mon - Sat 11:15 AM - 08:00 PM",
-    "range": "由官方Oddle依送達地址判定",
-    "terms": "Range: 由官方Oddle依送達地址判定；Minimum order: NT$600；Delivery fee (min listed): NT$65；Delivery fee max listed: NT$130；Free-delivery threshold: UNKNOWN；Delivery fee: 65",
-    "freeDeliveryThreshold": null,
-    "deliveryFee": 65,
-    "evidence": "Oddle Eats TW discover/explore 目錄與單店頁 https://tw-eats.oddle.me/menus/halachicken 之 addresses 明列台北市地址且 enableDelivery/eligibleForDelivery；官方店舖連結 https://halachicken.oddle.me。",
-    "source": "https://halachicken.oddle.me；Discover: https://tw-eats.oddle.me/menus/halachicken；Checked: 2026-09-21；Batch: oddle-discover-20260921",
-    "checkedAt": "2026-09-21",
-    "chain": false,
-    "featured": false,
-    "origin": "scout"
-  },
-  {
     "id": "scout-b5-198",
     "slug": "Hala-Chicken-大安創始店-大安區",
     "name": "Hala Chicken 大安創始店",
