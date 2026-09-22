@@ -5210,32 +5210,6 @@ window.RESTAURANTS = [
     "origin": "scout"
   },
   {
-    "id": "scout-b5-144",
-    "slug": "GC法式烘焙-新光三越A11店-信義區",
-    "name": "GC法式烘焙 | 新光三越A11店(服務至8/31)",
-    "district": "信義區",
-    "address": "松壽路11號, B2",
-    "cuisine": "蔬食友善、蛋糕甜點、私房甜點",
-    "cuisineTags": [
-      "蔬食友善",
-      "蛋糕甜點",
-      "私房甜點"
-    ],
-    "phone": "02-2723-6099",
-    "orderUrl": "https://gontran-cherrier.oddle.me",
-    "hours": "Mon - Sun 12:00 PM - 08:00 PM",
-    "range": "由官方Oddle依送達地址判定",
-    "terms": "Range: 由官方Oddle依送達地址判定；Minimum order: NT$0；Delivery fee (min listed): NT$90；Delivery fee max listed: NT$205；Free-delivery threshold: UNKNOWN；Delivery fee: 90",
-    "freeDeliveryThreshold": null,
-    "deliveryFee": 90,
-    "evidence": "Oddle Eats TW discover/explore 目錄與單店頁 https://tw-eats.oddle.me/menus/gontran-cherrier-bakery 之 addresses 明列台北市地址且 enableDelivery/eligibleForDelivery；官方店舖連結 https://gontran-cherrier.oddle.me。",
-    "source": "https://gontran-cherrier.oddle.me；Discover: https://tw-eats.oddle.me/menus/gontran-cherrier-bakery；Checked: 2026-09-21；Batch: oddle-discover-20260921",
-    "checkedAt": "2026-09-21",
-    "chain": false,
-    "featured": false,
-    "origin": "scout"
-  },
-  {
     "id": "scout-b5-145",
     "slug": "Nine-Tea-九茶-信義區",
     "name": "Nine Tea 九茶",
