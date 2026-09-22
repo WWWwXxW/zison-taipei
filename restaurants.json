@@ -19178,32 +19178,6 @@
     "phone": "022683-0983"
   },
   {
-    "id": "nt-scout-lead-136",
-    "slug": "阿霞小吃",
-    "name": "阿霞小吃(板橋三民路二段)",
-    "district": "板橋區",
-    "cuisine": "便當／快餐",
-    "cuisineTags": [
-      "便當",
-      "快餐"
-    ],
-    "chain": false,
-    "featured": false,
-    "origin": "scout",
-    "confidence": "high",
-    "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
-    "deliveryFee": null,
-    "evidence": "dinbendon 公用店家頁／API：滿400元以上，提供外送服務",
-    "source": "dinbendon shop=261860",
-    "orderUrl": "https://www.dinbendon.net/do/shop/261860",
-    "phone": "0932-221-234",
-    "address": "市板橋區三民路二段111號"
-  },
-  {
     "id": "nt-scout-lead-137",
     "slug": "麵線陳專業麵線-板橋貴興店",
     "name": "麵線陳專業麵線-板橋貴興店",
