@@ -210,6 +210,40 @@
     return badges;
   }
 
+  var MEDIA_CUISINES = [
+    { key: 'bento', label: '便當', icon: '▦', keywords: ['便當', '快餐', '飯包', '盒餐', '餐盒', '自助餐', '簡餐', '排骨飯', '烤肉飯', '雞腿飯', '雞肉飯', '滷肉飯'] },
+    { key: 'noodles', label: '麵食', icon: '〰', keywords: ['麵', '麵食', '拉麵', '麵線', '水餃', '鍋貼', '餛飩'] },
+    { key: 'drinks', label: '飲料', icon: '◌', keywords: ['飲料', '茶飲', '手搖', '咖啡', '珍奶', '珍珠奶茶', '果汁', '冰品'] },
+    { key: 'hotpot', label: '火鍋', icon: '♨', keywords: ['火鍋', '麻辣鍋', '涮鍋', '鍋物', '部隊鍋', '小火鍋'] },
+    { key: 'other', label: '其他', icon: '✦', keywords: [] }
+  ];
+
+  function mediaCuisine(r) {
+    var blob = cuisineBlob(r);
+    for (var i = 0; i < MEDIA_CUISINES.length - 1; i++) {
+      if (filterByKeywords(blob, MEDIA_CUISINES[i].keywords)) return MEDIA_CUISINES[i];
+    }
+    return MEDIA_CUISINES[MEDIA_CUISINES.length - 1];
+  }
+
+  function mediaPlaceholderInner(r) {
+    var media = mediaCuisine(r);
+    return '<div class="card-media-placeholder card-media-placeholder--' + media.key + '" role="img" aria-label="' + escapeHtml(media.label) + '料理圖片佔位"' +
+      '><span class="card-media-icon" aria-hidden="true">' + media.icon + '</span><span class="card-media-label">' + escapeHtml(media.label) + '</span></div>';
+  }
+
+  function cardMediaHtml(r) {
+    var url = String(r.imageUrl || '').trim();
+    var placeholder = mediaPlaceholderInner(r);
+    if (!/^https?:\/\//i.test(url)) {
+      return '<div class="card-media">' + placeholder + '</div>';
+    }
+    return '<div class="card-media">' +
+      '<img src="' + escapeHtml(url) + '" loading="lazy" decoding="async" alt="" onerror="this.onerror=null;this.hidden=true;this.nextElementSibling.hidden=false;" />' +
+      '<div class="card-media-fallback" hidden>' + placeholder + '</div>' +
+      '</div>';
+  }
+
   function cardHtml(r) {
     var badges = placeBadges(r);
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
@@ -226,14 +260,17 @@
 
     return (
       '<article class="card" data-id="' + escapeHtml(r.id) + '">' +
-        '<div class="badges">' + badges.join('') + '</div>' +
-        '<h2><a href="detail.html?id=' + encodeURIComponent(r.id) + '">' + escapeHtml(r.name) + '</a></h2>' +
-        channelChips(r) +
-        (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
-        (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
-        (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
-        (function () { var dc = deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
-        '<div class="actions">' + actions.join('') + '</div>' +
+        cardMediaHtml(r) +
+        '<div class="card-body">' +
+          '<div class="badges">' + badges.join('') + '</div>' +
+          '<h2><a href="detail.html?id=' + encodeURIComponent(r.id) + '">' + escapeHtml(r.name) + '</a></h2>' +
+          channelChips(r) +
+          (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
+          (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
+          (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
+          (function () { var dc = deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
+          '<div class="actions">' + actions.join('') + '</div>' +
+        '</div>' +
       '</article>'
     );
   }
