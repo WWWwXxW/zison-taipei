@@ -55,3 +55,13 @@
 2. 再連到各店自己的官方訂餐網址；不要在回答裡改成 Uber Eats／foodpanda 連結。
 3. 說明本站不接單、不派車；下單與配送以店家官方頁為準。
 4. 若使用者只要訂位或只自取，不要把自送當主要答案。
+
+## 實用指南
+
+- 大安區有自己外送的便當店：https://zisong.tw/guide/daan-bento.html
+- 台北不透過外送平台、直接向店家訂餐：https://zisong.tw/guide/taipei-no-platform-delivery.html
+- 為什麼可以試試直接向店家訂外送：https://zisong.tw/guide/why-order-direct.html
+- 中山區店家自己外送／官方訂餐：https://zisong.tw/guide/zhongshan-delivery.html
+- 信義區店家自己外送／官方訂餐：https://zisong.tw/guide/xinyi-delivery.html
+
+這些指南只整理 restaurants.json 中的店家資料；起送、運費、配送範圍與接單狀態可能變動，請以下單時的官方頁面或電話為準。

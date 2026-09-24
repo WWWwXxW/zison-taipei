@@ -815,3 +815,72 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   font-size: 12px !important;
   opacity: 0.85;
 }
+
+/* ui1: mobile filters + placeholder hint 20260924 */
+/* Narrow screens: do not sticky-cover the first card; compact three-select row */
+@media (max-width: 640px) {
+  .filters {
+    position: static;
+    top: auto;
+    padding: 10px 0 12px;
+    margin: 0;
+    box-shadow: none;
+    clip-path: none;
+    z-index: auto;
+  }
+  .filters .row {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .filters .row > div:first-child {
+    grid-column: 1 / -1;
+  }
+  .filters label {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+  .filters input[type="search"],
+  .filters select {
+    padding: 8px 10px;
+    min-height: 40px;
+    font-size: 16px; /* avoid iOS zoom */
+    border-radius: 8px;
+  }
+  .card-media {
+    aspect-ratio: 2 / 1;
+  }
+}
+
+/* Intentional no-photo placeholder: icon + cuisine + muted hint */
+.card-media-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  padding: 0.55rem 0.75rem;
+  box-sizing: border-box;
+  text-align: center;
+  color: #fff8eb;
+  text-shadow: 0 1px 2px rgba(54, 30, 18, 0.28);
+}
+.card-media-icon {
+  font-size: clamp(1.35rem, 4.2vw, 2.4rem);
+  line-height: 1;
+  opacity: 0.95;
+}
+.card-media-label {
+  font-size: clamp(0.72rem, 2.6vw, 0.86rem);
+  font-weight: 700;
+  letter-spacing: 0.14em;
+}
+.card-media-hint {
+  display: block;
+  margin-top: 0.12rem;
+  font-size: clamp(0.65rem, 2.2vw, 0.74rem);
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  color: rgba(255, 248, 235, 0.88);
+  opacity: 0.92;
+}
