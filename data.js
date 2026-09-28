@@ -3194,10 +3194,12 @@ window.RESTAURANTS = [
     "origin": "scout",
     "confidence": "jiaweizhishi.weebly.com",
     "phone": "02-8732-6617",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "滿10個免費外送（大安／松山／信義／公館）",
+    "city": "台北市",
+    "orderUrl": "https://jiaweizhishi.weebly.com/",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-b1-25",
@@ -10214,10 +10216,12 @@ window.RESTAURANTS = [
     "source": "dinbendon 公用店家頁摘要",
     "checkedAt": "2026-09-21",
     "phone": "02-8772-9762",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "大安／信義約滿5份或$600可外送",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=595796",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-b6-146",
@@ -10570,10 +10574,12 @@ window.RESTAURANTS = [
     "checkedAt": "2026-09-21",
     "phone": "02-2799-8792",
     "address": "內湖路一段285巷68弄13號",
-    "deliveryMinType": null,
+    "deliveryMinType": "unknown",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinLabel": "外送門檻未公開（LINE訂餐）",
+    "city": "台北市",
+    "orderUrl": "https://line.me/R/ti/p/@309sqafb",
+    "orderChannel": "line"
   },
   {
     "id": "scout-b8-179",
@@ -11210,10 +11216,12 @@ window.RESTAURANTS = [
     "checkedAt": "2026-09-21",
     "phone": "02-2377-0347",
     "address": "富陽街134號1樓",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "3個以上外送",
+    "city": "台北市",
+    "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=106008&PreView=1",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-b11-232",
@@ -11235,10 +11243,12 @@ window.RESTAURANTS = [
     "checkedAt": "2026-09-21",
     "phone": "02-2377-1416",
     "address": "富陽街134號（頁面註真味香製作",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "3個以上外送",
+    "city": "台北市",
+    "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=116012&PreView=1",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-b11-233",
@@ -11386,10 +11396,12 @@ window.RESTAURANTS = [
     "checkedAt": "2026-09-21",
     "phone": "02-2732-7755",
     "address": "臥龍街151巷76號1樓",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "大安等滿5鍋以上外送",
+    "city": "台北市",
+    "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=110068&PreView=1",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-b11-240",
@@ -11534,10 +11546,12 @@ window.RESTAURANTS = [
     "checkedAt": "2026-09-21",
     "phone": "02-2755-5131",
     "address": "市民大道四段222號（頁面註鳳城燒臘製作）",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "3–5個以上外送",
+    "city": "台北市",
+    "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=106077&PreView=1",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-b12-248",
@@ -13175,10 +13189,12 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=625426",
     "phone": "0915-285-009",
     "address": "臨江街100之17號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "大安／信義五個以上外送",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=625426",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-lead-328",
@@ -13199,10 +13215,12 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=736",
     "phone": "02-2737-0399",
     "address": "臨江街164號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "10個以上外送",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=230761",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-lead-329",
@@ -13223,10 +13241,12 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=181413",
     "phone": "02-2701-9395",
     "address": "信義路四段265巷27號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿$1000外送",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=181413",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-lead-330",
@@ -13562,10 +13582,12 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=353996",
     "phone": "02-2700-9155",
     "address": "通安街69號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "大安森林公園站10個以上",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=353996",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-lead-344",
@@ -15257,10 +15279,12 @@ window.RESTAURANTS = [
     "source": "168web Part=106038",
     "phone": "02-2755-0128",
     "address": "安和路一段78巷35號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "三個以上可外送",
+    "city": "台北市",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=178554",
+    "orderChannel": "dinbendon"
   },
   {
     "id": "scout-lead-414",
@@ -15306,10 +15330,12 @@ window.RESTAURANTS = [
     "source": "168web Part=110086",
     "phone": "02-2563-4166",
     "address": "和平東路三段212巷13弄8號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "count",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "3個以上外送",
+    "city": "台北市",
+    "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=110086&PreView=1",
+    "orderChannel": "own-web"
   },
   {
     "id": "scout-lead-416",
@@ -60532,7 +60558,7 @@ window.RESTAURANTS = [
     "cuisineTags": [
       "會議餐盒／咖啡輕食"
     ],
-    "phone": "02-2700-6966",
+    "phone": "02-2700-6996",
     "orderUrl": "https://cozzi.cathayhotel.com.tw/cozzi/cozzicafe",
     "hours": "週一至週五 07:30–16:30",
     "evidence": "官方會議餐盒 EDM PDF：注意事項「大台北地區50盒以上免運,其餘運費另計。最低訂購量為10盒。須提前5個工作日預定」。仁愛店地址台北市大安區仁愛路四段296號1樓，Tel 02-2700-6966。",
@@ -60658,7 +60684,6 @@ window.RESTAURANTS = [
       "餐盒／咖啡輕食"
     ],
     "phone": "0966-591-068",
-    "orderUrl": "https://shop.ichefpos.com/store/TDn3A76A/ordering",
     "evidence": "iCHEF 頁：取貨方式「自取/外送」；自取地址台北市大安區復興南路一段279巷4號；「外送運費另計，以Lalamove距離計算為主（3公里內，消費滿千免運費）」；電話0966-591-068。",
     "source": "shop.ichefpos.com/store/TDn3A76A",
     "checkedAt": "2026-09-24",
