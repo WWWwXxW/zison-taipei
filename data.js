@@ -6315,7 +6315,8 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://ucarecdn.com/69937c0a-670e-45fc-b7e9-88c4044caf94/"
   },
   {
     "id": "scout-b5-150",
