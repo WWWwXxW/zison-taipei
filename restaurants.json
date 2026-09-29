@@ -232,7 +232,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://cdn.chunsun-cake.com/2025/02/1-500x500.png"
   },
   {
     "id": "cg-9",
@@ -655,7 +656,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://shoplineimg.com/66127c3603821e003c446df8/67b435b0351b71000bef7f58/750x.jpg"
   },
   {
     "id": "cg-23",
@@ -1108,7 +1110,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://cafefan.shop/wp-content/uploads/2025/09/image1-1-500x500.jpeg"
   },
   {
     "id": "cg-38",
@@ -1138,7 +1141,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": null
   },
   {
     "id": "cg-39",
@@ -1168,7 +1172,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": null
   },
   {
     "id": "cg-40",
@@ -1289,7 +1294,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://shoplineimg.com/5fa276f5cfd4860039ba5eb7/68624921f996f10010658660/750x.jpg"
   },
   {
     "id": "cg-44",
@@ -1408,7 +1414,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://www.approprie.co/photos/products/d403ad16649ad53f1b00.jpg"
   },
   {
     "id": "cg-49",
@@ -1886,7 +1893,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://static.iyp.tw/38988/files/c36de775-e3bb-4a90-85b5-ccf43e2f832c.jpg"
   },
   {
     "id": "cg-65",
@@ -2367,7 +2375,8 @@
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
     "deliveryMinLabel": "滿 $1000",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://bancoldnoodle.weebly.com/uploads/1/5/2/5/152541690/bancoldnoodle-01.jpg"
   },
   {
     "id": "cg-82",
@@ -2659,7 +2668,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://shoplineimg.com/6544b133a4ba47008e0104af/68f04be8ff4c3a000e7ce540/750x.png"
   },
   {
     "id": "scout-b1-1",
@@ -3061,7 +3071,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": null
   },
   {
     "id": "scout-b1-18",
@@ -9939,7 +9950,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "http://www.hongchu-yp.com.tw/images/menu/02.png"
   },
   {
     "id": "scout-lead-115",
@@ -10041,7 +10053,8 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": null
   },
   {
     "id": "scout-lead-119",
@@ -13773,7 +13786,7 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://ucarecdn.com/a47922e7-d801-4663-aaea-2a44856b31c7/"
   },
   {
     "id": "scout-lead-345",
@@ -16167,7 +16180,8 @@
     "deliveryMinType": "amount",
     "deliveryMinValue": 600,
     "deliveryMinLabel": "滿 $600 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://www.healthittaipei.com.tw/app_script/DisplayCut.ashx?file=202603131700420.jpg&rootDir=upload/product/&w=640&h=480"
   },
   {
     "id": "scout-lead-460",
@@ -29454,7 +29468,8 @@
     "orderUrl": "https://curryarmament-tw.weebly.com/about.html",
     "phone": "0958-804-721",
     "address": "市中和區建八路20-1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://curryarmament-tw.weebly.com/uploads/1/3/7/6/137680540/published/curryarmernt-3_1.jpeg"
   },
   {
     "id": "nt-scout-lead-557",
@@ -29482,7 +29497,8 @@
     "orderUrl": "https://tan-ji.weebly.com/",
     "phone": "02-2295-2316",
     "address": "市五股區成泰路三段131號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://tan-ji.weebly.com/uploads/1/5/5/8/155862700/box-1.jpg"
   },
   {
     "id": "nt-scout-lead-558",
@@ -29510,7 +29526,8 @@
     "orderUrl": "https://wunbaoerouguan.weebly.com/",
     "phone": "02-2202-7369",
     "address": "市新莊區萬安街126號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://wunbaoerouguan.weebly.com/uploads/1/5/2/9/152979056/wunbaoerouguan-p6.jpg"
   },
   {
     "id": "nt-scout-lead-559",
@@ -29679,7 +29696,8 @@
     "lineUrl": "https://line.me/R/ti/p/@lowfat6222",
     "phone": "0918-826-222",
     "address": "市三重區三和路三段100號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://foshju-sach.weebly.com/uploads/1/4/5/0/145018837/foshju-sach-f-4.jpg"
   },
   {
     "id": "nt-scout-lead-567",
@@ -29795,7 +29813,8 @@
     "lineUrl": "https://line.me/R/ti/p/@iwc1523h",
     "phone": "0953-124-356",
     "address": "市新店區安康路二段245號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://chenliangmian.weebly.com/uploads/1/4/8/7/148776303/chenliangmian-04.jpg"
   },
   {
     "id": "nt-scout-lead-571",
@@ -29824,7 +29843,8 @@
     "orderUrl": "https://linkouaimianzihguan.weebly.com/",
     "phone": "0910-380-957",
     "address": "林口區文化二路一段96巷15號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://linkouaimianzihguan.weebly.com/uploads/1/5/3/4/153477200/linkouaimianzihguan-p06.jpg"
   },
   {
     "id": "nt-scout-lead-572",
@@ -29939,7 +29959,8 @@
     "orderUrl": "https://hangniouwu.weebly.com/",
     "phone": "02-3501-2700",
     "address": "三峽區國際一街41號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://hangniouwu.weebly.com/uploads/1/5/2/9/152979152/hangniouwu-p03.jpg"
   },
   {
     "id": "nt-scout-lead-577",
@@ -30055,7 +30076,8 @@
     "orderUrl": "https://www.buffetfood.com.tw/index.php/Order/Transport",
     "phone": "02-2221-2799",
     "address": "市中和區立業路101號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://www.buffetfood.com.tw/images/upload/package/60c44b1a-3ed4-4b69-9a2a-55b0af8d99b6.webp"
   },
   {
     "id": "nt-scout-lead-581",
@@ -38844,7 +38866,8 @@
     "orderUrl": "https://www.innsgroups.com.tw/inn-ryori.html",
     "lineUrl": "https://line.me/R/ti/p/@inn_ryori",
     "phone": "07-5867255",
-    "address": "山區美術東二路596號"
+    "address": "山區美術東二路596號",
+    "imageUrl": "https://www.innsgroups.com.tw/assets/img/ry-pic3.jpg"
   },
   {
     "id": "kh-scout-lead-81",
@@ -39230,7 +39253,8 @@
     "source": "happybbq.com.tw",
     "orderUrl": "https://happybbq.com.tw/lunchBox/lunchBOX_index.html",
     "phone": "07-229-2370",
-    "address": "高雄市新興區渤海街23-1號"
+    "address": "高雄市新興區渤海街23-1號",
+    "imageUrl": null
   },
   {
     "id": "kh-scout-lead-96",
@@ -40212,7 +40236,8 @@
     "source": "tangja.com",
     "orderUrl": "https://tangja.com/",
     "phone": "03-422-1111",
-    "address": "平鎮區新德街67號"
+    "address": "平鎮區新德街67號",
+    "imageUrl": "https://tangja.com/wp-content/uploads/2025/11/IMG_0477-1024x683.jpg"
   },
   {
     "id": "ty-scout-lead-20",
@@ -44111,7 +44136,8 @@
     "source": "eatmary；cxt-vegan",
     "orderUrl": "https://cxt-vegan.tw/",
     "phone": "06-2697-666",
-    "address": "台南市東區中華東路三段377巷10號"
+    "address": "台南市東區中華東路三段377巷10號",
+    "imageUrl": null
   },
   {
     "id": "tn-scout-lead-95",
@@ -44745,7 +44771,8 @@
     "orderUrl": "https://www.gangfood.com.tw/notice.html",
     "lineUrl": "https://line.me/R/ti/p/@gangfood",
     "phone": "03-5790852",
-    "address": "新竹市東區金山十七街26號1"
+    "address": "新竹市東區金山十七街26號1",
+    "imageUrl": "https://static.iyp.tw/409807/files/d385b63a-9736-406d-8d67-89e5f7f44f91.jpg"
   },
   {
     "id": "hc-scout-lead-2",
@@ -44800,7 +44827,8 @@
     "evidence": "官網區域服務說明：**「＊平日中午：新竹市、新竹科學園區、竹北市、工研院中興院區、竹南科學園區滿10個，湖口工業區滿3000元即可外送」**",
     "source": "hcdaogu.com",
     "orderUrl": "https://hcdaogu.com/",
-    "phone": "0972-603-306"
+    "phone": "0972-603-306",
+    "imageUrl": "http://hcdaogu.com/wp-content/uploads/2025/10/slider.jpg"
   },
   {
     "id": "hc-scout-lead-4",
@@ -47909,7 +47937,8 @@
     "source": "tanpaihetzu.weebly.com",
     "orderUrl": "https://tanpaihetzu.weebly.com/",
     "phone": "04-832-0237",
-    "address": "彰化縣員林市三民街39-1號"
+    "address": "彰化縣員林市三民街39-1號",
+    "imageUrl": "https://tanpaihetzu.weebly.com/uploads/1/4/8/7/148778162/tanpaihetzu-12_orig.jpg"
   },
   {
     "id": "ch-scout-lead-4",
@@ -51628,7 +51657,8 @@
     "source": "dudu2.tw 2021-05；missenergy-puli.weebly.com",
     "orderUrl": "https://missenergy-puli.weebly.com/",
     "phone": "049-299-9336",
-    "address": "南投縣埔里鎮中山路二段243號"
+    "address": "南投縣埔里鎮中山路二段243號",
+    "imageUrl": "https://missenergy-puli.weebly.com/uploads/1/3/0/9/130965833/73321234-543053636509083-8009396584292810752-n-01_orig.jpg"
   },
   {
     "id": "nto-scout-lead-7",
@@ -53112,7 +53142,8 @@
     "source": "2afoodie.com/rueishenghakkarice ；vivawei.tw/miaoli-takeout",
     "orderUrl": "https://www.rueishenghakkarice.com/",
     "phone": "0911-811-120",
-    "address": "苗栗縣頭份市中央路598號"
+    "address": "苗栗縣頭份市中央路598號",
+    "imageUrl": "https://cdn1.artcltn.com/storage/23703/a239f88f-d89d-41e3-8dc1-1740f3126e95/20201007111307-6_orig.jpg?w=1080"
   },
   {
     "id": "ml-scout-lead-19",
@@ -56927,7 +56958,8 @@
     "source": "chunjukoushi.kanorio.com",
     "orderUrl": "https://chunjukoushi.kanorio.com/",
     "phone": "0958-389-080",
-    "address": "屏東市公勤二街105號"
+    "address": "屏東市公勤二街105號",
+    "imageUrl": "https://imagedelivery.net/xu6i8N5WjaI_9HFe-hZzmg/1db49eac-92c5-40f5-03c4-a882c003e800/w=768,fit=crop,q=85"
   },
   {
     "id": "pt-scout-lead-4",
@@ -57460,7 +57492,8 @@
     "source": "etaiwan.blog/groups_pingtung_list-2 ；dah-jiang.com.tw",
     "orderUrl": "http://www.dah-jiang.com.tw/",
     "phone": "08-7327537",
-    "address": "屏東市信義路143號"
+    "address": "屏東市信義路143號",
+    "imageUrl": "http://www.dah-jiang.com.tw/wp-content/uploads/2016/02/Hslider-1.png"
   },
   {
     "id": "pt-scout-lead-24",
@@ -59679,7 +59712,8 @@
     "source": "dungding.com.tw 外帶自取95折文",
     "orderUrl": "https://dungding.com.tw/",
     "phone": "089-350321",
-    "address": "台東市光明路107號"
+    "address": "台東市光明路107號",
+    "imageUrl": "https://dungding.com.tw/wp-content/uploads/2022/07/noodle.png"
   },
   {
     "id": "tt-scout-lead-4",
@@ -60813,7 +60847,8 @@
     "deliveryMinType": "qty",
     "deliveryMinValue": 10,
     "deliveryMinLabel": "滿 10 份；大台北滿 50 份以上免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://cozzi.cathayhotel.com.tw/files/thumbnails/files_CF_146087792_2750427241885725_8124287849974248336_n_1080x1080.webp"
   },
   {
     "id": "daan-new-021",
