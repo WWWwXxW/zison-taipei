@@ -271,6 +271,7 @@
       actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
     }
     actions.push('<a class="btn btn-ghost" href="detail.html?id=' + encodeURIComponent(r.id) + '">詳情</a>');
+    actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
     return (
       '<article class="card" data-id="' + escapeHtml(r.id) + '">' +
@@ -550,6 +551,7 @@
     if (r.lineUrl) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">LINE 官方帳號</a>');
     }
+    actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
     var freeText = '';
     if (r.freeDeliveryThreshold != null) {
@@ -595,7 +597,90 @@
       '</div>';
   }
 
+  var REPORT_MAIL = 'zisong.taiwan@gmail.com';
+
+  function showReportForm(which, shopName) {
+    var suggest = document.getElementById('form-suggest');
+    var problem = document.getElementById('form-problem');
+    if (!suggest && !problem) return;
+    if (suggest) suggest.hidden = which !== 'suggest';
+    if (problem) problem.hidden = which !== 'problem';
+    var form = which === 'problem' ? problem : suggest;
+    if (!form) return;
+    if (which === 'problem' && shopName) {
+      var shop = form.querySelector('[name="shop"]');
+      if (shop) shop.value = shopName;
+    }
+    var box = document.getElementById('footer-reports') || form;
+    if (box.scrollIntoView) box.scrollIntoView({ block: 'start' });
+    var focusEl = form.querySelector(which === 'problem' && shopName ? '[name="kind"]' : 'input,select,textarea');
+    if (focusEl && focusEl.focus) focusEl.focus();
+  }
+
+  function reportField(form, name) {
+    var el = form.elements[name];
+    return el ? String(el.value || '').trim() : '';
+  }
+
+  function sendMailto(subject, lines) {
+    var body = lines.filter(Boolean).join('\n');
+    window.location.href = 'mailto:' + REPORT_MAIL +
+      '?subject=' + encodeURIComponent(subject) +
+      '&body=' + encodeURIComponent(body);
+  }
+
+  function initReports() {
+    document.addEventListener('click', function (e) {
+      var t = e.target;
+      if (!t || !t.closest) return;
+      var openBtn = t.closest('[data-report-open]');
+      if (openBtn) {
+        e.preventDefault();
+        showReportForm(openBtn.getAttribute('data-report-open') || 'problem', '');
+        return;
+      }
+      var shopBtn = t.closest('[data-report-shop]');
+      if (shopBtn) {
+        e.preventDefault();
+        showReportForm('problem', shopBtn.getAttribute('data-report-shop') || '');
+      }
+    });
+    var suggest = document.getElementById('form-suggest');
+    if (suggest) {
+      suggest.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var name = reportField(suggest, 'name');
+        var place = reportField(suggest, 'place');
+        var contact = reportField(suggest, 'contact');
+        var note = reportField(suggest, 'note');
+        if (!name || !place || !contact) return;
+        sendMailto('[自送] 建議加店', [
+          '店名：' + name,
+          '縣市／行政區：' + place,
+          '官方訂餐連結或電話：' + contact,
+          note ? ('補充：' + note) : ''
+        ]);
+      });
+    }
+    var problem = document.getElementById('form-problem');
+    if (problem) {
+      problem.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var shop = reportField(problem, 'shop');
+        var kind = reportField(problem, 'kind');
+        var note = reportField(problem, 'note');
+        if (!shop || !kind) return;
+        sendMailto('[自送] 通報問題', [
+          '哪一家：' + shop,
+          '問題類型：' + kind,
+          note ? ('補充：' + note) : ''
+        ]);
+      });
+    }
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
+    initReports();
     if ($('#list')) initIndex();
     if ($('#detail')) initDetail();
   });

@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css?v=20260924-ui1" />
+  <link rel="stylesheet" href="style.css?v=20261003-mailto" />
   <script>
     window.goatcounter = {
       no_onload: ("doNotTrack" in navigator && navigator.doNotTrack === "1")
@@ -33,10 +33,40 @@
   <footer class="site-footer">
     <div class="inner">
       <p>© 自送 — 請至餐廳官方通道完成訂購。</p>
+      <div class="footer-reports" id="footer-reports">
+        <p>
+          <button type="button" class="report-toggle" data-report-open="suggest">建議加店</button>
+          <span aria-hidden="true"> · </span>
+          <button type="button" class="report-toggle" data-report-open="problem">通報有問題</button>
+        </p>
+        <form id="form-suggest" class="report-form" hidden>
+          <p class="report-form-title">建議加店</p>
+          <label>店名<input name="name" required maxlength="80" autocomplete="organization" /></label>
+          <label>縣市／行政區<input name="place" required maxlength="60" placeholder="例如：新竹縣 竹北市" /></label>
+          <label>官方訂餐連結或電話<input name="contact" required maxlength="200" placeholder="https:// 或電話" /></label>
+          <label>補充<textarea name="note" maxlength="500" rows="3"></textarea></label>
+          <button type="submit" class="btn btn-primary">用郵件寄出</button>
+        </form>
+        <form id="form-problem" class="report-form" hidden>
+          <p class="report-form-title">通報有問題</p>
+          <label>哪一家<input name="shop" required maxlength="80" /></label>
+          <label>問題類型
+            <select name="kind" required>
+              <option value="">請選擇</option>
+              <option>連結失效</option>
+              <option>資料錯</option>
+              <option>不是自送</option>
+              <option>照片不對</option>
+            </select>
+          </label>
+          <label>補充<textarea name="note" maxlength="500" rows="3"></textarea></label>
+          <button type="submit" class="btn btn-primary">用郵件寄出</button>
+        </form>
+      </div>
     </div>
   </footer>
 
-  <script src="data.js?v=20260928-daan-click"></script>
-  <script src="app.js?v=20260924-ui1"></script>
+  <script src="data.js?v=20261003-idine"></script>
+  <script src="app.js?v=20261003-mailto"></script>
 </body>
 </html>

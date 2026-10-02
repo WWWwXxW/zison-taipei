@@ -884,3 +884,48 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   color: rgba(255, 248, 235, 0.88);
   opacity: 0.92;
 }
+
+/* mailto reports 20261003 — footer forms + card control */
+.footer-reports { margin-top: 10px; }
+.report-toggle {
+  background: none;
+  border: 0;
+  padding: 0;
+  min-height: 0;
+  font: inherit;
+  color: var(--accent-dark);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.report-toggle:hover { color: var(--accent); }
+.report-form {
+  text-align: left;
+  max-width: 26rem;
+  margin: 10px auto 0;
+  display: grid;
+  gap: 8px;
+}
+.report-form[hidden] { display: none !important; }
+.report-form-title { margin: 0; font-weight: 700; color: var(--ink); }
+.report-form label {
+  display: grid;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--muted);
+  text-align: left;
+}
+.report-form input,
+.report-form select,
+.report-form textarea {
+  font: inherit;
+  font-size: 16px;
+  color: var(--ink);
+  background: var(--card);
+  border: 1px solid var(--line-strong);
+  border-radius: 8px;
+  padding: 8px 10px;
+  width: 100%;
+}
+.report-form textarea { min-height: 72px; resize: vertical; }
+.report-form .btn { justify-self: start; width: auto; }
