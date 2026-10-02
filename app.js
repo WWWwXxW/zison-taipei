@@ -550,16 +550,38 @@
     return null;
   }
 
-  /** Priced menu only. No block when the shop has no priced items. */
+  function phoneParts(phone) {
+    return String(phone || '').split(/、|，/).map(function (s) { return s.trim(); }).filter(Boolean);
+  }
+
+  function phoneTel(part) {
+    return String(part).replace(/[^\d+]/g, '');
+  }
+
+  function phoneLinksHtml(phone) {
+    return phoneParts(phone).map(function (p) {
+      var tel = phoneTel(p);
+      if (!tel) return escapeHtml(p);
+      return '<a href="tel:' + escapeHtml(tel) + '">' + escapeHtml(p) + '</a>';
+    }).join('、');
+  }
+
+  /** Priced menu only. No block when the shop has no priced items. All priced items, not capped. */
   function detailMenuHtml(r) {
     var menu = r.menu;
     if (!menu || !menu.items || !menu.items.length) return '';
     var rows = [];
-    for (var i = 0; i < menu.items.length && rows.length < 8; i++) {
+    var lastCat = null;
+    for (var i = 0; i < menu.items.length; i++) {
       var it = menu.items[i] || {};
       var name = it.name != null ? String(it.name).trim() : '';
       var price = it.price != null ? String(it.price).trim() : '';
       if (!name || !/\d/.test(price)) continue;
+      var cat = it.category != null ? String(it.category).trim() : '';
+      if (cat && cat !== lastCat) {
+        rows.push('<li class="menu-cat">' + escapeHtml(cat) + '</li>');
+        lastCat = cat;
+      }
       rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></li>');
     }
     if (!rows.length) return '';
@@ -610,7 +632,11 @@
       actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐</a>');
     }
     if (r.phone) {
-      actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">撥打電話 ' + escapeHtml(r.phone) + '</a>');
+      phoneParts(r.phone).forEach(function (p) {
+        var tel = phoneTel(p);
+        if (!tel) return;
+        actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(tel) + '">撥打電話 ' + escapeHtml(p) + '</a>');
+      });
     }
     if (r.lineUrl) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">LINE 官方帳號</a>');
@@ -649,7 +675,8 @@
           row('起送', (r.deliveryTerms && r.deliveryTerms.minOrder) || null) +
           row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
           row('結單', (r.deliveryTerms && r.deliveryTerms.cutoff) || null) +
-          row('電話', r.phone ? ('<a href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>') : null, true) +
+          row('外送條件', r.deliveryNote) +
+          row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
           row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
           row('接單／外送時段', r.hours) +

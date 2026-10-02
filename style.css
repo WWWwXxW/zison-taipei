@@ -962,3 +962,12 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   color: var(--muted);
 }
 .detail-card .menu-source a { color: var(--accent-dark); }
+
+.detail-menu li.menu-cat {
+  display: block;
+  border-bottom: none;
+  padding: 12px 0 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--muted);
+}
