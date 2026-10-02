@@ -517,6 +517,70 @@
     return data.find(function (r) { return r.id === id || r.slug === id; });
   }
 
+  function menuSourceName(url) {
+    var u = String(url || '');
+    if (/dinbendon/i.test(u)) return '訂便當';
+    if (/oddle\.me/i.test(u)) return 'Oddle';
+    return '';
+  }
+
+  function linkifyText(text) {
+    var re = /https?:\/\/[^\s；，,]+/g;
+    var out = '';
+    var last = 0;
+    var m;
+    while ((m = re.exec(text))) {
+      out += escapeHtml(text.slice(last, m.index));
+      var url = m[0];
+      out += '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(url) + '</a>';
+      last = m.index + url.length;
+    }
+    out += escapeHtml(text.slice(last));
+    return out;
+  }
+
+  /** LINE wording from the sourced note, else the existing account link. */
+  function detailLineHtml(r) {
+    var note = r.line != null ? String(r.line).trim() : '';
+    if (note) return linkifyText(note);
+    if (r.lineUrl) {
+      return '<a href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(r.lineUrl) + '</a>';
+    }
+    if (r.lineId) return escapeHtml(r.lineId);
+    return null;
+  }
+
+  /** Priced menu only. No block when the shop has no priced items. */
+  function detailMenuHtml(r) {
+    var menu = r.menu;
+    if (!menu || !menu.items || !menu.items.length) return '';
+    var rows = [];
+    for (var i = 0; i < menu.items.length && rows.length < 8; i++) {
+      var it = menu.items[i] || {};
+      var name = it.name != null ? String(it.name).trim() : '';
+      var price = it.price != null ? String(it.price).trim() : '';
+      if (!name || !/\d/.test(price)) continue;
+      rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></li>');
+    }
+    if (!rows.length) return '';
+    var srcUrl = menu.source ? String(menu.source).trim() : '';
+    var srcName = menuSourceName(srcUrl);
+    var when = menu.fetchedOn ? String(menu.fetchedOn).trim() : '';
+    var srcBit = '';
+    if (srcName && srcUrl) {
+      srcBit = '<a href="' + escapeHtml(srcUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(srcName) + '</a>';
+    } else if (srcName) {
+      srcBit = escapeHtml(srcName);
+    } else if (srcUrl) {
+      srcBit = '<a href="' + escapeHtml(srcUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(srcUrl) + '</a>';
+    }
+    var sourceLine = '';
+    if (srcBit || when) {
+      sourceLine = '<p class="menu-source">來源：' + srcBit + (srcBit && when ? '，' : '') + escapeHtml(when) + '</p>';
+    }
+    return '<section class="detail-menu" aria-label="菜單"><h2>菜單</h2><ul>' + rows.join('') + '</ul>' + sourceLine + '</section>';
+  }
+
   function initDetail() {
     var root = $('#detail');
     if (!root) return;
@@ -582,9 +646,12 @@
           row('縣市', r.city) +
           row('行政區', r.district) +
           row('地址', r.address) +
+          row('起送', (r.deliveryTerms && r.deliveryTerms.minOrder) || null) +
+          row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
+          row('結單', (r.deliveryTerms && r.deliveryTerms.cutoff) || null) +
           row('電話', r.phone ? ('<a href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>') : null, true) +
           row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
-          row('LINE', r.lineId || r.lineUrl) +
+          row('LINE', detailLineHtml(r), true) +
           row('接單／外送時段', r.hours) +
           row('配送範圍說明', r.range) +
           row('免運門檻（參考）', freeText || null) +
@@ -594,6 +661,7 @@
           row('說明／條件摘要', r.terms) +
           row('收錄依據摘要', r.evidence) +
         '</dl>' +
+        detailMenuHtml(r) +
       '</div>';
   }
 

@@ -929,3 +929,36 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 }
 .report-form textarea { min-height: 72px; resize: vertical; }
 .report-form .btn { justify-self: start; width: auto; }
+
+/* detail facts + priced menu 20261003 */
+.detail-menu { margin-top: 4px; }
+.detail-menu h2 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 18px 0 8px;
+  color: var(--ink);
+}
+.detail-menu ul { list-style: none; margin: 0; padding: 0; }
+.detail-menu li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 15px;
+  line-height: 1.5;
+}
+.detail-menu .menu-name { min-width: 0; }
+.detail-menu .menu-price {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--ink);
+}
+.detail-menu .menu-source {
+  margin: 10px 0 0;
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.detail-card .menu-source a { color: var(--accent-dark); }
