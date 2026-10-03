@@ -582,7 +582,12 @@
         rows.push('<li class="menu-cat">' + escapeHtml(cat) + '</li>');
         lastCat = cat;
       }
-      rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></li>');
+      var desc = it.description != null ? String(it.description).trim() : '';
+      if (desc) {
+        rows.push('<li class="has-desc"><div class="menu-row"><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></div><p class="menu-desc">' + escapeHtml(desc) + '</p></li>');
+      } else {
+        rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></li>');
+      }
     }
     if (!rows.length) return '';
     var srcUrl = menu.source ? String(menu.source).trim() : '';
@@ -676,13 +681,18 @@
           row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
           row('結單', (r.deliveryTerms && r.deliveryTerms.cutoff) || null) +
           row('外送條件', r.deliveryNote) +
+          row('外送費', feeText || null) +
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
           row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
-          row('接單／外送時段', r.hours) +
+          row('營業時間', (function () {
+            if (r.hours == null) return null;
+            var hs = String(r.hours).trim();
+            if (!hs || hs.toUpperCase() === 'UNKNOWN' || hs === '未知') return null;
+            return hs;
+          })()) +
           row('配送範圍說明', r.range) +
           row('免運門檻（參考）', freeText || null) +
-          row('運費（參考）', feeText || null) +
           row('最後核對', r.checkedAt) +
           row('外送條件備註', r.deliveryNotes) +
           row('說明／條件摘要', r.terms) +

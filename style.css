@@ -971,3 +971,20 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
   font-weight: 700;
   color: var(--muted);
 }
+
+.detail-menu li.has-desc {
+  display: block;
+}
+.detail-menu li.has-desc .menu-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+}
+.detail-menu .menu-desc {
+  margin: 2px 0 0;
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--muted);
+  white-space: pre-line;
+}
