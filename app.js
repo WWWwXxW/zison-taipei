@@ -270,7 +270,7 @@
     if (r.phone) {
       actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
     }
-    actions.push('<a class="btn btn-ghost" href="detail.html?id=' + encodeURIComponent(r.id) + '">詳情</a>');
+    actions.push('<a class="btn btn-ghost" href="shop/' + encodeURIComponent(r.id) + '.html">詳情</a>');
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
     return (
@@ -278,7 +278,7 @@
         cardMediaHtml(r) +
         '<div class="card-body">' +
           '<div class="badges">' + badges.join('') + '</div>' +
-          '<h2><a href="detail.html?id=' + encodeURIComponent(r.id) + '">' + escapeHtml(r.name) + '</a></h2>' +
+          '<h2><a href="shop/' + encodeURIComponent(r.id) + '.html">' + escapeHtml(r.name) + '</a></h2>' +
           channelChips(r) +
           (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
           (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
