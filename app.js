@@ -469,6 +469,9 @@
         }
       }
       filtered.sort(function (a, b) {
+        var pa = /^https?:\/\//i.test(String(a.imageUrl || '').trim()) ? 0 : 1;
+        var pb = /^https?:\/\//i.test(String(b.imageUrl || '').trim()) ? 0 : 1;
+        if (pa !== pb) return pa - pb;
         return (a.name || '').localeCompare(b.name || '', 'zh-Hant');
       });
 
@@ -679,6 +682,10 @@
         '<a class="back-link" href="index.html' + backCity + '">← 回目錄</a>' +
         '<div class="badges">' + badges.join('') + '</div>' +
         '<h1>' + escapeHtml(r.name) + '</h1>' +
+        (/^https?:\/\//i.test(String(r.imageUrl || '').trim())
+          ? '<figure class="shop-photo" style="margin:16px 0 8px;border-radius:12px;overflow:hidden;background:#f3ead8"><img src="' + escapeHtml(r.imageUrl) + '" alt="' + escapeHtml(r.name) + ' 餐點照片" style="display:block;width:100%;height:auto;max-height:440px;object-fit:cover" onerror="this.parentNode.hidden=true" />' +
+            '<figcaption style="font-size:12px;color:#7a6a5a;padding:6px 10px;margin:0">餐點照片取自店家官方頁面' + (r.imageSource ? '（<a href="' + escapeHtml(r.imageSource) + '" target="_blank" rel="noopener noreferrer">來源</a>）' : '') + '，實際餐點以店家為準</figcaption></figure>'
+          : '') +
         channelChips(r) +
         '<div class="notice">本站不代訂、不收款。請直接在餐廳官方網站／LINE／電話下單。外送門檻與運費以店家官方結帳頁為準。</div>' +
         '<div class="actions">' +
