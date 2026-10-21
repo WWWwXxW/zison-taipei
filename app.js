@@ -491,11 +491,23 @@
       if (heroStats) {
         heroStats.innerHTML = '目前收錄 <strong>' + data.length + '</strong> 家店家自送通道';
       }
+      trackSearch(q, filtered.length);
       if (!filtered.length) {
         listEl.innerHTML = '<div class="empty">找不到符合條件的店家，請調整關鍵字或篩選。</div>';
         return;
       }
       listEl.innerHTML = filtered.map(cardHtml).join('');
+    }
+
+    var lastTrackedQ = '';
+    var trackTimer;
+    function trackSearch(q, n) {
+      clearTimeout(trackTimer);
+      if (!q || q === lastTrackedQ) return;
+      trackTimer = setTimeout(function () {
+        lastTrackedQ = q;
+        if (window.zisongTrack) window.zisongTrack(n ? 'search' : 'search-empty', q.toLowerCase().slice(0, 60));
+      }, 1500);
     }
 
     var t;

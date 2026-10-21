@@ -10,7 +10,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "https://wwwwxxw.github.io/zison-taipei"
+BASE = "https://zisong.tw"
 TODAY = date.today().isoformat()
 SKIP_CUISINE = "餐館（料理類型未公開）"
 
