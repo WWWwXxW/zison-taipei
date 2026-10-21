@@ -414,7 +414,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-14.webp",
+    "imageSource": "https://vege.shop.landyoungfood.com/",
+    "imageOriginal": "https://shoplineimg.com/61920519597289005ab400ac/6aa2538ba47be86326552460/375x.webp?source_format=jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-15",
@@ -537,7 +541,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 3000,
     "deliveryMinLabel": "滿 $3000 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-18.webp",
+    "imageSource": "https://www.minimark.com.tw/?rcode=WEB",
+    "imageOriginal": "https://cdn-general.cybassets.com/media/W1siZiIsIjIyNTk4L3Byb2R1Y3RzLzY4NzUxMDMzLzE3ODExNjI2MDRfMGJiNDYyM2Q4MjJkNGIyNzcyN2IuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=60ea5e2ab192e11d",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-19",
@@ -568,7 +576,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-19.webp",
+    "imageSource": "https://www.kt-bakery.com.tw/",
+    "imageOriginal": "https://img.gogoshop.cloud/cdn-cgi/image/f=auto,q=auto,width=480/9f42c7e5/g9FBM7YZcta.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-20",
@@ -626,7 +638,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
     "deliveryMinLabel": "滿 $300",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-21.webp",
+    "imageSource": "https://order.ocard.co/kebuke/mND0vw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/28dcad43f329203b023120a671bb44d3.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-22",
@@ -715,7 +731,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
     "deliveryMinLabel": "滿 $350",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-24.webp",
+    "imageSource": "https://order.ocard.co/unochaadmin/mEJdGK?a&utm_source=bot&utm_medium=line",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/x2V5Ov.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-25",
@@ -987,7 +1007,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 900,
     "deliveryMinLabel": "滿 $900 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-33.webp",
+    "imageSource": "https://pallascafe.easy.co/",
+    "imageOriginal": "https://cdn.store-assets.com/s/741496/f/17703982.jpg?width=1500&format=webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-34",
@@ -1235,7 +1259,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-41.webp",
+    "imageSource": "https://missvbakery.cyberbiz.co/",
+    "imageOriginal": "https://cdn-general.cybassets.com/media/W1siZiIsIjE5NDYyL3Byb2R1Y3RzLzUwOTUwMjYxLzE3NDAwMzkxODNfN2FmN2M4YTM1OGJlMTAxMzk0ZDAuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9b25ae9f98824926",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-42",
@@ -1326,7 +1354,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-44.webp",
+    "imageSource": "https://pancakeboy.mystrikingly.com/",
+    "imageOriginal": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/1970685/15400_892223.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-45",
@@ -1658,7 +1690,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
     "deliveryMinLabel": "滿 $300",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-56.webp",
+    "imageSource": "https://shop.ichefpos.com/store/AO9-Ff5j/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/04054216-6675-4b5c-a97b-4f172105134f/b46772e4-da38-11eb-b09d-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-57",
@@ -1688,7 +1724,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-57.webp",
+    "imageSource": "https://rooj-itea.com/",
+    "imageOriginal": "https://rooj-itea.com/upload/5546/images/Capture01001-1-546d84.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-58",
@@ -1749,7 +1789,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-59.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%AF%8C%E8%B2%B4%E8%8A%B1Fuguei-Hua-cafebrunch-%E5%93%88%E5%AF%86-100076254997733",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/638332712_933346695883822_6837446791396851398_n.jpg?stp=dst-jpg_tt6&cstp=mx1050x1050&ctp=s720x720&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=0Le0n2_11f4Q7kNvwGKMkLy&_nc_oc=Ado6gvtHyLvQ-NDbfH-o7X_OmzW2IWGwv-UFztOq2wA7JKiKEc1DABcV-p2WtBRTxs5By_b5rSW0d264dnjIh2O7&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=u1NCHIO_4OEcfD5zdhJG8w&_nc_ss=7b20f&oh=00_AQPqwjWAQdLmckSfnuEbhpjbUqALxK2lMM8lyjTvz2Wo-g&oe=6ADE5809",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-60",
@@ -2092,7 +2136,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 439,
     "deliveryMinLabel": "滿 $439 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-71.webp",
+    "imageSource": "https://www.facebook.com/0800076666.tw",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/348320346_1285472465390310_1913395985959390631_n.jpg?stp=dst-jpg_tt6&cstp=mx521x521&ctp=s521x521&_nc_cat=1&ccb=1-7&_nc_sid=3ab345&_nc_ohc=HiT9ajhw2XsQ7kNvwGNcjMl&_nc_oc=Adrp9u-T2hNGtIZq3gz1Y3dSjat7YyNaXK4uiiEqD0r4ywsCwWCx2fLF0NsnkPC7-U2olBogbTaKqgrY1Jif5fwV&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=nBmdmXnKZGkWo-C0iQTHEg&_nc_ss=7b20f&oh=00_AQOkstAHGoRJV2Jr9iJnYzP9cz4L6wtv-9h3h8Ta0OdS5w&oe=6ADE7428",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-72",
@@ -2148,7 +2196,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-73.webp",
+    "imageSource": "https://order-rc.quickclick.cc/tw/portals/btnj/",
+    "imageOriginal": "https://storage.quickclick.cc/library/26885/phone-1791866088541.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-74",
@@ -2177,7 +2229,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-74.webp",
+    "imageSource": "https://www.kungfutea.com.tw/",
+    "imageOriginal": "https://www.kungfutea.com.tw/upload/home_about_menu_list/twL_home_about_menu_22J06_Zk7JKueXyJ.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-75",
@@ -2205,7 +2261,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
     "deliveryMinLabel": "滿 $350",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-75.webp",
+    "imageSource": "https://order.ocard.co/naptea/mXEMaK",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/698c6b04a23f2.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-76",
@@ -2407,7 +2467,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-82.webp",
+    "imageSource": "https://www.greedybeagle.com/",
+    "imageOriginal": "https://www.greedybeagle.com/_next/image?url=https%3A%2F%2Fcdn.showmore.cc%2Fshop%2FQVrJpq49mtZnpWWqm4e733.png&w=1920&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-83",
@@ -2494,7 +2558,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-85.webp",
+    "imageSource": "https://dadaochen.com/",
+    "imageOriginal": "https://dadaochen.com/wp-content/uploads/2026/06/%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-2-%E8%A4%87%E6%9C%AC-8@0.5x-qbpfpssdetirk89eva7981lfgpkd2kipkoqfhjxbls.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cg-86",
@@ -3050,7 +3118,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b1-16.webp",
+    "imageSource": "https://ruikee.tw/",
+    "imageOriginal": "https://ruikee.tw/_assets/media/f97f9ef2fb78ba53e852cc6e27ffed54.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b1-17",
@@ -4278,7 +4350,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-72.webp",
+    "imageSource": "https://shop.ichefpos.com/store/kiXEKkMy/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/4b32c96d-d693-49c8-bb7b-e30eb72f3c6d/bdb1adce-bc26-11ee-a29e-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-73",
@@ -4302,7 +4378,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-73.webp",
+    "imageSource": "https://shop.ichefpos.com/store/D8ZTTWF1/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6351a774-fa38-40ce-9901-60fe410cbb8d/b5b606f0-295f-11ef-b397-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-74",
@@ -4326,7 +4406,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-74.webp",
+    "imageSource": "https://shop.ichefpos.com/store/j3LVSING/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d1f0bb41-2327-466b-b00e-67a1a53de691/c7819efa-58b8-11f1-a74f-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-75",
@@ -4351,7 +4435,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-75.webp",
+    "imageSource": "https://shop.ichefpos.com/store/yR4c_AUt/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/37d806cd-33ca-4fcb-9980-2068f7829737/5664ef38-9038-11ee-9e5b-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-76",
@@ -4376,7 +4464,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 3600,
     "deliveryMinLabel": "滿 $3600 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-76.webp",
+    "imageSource": "https://shop.ichefpos.com/store/c7YGsBR4/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6a3bfaac-8306-4fc4-8102-e4337bb26680/9dec3c68-d3e2-11eb-94c2-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-77",
@@ -4401,7 +4493,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-77.webp",
+    "imageSource": "https://shop.ichefpos.com/store/g4lMyb9E/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ba2ea6e-2b17-4565-a811-0d1e9cc22500/e11d4e8e-d0f2-11eb-a633-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b3-78",
@@ -4474,7 +4570,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b3-80.webp",
+    "imageSource": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2539af50-63a9-4acd-8e6e-d104b2c34822/98a3464e-ca9a-11eb-a7da-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b4-81",
@@ -4525,7 +4625,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "quantity",
     "deliveryMinValue": 6,
     "deliveryMinLabel": "滿 6 個",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b4-82.webp",
+    "imageSource": "https://iding.tw/store/b76defb0",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_1739503864ECC0F6/1739503864ECC0F6_120_4_43.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b4-83",
@@ -4858,7 +4962,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b4-95.webp",
+    "imageSource": "https://shop.ichefpos.com/store/1PMMyTK8/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d1e5bc01-9a1b-4002-bc41-330c9960e620/4faae01c-c439-11eb-989f-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b4-96",
@@ -4883,7 +4991,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b4-96.webp",
+    "imageSource": "https://shop.ichefpos.com/store/LKd-z5N5/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2081c483-6a5a-4ade-92e7-7863b544afde/4e8ac4aa-d4db-11ec-9a46-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b4-97",
@@ -4908,7 +5020,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b4-97.webp",
+    "imageSource": "https://shop.ichefpos.com/store/97eIkiBF/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7e853100-ca63-4097-a3c2-dc1021d35592/b39157d2-bb0b-11eb-b50f-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b4-98",
@@ -5818,7 +5934,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-131.webp",
+    "imageSource": "https://eightyeightea.oddle.me/zh_TW",
+    "imageOriginal": "https://eightyeightea.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2F5d5ed8b7-3f03-464b-af73-1074de399212%2F-%2Fcrop%2F1200x530%2F0%2C494%2F-%2Fpreview%2F&w=640&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-132",
@@ -5993,7 +6112,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-137.webp",
+    "imageSource": "https://lamareewedding.oddle.me/zh_TW",
+    "imageOriginal": "https://lamareewedding.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2F396e2a0c-fbc3-4a79-9e40-fbd3b40194e0%2F-%2Fcrop%2F2500x1042%2F0%2C378%2F-%2Fpreview%2F&w=1920&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-138",
@@ -6406,7 +6529,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-152.webp",
+    "imageSource": "https://icespring.oddle.me/zh_TW",
+    "imageOriginal": "https://icespring.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2Fb24d3912-0a02-4fd6-9403-fc9968f02df3%2F&w=640&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-153",
@@ -7622,7 +7748,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-193.webp",
+    "imageSource": "https://cocomaker.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/ed49704f-03e0-456e-b3ac-770f43ef351f//-/resize/300x300/-/quality/lightest/-/format/webp/-/progressive/yes/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-194",
@@ -7651,7 +7780,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-194.webp",
+    "imageSource": "https://cocomaker.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/ed49704f-03e0-456e-b3ac-770f43ef351f//-/resize/300x300/-/quality/lightest/-/format/webp/-/progressive/yes/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-195",
@@ -7865,7 +7997,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-202.webp",
+    "imageSource": "https://somadrinks.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/4e97a7e3-09f9-4a72-b06c-889bae459204/-/crop/1688x1687/0,629/-/preview//-/resize/300x300/-/quality/lightest/-/format/webp/-/progressive/yes/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-203",
@@ -7895,7 +8030,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-203.webp",
+    "imageSource": "https://somadrinks.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/4e97a7e3-09f9-4a72-b06c-889bae459204/-/crop/1688x1687/0,629/-/preview//-/resize/300x300/-/quality/lightest/-/format/webp/-/progressive/yes/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-204",
@@ -8160,7 +8298,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-212.webp",
+    "imageSource": "https://12moon.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/9148cfe7-e048-44d8-8e51-65173f6062ac/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-213",
@@ -9078,7 +9220,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-243.webp",
+    "imageSource": "https://jerrymeatshop.oddle.me/zh_TW",
+    "imageOriginal": "https://ucarecdn.com/a18b349d-adb4-4049-af86-aa1a14cfd1c0/",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-244",
@@ -9849,7 +9995,10 @@ window.RESTAURANTS = [
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-269.webp",
+    "imageSource": "https://icespring.oddle.me/zh_TW",
+    "imageOriginal": "https://icespring.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2Fb24d3912-0a02-4fd6-9403-fc9968f02df3%2F&w=640&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b5-270",
@@ -9983,7 +10132,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-115.webp",
+    "imageSource": "https://shop.ichefpos.com/store/S7UIgQ8p/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d6b09570-a0af-4d06-9450-d387384dabb1/176b8c3a-2c58-11ef-9a95-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-116",
@@ -10295,7 +10448,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b6-141.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WFOVe-dR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/188f7e42-b5a0-4b0e-a3d5-2582a991b27b/17af89f8-9e1c-11f0-9db4-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b6-142",
@@ -10320,7 +10477,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b6-142.webp",
+    "imageSource": "https://shop.ichefpos.com/store/rJ9EF8cf/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5fd12f95-0bd9-483f-9113-dfa4d37566aa/a80e3eb0-a335-11ee-897c-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b6-143",
@@ -10442,7 +10603,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b6-147.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%B8%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E8%85%BF%E7%94%84%E5%93%81%E5%91%B3-100069165277120",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/294747560_362296906085816_7372209507382457744_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1428&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=kSK-RurUCuYQ7kNvwH1wuPg&_nc_oc=Adr3CxngAVXm1qH6txygkJFSVEmrxYn-AnPyUqTcyUp9XC6ZtY8wPJFiD-EV1WR33TexGfIOrbSL_s9-p4VVOpqk&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=8UselwLXYpQe7heWkY962Q&_nc_ss=7b20f&oh=00_AQPIqlwVs2ovw_CeUkB_CYN_bEm19XpGF9AooeTM0ZLHhg&oe=6ADE7229",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b7-148",
@@ -10523,7 +10688,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b7-150.webp",
+    "imageSource": "https://www.gandankit.com/",
+    "imageOriginal": "https://www.gandankit.com/views/templates/default/static/images/content/item_about01.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b7-151",
@@ -10832,7 +11001,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b8-182.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Xu7Ac9Lh/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/a6df2b5e-b460-4d06-bdf1-56071496ef7c/1c5801bc-beb8-11f0-823a-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b9-203",
@@ -10931,7 +11104,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b9-206.webp",
+    "imageSource": "https://www.infinitykitchen.com/tw/",
+    "imageOriginal": "https://www.infinitykitchen.com/s3/post/20210723-R0nD6XE85TqTuGPABrfrkqwzWPrJDWFje4y5GAki.jpeg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b10-207",
@@ -11178,7 +11355,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 1200,
     "deliveryMinLabel": "滿 $1200 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b10-217.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b10-218",
@@ -11275,7 +11456,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b10-221.webp",
+    "imageSource": "https://www.facebook.com/nangangfood",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/277560165_330954869101195_7195978646886403087_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=rW10oPos-q4Q7kNvwGr-B33&_nc_oc=AdqKtZQtcXLQaSVUPMUo8iMRrwLDlSffheaY4wtIn7DmvFNMB8iFTe5YK3Bi7HrLBtH6MtJ46HOVaJGaZBnsNLYs&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=FybTPABthl8HJ_CHdptRWQ&_nc_ss=7b20f&oh=00_AQPkf18Q4KfB0m5pTfcn1suH074iv9sho9kpAGzcuSTtRQ&oe=6ADE5D22",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b10-222",
@@ -11401,7 +11586,11 @@ window.RESTAURANTS = [
     "deliveryMinLabel": "3個以上外送",
     "city": "台北市",
     "orderUrl": "http://www.168web.com.tw/in/front/bin/ptdetail.phtml?Part=106008&PreView=1",
-    "orderChannel": "own-web"
+    "orderChannel": "own-web",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b11-231.webp",
+    "imageSource": "https://www.facebook.com/p/%E7%9C%9F%E5%91%B3%E9%A6%99%E7%B2%BE%E7%B7%BB%E9%A4%90%E7%9B%92-100063706187593",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/299147059_489723489827853_1180970947349286782_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=idMaWUZsq44Q7kNvwEuId43&_nc_oc=AdqJexzGkncsB6sBvKrLLeAMgw0yaAZPKjzvfYqVWPpOtvHeqsuBU1cGzWdk7lSH14hmUwPn7bgWDWQVwzwVkRvT&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=9GbhaVA_ET26svrThNMuQQ&_nc_ss=7b20f&oh=00_AQMK4H7ORkZHSZNlUq8OL8XlqJV6zALI7D-Vd2f1CXCsFQ&oe=6ADE4809",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b11-232",
@@ -11528,7 +11717,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b11-236.webp",
+    "imageSource": "https://shop.ichefpos.com/store/BE6hBvd5/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/41dc70c8-020f-461d-8d98-c90e96af9d17/49e81816-acbd-11ed-b31e-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b11-238",
@@ -11680,7 +11873,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b12-245.webp",
+    "imageSource": "https://fengwei.cashier.ecpay.com.tw/",
+    "imageOriginal": "https://img.cashier.ecpay.com.tw/image/resize/p300x300/2021/06/11/231434_2fc366c9b1e749d8f60cb7e181899426be9a90b7.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-b12-246",
@@ -12454,7 +12651,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-287.webp",
+    "imageSource": "https://shop.ichefpos.com/store/HPnWyzMC/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7ca08b52-d1cf-425d-a815-4d169b69a620/89d5d41a-1c44-11f0-afe4-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-288",
@@ -12673,7 +12874,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-298.webp",
+    "imageSource": "https://shop.ichefpos.com/store/V6v0m4Dr/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3885cff1-1dec-43a5-934f-ff42f6d5a68d/65e5bf54-049a-11f1-a58a-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-299",
@@ -12766,7 +12971,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-302.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WwOnTqlQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/96d1e4fd-db17-4b9e-b223-1843cda2c5d7/377ef764-e665-11f0-ae37-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-303",
@@ -13179,7 +13388,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-319.webp",
+    "imageSource": "https://www.facebook.com/p/%E4%B8%80%E6%A5%B5%E6%8B%8C%E7%A6%8F%E5%B7%9E%E4%B9%BE%E6%8B%8C%E9%BA%B5%E4%BC%8A%E9%80%9A%E5%BA%97-100071797021488",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/304784294_190743209995579_3807389534833804770_n.jpg?stp=dst-jpg_tt6&cstp=mx500x375&ctp=s500x375&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1aIWrbNBRn0Q7kNvwGBtsAP&_nc_oc=AdrfRDErupcxn1Frc2xzoeRYXwhWdqr9QIqfGYYu0eUvx3cnCov4dRh6xb6dt2gEzCH9mZQ19FIQQttkzRewAH8x&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=uyBkmlXzn7EnTSUu8-lO6Q&_nc_ss=7b20f&oh=00_AQO3N-eF4PzockG2O8SsmJeUgNH1iTl9bWnLvoC5IY5E8A&oe=6ADE6870",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-320",
@@ -13205,7 +13418,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 1200,
     "deliveryMinLabel": "滿 $1200 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-320.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-321",
@@ -13500,7 +13717,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
     "deliveryMinLabel": "滿 $1000 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-332.webp",
+    "imageSource": "https://order-rc.quickclick.cc/tw/food/P_YrO5xvr2o/",
+    "imageOriginal": "https://lafreshcdn.blob.core.windows.net/product00/753852-1-1785480428.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-333",
@@ -13693,7 +13914,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-340.webp",
+    "imageSource": "https://0227772179.web66.com.tw/web/Comp?command=Intro",
+    "imageOriginal": "https://s.web66.com.tw/_file/120853/piclist/pic1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-341",
@@ -13924,7 +14149,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-349.webp",
+    "imageSource": "https://nmw-steak.tw/",
+    "imageOriginal": "https://nmw-steak.tw/wp-content/uploads/2024/10/Meat.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-350",
@@ -14146,7 +14375,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-359.webp",
+    "imageSource": "https://www.facebook.com/bentomiss",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/614307098_854924947348482_107466378723383348_n.jpg?stp=dst-jpg_tt6&cstp=mx799x799&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=WyECLpDSTrkQ7kNvwFnz6Ha&_nc_oc=AdoYCF4PQpE3dM3vG8ErVHks7gCAnYk4RZdwnlRXqwZJBuXnNeksxWYOtESGTsRbQibCEZJjUNOzdn_FzUWn0G30&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=Gb0Pi8K2jashNmaJxFG-Ww&_nc_ss=7b20f&oh=00_AQOU8gkvYbznlOqVUuumb7bjpPKLna7oNkUVOUY52A2JVg&oe=6ADE6313",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-360",
@@ -14465,7 +14698,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-372.webp",
+    "imageSource": "https://furicebox.webnode.tw/",
+    "imageOriginal": "https://0e81a33567.cbaul-cdnwnd.com/d00adbc26f55bada82d8dd65d7206368/200000000-94145950df/518-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-373",
@@ -14514,7 +14751,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-374.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-376",
@@ -14540,7 +14781,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-376.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-377",
@@ -14891,7 +15136,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-390.webp",
+    "imageSource": "https://0227371575.web66.com.tw/web/Comp?command=Intro",
+    "imageOriginal": "https://s.web66.com.tw/_file/50159/piclist/pic2.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-391",
@@ -15338,7 +15587,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-408.webp",
+    "imageSource": "https://0227322808.web66.com.tw/web/Comp?command=Intro",
+    "imageOriginal": "https://s.web66.com.tw/_file/1904/piclist/pic2.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-409",
@@ -15363,7 +15616,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-409.webp",
+    "imageSource": "https://www.facebook.com/people/%E5%85%A8%E4%B9%8B%E9%84%89%E6%B1%A0%E4%B8%8A%E6%9C%A8%E7%9B%92%E4%BE%BF%E7%95%B6/100064058112811",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301348681_441474207997846_2765103873172336060_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=-VNjQo6OgJ0Q7kNvwFZ6sbb&_nc_oc=AdrZ_cIN6OueAUTq_tBgKXMQKBcSLGctCDDfrryN5J3xrDURH2VR2yIbJp0-TxizLyL7cPz3MROjEjxqkpiEth5p&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=0V0F1hj8bLgDq1hdiHlUnQ&_nc_ss=7b20f&oh=00_AQMU64CNky8jfASdg0cJPkRU53T2XOU_a02Asbsb9mZM7Q&oe=6ADE44F8",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-410",
@@ -15888,7 +16145,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-431.webp",
+    "imageSource": "https://king-pork.tw/",
+    "imageOriginal": "https://king-pork-bucket.s3.ap-southeast-1.amazonaws.com/public_media/%E6%8E%92%E9%AA%A8%E4%BE%BF%E7%95%B62_AA5xdgx.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-432",
@@ -15962,7 +16223,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-434.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WwOnTqlQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/96d1e4fd-db17-4b9e-b223-1843cda2c5d7/377ef764-e665-11f0-ae37-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-435",
@@ -16489,7 +16754,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-473.webp",
+    "imageSource": "https://shop.ichefpos.com/store/PLT1ARv_/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e930d882-2379-4b46-88e5-498ff1d05be9/1c0a761a-bd80-11eb-b203-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-474",
@@ -16542,7 +16811,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-475.webp",
+    "imageSource": "https://shop.ichefpos.com/store/7irY9R8p/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ae2b19ed-0481-46ba-9423-3bec89073915/2bdd48ce-cece-11eb-ba72-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-476",
@@ -16567,7 +16840,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
     "deliveryMinLabel": "滿 $2000 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-476.webp",
+    "imageSource": "https://shop.ichefpos.com/store/n22USvxN/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/79f43f82-7b6b-46fe-9589-5226eca3b3b8/3df352d4-f71f-11ee-a2e7-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-478",
@@ -16742,7 +17019,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-484.webp",
+    "imageSource": "https://shop.ichefpos.com/store/X2edRFwx/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/cd45c746-5137-4b8f-931a-db1ede123da5/21107d7a-8570-11ee-aa0c-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-485",
@@ -16793,7 +17074,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
     "deliveryMinLabel": "滿 $2000 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-486.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ze3MULt5/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2ffb6e39-b87d-408d-9d0c-313ed938ffa9/2b4f9fde-d32d-11eb-a0cf-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-487",
@@ -16818,7 +17103,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-487.webp",
+    "imageSource": "https://shop.ichefpos.com/store/biHMXNMK/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7de62f8d-3c4b-4ec9-9bd8-c2eca828e7cb/e4ad1110-c0ea-11ef-a78e-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-488",
@@ -16843,7 +17132,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
     "deliveryMinLabel": "滿 $1000",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-488.webp",
+    "imageSource": "https://shop.ichefpos.com/store/vou8T3jN/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7202aafb-2ee5-45ee-b6b1-b894d7252761/8e10d2c8-bf87-11eb-a47d-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-489",
@@ -17122,7 +17415,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 200,
     "deliveryMinLabel": "滿 $200",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-504.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ds492kgs/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/62581206-e0be-4822-a471-f2ba53b52532/fc76b48a-2f52-11ed-9910-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-505",
@@ -17147,7 +17444,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 2380,
     "deliveryMinLabel": "滿 $2380 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-505.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WGIfETjT/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e2eb9a7f-29d8-4400-9869-8ab5a8ecf05d/5a267b2a-8a08-11f0-a2ca-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-511",
@@ -17173,7 +17474,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-511.webp",
+    "imageSource": "https://shop.ichefpos.com/store/i36gaUwK/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8a75f9c5-9e69-4cce-9d17-42660f2e2297/09daac9a-295a-11f0-b14d-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-512",
@@ -17225,7 +17530,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 1500,
     "deliveryMinLabel": "滿 $1500 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-513.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5MxH8SH-/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/37337f10-c543-41c8-b666-8b4110f3beba/e9182dc2-daf0-11eb-bca9-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-514",
@@ -17251,7 +17560,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-514.webp",
+    "imageSource": "https://shop.ichefpos.com/store/3Pty6OjA/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/27c4e06f-6775-4043-9b2f-428907d748c0/09dbcb9e-c837-11eb-b068-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-515",
@@ -17278,7 +17591,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
     "deliveryMinLabel": "滿 $2000 免運",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-515.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ALuz1GiC/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/1836012d-2faa-4790-a22e-aad8b14fc268/db1825c0-e37d-11eb-82d9-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "scout-lead-516",
@@ -17330,7 +17647,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-517.webp",
+    "imageSource": "https://shop.ichefpos.com/store/0U7stOxr/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/88fb087c-66b1-4ec6-85bb-80bf98ac74e7/d62045ba-e8ba-11eb-821e-0242ac110007.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-1",
@@ -17444,7 +17765,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/QgaZAK",
     "phone": "02-8245-9221",
     "address": "泰和街14號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-4.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-5",
@@ -17584,7 +17909,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.xn--wtq522abrt2t3a.tw/contact-us.html",
     "phone": "02-2928-9999",
     "address": "永和中正路273號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-10.webp",
+    "imageSource": "https://www.xn--wtq522abrt2t3a.tw/about-us.html",
+    "imageOriginal": "https://static.iyp.tw/23624/products/photooriginal-2091216-XDWX9.jpg?55399",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-11",
@@ -17694,7 +18023,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/jCezc8Av/ordering",
     "phone": "02-2946-5879",
     "address": "安平路134巷1弄1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-14.webp",
+    "imageSource": "https://shop.ichefpos.com/store/jCezc8Av/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e5fab16c-473c-4ada-8212-2ff800241859/4507b906-ce9c-11eb-a5d1-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-15",
@@ -17721,7 +18054,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/G5pe_JNN/ordering",
     "phone": "02-2990-5806",
     "address": "中和街155巷20號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-15.webp",
+    "imageSource": "https://shop.ichefpos.com/store/G5pe_JNN/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9d644850-1da4-4b12-a59e-11f9fd17d1cc/3ea3e714-2e8a-11ef-ba90-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-16",
@@ -17748,7 +18085,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/LFJdgAzl/ordering",
     "phone": "02-2277-1697",
     "address": "復興路一段5號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-16.webp",
+    "imageSource": "https://shop.ichefpos.com/store/LFJdgAzl/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/db98dff2-8de0-41cb-926d-3cdb1fe47cf0/110d50ce-614c-11f0-ae70-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-17",
@@ -17775,7 +18116,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/RNuCrYSi/ordering",
     "phone": "02-2927-4339",
     "address": "秀朗路一段11號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-17.webp",
+    "imageSource": "https://shop.ichefpos.com/store/RNuCrYSi/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/797e1071-5a3e-4ef0-9446-9507cd69adfe/698458b0-612e-11f0-8818-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-20",
@@ -17804,7 +18149,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://page.line.me/gzy5506t",
     "phone": "02-2962-9057",
     "address": "三民路二段9號(268",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-20.webp",
+    "imageSource": "https://shop.ichefpos.com/store/-JH3PAqc/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6db4ba9a-267d-4572-93ce-20ed3d9cf6b8/e7f33a90-e500-11ea-8328-0242ac110006.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-21",
@@ -17829,7 +18178,11 @@ window.RESTAURANTS = [
     "source": "店家 PIXNET 訂餐文 2026-04",
     "phone": "02-2922-2612",
     "address": "仁愛路30號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-21.webp",
+    "imageSource": "https://www.facebook.com/Floweringgoodtaste",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/442497310_962796912205054_6474669846046471213_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=G9qmfa1sXMIQ7kNvwHcQtwl&_nc_oc=AdrSCxCesh_h6qfLY7-g-rDL4mNsdGoD4TK7qBpOQdO0jeZ-88z1Yu-9SdqNnBOGbhOD2dgg4kRnvyfUxtz6iuUg&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=EFjMlwiBr05IY8ga_euqgA&_nc_ss=7b20f&oh=00_AQPOnfp7RDHTBtSaPzKMLTl9yc9EsPNcSgbqYwFrSbJ0pg&oe=6ADE79BE",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-22",
@@ -18101,7 +18454,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/wJdZpm",
     "phone": "02-2984-9678",
     "address": "重陽路一段59號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-34.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-36",
@@ -18312,7 +18669,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC 不鏽鋼餐盒外送名單",
     "phone": "02-2270-6393",
     "address": "金城路三段66號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-45.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-46",
@@ -18493,7 +18854,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2622-9162",
     "address": "水源街二段92巷5弄6號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-52.webp",
+    "imageSource": "https://www.facebook.com/Mr.Tsuo.canaan",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/297378669_513384930793037_8137546189141800602_n.jpg?stp=dst-jpg_tt6&cstp=mx720x960&ctp=s720x960&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=N8MEXDRfEbUQ7kNvwGdMUe9&_nc_oc=Ado83ONswCqNH9v87TF7z3PpUN_Vt1ANaKpjI68TNGXdZ8nA_moJhENlo_8JU0x9eKyeBczddMWVptnE73KpFtnv&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=_NuxzQVyn0xDxGiBMJlPIw&_nc_ss=7b20f&oh=00_AQMw_UV9qHt0He-5FC3S8LBFiySNTDLNc1Xm5X3YsOTfUw&oe=6ADE7A51",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-53",
@@ -18519,7 +18884,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2629-0063",
     "address": "北新路182巷41弄6號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-53.webp",
+    "imageSource": "https://www.facebook.com/IYFANRESTAURANT",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/305463703_479544354184801_1412857156082836640_n.jpg?stp=dst-jpg_tt6&cstp=mx673x960&ctp=s673x960&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=l47bdQbKukAQ7kNvwEwrkll&_nc_oc=AdooerjQ9VrOEMZTZ66DTUh5oaOr89CCZN9jYuudfhBWQyzVSHH-GWlJbEB5VV9IFB7exttjLPIXmO6PaGIC2lj4&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=FSZqOellaVkGg-U-yAB8pQ&_nc_ss=7b20f&oh=00_AQNwCBQhqnyT_KrFfMMUFEEcSUcQ5G-Ks3v_CX8Q7gUxHw&oe=6ADE44E5",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-54",
@@ -18544,7 +18913,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2601-6731",
     "address": "中山路156號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-54.webp",
+    "imageSource": "https://missenergy.com.tw/product.php?lang=tw&tb=2",
+    "imageOriginal": "https://missenergy.com.tw/archive/image/product2/images/layoutlist/1727599516575_600.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-55",
@@ -18727,7 +19100,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/QR12Lw",
     "phone": "02-2233-1031",
     "address": "得和路233之2號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-61.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-62",
@@ -18753,7 +19130,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/mGe8ow",
     "phone": "02-8262-7705",
     "address": "裕民路22號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-62.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-63",
@@ -18779,7 +19160,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/mM133m",
     "phone": "02-2808-5557",
     "address": "民族路88號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-63.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-64",
@@ -18971,7 +19356,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2963-3168",
     "address": "三民路二段206之2號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-71.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-72",
@@ -18997,7 +19386,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-8994-2323",
     "address": "中華路一段100號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-72.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-73",
@@ -19125,7 +19518,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2952-0449",
     "address": "華興街68號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-77.webp",
+    "imageSource": "https://www.facebook.com/youlingliu521115",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/278828690_1146857089445097_153122251320368072_n.jpg?stp=dst-jpg_tt6&cstp=mx894x894&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=m6yF8F9fNJ4Q7kNvwE0PPkh&_nc_oc=AdqX6H0_R3aCoWSPl5Hjs3Pfjzxf6m1J61NLKj-Wr05c6YB-LKP6eIakiKq90asBwLK6P5FScch-X3YPo6knhCcZ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=_0InAKJQ7qODadZphW1DVw&_nc_ss=7b20f&oh=00_AQMLFOGPnA0pPTTOr-AjU3OxmjQ94-wQRi0TBzEsflDLDA&oe=6ADE6AD8",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-78",
@@ -19282,7 +19679,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/HZKsrrrX/ordering",
     "phone": "0965-353-557",
     "address": "四川路二段99-1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-84.webp",
+    "imageSource": "https://shop.ichefpos.com/store/HZKsrrrX/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0146a065-498f-439f-af5a-6696f3a4ce9a/9dcf37b8-3499-11ec-83c2-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-85",
@@ -19362,7 +19763,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/aHh15QE4/ordering",
     "phone": "02-2902-0500",
     "address": "新樹路247號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-88.webp",
+    "imageSource": "https://shop.ichefpos.com/store/aHh15QE4/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6478a832-42a8-42b0-9b31-1f009d249f41/80fc62ce-78d2-11f0-b926-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-89",
@@ -19417,7 +19822,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/ZZ3vQ9I",
     "phone": "02-8966-6655",
     "address": "南雅南路二段144巷10號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-91.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-97",
@@ -19444,7 +19853,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/a5lz8eD",
     "phone": "02-2579-0669",
     "address": "中和街171號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-97.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-98",
@@ -19471,7 +19884,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/ct0WzXe",
     "phone": "02-8286-3312",
     "address": "民族路335號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-98.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-99",
@@ -19498,7 +19915,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/zMvhYbC",
     "phone": "02-8295-2999",
     "address": "工商路75號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-99.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-101",
@@ -19548,7 +19969,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2679-5230",
     "address": "光明街92巷6號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-102.webp",
+    "imageSource": "https://www.facebook.com/qox8671s",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/345201201_943119563553449_4630548315891260385_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x1536&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=_qQTJki4V50Q7kNvwG9hNkK&_nc_oc=AdpaqcMyB138Rb-SLmNRYaJUrQ0uYnMzofXdyb-TiP3laTFqqKQc1MQcWcXzWaW6Wnf3B3e2ZtBsm91S0-3RoP7O&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=NRWAqfFsiyFN4gNo0RLPtQ&_nc_ss=7b20f&oh=00_AQPesQPcIrgw0aPjh5JEcLt1rrh0eY3O1PtFDEQJ2Kh79A&oe=6ADE4D9F",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-103",
@@ -19649,7 +20074,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "0958-726583",
     "address": "中山路一段21號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-106.webp",
+    "imageSource": "https://lee.web66.com.tw/web/SEC?postId=331451",
+    "imageOriginal": "https://s.web66.com.tw/_file/C12/129759/AB/1263954471147pic1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-107",
@@ -19674,7 +20103,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2638-2518",
     "address": "中央路5號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-107.webp",
+    "imageSource": "https://www.facebook.com/people/%E9%9B%86%E9%A6%A8%E6%9D%91%E6%B8%AF%E5%BC%8F%E7%87%92%E8%85%8A/100057407471781",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/302445612_551411823449062_3764283526344924024_n.jpg?stp=dst-jpg_tt6&cstp=mx640x648&ctp=s640x648&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=2RBL5sFd-vwQ7kNvwG-Mrai&_nc_oc=AdpbJfzZHlaOpMyj-_LCxaqunEBXgrrIvfeyYA_938nc2u95XmaWUcyeqto5P7LLpz-f0AQMLz6HTb6IWxNNlT3-&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=xhq8qtJoeG2S1RiqKKVl6g&_nc_ss=7b20f&oh=00_AQOR_z7uxx8oUDco_G2LhS7APQ6rnQU7I9VG4UwL9hogBA&oe=6ADE4C95",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-113",
@@ -19726,7 +20159,11 @@ window.RESTAURANTS = [
     "source": "EPD NTPC",
     "phone": "02-2490-3989",
     "address": "仁愛路48號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-114.webp",
+    "imageSource": "https://www.facebook.com/p/%E4%BD%B3%E9%A6%99%E4%BE%BF%E7%95%B6%E5%BA%97-100075837859471",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300960971_174323081772286_2695209576492326040_n.jpg?stp=dst-jpg_tt6&cstp=mx440x440&ctp=s440x440&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=zAycVij3vR0Q7kNvwFekejC&_nc_oc=Ado6oKy3gAdC6wd7w_FV5yMzp8pqrzP0jrfdJkONfoBfPBhHjNYnJ7TuO0TErFh0zDv3MhVxWJDq5BhwMgY58vzG&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=lTdBui7QKwwBCN44agD9FQ&_nc_ss=7b20f&oh=00_AQOkD-fje_fFO_LXmHrzf5rj5pzr9Pm5ZNn4_jd865ANpw&oe=6ADE7AF8",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-115",
@@ -19937,7 +20374,11 @@ window.RESTAURANTS = [
     "source": "pekoblog.tw/fuji 2024-01",
     "phone": "02-2251-3090",
     "address": "雙十路二段47巷8號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-122.webp",
+    "imageSource": "https://fujishaolrbiandang.weebly.com/",
+    "imageOriginal": "https://www.weebly.com/editor/uploads/1/3/6/7/136732210/custom_themes/790837972154301855/files/Azj6ru42.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-123",
@@ -20071,7 +20512,11 @@ window.RESTAURANTS = [
     "source": "268web Part=220009；qpjj 食記交叉",
     "phone": "02-2951-1067",
     "address": "三民路二段11號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-127.webp",
+    "imageSource": "https://www.facebook.com/100068266001353",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/309371731_394276506191213_7744398910552771562_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=pRj58sbgx-YQ7kNvwGk2dNu&_nc_oc=AdquYMCj6sMh5_VXOW7ykCPMpP0alx-o84U19F63zZWve6BZZ5NtsN5zh82KoTxNcikEaVPTtNtduBLPZDZtUaOd&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=Gvhe6Z5K6h2778Zq7uPrFA&_nc_ss=7b20f&oh=00_AQO7tLyCPIqz31lh2pYOPROCWD_kvN-afuZs2X6OGR8tEg&oe=6ADE5CFC",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-128",
@@ -20204,7 +20649,11 @@ window.RESTAURANTS = [
     "evidence": "268web：**訂購 300 元以上外送**；車程 15 分鐘以上請電洽外送金額",
     "source": "268web Part=220007",
     "phone": "022683-0983",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-132.webp",
+    "imageSource": "https://www.facebook.com/grend12345",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300240688_393342052916620_7169670233232821932_n.jpg?stp=dst-jpg_tt6&cstp=mx720x720&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=XpklbeeEZF0Q7kNvwHOOx2b&_nc_oc=AdoR9l46m333OT47tHwmJ50PRYwO54EUJrKF4lY3AWxHkzqMZwcMrD6cI9yjfC1kVJjKgy-cupLbBHn2WKgOSpT0&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=tYXPXNinZcpP9Hw4zxgv9Q&_nc_ss=7b20f&oh=00_AQMMxGHjvGZMs8NB6h3vdoGLNqNf7YTLMIoZaPeaqNTz-g&oe=6ADE4816",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-137",
@@ -21213,7 +21662,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=417611",
     "phone": "02-2964-8145",
     "address": "市板橋區仁愛路2號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-175.webp",
+    "imageSource": "https://www.facebook.com/p/%E9%87%91%E5%B8%AB%E5%82%85%E5%8E%9A%E5%88%87%E6%8E%92%E9%AA%A8%E9%A6%99%E9%85%A5%E9%9B%9E%E8%85%BF%E4%BE%BF%E7%95%B6%E5%B0%88%E8%B3%A3%E5%BA%97-100063485006819",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301365997_505802264879269_4731267663642078255_n.jpg?stp=dst-jpg_tt6&cstp=mx464x464&ctp=s464x464&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=Qxopam1m6DsQ7kNvwF0Ac7K&_nc_oc=AdoSUZF6iP8t8--fIbQRkI6hgQ4YCBsSBBEc7bbx6WvRNthROHSFZaJEj5G_lL0xFBOTe8_lxHatYk2P9TPtUY5Y&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=sScfi4kmbIbDdUec0vxacw&_nc_ss=7b20f&oh=00_AQOgMe9nIKMEJkmGyEFImP2inDYeunRWYGvf5x7-UFpmMg&oe=6ADE5912",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-176",
@@ -22208,7 +22661,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=584460",
     "phone": "02-8201-6612",
     "address": "新莊區民本街1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-212.webp",
+    "imageSource": "https://shop.ichefpos.com/store/QVCnuzGj/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/031674e8-0841-4a40-970c-79b3db3c7cd0/7b201146-2eac-11ef-a42c-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-213",
@@ -22455,7 +22912,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/7FKKiGku/ordering",
     "phone": "0928-517-592",
     "address": "三重區大智街248號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-221.webp",
+    "imageSource": "https://shop.ichefpos.com/store/7FKKiGku/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3585a2c0-d135-4db0-80a4-a3c19176a68e/e53047f6-6e6c-11ed-a975-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-222",
@@ -22623,7 +23084,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=400770",
     "phone": "02-2276-2338",
     "address": "新莊區建中街23號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-227.webp",
+    "imageSource": "https://www.facebook.com/leadcom88",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/293499922_453191340147039_7053837378288748584_n.jpg?stp=dst-jpg_tt6&cstp=mx799x804&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=y7THQo_VoboQ7kNvwHrPvp5&_nc_oc=AdotxfplxsZZe9qlZaRFlY8UQNP5hJr0VMs9_LlAkLguu1QRHJ9iWcY6Ia-P3zH7mZtg5NQypSn5nPutXK-baCer&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=ic2zYDj3Fcf8CExTyEelGg&_nc_ss=7b20f&oh=00_AQO496Hq7Ncs-7xJe9WITN214oVo7Pv7fo-bUVhAho894w&oe=6ADE4EE2",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-228",
@@ -23034,7 +23499,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=431519",
     "phone": "02-2202-0839",
     "address": "新莊區新豐街68巷2號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-243.webp",
+    "imageSource": "https://shop.ichefpos.com/store/xAXk86bc/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6134b107-71d8-4625-9193-6537ba69d2b7/7faa51be-5bf4-11f1-abfb-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-244",
@@ -23362,7 +23831,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=542866",
     "phone": "0970-335-483",
     "address": "中和區中興街101號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-255.webp",
+    "imageSource": "https://www.facebook.com/SingaporeMian",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301832011_404841531757219_1778653241156445253_n.jpg?stp=dst-jpg_tt6&cstp=mx1859x1315&ctp=s960x960&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=xFWhyKdFJycQ7kNvwE8CRBt&_nc_oc=Adpr63SSpiWza1-m5uV_E3dhZjSVojYqlt_I4GXNxUMvO672tu19ABJvPch_RxN1vLaG9YfG5VtBbKviBE0z7dWU&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=q9PJ8AC7DrV6PEfH1R-qrA&_nc_ss=7b20f&oh=00_AQNW7PbHMvA7DJMx3Wz4KFGZwz_d_BGynN5NFrHXF_ZFLQ&oe=6ADE6647",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-256",
@@ -24045,7 +24518,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=497201",
     "phone": "02-2996-6693",
     "address": "新莊區幸福路9號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-280.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WwOnTqlQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/96d1e4fd-db17-4b9e-b223-1843cda2c5d7/377ef764-e665-11f0-ae37-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-281",
@@ -24100,7 +24577,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=524936",
     "phone": "02-8712-7450",
     "address": "土城區裕民路168號1",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-282.webp",
+    "imageSource": "https://www.facebook.com/100067824186208",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/241983773_570128107657273_8815807206139591393_n.jpg?stp=dst-jpg_tt6&cstp=mx719x719&ctp=s719x719&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=PmUvi0p8LFgQ7kNvwEUlZLa&_nc_oc=AdoiLUvTM79aJ02P-_8_Z2mjyrEBaH4rLdbXnB0bCZ61Q29oekY3N0feopuQw-tCRMU__KFopcrtwdwZ_BWwtxsR&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=O8htM5lq0Bly0B74R_ENKQ&_nc_ss=7b20f&oh=00_AQOfWRAq9o0souI7V-4KukdEjaoTOHTP4-crYWO6Gmewxw&oe=6ADE4747",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-283",
@@ -24699,7 +25180,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=587567",
     "phone": "02-8695-1082",
     "address": "汐止區明峰街180號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-304.webp",
+    "imageSource": "https://eats.quickclick.cc/togo/12475?p=lesssalt",
+    "imageOriginal": "https://storage.quickclick.cc/library/12475/phone-1777297569860.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-305",
@@ -24780,7 +25265,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=581948",
     "phone": "02-2902-6752",
     "address": "新莊區建國一路24號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-307.webp",
+    "imageSource": "https://missenergy.com.tw/product.php?lang=tw&tb=2",
+    "imageOriginal": "https://missenergy.com.tw/archive/image/product2/images/layoutlist/1727599516575_600.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-308",
@@ -24969,7 +25458,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://line.me/R/ti/p/@049blemb",
     "phone": "02-8914-5074",
     "address": "新店區北新路一段219號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-315.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-316",
@@ -25271,7 +25764,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=495260",
     "phone": "02-2601-0733",
     "address": "林口區中山路202之6號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-326.webp",
+    "imageSource": "https://iding.tw/store/9690b5c5",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_168376985293F9A1/166053827309F6E0_194d9a48-4523-4b76-be6e-e579a3779cf6_5_2_43.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-327",
@@ -25841,7 +26338,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=202114",
     "phone": "02-2994-1639",
     "address": "市新莊區公園路8-1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-347.webp",
+    "imageSource": "https://lee.web66.com.tw/web/NMD?postId=352905",
+    "imageOriginal": "https://s.web66.com.tw/_file/C12/129759/AB/1272442626189pic1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-348",
@@ -26192,7 +26693,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=206670",
     "phone": "02-2270-6393",
     "address": "市土城區金城路三段66號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-360.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-361",
@@ -26486,7 +26991,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=404156",
     "phone": "02-8665-7535",
     "address": "市新店區三民路109號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-371.webp",
+    "imageSource": "https://www.facebook.com/p/%E9%87%8D%E6%85%B6%E6%B6%BC%E9%BA%B5-100063792890141",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/277781259_370987648370995_184391223475323012_n.jpg?stp=dst-jpg_tt6&cstp=mx1110x1118&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=nsUR6rAJvq8Q7kNvwHmIz3-&_nc_oc=AdpfbgXLQ1GirUNNHt1h7xq1iWLOjJcwldOhJaOaRnn0pGGKjBDftZpHOIjJVXBb8ULt1NdVB0iWjWvpCPCjKVPQ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=BvzF2MVgeyAzzLM8wBSMNw&_nc_ss=7b20f&oh=00_AQPGcl4oGUhdHXacbUX4BSkPe0O_wxDpnIvOfpZ7BvCpKg&oe=6ADE701B",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-372",
@@ -26650,7 +27159,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=559753",
     "phone": "02-2695-2808",
     "address": "市汐止區中興路214巷6號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-377.webp",
+    "imageSource": "https://shop.ichefpos.com/store/CyAx9kgl/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/aab3f9e5-fe86-4f0f-9510-38101bc1ce79/388cee1a-f389-11ef-a914-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-378",
@@ -26703,7 +27216,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=583504",
     "phone": "02-2218-1999",
     "address": "市新店區建國路237號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-379.webp",
+    "imageSource": "https://www.facebook.com/people/%E5%AF%8C%E9%91%AB%E7%86%AF%E8%81%B7%E4%BA%BA%E4%BE%BF%E7%95%B6/61561836857528",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/450443586_122106639410394561_9182517654063982569_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=EIN5rk_kbhgQ7kNvwH7aJ-P&_nc_oc=AdovgKPH-BnPKeteuvU36FiCTCHfqkTVhUPaIzxrHEyEEyFOL9-rnC70H64XVrH7fonnemxKBhDbT5ciQzzXQrlN&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=EAp3Z2KM5NkTn6lw1t7YXA&_nc_ss=7b20f&oh=00_AQNsNUVFoYx4963FXu_C8FAkbrVoIZlr8ZnBAez-Myoqbw&oe=6ADE6431",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-380",
@@ -27086,7 +27603,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=624487",
     "phone": "02-2912-5565",
     "address": "市新店區寶橋路168號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-393.webp",
+    "imageSource": "https://www.facebook.com/qszy168",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/342888124_249079114278863_7087966762827752710_n.jpg?stp=dst-jpg_tt6&cstp=mx736x734&ctp=s720x720&_nc_cat=109&ccb=1-7&_nc_sid=3ab345&_nc_ohc=Y1y9-OzWgfIQ7kNvwER7_e-&_nc_oc=Adptx32Z8exdJfikwsGNumf7Y51TB6p-knIKs5iT8-GUam-S5gYJwYP_H5xOy9m7Wv41OFKU01anF-5WV9MAoNcK&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=SXWCATKdYYaVRrKaoIaJXw&_nc_ss=7b20f&oh=00_AQNGrZ9Cw01HKyzEYPWwy3Hf5VwH6Mjzr_N6un4AFYB6uA&oe=6ADE6F31",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-394",
@@ -27528,7 +28049,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=225360",
     "phone": "02-8911-6542",
     "address": "市新店區大豐路81號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-410.webp",
+    "imageSource": "https://www.facebook.com/bawang89116542",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/379619618_733863455420568_8037001647212005701_n.jpg?stp=dst-jpg_tt6&cstp=mx1049x1049&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=2bUssuCNbEwQ7kNvwF5TRaY&_nc_oc=AdpQfi3FhFj9c0klaaQ2ff3R9VQWk4biynYxgXvwyEg7XJ6l3GMzd0DrQivjyv5kGI1VG4ODmlvGyl7h0nQOIKEm&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=Izy5tODMQJ3KbdmYr9dzVQ&_nc_ss=7b20f&oh=00_AQOYLcDWbFFXbhGRKE0BelKzXliuwskL6rUeeSqNySMmqA&oe=6ADE7159",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-411",
@@ -27779,7 +28304,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=598625",
     "phone": "02-2218-5764",
     "address": "市新店區建國路299號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-419.webp",
+    "imageSource": "https://www.facebook.com/YouJenLuRoFan",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/302127775_502459438553375_5473963883653247660_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x720&ctp=s1280x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=7tD5wmzzvBYQ7kNvwHH2nfG&_nc_oc=AdoGhVE3foMXOlCTUgCHuEqEDECAb7QmbEkj245MUtNyQdQUZ3L5vPeaWwUt2E_c2MdJE9bDUcS8uiN5qAxMlawv&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=u_PKWlFlsN9EslzDBc_pxA&_nc_ss=7b20f&oh=00_AQMca_2e_QGT9jcci0QYDvtIiY6VJxVOz6puRfQfXqNbnw&oe=6ADE6918",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-420",
@@ -27913,7 +28442,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=288500",
     "phone": "02-8227-2758",
     "address": "新北市建一路190之1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-424.webp",
+    "imageSource": "https://www.facebook.com/GTKS8227",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/277577997_449711956954075_6951220297414038537_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=WRQdRsaNscYQ7kNvwGIg81g&_nc_oc=AdpzDDoNVGwbrfuLW3PYEs8VSO1AWD0I61JqdvKcFdh3RqEdRfJbRQIIVTCVK-8TDAjWCPkQIwJ-LtAvDeuL50E1&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=ExAuWqNiTpFWvnyJ-Y2R9g&_nc_ss=7b20f&oh=00_AQPHPNT8nmm1djeNoNaTeRu8sPfNjLDxhl0Z3KTyq2wfTw&oe=6ADE4FB0",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-425",
@@ -28045,7 +28578,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=267824",
     "phone": "02-2647-0932",
     "address": "汐止區樟樹一路135巷12號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-429.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WwOnTqlQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/96d1e4fd-db17-4b9e-b223-1843cda2c5d7/377ef764-e665-11f0-ae37-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-430",
@@ -28429,7 +28966,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=459907",
     "phone": "02-2910-0313",
     "address": "市新店區寶強路51號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-443.webp",
+    "imageSource": "https://missenergy.com.tw/product.php?lang=tw&tb=2",
+    "imageOriginal": "https://missenergy.com.tw/archive/image/product2/images/layoutlist/1727599516575_600.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-444",
@@ -29117,7 +29658,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=551479",
     "phone": "02-2277-6911",
     "address": "市新莊區幸福路76號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-468.webp",
+    "imageSource": "https://shop.ichefpos.com/store/7kg5nxr9/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/78da18f0-e6a5-4b5e-af9f-e8070f976be5/ee0a28a0-295a-11f0-b9ba-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-469",
@@ -29338,7 +29883,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/DHW3JHrT/ordering",
     "phone": "02-2277-0300",
     "address": "市新莊區中平路35號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-547.webp",
+    "imageSource": "https://shop.ichefpos.com/store/DHW3JHrT/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b7354f98-fbc4-42a3-814e-4cdfe4e2603d/63377e9c-2384-11ec-bc11-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-549",
@@ -29366,7 +29915,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/pt0MetJU/ordering",
     "phone": "02-2990-1230",
     "address": "市新莊區中華路一段45巷1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-549.webp",
+    "imageSource": "https://shop.ichefpos.com/store/pt0MetJU/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/a4f551cf-7fe3-4767-9000-117e45d75944/ff730dda-0170-11eb-99a9-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-550",
@@ -29566,7 +30119,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/Ok2Wh6CI/ordering",
     "phone": "0908-032-183",
     "address": "市永和區得和路373巷3-1號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-559.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Ok2Wh6CI/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2f592794-dd77-43de-9ee1-1ee06370f481/33d72c80-9308-11ec-a55e-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-560",
@@ -29795,7 +30352,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/BnUY8vJo/ordering",
     "phone": "02-2254-4786",
     "address": "市板橋區文化路一段311之3號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-569.webp",
+    "imageSource": "https://shop.ichefpos.com/store/BnUY8vJo/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8bc41771-97ac-4255-813c-e9868802269e/1ed8f2ca-6143-11f0-a24e-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-570",
@@ -30477,7 +31038,11 @@ window.RESTAURANTS = [
     "source": "mibaoma/zhudaa 2026-01",
     "phone": "02-2964-5252",
     "address": "市板橋區中山路二段394號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-600.webp",
+    "imageSource": "https://www.facebook.com/people/%E8%B1%AC%E5%A4%A7A%E8%B1%AC%E8%85%B3%E7%9F%A5%E9%AB%98%E9%A3%AF%E6%BB%B7%E8%82%89%E9%A3%AF/100054568683773",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/304995099_613819427113675_4047621909440861746_n.jpg?stp=dst-jpg_tt6&cstp=mx1344x1359&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=pNYQ9B7h-ecQ7kNvwGE70vh&_nc_oc=AdqgZHu5jbVf9oJEpoxYzyZBPBL5Y4d8vs0uZN_igIl__LVqGOpXx9AUeQ5mXTAzXpq3hQN0PN58rb3I5UsYORy8&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=YlLkYsB1OORraM43uyYgrg&_nc_ss=7b20f&oh=00_AQM7CZJES9V1Vy7_dMix3b1IUersVDkRk7rSBWVgUsyvtQ&oe=6ADE4641",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-601",
@@ -30592,7 +31157,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://line.me/R/ti/p/@469wmrul",
     "phone": "0963-571-849",
     "address": "市三重區雙園街105號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-605.webp",
+    "imageSource": "https://www.facebook.com/61572295681998",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/474209657_8710662849056606_6714970516480392301_n.jpg?stp=dst-jpg_tt6&cstp=mx625x625&ctp=s625x625&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=Kv5RHOQgXq8Q7kNvwEWADHf&_nc_oc=AdoP8bI8rCpiiZi7ObuVk6rk48pLz8lA8lLMWXM37zVw8cefIMqSagPZaZrAaHhz2DyQ7QujV81HbZ6gDhjem2Gm&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=q9v81tGRpfeidFkKvGxEig&_nc_ss=7b20f&oh=00_AQMQldhrj8cATnFnrStyjbEMGkeUkAqenq9UJYReCQ2y5w&oe=6ADE7596",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-606",
@@ -30702,7 +31271,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/VUrwhjK",
     "phone": "02-8286-0810",
     "address": "市蘆洲區民族路172號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-609.webp",
+    "imageSource": "https://eats.quickclick.cc/togo/12475?p=lesssalt",
+    "imageOriginal": "https://storage.quickclick.cc/library/12475/phone-1777297569860.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-610",
@@ -30730,7 +31303,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/lm23Rhj",
     "phone": "02-2252-8790",
     "address": "市板橋區文化路一段188巷7弄42號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-610.webp",
+    "imageSource": "https://eats.quickclick.cc/togo/12475?p=lesssalt",
+    "imageOriginal": "https://storage.quickclick.cc/library/12475/phone-1777297569860.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-611",
@@ -30757,7 +31334,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/hA7TbNJ",
     "phone": "02-3234-0212",
     "address": "市中和區建八路12號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-611.webp",
+    "imageSource": "https://eats.quickclick.cc/togo/12475?p=lesssalt",
+    "imageOriginal": "https://storage.quickclick.cc/library/12475/phone-1777297569860.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-612",
@@ -30785,7 +31366,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://mrogenki.com/bentou",
     "phone": "02-2995-0078",
     "address": "三重區中興南街33號3",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-612.webp",
+    "imageSource": "https://mrogenki.com/bentou",
+    "imageOriginal": "https://mrogenki.com/upload/5547/images/%E8%BC%95%E9%B9%BD%E8%88%92%E8%82%A5%E9%9B%9E-6402bb.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-613",
@@ -30838,7 +31423,11 @@ window.RESTAURANTS = [
     "source": "mywanderlust pixnet 2021-08",
     "phone": "02-8992-6608",
     "address": "市新莊區中華路二段122號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-614.webp",
+    "imageSource": "https://iding.tw/store/c025dc54",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_1615297134A697DA/1615297134A697DA_e4ba48c7-0fb1-42f4-8772-0ab366633353_8669_200351_43.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-615",
@@ -30892,7 +31481,11 @@ window.RESTAURANTS = [
     "lineUrl": "https://lin.ee/UHTouLj",
     "phone": "02-2949-0360",
     "address": "市永和區得和路184號",
-    "city": "新北市"
+    "city": "新北市",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-616.webp",
+    "imageSource": "https://order-rc.quickclick.cc/en/portals/lesssalt/",
+    "imageOriginal": "https://storage.quickclick.cc/library/25386/phone-1777297676668.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-scout-lead-617",
@@ -31421,7 +32014,11 @@ window.RESTAURANTS = [
     "source": "iCHEF o7rHwAQS；公開訂餐摘要",
     "orderUrl": "https://shop.ichefpos.com/store/o7rHwAQS/ordering",
     "phone": "0908-321-886",
-    "address": "南屯區大墩路267號"
+    "address": "南屯區大墩路267號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-8.webp",
+    "imageSource": "https://shop.ichefpos.com/store/o7rHwAQS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7e6e1225-6955-4376-b256-b10b27e92a42/62a12fd2-0dae-11f1-88cd-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-9",
@@ -31774,7 +32371,11 @@ window.RESTAURANTS = [
     "source": "iCHEF yTsnYP9s；safood",
     "orderUrl": "https://shop.ichefpos.com/store/yTsnYP9s/ordering",
     "phone": "0900-202-468",
-    "address": "北區健行路468號"
+    "address": "北區健行路468號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-21.webp",
+    "imageSource": "https://shop.ichefpos.com/store/yTsnYP9s/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f8a77b52-fb9c-4fa5-afd7-6f5583cc29c0/2d93473a-1e21-11eb-80ee-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-22",
@@ -31801,7 +32402,11 @@ window.RESTAURANTS = [
     "source": "iCHEF KcnGCxz_；kenji.life 2024-07",
     "orderUrl": "https://shop.ichefpos.com/store/KcnGCxz_/ordering",
     "phone": "0966-272-112",
-    "address": "北區學士路190號"
+    "address": "北區學士路190號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-22.webp",
+    "imageSource": "https://shop.ichefpos.com/store/KcnGCxz_/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0b32a46d-99aa-4e9c-a896-2fb900c00e22/5532dc72-0e32-11f1-b417-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-23",
@@ -31911,7 +32516,11 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=632780；lejianwu.com",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=632780",
     "phone": "04-2327-1199",
-    "address": "街24號"
+    "address": "街24號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-26.webp",
+    "imageSource": "https://www.lejianwu.com/",
+    "imageOriginal": "https://www.lejianwu.com/upload/products/20251111200016buir6.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-27",
@@ -31991,7 +32600,11 @@ window.RESTAURANTS = [
     "evidence": "官網訂購頁明文：**消費金額達「外送距離（公里數）×1000 元」享免運**；**未達則運費每公里 30 元（距離四捨五入）**；範例 5 km 滿 5000 免運等；**請提前於用餐前一天預定**；另述至少約 10 個餐盒量級（首頁／關於頁）",
     "source": "shinvillage.com/order",
     "orderUrl": "https://www.shinvillage.com/order/",
-    "phone": "04-0800-3659"
+    "phone": "04-0800-3659",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-29.webp",
+    "imageSource": "https://shop.ichefpos.com/store/AwZiA1PA/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f48aa065-1c0a-4aab-8316-88c083383823/50bc704e-2fdb-11f0-be9c-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-30",
@@ -32019,7 +32632,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://lin.ee/aBsampN",
     "lineUrl": "https://lin.ee/aBsampN",
     "phone": "04-2207-5701",
-    "address": "北區健行路809號"
+    "address": "北區健行路809號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-30.webp",
+    "imageSource": "https://chellierose.my1shop.com/",
+    "imageOriginal": "https://img.1shop.tw/Yvyj817w90WMk55Rbx42oWzV/xQdpkWj03a4E84DbY9by6aRo/original-2.png.avif",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-31",
@@ -32871,7 +33488,11 @@ window.RESTAURANTS = [
     "source": "bendon-dao 40937；店家自述 pixnet",
     "orderUrl": "https://shop.ichefpos.com/store/ARTRuqqL/ordering",
     "phone": "04-2236-8520",
-    "address": "北區太原路二段229號"
+    "address": "北區太原路二段229號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-63.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ARTRuqqL/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2616df12-0163-45ae-9fbd-5579e60ef0e2/b8cc8f24-2e91-11f1-a29b-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-64",
@@ -33083,7 +33704,11 @@ window.RESTAURANTS = [
     "evidence": "bendon-dao 標籤「滿1000元可外送」；店頁另述：**「目前3公里內滿$800即可外送」**",
     "source": "bendon-dao 262865",
     "orderUrl": "https://bendon-dao.com/shops/262865",
-    "address": "潭子區榮興街57巷11號"
+    "address": "潭子區榮興街57巷11號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-71.webp",
+    "imageSource": "https://www.facebook.com/pppp24pppp",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/344397305_248917917516619_1956926499676542894_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1638&ctp=p720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=fDjVSFeOToMQ7kNvwEgfXDj&_nc_oc=AdquovHmEcloHuzKVje-vwZd8HqjPea_hPAVOhK3v7BYLMW0MRz1PmdbG01quM7xi7zOgzWL1rVXrpO2sehHTWf8&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=7hmuwL2bNfrjRjPe3AAAPw&_nc_ss=7b20f&oh=00_AQNNmGLagTxJCGyPyCC_nlX0F4jwVX9A0VBINrvkvEnk7Q&oe=6ADE713A",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-72",
@@ -33246,7 +33871,11 @@ window.RESTAURANTS = [
     "evidence": "bendon-dao：**「滿300元可外送」**",
     "source": "bendon-dao 40932",
     "orderUrl": "https://bendon-dao.com/shops/40932",
-    "address": "南屯區惠弘街12號1"
+    "address": "南屯區惠弘街12號1",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-78.webp",
+    "imageSource": "https://www.facebook.com/runyangplace",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/434919877_967365845394644_2985809836290685037_n.jpg?stp=dst-jpg_tt6&cstp=mx1270x1270&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=jCWjjaNYQvsQ7kNvwEB6UVN&_nc_oc=Ado_wuytltDbELC3po3x67UWazelVuWr0se4QInTQ0X7f0RUXlYTp_f9AJn_9QJ1NQq6vJdnIpM743f2B6u4cnRk&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=6Xs2Y70T0lz5qCV__xB3kA&_nc_ss=7b20f&oh=00_AQNP1KmyICG26E9LFarlxoaEG-HahrS2GDoj-2qy03J6iQ&oe=6ADE7598",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-79",
@@ -33412,7 +34041,11 @@ window.RESTAURANTS = [
     "source": "bendon-dao 30630",
     "orderUrl": "https://bendon-dao.com/shops/30630",
     "phone": "04-2265-2346",
-    "address": "南區大慶街二段6-16巷40號"
+    "address": "南區大慶街二段6-16巷40號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-84.webp",
+    "imageSource": "https://first-meet-noodles.mystrikingly.com/",
+    "imageOriginal": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/2012570/458885_262566.jpeg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-85",
@@ -33549,7 +34182,11 @@ window.RESTAURANTS = [
     "evidence": "環保局循環便當名單明文：**「訂購30個以上可外送(較遠地區需自付運費)」**；另列文心第二行政大樓免運",
     "source": "recycle.epb.taichung.gov.tw；wahot.com",
     "phone": "04-2225-5477",
-    "address": "中區中華路一段121號8樓之14"
+    "address": "中區中華路一段121號8樓之14",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-90.webp",
+    "imageSource": "https://www.facebook.com/wahotcom",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/299209901_554157169838030_703469560842936197_n.jpg?stp=dst-jpg_tt6&cstp=mx200x150&ctp=s200x150&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=wdTFQcTV824Q7kNvwE7xOOe&_nc_oc=AdqB7JqRfC9cO1qeogU4i-0AYUB0GMAETWWQT9Xx5gj0ktoqx5HnWwT95Kp2-hxetbWdVBs2QFlULpiRwqN5nMQB&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=hnNOxUf1ac3P-cxPvc3iqw&_nc_ss=7b20f&oh=00_AQPgXSo9byk7WYGHE2LKcH2FQ9fnJ5xTSW0My8piygIUGw&oe=6ADE4A87",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-91",
@@ -33656,7 +34293,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**「20個可外送」**（循環盒）；bendon-dao 另標 **「滿1000元可外送」**（shop=262768，地址欄仍見舊大明路）—本列以 EPB 滿份句＋電話為準",
     "source": "recycle.epb；bendon-dao 262768；sophiee／pixnet",
     "phone": "04-2487-0600",
-    "address": "大里區東榮路一段67號"
+    "address": "大里區東榮路一段67號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-95.webp",
+    "imageSource": "https://order.quickclick.cc/en/food/P_W5jZN5Ew8/",
+    "imageOriginal": "https://lafreshcdn.blob.core.windows.net/product00/695851-1-1765715369.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-96",
@@ -33683,7 +34324,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**「30個可外送」**",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2452-8723",
-    "address": "西屯區西屯路二段248-8號"
+    "address": "西屯區西屯路二段248-8號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-96.webp",
+    "imageSource": "https://order.quickclick.cc/en/food/P_W5jZN5Ew8/",
+    "imageOriginal": "https://lafreshcdn.blob.core.windows.net/product00/695851-1-1765715369.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-97",
@@ -33710,7 +34355,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**「20個可外送」**",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2260-0358",
-    "address": "南區忠明南路795號"
+    "address": "南區忠明南路795號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-97.webp",
+    "imageSource": "https://order.quickclick.cc/en/food/P_n4Be2J8xN/",
+    "imageOriginal": "https://lafreshcdn.blob.core.windows.net/product00/794216-1-1791416221.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-98",
@@ -33764,7 +34413,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**最低訂購10個**＋可外送／自取；備註「是否可外送視訂購量(10個)」",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2662-2210",
-    "address": "沙鹿區中山路197-2號"
+    "address": "沙鹿區中山路197-2號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-99.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6jRJw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-100",
@@ -33846,7 +34499,11 @@ window.RESTAURANTS = [
     "source": "Ocard w6jRJw；wu-tau 門市",
     "orderUrl": "https://order.ocard.co/toymodel/w6jRJw",
     "phone": "04-2699-8500",
-    "address": "大肚區文昌路一段72號"
+    "address": "大肚區文昌路一段72號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-102.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6jRJw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-103",
@@ -34008,7 +34665,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：最低訂購 **50個**＋**可外送及自取**",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2260-5489",
-    "address": "南區工學路100號"
+    "address": "南區工學路100號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-108.webp",
+    "imageSource": "https://www.facebook.com/people/%E4%BA%AC%E9%BC%8E%E4%BE%BF%E7%95%B6%E5%BA%97/100068330611820",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/306315863_415178530769831_1447062674780799634_n.jpg?stp=dst-jpg_tt6&cstp=mx1072x1082&ctp=s720x720&_nc_cat=105&ccb=1-7&_nc_sid=3ab345&_nc_ohc=AHFiAuy8HvMQ7kNvwFVtSsS&_nc_oc=AdoSKq7xaCNy_d9jdK8fE-EH_GFXt2rMxdUmXmDFm4d2M-A0owg9Bq9aMhPZzsbAPSMO3IhxJOQW8mW-AAv2If0g&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=UpMCekUZZZPE-Nop2ILS0Q&_nc_ss=7b20f&oh=00_AQMsBv57vmlAynFL-h1O6mSlbaLttk-8o-Rbu_Wunl3K2A&oe=6ADE6303",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-109",
@@ -34283,7 +34944,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：最低訂購 **5個**＋**外送、自取**；備註「需與店家確認距離及數量是否可提供外送服務」",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2322-3533",
-    "address": "西屯區大隆路173號"
+    "address": "西屯區大隆路173號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-118.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-119",
@@ -34635,7 +35300,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：最低訂購 **10個**＋**外送、自取**；備註「是否可外送視訂購量及距離」",
     "source": "recycle.epb",
     "phone": "04-2496-2275",
-    "address": "大里區中興路一段346號"
+    "address": "大里區中興路一段346號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-131.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-132",
@@ -34662,7 +35331,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：最低訂購 **1個**＋**外送、自取**；備註「是否可外送視訂購量及距離」",
     "source": "recycle.epb",
     "phone": "04-2337-6448",
-    "address": "烏日區中山路一段328號"
+    "address": "烏日區中山路一段328號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-132.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-133",
@@ -34824,7 +35497,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**外送、自取**（備註視訂購量及距離）；「學校訂購加贈一樣小點心」",
     "source": "recycle.epb",
     "phone": "0979-091-383",
-    "address": "區三德里三港路8號"
+    "address": "區三德里三港路8號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-138.webp",
+    "imageSource": "https://ashuishibiandangdian.webnode.tw/%E8%8F%9C%E5%96%AE/",
+    "imageOriginal": "https://109a508137.cbaul-cdnwnd.com/fde0ecabdd86bf5aa1871de569e7f59a/200000020-eb406eb409/%E9%A6%99%E9%85%A5%E5%A4%A7%E9%9B%9E%E8%85%BF.webp?ph=109a508137",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-139",
@@ -34906,7 +35583,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://order.ocard.co/theproteinbox/KVAzMm",
     "lineUrl": "https://line.me/R/ti/p/@180beqbg",
     "phone": "04-2558-8179",
-    "address": "后里區文明路160號"
+    "address": "后里區文明路160號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-141.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-142",
@@ -35073,7 +35754,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：**外送,自取**（訂購上限30個）",
     "source": "recycle.epb",
     "phone": "0965-600-523",
-    "address": "霧峰區樹人路149-3號2"
+    "address": "霧峰區樹人路149-3號2",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-148.webp",
+    "imageSource": "https://shop.ichefpos.com/store/XRQxveUl/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f20d6582-cd6d-4867-9b8c-cb09233fb3a5/63f3796c-22e4-11f1-8b78-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-149",
@@ -35128,7 +35813,11 @@ window.RESTAURANTS = [
     "evidence": "環保局名單：最低訂購 **1個**＋**外送、自取**；備註「是否可外送視訂購量及距離而定」",
     "source": "recycle.epb",
     "phone": "04-2560-0112",
-    "address": "大雅區民生路一段348號"
+    "address": "大雅區民生路一段348號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-150.webp",
+    "imageSource": "https://www.facebook.com/p/%E8%B6%85%E5%90%89%E5%A4%A7%E7%9B%9B-%E5%A4%A7%E9%9B%85%E6%B0%91%E7%94%9F%E5%BA%97-100051989756602",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/291701938_539779627765024_5927361802081398423_n.jpg?stp=dst-jpg_tt6&cstp=mx1364x1365&ctp=s720x720&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=CW7pgsRhJNoQ7kNvwFG34ij&_nc_oc=AdrsRyNCsVS0zawMivxH8ezVI4sBLvmI50QqtWtRw0aYyVYrp74EqJcNxLU_dIT6qCwTxOxRg_1QxXUOMCDMrQah&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=6BLOxpaQBVvRt3l1FVx4eg&_nc_ss=7b20f&oh=00_AQPh2_SjNFJw6FSBRWzVqcpvl6pjEwXIV9URuJugCrvAlg&oe=6ADE44AA",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-151",
@@ -35488,7 +36177,11 @@ window.RESTAURANTS = [
     "source": "Ocard wv4Pxm Chrome dump 2026-09-22",
     "orderUrl": "https://d.ocard.co/theproteinbox/wv4Pxm",
     "phone": "04-2251-0541",
-    "address": "南屯區黎明路二段291號"
+    "address": "南屯區黎明路二段291號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-163.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-164",
@@ -35515,7 +36208,11 @@ window.RESTAURANTS = [
     "source": "Ocard mq47kQ Chrome dump 2026-09-22",
     "orderUrl": "https://d.ocard.co/theproteinbox/mq47kQ",
     "phone": "04-2314-3007",
-    "address": "西屯區漢口路二段7號"
+    "address": "西屯區漢口路二段7號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-164.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-167",
@@ -35600,7 +36297,11 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=332309 HTML 2026-09-22",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=332309",
     "phone": "04-2452-2007",
-    "address": "西屯區上安路72號"
+    "address": "西屯區上安路72號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-169.webp",
+    "imageSource": "https://www.facebook.com/tw.delicious.01",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301537346_543278357596140_779223098288826747_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=90j4jP9EDgoQ7kNvwGFV6vx&_nc_oc=AdqJnEkJ6NTXmxbmMs3vy_Q4F9vOeXuzyLxsAsu4qR5kF0qMlJOG6Li4Jwr5tU8343UyMPIN_24OjRdVePE0GoVK&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=p9NTDgpH-X-AaxpGI1MrqQ&_nc_ss=7b20f&oh=00_AQPSxGWMIZ0YutsHDUzDHSkT-WzPmDkoVVdys_DUEkzgwA&oe=6ADE67B7",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-170",
@@ -35823,7 +36524,11 @@ window.RESTAURANTS = [
     "source": "Ocard Kr5rAm Chrome dump 2026-09-22",
     "orderUrl": "https://d.ocard.co/theproteinbox/Kr5rAm",
     "phone": "04-2237-8937",
-    "address": "北屯區北平路三段124號"
+    "address": "北屯區北平路三段124號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-177.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-178",
@@ -35906,7 +36611,11 @@ window.RESTAURANTS = [
     "source": "Ocard mEOzbw Chrome 2026-09-22；wu-tau",
     "orderUrl": "https://order.ocard.co/toymodel/mEOzbw",
     "phone": "04-2686-0003",
-    "address": "外埔區甲后路五段185巷1號"
+    "address": "外埔區甲后路五段185巷1號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-180.webp",
+    "imageSource": "https://order.ocard.co/toymodel/mEOzbw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/7dcb2da8f4ece00d8f29df73cfd4cc61.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-181",
@@ -35933,7 +36642,11 @@ window.RESTAURANTS = [
     "source": "Ocard Knb4dK Chrome 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/Knb4dK",
     "phone": "04-2461-3006",
-    "address": "西屯區西屯路三段宏恩三巷27弄9號"
+    "address": "西屯區西屯路三段宏恩三巷27弄9號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-181.webp",
+    "imageSource": "https://order.ocard.co/toymodel/Knb4dK",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/7573cf85b5975f412b0955269cf0feec.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-182",
@@ -35960,7 +36673,11 @@ window.RESTAURANTS = [
     "source": "Ocard mWd6VK Chrome 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/mWd6VK",
     "phone": "04-2639-3228",
-    "address": "龍井區中央路二段148號"
+    "address": "龍井區中央路二段148號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-182.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6jRJw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-183",
@@ -35987,7 +36704,11 @@ window.RESTAURANTS = [
     "source": "Ocard KyJNpw Chrome 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/KyJNpw",
     "phone": "04-2351-1133",
-    "address": "太平區永豐路3號"
+    "address": "太平區永豐路3號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-183.webp",
+    "imageSource": "https://order.ocard.co/toymodel/KyJNpw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-184",
@@ -36296,7 +37017,11 @@ window.RESTAURANTS = [
     "source": "iCHEF TcYmVnwg Chrome 2026-09-22；yyc_info",
     "orderUrl": "https://shop.ichefpos.com/store/TcYmVnwg/ordering",
     "phone": "04-2316-8286",
-    "address": "西屯區西屯路二段32-2號1"
+    "address": "西屯區西屯路二段32-2號1",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-195.webp",
+    "imageSource": "https://shop.ichefpos.com/store/TcYmVnwg/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/688a6c07-36ef-45ae-a8af-0fd439c1c598/74957d80-876e-11ec-93b9-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-196",
@@ -36326,7 +37051,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/70ElXWkh/ordering",
     "lineUrl": "https://line.me/R/ti/p/@050ekfsc",
     "phone": "0968-169-448",
-    "address": "北屯區北屯路447-3號"
+    "address": "北屯區北屯路447-3號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-196.webp",
+    "imageSource": "https://shop.ichefpos.com/store/70ElXWkh/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5e5b2585-7fd7-4735-9024-6f3bb7184a1b/7737c706-6110-11ed-8f6a-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-197",
@@ -36354,7 +37083,11 @@ window.RESTAURANTS = [
     "source": "iCHEF I96vfa3t Chrome 2026-09-22",
     "orderUrl": "https://shop.ichefpos.com/store/I96vfa3t/ordering",
     "phone": "0975-361-913",
-    "address": "北區德化街289號"
+    "address": "北區德化街289號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-197.webp",
+    "imageSource": "https://shop.ichefpos.com/store/I96vfa3t/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3c2a8420-fb20-427a-99b4-bd1ba22ae611/bc77fc86-5bff-11f0-a0a9-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-198",
@@ -36634,7 +37367,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/g8ESpXUS/ordering",
     "lineUrl": "https://line.me/R/ti/p/@359gjskc",
     "phone": "04-2299-0895",
-    "address": "北區北平路二段79號"
+    "address": "北區北平路二段79號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-209.webp",
+    "imageSource": "https://shop.ichefpos.com/store/g8ESpXUS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/1bdbfa08-aa6e-4087-be57-7240e2c8b628/92e43c00-4ac0-11ef-a400-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-210",
@@ -36664,7 +37401,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/Cb0X1bUf/ordering",
     "lineUrl": "https://line.me/R/ti/p/@hititoffcafe",
     "phone": "04-2252-1258",
-    "address": "屯區市政北二路316號"
+    "address": "屯區市政北二路316號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-210.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Cb0X1bUf/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/55e4100f-f199-46b2-a25d-f6ee72c9437e/dcd1bb6e-a511-11f1-b0ca-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-211",
@@ -36693,7 +37434,11 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "04-2376-4576",
-    "address": "西區忠明南路256號"
+    "address": "西區忠明南路256號",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-211.webp",
+    "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-scout-lead-212",
@@ -36749,7 +37494,11 @@ window.RESTAURANTS = [
     "evidence": "bendon-dao 店頁標籤明示：**「滿1000元可外送」**",
     "source": "bendon-dao",
     "orderUrl": "https://bendon-dao.com/shops/262828",
-    "address": "高雄市三民區大昌二路548號"
+    "address": "高雄市三民區大昌二路548號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-1.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-2",
@@ -36888,7 +37637,11 @@ window.RESTAURANTS = [
     "source": "iCHEF；nellydyu；txg.taiwaneast.com 情報彙整",
     "orderUrl": "https://shop.ichefpos.com/store/UZUPaiPt/ordering",
     "phone": "07-2368229",
-    "address": "高雄市新興區開封路134號"
+    "address": "高雄市新興區開封路134號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-6.webp",
+    "imageSource": "https://shop.ichefpos.com/store/UZUPaiPt/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8c65d84b-3750-422a-8fbc-7ae9fc5ce89a/4a1566aa-d592-11ee-9d2d-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-7",
@@ -36916,7 +37669,11 @@ window.RESTAURANTS = [
     "source": "iCHEF；ifoodie",
     "orderUrl": "https://shop.ichefpos.com/store/YTANmkLz/ordering",
     "phone": "0971-708-796",
-    "address": "高雄市鳳山區忠誠路27號"
+    "address": "高雄市鳳山區忠誠路27號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-7.webp",
+    "imageSource": "https://shop.ichefpos.com/store/YTANmkLz/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b2defb4c-c61f-40bb-9e3d-45e306b6ddcc/56f95ff2-9c8c-11f1-87a8-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-8",
@@ -37245,7 +38002,11 @@ window.RESTAURANTS = [
     "source": "permio1；iCHEF；popdaily",
     "orderUrl": "https://shop.ichefpos.com/store/M1XXSJW8/ordering",
     "phone": "07-3412695",
-    "address": "高雄市左營區子華路38號"
+    "address": "高雄市左營區子華路38號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-20.webp",
+    "imageSource": "https://shop.ichefpos.com/store/M1XXSJW8/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e2fef07f-902a-43dd-93e1-3e3dd2815f52/44ee8828-f10b-11f0-90e3-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-21",
@@ -37328,7 +38089,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=530715",
     "phone": "07352-0565",
-    "address": "高雄市楠梓區楠梓新路258號"
+    "address": "高雄市楠梓區楠梓新路258號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-23.webp",
+    "imageSource": "https://shop.ichefpos.com/store/4UUPVynh/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f1f30529-f714-4eae-8dfc-2bda58490f5f/a4b993fc-3a38-11ed-99f3-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-24",
@@ -37626,7 +38391,11 @@ window.RESTAURANTS = [
     "evidence": "2024 食記：**「只要訂購5個以上，3公里內店家外送」**；**「沒有配合 Uber Eats 和 foodpanda」**",
     "source": "nigi33.tw/low-carb/（2024-08）",
     "phone": "07-285-0520",
-    "address": "高雄市三民區中華三路258號"
+    "address": "高雄市三民區中華三路258號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-34.webp",
+    "imageSource": "https://shop.ichefpos.com/store/-UgIBzVA/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3a1bd27d-5dd0-427d-a18d-8efaa5394344/a4284e48-0546-11f0-b7c2-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-35",
@@ -37709,7 +38478,11 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "0986-632-319",
-    "address": "高雄市鼓山區慶豐街82號"
+    "address": "高雄市鼓山區慶豐街82號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-37.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-38",
@@ -37736,7 +38509,11 @@ window.RESTAURANTS = [
     "source": "iCHEF Reminder 索引",
     "orderUrl": "https://shop.ichefpos.com/store/PZ4h9nNf/ordering",
     "phone": "07-3731650",
-    "address": "高雄市仁武區永仁街371號"
+    "address": "高雄市仁武區永仁街371號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-38.webp",
+    "imageSource": "https://shop.ichefpos.com/store/PZ4h9nNf/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3199228c-8393-400f-8c2a-bf219d55c9be/a39c9d8c-3465-11f0-8470-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-39",
@@ -37763,7 +38540,11 @@ window.RESTAURANTS = [
     "source": "Ocard；truedan.com.tw",
     "orderUrl": "https://order.ocard.co/truedan/w1o7Gm",
     "phone": "07-696-1559",
-    "address": "高雄市路竹區大社路83號"
+    "address": "高雄市路竹區大社路83號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-39.webp",
+    "imageSource": "https://order.ocard.co/truedan/w1o7Gm",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/d886a295e05353359d11bd26c8ba0f77.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-40",
@@ -37816,7 +38597,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；jsb1994.com",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=80056",
     "phone": "07-227-1855",
-    "address": "高雄市新興區五福二路62號"
+    "address": "高雄市新興區五福二路62號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-41.webp",
+    "imageSource": "https://www.jsb1994.com/",
+    "imageOriginal": "https://www.jsb1994.com/archive/image/product2/index/1613658117.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-42",
@@ -38006,7 +38791,11 @@ window.RESTAURANTS = [
     "source": "iCHEF Reminder 索引；fonfood",
     "orderUrl": "https://shop.ichefpos.com/store/8KV-mw_J/ordering",
     "phone": "07-536-0316",
-    "address": "高雄市苓雅區三多四路21號11"
+    "address": "高雄市苓雅區三多四路21號11",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-48.webp",
+    "imageSource": "https://shop.ichefpos.com/store/8KV-mw_J/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e6f4a669-777c-4c00-90e5-751e14961e42/25cdcae2-c854-11eb-b256-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-49",
@@ -38032,7 +38821,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=465650",
     "phone": "07-7100993",
-    "address": "高雄市鳳山區光華東路14號"
+    "address": "高雄市鳳山區光華東路14號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-49.webp",
+    "imageSource": "https://furicebox.webnode.tw/",
+    "imageOriginal": "https://0e81a33567.cbaul-cdnwnd.com/d00adbc26f55bada82d8dd65d7206368/200000000-94145950df/518-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-50",
@@ -38113,7 +38906,11 @@ window.RESTAURANTS = [
     "source": "dazhaimen.com.tw",
     "orderUrl": "https://reurl.cc/zb7O7V",
     "phone": "07-5564078",
-    "address": "高雄市左營區自由二路338號"
+    "address": "高雄市左營區自由二路338號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-52.webp",
+    "imageSource": "https://dazhaimen.com.tw/",
+    "imageOriginal": "https://dazhaimen.com.tw/FileUpload/News/2026101427JMC1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-53",
@@ -38250,7 +39047,11 @@ window.RESTAURANTS = [
     "evidence": "permio1：**「餐盒數量滿五個店家也可以外送」**",
     "source": "permio1",
     "phone": "0986-057-527",
-    "address": "高雄市前金區青年二路168號"
+    "address": "高雄市前金區青年二路168號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-57.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-58",
@@ -38363,7 +39164,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=265047",
     "phone": "07-3878880",
-    "address": "高雄市三民區鼎山街266-1號"
+    "address": "高雄市三民區鼎山街266-1號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-61.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%8A%89%E6%B1%9F%E4%BE%BF%E7%95%B6%E9%B3%B3%E5%B1%B1%E4%BA%94%E7%94%B2%E5%BA%97-100063744890513",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300834985_466554342146058_291741358152520041_n.jpg?stp=dst-jpg_tt6&cstp=mx1190x1190&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1-EwfI3rddsQ7kNvwEAkr9U&_nc_oc=Adrz9DJzziJn7dD-7HhMvhGkixBF_CQtzK7S5SbNgZY5aKBeudhl8XGx6-CAVI9chPJxXvbLNe1u5RG72EOq3o2b&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=vQEyvFnX7-2xs7BrsML1bw&_nc_ss=7b20f&oh=00_AQOdMeCB1Wt9sUjnzu-OLYoZjkyAKBmYIJ-DvaeRp0v9JQ&oe=6ADE542D",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-62",
@@ -38389,7 +39194,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=411757",
     "phone": "07-8317316",
-    "address": "高雄市鳳山區自強二路113號"
+    "address": "高雄市鳳山區自強二路113號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-62.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%8A%89%E6%B1%9F%E4%BE%BF%E7%95%B6%E9%B3%B3%E5%B1%B1%E4%BA%94%E7%94%B2%E5%BA%97-100063744890513",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300834985_466554342146058_291741358152520041_n.jpg?stp=dst-jpg_tt6&cstp=mx1190x1190&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1-EwfI3rddsQ7kNvwEAkr9U&_nc_oc=Adrz9DJzziJn7dD-7HhMvhGkixBF_CQtzK7S5SbNgZY5aKBeudhl8XGx6-CAVI9chPJxXvbLNe1u5RG72EOq3o2b&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=vQEyvFnX7-2xs7BrsML1bw&_nc_ss=7b20f&oh=00_AQOdMeCB1Wt9sUjnzu-OLYoZjkyAKBmYIJ-DvaeRp0v9JQ&oe=6ADE542D",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-63",
@@ -38609,7 +39418,11 @@ window.RESTAURANTS = [
     "evidence": "permio1：**「外送低消：300元」**",
     "source": "permio1",
     "phone": "075883571",
-    "address": "高雄市左營區左營大路2-58號"
+    "address": "高雄市左營區左營大路2-58號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-70.webp",
+    "imageSource": "https://www.facebook.com/MixEgg5883571",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/394568387_771408618331064_1872458582498029984_n.jpg?stp=dst-jpg_tt6&cstp=mx455x458&ctp=s455x458&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=y14EhWqAPIUQ7kNvwHHrnGE&_nc_oc=AdpYasN3hWq4OUPKXAmZ6lf0EdixOc_B0sIX8GhHXaxKjgTFVmHxF1Op8OECHywkWSdfuxRwE7Iu4DOrAhU1r3lC&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=IjSKH5CuJ7F2L4waTRC9sA&_nc_ss=7b20f&oh=00_AQMbm8Ywm8djJF9az3vGlmdlAdXvdYNrxg9xGVVZ2ZZO9w&oe=6ADE4C77",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-71",
@@ -38635,7 +39448,11 @@ window.RESTAURANTS = [
     "source": "lovekhc／needmorefood 轉引；jsb1994",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=420844",
     "phone": "07-721-6172",
-    "address": "高雄市前鎮區瑞隆路365號"
+    "address": "高雄市前鎮區瑞隆路365號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-71.webp",
+    "imageSource": "https://shop.ichefpos.com/store/aLpDRa-k/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9db45a74-3de1-44ce-86f2-12f5d24e2a17/42d95658-91df-11ef-90eb-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-72",
@@ -38825,7 +39642,11 @@ window.RESTAURANTS = [
     "source": "iCHEF Reminder 索引；mandynotes",
     "orderUrl": "https://shop.ichefpos.com/store/aq4dpxYr/ordering",
     "phone": "07-7663178",
-    "address": "高雄市鳳山區大明路240號"
+    "address": "高雄市鳳山區大明路240號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-78.webp",
+    "imageSource": "https://shop.ichefpos.com/store/aq4dpxYr/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8eefa3b0-30ce-4321-9c84-3a5cc0290a85/b90989ba-606b-11ef-b7f2-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-79",
@@ -38852,7 +39673,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=600421",
     "phone": "0958-300-770",
-    "address": "高雄市楠梓區翠屏路25號"
+    "address": "高雄市楠梓區翠屏路25號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-79.webp",
+    "imageSource": "https://www.facebook.com/Sky.SacredPearl",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/241564053_4103382576439541_9060757021383777343_n.jpg?stp=dst-jpg_tt6&cstp=mx960x959&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=BHqcL-mC5t0Q7kNvwEONJ63&_nc_oc=AdoVAwY2MKsCZBSAcWAI1xiR0WLn78_kP4C5bAHVV2kGESF-pmW0Wjg-qHRDFomQ2bpLddzIqmUiVDcA5ODZGHPu&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=YuG5-9U3jmG-sUgYcMCMQg&_nc_ss=7b20f&oh=00_AQMtX4FE6u8XfPvjswoxFoz67H58UGK5DEjsNV8Qj6afSg&oe=6ADE6494",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-80",
@@ -38966,7 +39791,11 @@ window.RESTAURANTS = [
     "evidence": "2023–2024 食記明示：**「3 公里內五個外送」**；**未配合 UE/FP**（自送）",
     "source": "permio1／nigi33（2024-08）",
     "phone": "07-3852150",
-    "address": "高雄市三民區大順二路181號"
+    "address": "高雄市三民區大順二路181號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-83.webp",
+    "imageSource": "https://shop.ichefpos.com/store/W61oYFcS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ef7e0804-8fb5-4906-ae45-c6b9dee078b8/f87c999c-04b8-11f0-ba45-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-85",
@@ -39021,7 +39850,11 @@ window.RESTAURANTS = [
     "source": "food-box.org",
     "orderUrl": "https://www.food-box.org/",
     "lineUrl": "https://line.me/R/ti/p/@887hzxup",
-    "address": "區中洲里中洲巷68號"
+    "address": "區中洲里中洲巷68號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-86.webp",
+    "imageSource": "https://www.food-box.org/",
+    "imageOriginal": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1500,w_2000,f_auto,q_auto/1386989/800318_790843.jpeg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-87",
@@ -39184,7 +40017,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；bosomgirl／pixnet",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=313306",
     "phone": "07-3349327",
-    "address": "高雄市苓雅區興中一路47號"
+    "address": "高雄市苓雅區興中一路47號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-92.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%A5%BD%E9%84%B0%E5%B1%85%E8%93%8B%E9%A3%AF-100054257061444",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/295380661_593655189119711_5658709985888741466_n.jpg?stp=dst-jpg_tt6&cstp=mx1199x1200&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=0rZeDxCXX_cQ7kNvwFKWROP&_nc_oc=AdrgF-WHBhbxSKOEWCRvvC0V7ykP4z7pnsrLtw_D9TWWfuHuuoXqJJt6QJ2D4WTNnkJIgqx5E2JfwNLsRUp4xXNR&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=N1vkxiX8eZ4lEJKF1Ej7TQ&_nc_ss=7b20f&oh=00_AQNS1UgJ3oN98JfQhK5phy7DGWlqsZxGJFsRMUxTh2sMKg&oe=6ADE648E",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-93",
@@ -39213,7 +40050,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/hPYTQRhU/ordering",
     "lineUrl": "https://line.me/R/ti/p/@deepbreath",
     "phone": "0968-655-595",
-    "address": "高雄市苓雅區興中一路106號"
+    "address": "高雄市苓雅區興中一路106號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-93.webp",
+    "imageSource": "https://shop.ichefpos.com/store/hPYTQRhU/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/33068ce4-3c85-49ab-92a5-e67e80b09def/a63a9f0c-8259-11f0-ac3a-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-94",
@@ -39241,7 +40082,11 @@ window.RESTAURANTS = [
     "source": "foodyas；linktr.ee",
     "orderUrl": "https://shop.ichefpos.com/store/BXMsAfP0/ordering",
     "phone": "0968-655-528",
-    "address": "高雄市左營區新庄仔路283號"
+    "address": "高雄市左營區新庄仔路283號",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-94.webp",
+    "imageSource": "https://shop.ichefpos.com/store/BXMsAfP0/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/66b1b6d4-37bf-4bef-a572-ae0d52c296cd/55a436d6-825c-11f0-a369-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-scout-lead-95",
@@ -39791,7 +40636,11 @@ window.RESTAURANTS = [
     "source": "qpjj.tw 2026-06-11",
     "orderUrl": "https://iding.tw/stores/f3741d05/menu",
     "lineUrl": "https://line.me/R/ti/p/@491uvdde",
-    "address": "同安街451號/南平路254巷黃昏市場側603"
+    "address": "同安街451號/南平路254巷黃昏市場側603",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-2.webp",
+    "imageSource": "https://iding.tw/store/f3741d05",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_1735748092CA1592/1735748092CA1592_4_0_43.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-3",
@@ -39873,7 +40722,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；tpe.twagoda",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=254429",
     "phone": "03-325-4168",
-    "address": "桃園區同安街458號"
+    "address": "桃園區同安街458號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-5.webp",
+    "imageSource": "https://shop.ichefpos.com/store/YmFURjWi/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/aa950af1-8447-416e-864f-58f7a82bf062/79c7edb6-d41c-11f0-b002-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-6",
@@ -39981,7 +40834,11 @@ window.RESTAURANTS = [
     "source": "iCHEF；footinder；wanderlog",
     "orderUrl": "https://shop.ichefpos.com/store/PY3Cv84A/ordering",
     "phone": "0981-962-691",
-    "address": "桃園區中正三街192號"
+    "address": "桃園區中正三街192號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-9.webp",
+    "imageSource": "https://shop.ichefpos.com/store/PY3Cv84A/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b9b1f9a8-8729-482b-9205-a95b07883657/c04d5820-4a70-11ef-b425-0242ac110007.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-10",
@@ -40037,7 +40894,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=480168",
     "phone": "03-327-8169",
-    "address": "文青二路69號"
+    "address": "文青二路69號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-11.webp",
+    "imageSource": "https://shop.ichefpos.com/store/c8fNpvpA/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/337d517b-ef9a-4ec5-a73c-2d95b94aaf69/e832c7dc-ec5c-11eb-a8fa-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-12",
@@ -40907,7 +41768,11 @@ window.RESTAURANTS = [
     "source": "inline 規則轉載；enjoy99 分店目錄",
     "orderUrl": "https://inline.app/order/-MaYQWpXET3y8PBLDmaR:inline-live-2/-MaYQX-6kdsJAD5uhwS4",
     "phone": "03-371-0022",
-    "address": "八德區介壽路二段256號"
+    "address": "八德區介壽路二段256號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-46.webp",
+    "imageSource": "https://shop.ichefpos.com/store/jSVXZfeE/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ce23fa7a-9d8c-4e7d-a827-8ecc5016592f/d11a3b6a-a2f8-11ef-a973-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-47",
@@ -41095,7 +41960,11 @@ window.RESTAURANTS = [
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://fengji.oddle.me/zh_TW/stores?el=true",
     "phone": "+88633012152",
-    "address": "桃園區莊敬路二段108號"
+    "address": "桃園區莊敬路二段108號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-59.webp",
+    "imageSource": "https://fengji.oddle.me/zh_TW",
+    "imageOriginal": "https://fengji.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2F7941bb23-85bb-4176-b9f6-db751ee2dc30%2F-%2Fcrop%2F1440x602%2F0%2C267%2F-%2Fpreview%2F&w=1920&q=75",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-60",
@@ -41206,7 +42075,10 @@ window.RESTAURANTS = [
     "orderUrl": "https://inline.app/order/-MaYQWpXET3y8PBLDmaR:inline-live-2",
     "phone": "03-462-7899",
     "address": "中壢區環中東路567號",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-66.webp",
+    "imageSource": "https://shop.ichefpos.com/store/jSVXZfeE/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ce23fa7a-9d8c-4e7d-a827-8ecc5016592f/d11a3b6a-a2f8-11ef-a973-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-67",
@@ -41232,7 +42104,11 @@ window.RESTAURANTS = [
     "evidence": "食記明示：**「點滿三個便當就有外送的服務」**／「三個便當就可以外送」",
     "source": "viviyu 2020-04；appletrees 舊址文",
     "phone": "03-346-5388",
-    "address": "永安路354號**(2020"
+    "address": "永安路354號**(2020",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-67.webp",
+    "imageSource": "https://www.facebook.com/people/%E5%8B%A4%E8%A8%98%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6%E5%BA%97%E6%B0%B8%E5%AE%89%E8%B7%AF%E7%B8%BD%E5%BA%97/100063815843864",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/305816214_505078048296052_8568907807550350810_n.jpg?stp=dst-jpg_tt6&cstp=mx1061x1044&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=MweaZx2tYZAQ7kNvwGPLfJV&_nc_oc=Adr70SxNuuv1yW0CQVB4NNXvysNkqnhL6hABL4nku2nmoPHJVTsAC4HVzT46iq9p62g5Cf4FZzp5uNiXhjRC7MNo&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=suPRszZl2NvsNYv29BSwMA&_nc_ss=7b20f&oh=00_AQO6ZXBVovkQYUIPbFmR4VzrVXvsLF_r-9edYdq_J9UqcQ&oe=6ADE6E6F",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-68",
@@ -41371,7 +42247,11 @@ window.RESTAURANTS = [
     "source": "iCHEF Reminder dump 2026-09-22；Fooday／加盟目錄",
     "orderUrl": "https://shop.ichefpos.com/store/cThxTWe_/ordering",
     "phone": "0966-852-886",
-    "address": "中壢區中山路118號"
+    "address": "中壢區中山路118號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-73.webp",
+    "imageSource": "https://shop.ichefpos.com/store/cThxTWe_/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b83ce173-b3ce-4fe6-b580-0e09d9405cc6/05a2fb8a-1c31-11f1-a160-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-74",
@@ -41479,7 +42359,11 @@ window.RESTAURANTS = [
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://mykonos256.oddle.me/zh_TW/stores?el=true",
     "phone": "+88634882638",
-    "address": "楊梅區新農街256號"
+    "address": "楊梅區新農街256號",
+    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-77.webp",
+    "imageSource": "https://www.facebook.com/Mykonos256",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/308474484_452612270223548_9143471552337475_n.jpg?stp=dst-jpg_tt6&cstp=mx334x333&ctp=s334x333&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=8jWMSwhRIaoQ7kNvwGKoUUJ&_nc_oc=Adq-ZlY_MI1eOnM3GJ5qBkA2-yexuHpr103pq4Ju_im268DXQXziu_hnSzGAhdJ1u70rBF0lzNRNDi2fXMqG6Jd5&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=s2tCXTr-X42ELPw2-aeYvQ&_nc_ss=7b20f&oh=00_AQPYzmaAF9WSrNsgNvMYXJUPBbFAF5onK6Je3oF8aNvTBg&oe=6ADE537C",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ty-scout-lead-78",
@@ -41672,7 +42556,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；footinder",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=196322",
     "phone": "06-5115-650",
-    "address": "台南市新市區大順三路125號2F(部分來源寫127號2"
+    "address": "台南市新市區大順三路125號2F(部分來源寫127號2",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-4.webp",
+    "imageSource": "https://www.facebook.com/e.do.la.2f",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/465913980_992597256216908_845552769268795577_n.jpg?stp=dst-jpg_tt6&cstp=mx1181x1076&ctp=s720x720&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=jLaa1aev1CwQ7kNvwGpeEGL&_nc_oc=AdrSWHzK_nid3i7LwK9EFCPZyoEbHZOvF4D3nmeXn7b3T56UgYP-DMnRMQGf3UkDlK2lDr3BdAj74DAR1WLUz7Xf&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=lQT0jAnk56U2FmddKUS6gw&_nc_ss=7b20f&oh=00_AQMfYGNx2dt0Dpmm72G9X9pMA55PLV5LtwQeQb1qZQrATA&oe=6ADE5A0E",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-5",
@@ -41784,7 +42672,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；anthailand",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=444393",
     "phone": "06-2156-622",
-    "address": "台南市中西區健康路一段420巷15號"
+    "address": "台南市中西區健康路一段420巷15號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-8.webp",
+    "imageSource": "https://www.facebook.com/baby20379",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/282065382_3175015969420231_6737647729980235829_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=VJ4nTDdwF8EQ7kNvwFHfr9Y&_nc_oc=AdqGCJyF1mZkUukJCSjI2LNbR87kSkET4IpSoLBcq31S9oHI-8mH-KNyl0m2J0pyK7imgCYBZd-R8shojCNcwnao&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=4QB0TodT80owDsfvQ7cDPA&_nc_ss=7b20f&oh=00_AQMU-GzFWkHwf6lsAOd2OEcqmHmwgkXQ_eQGF7FPlLXwAQ&oe=6ADE743C",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-9",
@@ -41975,7 +42867,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 懶人包明示：**「四公里內均可外送，滿600免外送費100」**／**「不限金額外送，滿600免收運費100元。4公里內均可。」**",
     "source": "foodintainan",
     "phone": "06-2955-002",
-    "address": "台南市安平區國平路180號"
+    "address": "台南市安平區國平路180號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-15.webp",
+    "imageSource": "https://oninoodle68.com/",
+    "imageOriginal": "https://oninoodle68.com/wp-content/uploads/2025/04/scimgllSoGo.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-16",
@@ -42166,7 +43062,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=550057",
     "phone": "06-2511-079",
-    "address": "台南市安南區安和路一段152號"
+    "address": "台南市安南區安和路一段152號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-22.webp",
+    "imageSource": "https://iding.tw/store/f9add33b",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_1653461756410AED/1653461756410AED_36abfa3f-e6f2-4534-89a5-0a3cd00c7bab_405_0_200388_43.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-23",
@@ -42276,7 +43176,11 @@ window.RESTAURANTS = [
     "evidence": "dinbendon 簡介明示：**「500外送」**",
     "source": "dinbendon（2026/01 修改）",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=504437",
-    "phone": "06-5986-986"
+    "phone": "06-5986-986",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-26.webp",
+    "imageSource": "https://zwlife1688.wixsite.com/zwlifelab/xiangxiangbox",
+    "imageOriginal": "https://static.wixstatic.com/media/e2b75d_fb4247ff3c4649149b88f8ab2050d77e~mv2.png/v1/crop/x_0,y_49,w_600,h_353,q_85,enc_avif,quality_auto/e2b75d_fb4247ff3c4649149b88f8ab2050d77e~mv2.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-27",
@@ -42361,7 +43265,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；iCHEF Reminder",
     "orderUrl": "https://shop.ichefpos.com/store/XmqyErkC/ordering",
     "phone": "06-2091-846",
-    "address": "台南市東區東寧路542號"
+    "address": "台南市東區東寧路542號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-29.webp",
+    "imageSource": "https://shop.ichefpos.com/store/XmqyErkC/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/12353db9-d4dc-4561-b712-68349a8d3678/c36793be-e865-11ec-81a7-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-30",
@@ -42667,7 +43575,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 南區懶人包明示：**「疫情期間10分鐘路程內可外送（酌收$30運費、滿$500免運費）」**",
     "source": "foodintainan",
     "phone": "06-2230-800",
-    "address": "台南市南區樹林街二段420號"
+    "address": "台南市南區樹林街二段420號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-40.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ITIdiQYO/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2696c8fc-4ade-4f22-acd5-38acde525c2d/3d06245e-dd5b-11eb-9601-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-41",
@@ -42748,7 +43660,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=590793",
     "phone": "06-3029-013",
-    "address": "台南市永康區中華路481之5號"
+    "address": "台南市永康區中華路481之5號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-43.webp",
+    "imageSource": "https://shop.ichefpos.com/store/QJj3JDrU/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/cb70f2ec-f63f-4c68-9a08-ae184023d3bc/aaa95886-7e76-11ef-9528-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-44",
@@ -42805,7 +43721,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=604849",
     "phone": "06-5896-226",
-    "address": "台南市新市區中正路66巷17號"
+    "address": "台南市新市區中正路66巷17號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-45.webp",
+    "imageSource": "https://www.facebook.com/p/%E5%8E%9F%E9%87%8E%E5%B1%8B%E9%A3%9F%E5%A0%82-100063927468336",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/358712607_694175099390066_271066609346043358_n.jpg?stp=dst-jpg_tt6&cstp=mx946x947&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=3NQvyohVIu0Q7kNvwFKj1n1&_nc_oc=Adqc7EsZ712aET7l2XGoPYRIse41BQXA-D34Q4z9_t-6RooS9qaJRQhmZw0yGtv2BAM&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=CFmeE5Zr1n8hG-c0RnMvZQ&_nc_ss=7b20f&oh=00_AQNx-eXC-ijwfb9-jTEJTd7AXg97sjaOik4qdAWDrViR2Q&oe=6ADE65AD",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-46",
@@ -42863,7 +43783,11 @@ window.RESTAURANTS = [
     "source": "decing.tw；travel.yam；dinbendon meta",
     "orderUrl": "https://shop.ichefpos.com/store/kVw6TSDx/ordering",
     "phone": "06-5838-078",
-    "address": "台南市善化區民生路321號"
+    "address": "台南市善化區民生路321號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-47.webp",
+    "imageSource": "https://shop.ichefpos.com/store/kVz6TSDx/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5f56cd4a-51fc-4c5f-8dab-0c0fdff0cccc/25cbfc32-5340-11f0-9d27-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-48",
@@ -42892,7 +43816,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/UUlU1fYf/ordering",
     "lineUrl": "https://line.me/R/ti/p/@933hmnrf",
     "phone": "06-2632-129",
-    "address": "台南市南區金華路二段329號"
+    "address": "台南市南區金華路二段329號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-48.webp",
+    "imageSource": "https://shop.ichefpos.com/store/UUlU1fYf/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/20a427d4-81f6-4876-9265-1442dd8df160/41867dc6-212e-11ee-97ec-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-49",
@@ -42971,7 +43899,11 @@ window.RESTAURANTS = [
     "evidence": "WalkerLand（2025-11-17）明示：**「店家提供滿500元外送服務」**；可 LINE 掃碼點餐選外帶或外送",
     "source": "walkerland 2025",
     "phone": "06-2055-071",
-    "address": "台南市永康區北興路212號"
+    "address": "台南市永康區北興路212號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-51.webp",
+    "imageSource": "https://shop.ichefpos.com/store/DwOUwz45/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3277c051-daf5-4e84-b1a7-bc6d6381460d/cf832366-fda3-11ee-906b-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-52",
@@ -43024,7 +43956,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 安南懶人包明示：**「滿500元可外送喔！」**",
     "source": "foodintainan",
     "phone": "06-2562-228",
-    "address": "台南市安南區怡安路二段81-2號"
+    "address": "台南市安南區怡安路二段81-2號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-53.webp",
+    "imageSource": "https://shop.ichefpos.com/store/ZWdoCHt9/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c43850f0-1879-4a41-9cb0-e723c83042e3/33b77172-e851-11eb-8d35-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-54",
@@ -43134,7 +44070,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=16551",
     "phone": "06-2649-255",
-    "address": "台南市南區新興路59號"
+    "address": "台南市南區新興路59號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-57.webp",
+    "imageSource": "https://www.facebook.com/p/%E8%A7%80%E5%85%89%E5%9F%8E%E5%93%81%E7%A7%80-100083310115946",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/313905921_139050948888276_5242994323860470066_n.jpg?stp=dst-jpg_tt6&cstp=mx956x960&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=D_eBDq6yUFUQ7kNvwGUfFHq&_nc_oc=AdpT079ezodLbZ7Zw7epD_NPAAY4ih4dWtJWujPgIXzi7qMVsQ7ri5n47Fs6KffTBubL4PUrmjcGDiZpoEsVSN_v&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=Cf-snPi3joSu6ZGU-vJi_A&_nc_ss=7b20f&oh=00_AQMicGO_vXuivTYjGJGkIzV0ov5Nj4ba5vAxKdN3TOkTdA&oe=6ADE715F",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-58",
@@ -43217,7 +44157,11 @@ window.RESTAURANTS = [
     "source": "iCHEF Reminder",
     "orderUrl": "https://shop.ichefpos.com/store/YYNZd9Vo/ordering",
     "phone": "0918-991-843",
-    "address": "台南市北區大武街597巷10弄7號"
+    "address": "台南市北區大武街597巷10弄7號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-60.webp",
+    "imageSource": "https://shop.ichefpos.com/store/YYNZd9Vo/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3dccf6f5-7d9b-4637-a8e0-e5a59eda47b9/6a98cef6-5772-11ee-8a91-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-61",
@@ -43302,7 +44246,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan／hululu 明示：**「只要五個便當就有提供外送服務」**",
     "source": "foodintainan；hululu",
     "phone": "0908-193-106",
-    "address": "台南市永康區中華二路306號"
+    "address": "台南市永康區中華二路306號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-63.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-64",
@@ -43329,7 +44277,11 @@ window.RESTAURANTS = [
     "evidence": "hululu 明示：**「五碗以上就外送至北區」**",
     "source": "hululu",
     "phone": "0908-372-106",
-    "address": "台南市北區公園路409號"
+    "address": "台南市北區公園路409號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-64.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-65",
@@ -43358,7 +44310,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@udr7045y",
     "lineUrl": "https://line.me/R/ti/p/@udr7045y",
     "phone": "06-2396-028",
-    "address": "台南市歸仁區六甲路272號"
+    "address": "台南市歸仁區六甲路272號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-65.webp",
+    "imageSource": "https://www.linkee.com.tw/",
+    "imageOriginal": "https://cdn-general.cybassets.com/media/W1siZiIsIjIxOTc2L2F0dGFjaGVkX3Bob3Rvcy8xNzgyMTg1MzAwX-azoeiPnOiYv-iUlOezlS5wbmcucG5nIl1d.png?sha=89bb019090113ca2",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-66",
@@ -43634,7 +44590,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；食記",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=520982",
     "phone": "06-2992-918",
-    "address": "台南市中西區府前路二段292號"
+    "address": "台南市中西區府前路二段292號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-75.webp",
+    "imageSource": "https://iding.tw/store/7b07b6ca",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_16202825521CDC14/16202825521CDC14_16_312_43.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-76",
@@ -43830,7 +44790,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 東區懶人包明示：**「1公里滿150元、2公里滿300元，3公里以上來電詢問」**；現點現做",
     "source": "foodintainan",
     "phone": "06-2673-033",
-    "address": "台南市東區崇學路196號"
+    "address": "台南市東區崇學路196號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-82.webp",
+    "imageSource": "https://shop.ichefpos.com/store/aLpDRa-k/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9db45a74-3de1-44ce-86f2-12f5d24e2a17/42d95658-91df-11ef-90eb-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-83",
@@ -43857,7 +44821,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 東區懶人包明示：**「最低訂餐金額70元起 另外再加收30元外送費」「不管訂餐金額 送一趟就加收30元外送費 東區都可以送」**",
     "source": "foodintainan",
     "phone": "06-2600-669",
-    "address": "台南市東區崇德路785之5號"
+    "address": "台南市東區崇德路785之5號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-83.webp",
+    "imageSource": "https://www.facebook.com/people/%E9%9D%9E%E5%9A%90%E4%B8%8D%E5%8F%AF%E9%8D%8B%E7%87%92%E5%B4%87%E5%BE%B7%E5%BA%97/100065167254291",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/305770392_456715989843972_2493850419292570158_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1100&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=VZS2avoZDVsQ7kNvwE45HwU&_nc_oc=Adq6VngU_cbQW0gF78S-OHTzbgi2d05m6Joq25huc0kaBV2D3YV5S6bheAG2gqE6SbBA7FSAZs0jvKuGQ_lt76hX&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=jB6GENRnUbPCOHqz3SC6Qg&_nc_ss=7b20f&oh=00_AQPakfrNBGessmNuMc6SP3kPyROiAZiTqg2Pgo05MFWiKw&oe=6ADE73C3",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-84",
@@ -43966,7 +44934,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 懶人包明示：**「目前撈撈鍋滿5鍋外送開放到方圓5公里內」**",
     "source": "foodintainan",
     "phone": "06-2257-811",
-    "address": "台南市中西區中山路166號6"
+    "address": "台南市中西區中山路166號6",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-87.webp",
+    "imageSource": "https://haidilaotaiwan.com.tw/",
+    "imageOriginal": "https://haidilaotaiwan.com.tw/wp-content/uploads/2024/09/1725358100061@2x-720x340.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-88",
@@ -44101,7 +45073,11 @@ window.RESTAURANTS = [
     "evidence": "lifeintainan（2025-06）明示：午餐雙主菜便當，**「團體訂購滿千元，享專人送餐服務」**；eatmary 防疫整理同寫「滿千可外送」",
     "source": "lifeintainan 2025；eatmary",
     "phone": "06-2351-133",
-    "address": "台南市東區長榮路二段248號"
+    "address": "台南市東區長榮路二段248號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-92.webp",
+    "imageSource": "https://www.royal1988.tw/",
+    "imageOriginal": "https://www.royal1988.tw/storage/2026/08/2026%E5%B0%BE%E7%89%99%E6%97%A9%E9%B3%A51.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-93",
@@ -44242,7 +45218,11 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "06-3588-552",
-    "address": "台南市中西區民權路四段40號"
+    "address": "台南市中西區民權路四段40號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-97.webp",
+    "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-98",
@@ -44271,7 +45251,11 @@ window.RESTAURANTS = [
     "orderUrl": null,
     "lineUrl": null,
     "phone": "06-2634-055",
-    "address": "台南市南區金華路二段157號"
+    "address": "台南市南區金華路二段157號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-98.webp",
+    "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-99",
@@ -44299,7 +45283,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@538caxrp",
     "lineUrl": "https://line.me/R/ti/p/@538caxrp",
     "phone": "06-5851-270",
-    "address": "台南市善化區民生路146號"
+    "address": "台南市善化區民生路146號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-99.webp",
+    "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-100",
@@ -44327,7 +45315,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@389jmtch",
     "lineUrl": "https://line.me/R/ti/p/@389jmtch",
     "phone": "06-2081-831",
-    "address": "台南市東區中華東路一段358號5"
+    "address": "台南市東區中華東路一段358號5",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-100.webp",
+    "imageSource": "https://haidilaotaiwan.com.tw/",
+    "imageOriginal": "https://haidilaotaiwan.com.tw/wp-content/uploads/2024/09/1725358100061@2x-720x340.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-101",
@@ -44489,7 +45481,11 @@ window.RESTAURANTS = [
     "evidence": "foodintainan 安平懶人包明示：**「3公里內本店親送及預訂自取外帶」**（距離門檻＝**3公里**；無公開起訂金額）",
     "source": "foodintainan",
     "phone": "06-2992-768",
-    "address": "台南市安平區府平路445號"
+    "address": "台南市安平區府平路445號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-110.webp",
+    "imageSource": "https://shop.ichefpos.com/store/i_xs915Z/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0a07409d-55d2-4eb8-b14d-809d71902e0c/dda2552c-b1f6-11ea-b183-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-111",
@@ -44681,7 +45677,11 @@ window.RESTAURANTS = [
     "evidence": "pixnet 食記明示：**「消費金額滿200元，且來回車程在10分鐘距離範圍內，即享有外送服務」**",
     "source": "pixnet 2019；tainanbento 地址電話",
     "phone": "06-2901-818",
-    "address": "台南市東區崇德路412號"
+    "address": "台南市東區崇德路412號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-117.webp",
+    "imageSource": "https://www.tainanbento.com/",
+    "imageOriginal": "https://static.wixstatic.com/media/188f3e_cb48f5c84ca749a4bd2e3eb3268a43c8~mv2.jpg/v1/fill/w_1280,h_724,al_c,q_85,enc_avif,quality_auto/188f3e_cb48f5c84ca749a4bd2e3eb3268a43c8~mv2.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-118",
@@ -44708,7 +45708,11 @@ window.RESTAURANTS = [
     "evidence": "etaiwan 明示：近距離 **「大約三個就會外送」**；永康工業區或成大 **「要10個以上才會外送」**",
     "source": "etaiwan.blog 2020",
     "phone": "06-3027-288",
-    "address": "台南市永康區中山南路300號"
+    "address": "台南市永康區中山南路300號",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-118.webp",
+    "imageSource": "https://www.facebook.com/p/%E9%BC%8E%E8%A8%98%E7%87%92%E8%87%98-100054297979726",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/788690020_1603142458172338_2088429476262392069_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1091&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=09C1okG7ttwQ7kNvwGZqNPO&_nc_oc=AdqgwPhMNKCSzLODVcIBkTwhx_Z6vps6zcn-NL7_WMm_Eo6PMt9RBbDuv2Nq9Sj1Cp6Rz7xzCq9ZZoRGYFQxwT-T&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=1bQEuNRFVg7NNMfcxGIrKg&_nc_ss=7b20f&oh=00_AQPIyf8dVRYKlBa4Co8v9wrq_W49MWloOZXqNHQBuSmwjA&oe=6ADE65EB",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tn-scout-lead-119",
@@ -44937,7 +45941,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/FaUfE6gO/ordering",
     "lineUrl": "https://line.me/R/ti/p/@152uuouh",
     "phone": "03-5277907",
-    "address": "新竹市西門街78號"
+    "address": "新竹市西門街78號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-6.webp",
+    "imageSource": "https://shop.ichefpos.com/store/FaUfE6gO/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2a359b58-b54e-4a13-8a0d-20bf2d62627d/b44b72e8-bad6-11ee-a72a-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-7",
@@ -45395,7 +46403,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；walkerland",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=567258",
     "phone": "03-595-8998",
-    "address": "新竹縣竹東鎮長春路三段330號"
+    "address": "新竹縣竹東鎮長春路三段330號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-11.webp",
+    "imageSource": "https://iding.tw/store/9690b5c5",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_168376985293F9A1/166053827309F6E0_194d9a48-4523-4b76-be6e-e579a3779cf6_5_2_43.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-12",
@@ -46527,7 +47539,11 @@ window.RESTAURANTS = [
     "evidence": "2021 園區秘書懶人包：**園區外送滿800元**（另有目錄寫市區滿500／園區滿1000→請來電覆核）",
     "source": "timmyblog.cc/convenient",
     "phone": "03-666-9310",
-    "address": "新竹市東區光復路一段463號"
+    "address": "新竹市東區光復路一段463號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-33.webp",
+    "imageSource": "https://www.facebook.com/p/%E9%8C%A2%E9%BE%8D%E7%82%92%E9%A3%AF%E5%B0%88%E8%B3%A3%E5%BA%97-100064069952201",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301214562_440884208057241_3621485368942348599_n.jpg?stp=dst-jpg_tt6&cstp=mx1063x1046&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=EX0zvnWCxv4Q7kNvwECOTRb&_nc_oc=AdrDCN_7EKtHCxcbBkwq3oufKzJCUa3jY9MYjAf05djZHUWwYzQ7PUTJ_sUIyZiqeVnkcrlkUpa3Cww_q0kscKcP&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=peonqmDbL7zjvmfu4K1-_A&_nc_ss=7b20f&oh=00_AQMSpTC1pphhEbPYJA-hLKzEyRRFlfjgftV369-VNdhQNg&oe=6ADE5C71",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-34",
@@ -46743,7 +47759,11 @@ window.RESTAURANTS = [
     "source": "dinbendon map SSR；iCHEF",
     "orderUrl": "https://shop.ichefpos.com/store/Hfl-gmBj/ordering",
     "phone": "03-599-6823",
-    "address": "新竹縣湖口鄉成功路328號"
+    "address": "新竹縣湖口鄉成功路328號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-41.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Hfl-gmBj/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5a088217-5962-4581-9ea2-d2f53b10bcb3/08732850-557e-11f0-9317-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-42",
@@ -47331,7 +48351,11 @@ window.RESTAURANTS = [
     "source": "weebly 官網",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=423064",
     "phone": "03-579-0720",
-    "address": "新竹市東區光復路一段422號"
+    "address": "新竹市東區光復路一段422號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-49.webp",
+    "imageSource": "https://www.facebook.com/people/%E6%96%87%E7%B2%A5%E7%B2%A5%E9%A3%9F%E5%A0%82-%E7%B8%BD%E5%BA%97/100054616861844",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/277666887_497875465376345_400909152207630724_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=mswwgsn9dIQQ7kNvwG-lz29&_nc_oc=AdoU9iUEYTbV4qVcaShec2IO73PrM91F1kh-E8V6tQ-iiMsyhEbkp0jPigO15izMAZJfqJNfBZhUMFejfX5tEEM3&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=aKhWz9uwE0fDRluzPsrJDg&_nc_ss=7b20f&oh=00_AQP6eCPQkisl58yiPTGlaoUB7zUs51uzck3UuqkIIybxRA&oe=6ADE7093",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-50",
@@ -47653,7 +48677,11 @@ window.RESTAURANTS = [
     "evidence": "2021 防疫懶人包明示：**「香山牛埔地區3碗外送、市區15碗可外送、請於10:30之前來電」**",
     "source": "y00.tw/takeout 2021",
     "phone": "03-530-1390",
-    "address": "新竹市香山區牛埔路396號(2021"
+    "address": "新竹市香山區牛埔路396號(2021",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-54.webp",
+    "imageSource": "https://shop.ichefpos.com/store/2J81T7aU/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/02c08a19-28fc-4bf4-857c-ff26d69a5446/6c992d06-c853-11ef-8b05-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-56",
@@ -48639,7 +49667,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://page.line.me/559xgkvd",
     "lineUrl": "https://page.line.me/559xgkvd",
     "phone": "0965-077-978",
-    "address": "新竹市東區光復路一段531巷58號"
+    "address": "新竹市東區光復路一段531巷58號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-74.webp",
+    "imageSource": "https://iding.tw/store/6c727e06",
+    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_173071363927395C/173071363927395C_60a3d909-acfb-4f67-bb6d-df733b1e0130_159_0_7_43.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-75",
@@ -48906,7 +49938,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=265135"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-76.webp",
+    "imageSource": "https://www.facebook.com/p/%E9%BB%91%E7%9A%AE%E9%A9%8A%E9%AD%AF%E8%82%89%E9%A3%AF-100064553178003",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/306098467_446522950842807_825637144819728540_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s960x960&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=fxak6-xcY2kQ7kNvwGBoxvn&_nc_oc=AdoJuj6HivH_2UPD48_obZh8Z3ba8gA9k3GfkmMeEsjvBVxYTlphZP32YOFyP6sbTiilnJWRshP-HbSVMj49XCx0&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=iTSJK5eBnogNLmVaUPEe6w&_nc_ss=7b20f&oh=00_AQN61rcVTPQwzLjOcsQRDJC7tDshO-TmfvdLfW1HO6YnpQ&oe=6ADE7A37",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-77",
@@ -51115,7 +52151,11 @@ window.RESTAURANTS = [
     "source": "dinbendon Chrome 店卡",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=435288",
     "phone": "03-5777883",
-    "address": "新竹市東區關新路33號"
+    "address": "新竹市東區關新路33號",
+    "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-109.webp",
+    "imageSource": "https://shop.ichefpos.com/store/3L1cOmqQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d5522081-4a0d-4202-b68b-3f8ee634b14f/cb62b27e-d7ea-11eb-875b-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hc-scout-lead-110",
@@ -51362,7 +52402,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://lihi1.com/ai10q",
     "lineUrl": "https://lin.ee/vbax5fk",
     "phone": "04-7772557",
-    "address": "彰化縣鹿港鎮復興路318號"
+    "address": "彰化縣鹿港鎮復興路318號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-2.webp",
+    "imageSource": "https://shop.ichefpos.com/store/LBEamTUd/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ac356b97-6a42-4891-bb5a-ed2231eb8067/3cca2f18-62fd-11f0-849c-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-3",
@@ -51499,7 +52543,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/hOjw7qKN/ordering",
     "lineUrl": "https://lin.ee/Cu3sEdl",
     "phone": "04-720-0158",
-    "address": "彰化市博愛街91號"
+    "address": "彰化市博愛街91號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-7.webp",
+    "imageSource": "https://shop.ichefpos.com/store/hOjw7qKN/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ad22945c-a333-4fb6-9c3a-d83b753a4cc9/cd515f7e-1573-11f1-8e34-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-8",
@@ -51742,7 +52790,11 @@ window.RESTAURANTS = [
     "source": "d.ocard.co/theproteinbox/w0kM4K DOM 2026-09-22",
     "orderUrl": "https://d.ocard.co/theproteinbox/w0kM4K",
     "phone": "04-7238327",
-    "address": "常見地址中山路二段393號"
+    "address": "常見地址中山路二段393號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-16.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-17",
@@ -51769,7 +52821,11 @@ window.RESTAURANTS = [
     "source": "d.ocard.co/theproteinbox/KrD8vQ Chrome DOM 2026-09-22",
     "orderUrl": "https://d.ocard.co/theproteinbox/KrD8vQ",
     "phone": "04-7575-5382",
-    "address": "和美鎮和頭路33號"
+    "address": "和美鎮和頭路33號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-17.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-fillet.webp",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-18",
@@ -51852,7 +52908,11 @@ window.RESTAURANTS = [
     "source": "dinbendon shop=629118",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=629118",
     "phone": "04-7788039",
-    "address": "鹿港鎮鹿東路99巷2號"
+    "address": "鹿港鎮鹿東路99巷2號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-20.webp",
+    "imageSource": "https://d.ocard.co/ca005/wdp2Aw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/97bece74de6b1a4bd30df4519b3fb98e.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-21",
@@ -52008,7 +53068,11 @@ window.RESTAURANTS = [
     "evidence": "食記明示：**「員林區只要5個就能外送」**／**「員林地區滿5個可外送」**",
     "source": "chevigal.com/72c-yuanlin；sunnylife.tw/72cyl",
     "phone": "0958-037-698",
-    "address": "員林市民生路149號"
+    "address": "員林市民生路149號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-26.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-27",
@@ -52034,7 +53098,11 @@ window.RESTAURANTS = [
     "evidence": "食記明示：**「滿五份就能外送囉」**",
     "source": "ieatcandy.tw/changhuafood422",
     "phone": "0968-772-976",
-    "address": "鹿港鎮中山路33-2號"
+    "address": "鹿港鎮中山路33-2號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-27.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-28",
@@ -52113,7 +53181,11 @@ window.RESTAURANTS = [
     "evidence": "彙整引 2022 文明示：**「員林市區訂滿300元且…距離店家3公里內…免費外送」**",
     "source": "txg.lovetpe 員林燒臘彙整引 2022-04 文；footinder",
     "phone": "04-8383611",
-    "address": "現址常見寫大同路一段282-1號"
+    "address": "現址常見寫大同路一段282-1號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-30.webp",
+    "imageSource": "https://www.facebook.com/p/%E8%BE%B0%E9%BE%8D%E7%87%92%E8%87%98%E9%A4%90%E5%BB%B3-100064209185264",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/361217413_654364863380481_1104843308036356220_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=4mcy13O6WgsQ7kNvwHQ0iRz&_nc_oc=AdqxAk7_vpY9yjaj_78FlE7MkMu0E75ka20iEkPQQmkhUFYEra1W7GS1-3z9EitIaa2rjccLvCm7tdRQd860RTBD&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=NxCbIlcfsfZlF6uSZi_WCA&_nc_ss=7b20f&oh=00_AQNhUM1kDTOHrrRSfASAYycF5Q1jhDQ7BrqhigJD4FqrRw&oe=6ADE521E",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-31",
@@ -52760,7 +53832,11 @@ window.RESTAURANTS = [
     "evidence": "peipeipigtravel 明示：**「距本店3公里內滿$500即可外送」**；**「距本店5公里內滿$1000即可外送」**（依 Google 導航）",
     "source": "peipeipigtravel.com/takeaway；peipeipigtravel.com/cgz",
     "phone": "04-833-4400",
-    "address": "員林市南昌路39號"
+    "address": "員林市南昌路39號",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-54.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5sSRaI3F/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8ecbae18-87f2-4be7-904d-6f4a64f03c91/8936adc6-6db4-11ee-98cb-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ch-scout-lead-55",
@@ -53033,7 +54109,11 @@ window.RESTAURANTS = [
     "evidence": "amonblog 明示：**「店家外送，嘉義市區訂購滿200元即可外送」**",
     "source": "amonblog.com/blog/post/61092",
     "phone": "05-2750019",
-    "address": "嘉義市東區義教街927號"
+    "address": "嘉義市東區義教街927號",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-12.webp",
+    "imageSource": "https://www.magicyugo.com.tw/",
+    "imageOriginal": "https://image-cdn-flare.qdm.cloud/q58b99bbbc31bf/image/cache/data/product/4b2cb9d1a9e469f185d992e3fc7a6fd1_1-cr-627x627.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-13",
@@ -53216,7 +54296,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/GYYnBipf/ordering",
     "lineUrl": "https://page.line.me/636kwpin",
     "phone": "05-2326624",
-    "address": "嘉義市西區八德路157號(舊址民生南路107號"
+    "address": "嘉義市西區八德路157號(舊址民生南路107號",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-19.webp",
+    "imageSource": "https://shop.ichefpos.com/store/GYYnBipf/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3c018168-8297-473e-a878-578c70b778c2/1e8213b8-4d78-11ef-8e6f-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-20",
@@ -53294,7 +54378,11 @@ window.RESTAURANTS = [
     "hours": "UNKNOWN（以 Ocard／門市為準）",
     "evidence": "Ocard 線上點彙整／搜尋引擎摘店規：**配送上限 15 公里；0～15 公里運費 0 元；最低消費 100 元**（另須購杯袋：每個 2 元、最多裝 6 杯）",
     "source": "order.ocard.co/truedan/mOM4Pw（WebSearch 店規摘要）",
-    "orderUrl": "https://order.ocard.co/truedan/mOM4Pw"
+    "orderUrl": "https://order.ocard.co/truedan/mOM4Pw",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-22.webp",
+    "imageSource": "https://order.ocard.co/truedan/mOM4Pw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/ec39d2024b496bb9bc50b66188a73c8f.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-23",
@@ -53322,7 +54410,11 @@ window.RESTAURANTS = [
     "evidence": "服務項明示：**「精緻宴席外燴（一桌可外送到家）」**＋團體便當（門檻＝**一桌**）",
     "source": "khc.twagoda.com/entry/81133274；threads @poethero 門市表",
     "phone": "05-3701919",
-    "address": "嘉義縣朴子市市西路7-3號"
+    "address": "嘉義縣朴子市市西路7-3號",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-23.webp",
+    "imageSource": "https://psjf1688.wixsite.com/website",
+    "imageOriginal": "https://static.wixstatic.com/media/a61e09_f981cd8d5d51407daf55961a63d7af6d~mv2.jpg/v1/fill/w_301,h_270,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E4%B8%8B%E8%BC%89_edited.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-24",
@@ -53457,7 +54549,11 @@ window.RESTAURANTS = [
     "source": "shop.ichefpos.com/store/hnbQHOo-；threads @superfood_co；ifoodie",
     "orderUrl": "https://shop.ichefpos.com/store/hnbQHOo-/ordering",
     "phone": "0978-997-669",
-    "address": "嘉義市西區蘭井街222號"
+    "address": "嘉義市西區蘭井街222號",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-28.webp",
+    "imageSource": "https://shop.ichefpos.com/store/hnbQHOo-/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/cc238120-42eb-437f-a920-bcc628f0e334/f8d16940-1dd6-11f0-be3e-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-29",
@@ -53535,7 +54631,11 @@ window.RESTAURANTS = [
     "hours": "UNKNOWN（以 Ocard／門市為準）",
     "evidence": "Ocard 店規摘要：**配送上限 20 公里；各距離運費 0 元**；最低消費依距離：**0–1km $100／1–2 $150／2–3 $200／3–4 $300／4–5 $400／5–6 $500／6–9 $600／9–11 $650／11–20 $700**",
     "source": "order.ocard.co/kebuke/wz5X6K（WebSearch 店規摘要）",
-    "orderUrl": "https://order.ocard.co/kebuke/wz5X6K"
+    "orderUrl": "https://order.ocard.co/kebuke/wz5X6K",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-31.webp",
+    "imageSource": "https://order.ocard.co/kebuke/wz5X6K",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/9ea83aa729f702fd2a66c7c46b7520a3.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-32",
@@ -53694,7 +54794,11 @@ window.RESTAURANTS = [
     "source": "bendon-dao.com/shops/5804（curl 確認「滿500元可外送」）；fatchien.tw/picnicday-anhe；ifoodie",
     "orderUrl": "https://shop.ichefpos.com/store/WGy00LO1/ordering",
     "phone": "0987-821-112",
-    "address": "嘉義市東區安和街106號"
+    "address": "嘉義市東區安和街106號",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-37.webp",
+    "imageSource": "https://shop.ichefpos.com/store/WGy00LO1/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/62679901-9da2-49fd-8812-65b9ee188907/0d0e783e-0db0-11f1-8f3e-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "cy-scout-lead-38",
@@ -53912,7 +55016,11 @@ window.RESTAURANTS = [
     "evidence": "店家 FB／findglocal 多次公告明示：**「石榴&斗六工業區滿300外送」**；**「科班工業區&林內滿500外送」**；**「科加工業區滿600外送」**；**「斗六市區以距離滿700外送」**；**「雲科工業區滿1000外送」**（另見較早版「斗六市區以距離滿800-1000」句 — **以最新粉專為準**）",
     "source": "findglocal／店家 FB 2025–2026",
     "phone": "0933-232-978",
-    "address": "雲林縣斗六市石榴路106-7號"
+    "address": "雲林縣斗六市石榴路106-7號",
+    "imageUrl": "https://zisong.tw/assets/shops/yl-scout-lead-2.webp",
+    "imageSource": "https://www.nicenine99.com/",
+    "imageOriginal": "https://www.nicenine99.com/wp-content/uploads/2024/06/60fe1e0db70ad.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yl-scout-lead-3",
@@ -54449,7 +55557,11 @@ window.RESTAURANTS = [
     "evidence": "2021 防疫懶人包明示：**「環內滿300元可外送，環外可來電詢問」**",
     "source": "twobaby.tw Part 4 2021",
     "phone": "05-5332616",
-    "address": "雲林縣斗六市中堅西路722號"
+    "address": "雲林縣斗六市中堅西路722號",
+    "imageUrl": "https://zisong.tw/assets/shops/yl-scout-lead-22.webp",
+    "imageSource": "https://tieting.greenyao.com.tw/",
+    "imageOriginal": "https://tieting.greenyao.com.tw/wp-content/uploads/2025/03/5OK%E5%A4%A9%E4%BD%BF%E7%89%9B%E6%8E%92-1024x683.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yl-scout-lead-23",
@@ -54720,7 +55832,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://shop.ichefpos.com/store/-FyeGvzT/ordering",
     "lineUrl": "https://lin.ee/1w608MI",
     "phone": "0905-188-829",
-    "address": "雲林縣斗六市漢口路243號"
+    "address": "雲林縣斗六市漢口路243號",
+    "imageUrl": "https://zisong.tw/assets/shops/yl-scout-lead-32.webp",
+    "imageSource": "https://shop.ichefpos.com/store/-FyeGvzT/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/a6b0acd1-4ff2-4ab0-93b0-be89fac224fc/2eb583dc-00e4-11ee-b963-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yl-scout-lead-33",
@@ -54997,7 +56113,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=606950",
     "phone": "049-290-1539",
-    "address": "南投縣埔里鎮西安路一段113號"
+    "address": "南投縣埔里鎮西安路一段113號",
+    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-2.webp",
+    "imageSource": "https://shop.ichefpos.com/store/MfuRONqx/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/cf6b7c0d-a597-4f47-a6aa-9407392431ca/6286c24e-d4af-11ee-8281-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nto-scout-lead-3",
@@ -55191,7 +56311,11 @@ window.RESTAURANTS = [
     "evidence": "2021 食記明示：**「方圓5公里內凡滿1000元即可外送 (每日9：00起即可來電預定)」**",
     "source": "vagrantcloud.pixnet 2021-10；33onelove",
     "phone": "0931-117-269",
-    "address": "南投縣草屯鎮信義街207號"
+    "address": "南投縣草屯鎮信義街207號",
+    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-9.webp",
+    "imageSource": "https://shop.ichefpos.com/store/c_6heH-h/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e9e59b75-355b-4886-9d5b-f74a7c59f465/12850320-d1e5-11eb-94bf-0242ac110005.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nto-scout-lead-10",
@@ -55738,7 +56862,11 @@ window.RESTAURANTS = [
     "evidence": "2021 埔里防疫懶人包明示：**「消費滿$500可外送市區」**",
     "source": "dudu2.tw 2021-05；paulyear.com 2021",
     "phone": "049-298-4728",
-    "address": "南投縣埔里鎮中正路188號"
+    "address": "南投縣埔里鎮中正路188號",
+    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-30.webp",
+    "imageSource": "https://www.hotpotguo.com/",
+    "imageOriginal": "https://www.hotpotguo.com/archive/images/arch02-template-09s-bgimg/911810c2495619a4_thumb_1920_1065.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nto-scout-lead-31",
@@ -55901,7 +57029,11 @@ window.RESTAURANTS = [
     "evidence": "2021 埔里防疫懶人包明示：**「市區滿200元可外送」**",
     "source": "dudu2.tw 2021-05；txg.twagoda／目錄",
     "phone": "049-290-0299",
-    "address": "南投縣埔里鎮中山路二段272巷2號"
+    "address": "南投縣埔里鎮中山路二段272巷2號",
+    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-36.webp",
+    "imageSource": "https://www.facebook.com/dodo2900299",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/438230180_835516905273516_3913362606760320271_n.jpg?stp=dst-jpg_tt6&cstp=mx828x828&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=QD_pTVzn89sQ7kNvwEivtmA&_nc_oc=AdqW06vSET9hVRv-rTfCMtxiC2QUKhMD5kQfKHdEtwkibulzI7zeHxo-PuCRvp0m6KcfCMWsaibptXcblLIBoW7q&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=W2Arbc0DqeS568mIBjjs8A&_nc_ss=7b20f&oh=00_AQMXUbqjj4XHMZGmPLAyfS4GzDRuMlxlHn6RAmjnJuLnLQ&oe=6ADE602E",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nto-scout-lead-37",
@@ -56039,7 +57171,11 @@ window.RESTAURANTS = [
     "evidence": "美美網分店頁明示：**「訂餐滿300元可享外送服務」**；**「中餐請於11:00以前來電預約」**",
     "source": "mmweb.tw/84448；txg.taiwaneast 轉載",
     "phone": "049-220-1898",
-    "address": "南投縣南投市民族路125號"
+    "address": "南投縣南投市民族路125號",
+    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-41.webp",
+    "imageSource": "https://www.facebook.com/people/%E5%8D%97%E6%8A%95%E5%85%AB%E6%96%B9%E9%9B%B2%E9%9B%86%E6%96%87%E6%98%8C%E5%BA%97/100064015504684",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/307108331_466682565475590_9215321841492871212_n.jpg?stp=dst-jpg_tt6&cstp=mx960x720&ctp=s960x720&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=VK-IL6TOCkUQ7kNvwE8SHqp&_nc_oc=AdoviHXaBqpeM-Buo3Ahx4AOSBMjSmDNtIIoteClZ7AJd2zVqxL762nslZRbgXoGzJ5s-u7c7z6F-pzrBy_Vrqrq&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=rBaXg5JeocaFTX6KgBqGPg&_nc_ss=7b20f&oh=00_AQMbFaNNOMWODwycWAegsocJz5epAm7CJNv2ob1aMkZhnQ&oe=6ADE613D",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nto-scout-lead-43",
@@ -56262,7 +57398,11 @@ window.RESTAURANTS = [
     "evidence": "食記店卡明示：**「竹南頭份市區點兩份即可外送,但因外送人力有限,超過當日限量配餐數量就不供應建議提前3天預約(竹南園區需滿5份,廣源園區需滿10份)。」**",
     "source": "vivawei.tw/january-first",
     "phone": "037-611089",
-    "address": "苗栗縣竹南鎮新南里維新路50號"
+    "address": "苗栗縣竹南鎮新南里維新路50號",
+    "imageUrl": "https://zisong.tw/assets/shops/ml-scout-lead-5.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Uv-k7fkU/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ae8eec08-ff3b-42ed-8732-d6a4db8927d2/c4771fac-bbcf-11ed-9fda-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ml-scout-lead-6",
@@ -56429,7 +57569,11 @@ window.RESTAURANTS = [
     "evidence": "vivawei 2021 外送懶人包明示：**「滿500元以上免費外送，未滿500元需加收50元外送費用（外送服務區域請見店家粉絲團公告）」**",
     "source": "vivawei.tw/miaoli-takeout",
     "phone": "037-371598",
-    "address": "苗栗市中正路673號"
+    "address": "苗栗市中正路673號",
+    "imageUrl": "https://zisong.tw/assets/shops/ml-scout-lead-11.webp",
+    "imageSource": "https://shop.ichefpos.com/store/KAQnWWyc/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ec5279f-21fd-436f-bbf7-49ef06291612/4437788a-b705-11eb-bc77-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ml-scout-lead-12",
@@ -57159,7 +58303,11 @@ window.RESTAURANTS = [
     "evidence": "食記店卡明示：**「頭份市區滿300元、竹南市區、科學園區滿500元即可外送。」**",
     "source": "huablog.tw/qsweet",
     "phone": "037-851061",
-    "address": "苗栗縣頭份市信義路467號"
+    "address": "苗栗縣頭份市信義路467號",
+    "imageUrl": "https://zisong.tw/assets/shops/ml-scout-lead-39.webp",
+    "imageSource": "https://www.facebook.com/p/Q%E5%B0%8F%E5%A6%B9%E6%89%8B%E4%BD%9C%E7%94%9C%E5%93%81%E5%BA%97-100063796041069",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/699516646_1526294029507117_1761843316976555127_n.jpg?stp=dst-jpg_tt6&cstp=mx1122x1122&ctp=s720x720&_nc_cat=104&ccb=1-7&_nc_sid=3ab345&_nc_ohc=SemLF0cWhLEQ7kNvwGzZcgz&_nc_oc=AdrBV5zoywCjTKeTGZihNMrv7qoqWGx-L0nXxXkcC1teER_cmb8UHdJL8_GJlOivGc9xx8nom5mWDACG5cl2Wj4A&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=-phwAucC4SpQV7wn_DeMww&_nc_ss=7b20f&oh=00_AQMnDdYYx_y5ol156o1NpdRnBxIG2jbUC1IMFIjhlZZ9AQ&oe=6ADE49E3",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "ml-scout-lead-40",
@@ -57648,7 +58796,11 @@ window.RESTAURANTS = [
     "source": "dinbendon",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=570491",
     "phone": "02-2426-1616",
-    "address": "基隆市仁愛區仁一路295-6號"
+    "address": "基隆市仁愛區仁一路295-6號",
+    "imageUrl": "https://zisong.tw/assets/shops/kl-scout-lead-9.webp",
+    "imageSource": "https://shop.ichefpos.com/store/0yzWRgFd/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6b2c06b7-1577-4f84-b194-0439e5e24901/35c80970-fce4-11f0-ad32-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kl-scout-lead-10",
@@ -58083,7 +59235,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；wu-tau.com",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=569778",
     "phone": "02-2425-8966",
-    "address": "基隆市仁愛區孝三路50號1"
+    "address": "基隆市仁愛區孝三路50號1",
+    "imageUrl": "https://zisong.tw/assets/shops/kl-scout-lead-26.webp",
+    "imageSource": "https://www.wu-tau.com.tw/",
+    "imageOriginal": "https://www.wu-tau.com.tw/data/product_intro/cover/1583202268932967026.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kl-scout-lead-27",
@@ -58245,7 +59401,11 @@ window.RESTAURANTS = [
     "source": "dinbendon；joudafu.com/store",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=571134",
     "phone": "02-2465-1168",
-    "address": "基隆市信義區深溪路20號"
+    "address": "基隆市信義區深溪路20號",
+    "imageUrl": "https://zisong.tw/assets/shops/kl-scout-lead-32.webp",
+    "imageSource": "https://www.joudafu.com/",
+    "imageOriginal": "https://www.joudafu.com/resources/_img/index/about01.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kl-scout-lead-33",
@@ -58435,7 +59595,11 @@ window.RESTAURANTS = [
     "evidence": "2025 媒體明示店家規定：**「三個便當才外送」**（並述老闆曾破例單份親送）；2026-09 食記仍營業",
     "source": "keelunghihi 2025-12-11；nanocakl 2026-09-12",
     "phone": "02-2432-7787",
-    "address": "基隆市安樂區安樂路二段102號"
+    "address": "基隆市安樂區安樂路二段102號",
+    "imageUrl": "https://zisong.tw/assets/shops/kl-scout-lead-39.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Zkvl8sNA/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c6531e47-c66b-4ded-b3bf-3bd223e7850a/9942096a-1f54-11f0-b62c-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kl-scout-lead-40",
@@ -58710,7 +59874,11 @@ window.RESTAURANTS = [
     "source": "kafu.tw/the-choice-of-takeout-yilan ；ichef",
     "orderUrl": "https://shop.ichefpos.com/store/80u2PXf9/ordering",
     "phone": "03-935-8516",
-    "address": "宜蘭縣宜蘭市女中路二段185號"
+    "address": "宜蘭縣宜蘭市女中路二段185號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-2.webp",
+    "imageSource": "https://shop.ichefpos.com/store/80u2PXf9/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c6874b48-5fe6-466b-9ef9-20b0ef74488c/56f68b22-bb7f-11f0-a935-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-3",
@@ -58925,7 +60093,11 @@ window.RESTAURANTS = [
     "evidence": "懶人包明示：**「滿$568元3公里內就可以免費外送到家」**；並寫電話預約可送到新月樓下",
     "source": "kafu.tw/the-choice-of-takeout-yilan",
     "phone": "03-931-2725",
-    "address": "宜蘭縣宜蘭市民權路二段38巷6號4"
+    "address": "宜蘭縣宜蘭市民權路二段38巷6號4",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-10.webp",
+    "imageSource": "https://www.tasty.com.tw/",
+    "imageOriginal": "https://www.tasty.com.tw/photo_room/02.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-11",
@@ -58981,7 +60153,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@698lfvde",
     "lineUrl": "https://line.me/R/ti/p/@698lfvde",
     "phone": "03-938-6670",
-    "address": "宜蘭市慈安路50號"
+    "address": "宜蘭市慈安路50號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-12.webp",
+    "imageSource": "https://shop.ichefpos.com/store/8zjvNnyr/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8aebd181-5b7c-4158-b15e-174519900fbb/f56df6ba-47ac-11f0-940d-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-13",
@@ -59305,7 +60481,11 @@ window.RESTAURANTS = [
     "source": "dinbendon idine HTML／search hit",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=448225",
     "phone": "03-961-0013",
-    "address": "宜蘭縣羅東鎮成功街150巷2號"
+    "address": "宜蘭縣羅東鎮成功街150巷2號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-24.webp",
+    "imageSource": "https://hechaloutea.com.tw/",
+    "imageOriginal": "https://hechaloutea.com.tw/wp-content/uploads/2020/03/%E9%B6%B4%E9%A0%82%E7%B4%85%E8%8C%B6%E5%8E%BB%E8%83%8C.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-25",
@@ -59332,7 +60512,11 @@ window.RESTAURANTS = [
     "evidence": "fullfen 明示：**「滿150可送宜蘭市區」**／標頭 **「外送服務 ：滿150可送宜蘭市區」**",
     "source": "fullfenblog.tw/yilan-delivery",
     "phone": "03-957-5600",
-    "address": "宜蘭縣羅東鎮中正南路33號"
+    "address": "宜蘭縣羅東鎮中正南路33號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-25.webp",
+    "imageSource": "https://www.facebook.com/p/%E7%BE%85%E6%9D%B1%E9%99%B3%E8%A8%98%E7%95%B6%E6%AD%B8%E9%B4%A8%E5%89%B5%E5%A7%8B%E5%BA%97-100064013071540",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/298964953_440438661433233_1159849880036458602_n.jpg?stp=dst-jpg_tt6&cstp=mx958x960&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=SPi9o6DFAT4Q7kNvwElNV4n&_nc_oc=AdpsTghhIn8Hgoly1sBgqAs5K2Xl60__BFufni0uSpbscSqN0OPz0f5ncQSGL9Zgm6gVfYp2r5aSvKyNbvTMvyUp&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=in31PVIcnkgU3A-l9byrDQ&_nc_ss=7b20f&oh=00_AQPVh9mhQqF7Zq5J1cCNSNHdXInNoT2aNXicxKac-WnTwQ&oe=6ADE6DCD",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-26",
@@ -59360,7 +60544,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/mGYoxw",
     "phone": "03-957-6637",
-    "address": "宜蘭縣羅東鎮公正路47號"
+    "address": "宜蘭縣羅東鎮公正路47號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-26.webp",
+    "imageSource": "https://order.ocard.co/toymodel/mGYoxw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/777619d443b00d7f619afae6b89a8239.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-28",
@@ -59387,7 +60575,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/mXWXjQ",
     "phone": "03-931-3787",
-    "address": "宜蘭縣宜蘭市宜興路一段71號"
+    "address": "宜蘭縣宜蘭市宜興路一段71號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-28.webp",
+    "imageSource": "https://order.ocard.co/toymodel/mXWXjQ",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/49069fa1aae49d96224645841aa44ea7.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-30",
@@ -59443,7 +60635,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/w6JqDw",
     "phone": "03-977-5645",
-    "address": "宜蘭縣頭城鎮城東里青雲路三段252號"
+    "address": "宜蘭縣頭城鎮城東里青雲路三段252號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-31.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6JqDw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/777619d443b00d7f619afae6b89a8239.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-32",
@@ -59470,7 +60666,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/KV9Lom",
     "phone": "03-997-3977",
-    "address": "宜蘭縣蘇澳鎮蘇北里中山路一段107號"
+    "address": "宜蘭縣蘇澳鎮蘇北里中山路一段107號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-32.webp",
+    "imageSource": "https://order.ocard.co/toymodel/KV9Lom",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/955509c98e51977b6551a4d34325a56a.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-34",
@@ -59497,7 +60697,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/mN9k5Q",
     "phone": "03-959-5859",
-    "address": "宜蘭縣冬山鄉香和村冬山路一段866號"
+    "address": "宜蘭縣冬山鄉香和村冬山路一段866號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-34.webp",
+    "imageSource": "https://order.ocard.co/toymodel/mN9k5Q",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/37c106c123df0f5a38694d840d2a99ed.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-35",
@@ -59524,7 +60728,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/KDX7GK",
     "phone": "03-950-3612",
-    "address": "宜蘭縣五結鄉五結村五結路二段360-6號"
+    "address": "宜蘭縣五結鄉五結村五結路二段360-6號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-35.webp",
+    "imageSource": "https://order.ocard.co/toymodel/KDX7GK",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/c5b4ae1d431e14058b853e95c71bc4ea.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-36",
@@ -59551,7 +60759,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/wvgbWQ",
     "phone": "03-923-0732",
-    "address": "宜蘭縣員山鄉員山村員山路一段192號"
+    "address": "宜蘭縣員山鄉員山村員山路一段192號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-36.webp",
+    "imageSource": "https://order.ocard.co/toymodel/wvgbWQ",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/777619d443b00d7f619afae6b89a8239.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-37",
@@ -59578,7 +60790,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/w1xD5K",
     "phone": "03-988-8589",
-    "address": "鄉德陽村湯圍礁溪路五段5巷1號"
+    "address": "鄉德陽村湯圍礁溪路五段5巷1號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-37.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w1xD5K",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/37c106c123df0f5a38694d840d2a99ed.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-38",
@@ -59605,7 +60821,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/QpOZ3w",
     "phone": "03-938-8877",
-    "address": "宜蘭縣壯圍鄉吉祥村壯五路305號"
+    "address": "宜蘭縣壯圍鄉吉祥村壯五路305號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-38.webp",
+    "imageSource": "https://order.ocard.co/toymodel/QpOZ3w",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/955509c98e51977b6551a4d34325a56a.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-39",
@@ -59632,7 +60852,11 @@ window.RESTAURANTS = [
     "source": "Ocard Chrome dump 2026-09-22",
     "orderUrl": "https://order.ocard.co/toymodel/wY09LK",
     "phone": "03-989-5795",
-    "address": "宜蘭縣三星鄉月眉村三星路四段438號"
+    "address": "宜蘭縣三星鄉月眉村三星路四段438號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-39.webp",
+    "imageSource": "https://order.ocard.co/toymodel/wY09LK",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/777619d443b00d7f619afae6b89a8239.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-40",
@@ -59952,7 +61176,11 @@ window.RESTAURANTS = [
     "evidence": "補給站明示：**「滿400以上即可外送」**＋**「外送需加 NT. $30」**",
     "source": "yilanpanda.webnode.tw 老魏牛肉捏麵",
     "phone": "03-931-4141",
-    "address": "宜蘭縣宜蘭市中山路三段215號"
+    "address": "宜蘭縣宜蘭市中山路三段215號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-51.webp",
+    "imageSource": "https://www.facebook.com/people/%E8%80%81%E9%AD%8F%E7%89%9B%E8%82%89%E6%8D%8F%E9%BA%B5/100063736232370",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/449489240_1002254405242425_8868564887790449863_n.jpg?stp=dst-jpg_tt6&cstp=mx1080x1080&ctp=s720x720&_nc_cat=106&ccb=1-7&_nc_sid=3ab345&_nc_ohc=olM13SoDbrwQ7kNvwHYPuuG&_nc_oc=Adq9lf0OpHuIPnBpeZQjGTKuatHQiPokIbrWvAsNGQXuJKS4XmcMz_GW-3dcEWWG4osw9VkdNhzo_76GVkuzW_QA&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=bL5mJUei7vrwkxMJ1DdkAg&_nc_ss=7b20f&oh=00_AQOxke2PKUPsM2Kgx1nyGPBn8Q_nw0FZ7xVPm3PwfWIskQ&oe=6ADE4C85",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-52",
@@ -59979,7 +61207,11 @@ window.RESTAURANTS = [
     "evidence": "補給站明示：**「滿300以上即可外送」**＋**「外送需加 NT. $30」**",
     "source": "yilanpanda.webnode.tw 香鄉甕窯滷肉飯",
     "phone": "03-931-3331",
-    "address": "宜蘭縣宜蘭市中山路二段15號"
+    "address": "宜蘭縣宜蘭市中山路二段15號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-52.webp",
+    "imageSource": "https://www.facebook.com/100058705015596",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/302350738_547008630599299_2127567518253202339_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=ZdZ4yHKX-GQQ7kNvwF-6t69&_nc_oc=AdosW1LpJ0hbg2d9lTofMim7_PRim7RxwEf30AgL3sJR5-b7iEOcL_g6YZY9BOHD4IvE2P-J0X0ICYnXNSfburED&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=_Oq3BBy1Vq7ogcWF_LzHuQ&_nc_ss=7b20f&oh=00_AQPKw3STDou7TzXA4otF4o7r-eirEO6-mwewkeSCp979Mg&oe=6ADE5674",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-53",
@@ -60032,7 +61264,11 @@ window.RESTAURANTS = [
     "evidence": "補給站明示：**「宜蘭市區300$，超出市區500$ 以上即可外送」**＋**「外送需加 NT. $30」**",
     "source": "yilanpanda.webnode.tw 好吃嘴川味小吃",
     "phone": "03-936-6625",
-    "address": "宜蘭縣宜蘭市城隍街43號"
+    "address": "宜蘭縣宜蘭市城隍街43號",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-54.webp",
+    "imageSource": "https://www.facebook.com/haochizui",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/305402134_589216412899135_6835435168738727832_n.jpg?stp=dst-jpg_tt6&cstp=mx611x611&ctp=s611x611&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=UYTwf7Bbn3UQ7kNvwEzdhDo&_nc_oc=AdqNz7CL1uHzAxLo1ARkq36J0CyioBQYRBy-0BAJgi1FYsfXkanDk8oqDoijQI-xPZje9LgTVcE2EeertCA-twn8&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=RM4d0y3d8JtogNXnECXczw&_nc_ss=7b20f&oh=00_AQMPKW9ljsgFS7lxjHwTeM_mnf8H9C4fhtot4dhAlTg93A&oe=6ADE62DC",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "yln-scout-lead-55",
@@ -61028,7 +62264,11 @@ window.RESTAURANTS = [
     "evidence": "店卡明示：**「平常滿$300即可外送 / 疫情活動 預訂下午茶套組即可外送」**",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "08-732-0800",
-    "address": "屏東市成功路131號之6"
+    "address": "屏東市成功路131號之6",
+    "imageUrl": "https://zisong.tw/assets/shops/pt-scout-lead-26.webp",
+    "imageSource": "https://shop.ichefpos.com/store/oXeXgzFQ/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/38c75a38-87e5-418a-9fe8-5ede71018423/70e62e4a-aeda-11eb-acda-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "pt-scout-lead-27",
@@ -61107,7 +62347,11 @@ window.RESTAURANTS = [
     "evidence": "店卡明示：**「購買350元以上即可外送（2公里內，大樓請下樓取餐，恕無法上樓）」**",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "0919-584-006",
-    "address": "屏東市崇朝路183號"
+    "address": "屏東市崇朝路183號",
+    "imageUrl": "https://zisong.tw/assets/shops/pt-scout-lead-29.webp",
+    "imageSource": "https://shop.ichefpos.com/store/2cp2u-cG/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/4bbe4353-219a-4c94-8617-6dc8870ce491/bb3659f2-0ffb-11f1-9c9d-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "pt-scout-lead-30",
@@ -61160,7 +62404,11 @@ window.RESTAURANTS = [
     "evidence": "店卡明示：**「滿100元」**（外送）",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "0906-892-279",
-    "address": "屏東市勝利路128-10"
+    "address": "屏東市勝利路128-10",
+    "imageUrl": "https://zisong.tw/assets/shops/pt-scout-lead-31.webp",
+    "imageSource": "https://www.recallchildhood.com.tw/",
+    "imageOriginal": "https://www.recallchildhood.com.tw/userfiles/images/20220824014414576.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "pt-scout-lead-32",
@@ -62129,7 +63377,11 @@ window.RESTAURANTS = [
     "evidence": "Mys 表／文明示：**「訂購滿兩份即可外送」**（開幕活動句）",
     "source": "sekainomys.com/hualiencovid-19-food",
     "phone": "0909-010-001",
-    "address": "安鄉福興村福興二街46號"
+    "address": "安鄉福興村福興二街46號",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-16.webp",
+    "imageSource": "https://www.facebook.com/%E9%A6%AC%E5%AA%BD%E5%AA%BD%E7%B7%AC%E5%BC%8F%E6%B6%BC%E9%BA%B5-111254651192819",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/301566002_368049362201385_8199509445905579079_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=X-QMUbJ8AgQQ7kNvwEZvyAw&_nc_oc=AdqbEiy4UVLfysrbVyvOZUOsA2sOEDwhlxvLnWc8B8PdPklpqQMD_L5zLNKuB4Ao2FyDA4_-A-wU4dB2Huf1xbXA&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=R-D-x0B6_KLKKGzXZEanaw&_nc_ss=7b20f&oh=00_AQM4wagiWrciYkELIkBHwclu_znIZgpftgZH8jl9Vgo9Og&oe=6ADE4D07",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-17",
@@ -62182,7 +63434,11 @@ window.RESTAURANTS = [
     "evidence": "FB／情報站摘店卡明示：**「滿300元即可外送(限玉里鎮內)」**",
     "source": "taiwaneast.com 九湯屋花蓮外送 ；FB 九湯屋玉里店",
     "phone": "03-888-0666",
-    "address": "花蓮縣玉里鎮中山路二段59號"
+    "address": "花蓮縣玉里鎮中山路二段59號",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-18.webp",
+    "imageSource": "https://www.cturamen.com.tw/index.html",
+    "imageOriginal": "https://static.iyp.tw/37864/files/3cc2ecc5-3fc5-4c89-a086-f886ed17ee31.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-19",
@@ -62208,7 +63464,11 @@ window.RESTAURANTS = [
     "evidence": "FB 摘句明示：**「防疫期間…提供外送服務兩碗以上可送」**",
     "source": "FB 九湯屋花蓮新城北埔店 ；cturamen.com.tw",
     "phone": "03-826-0909",
-    "address": "花蓮縣新城鄉北埔路224號"
+    "address": "花蓮縣新城鄉北埔路224號",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-19.webp",
+    "imageSource": "https://www.cturamen.com.tw/index.html",
+    "imageOriginal": "https://static.iyp.tw/37864/files/3cc2ecc5-3fc5-4c89-a086-f886ed17ee31.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-21",
@@ -62453,7 +63713,11 @@ window.RESTAURANTS = [
     "hours": "週二～日 10:00－13:00（週一公休；食記—以現場為準）",
     "evidence": "2025 食記明示：**「一次訂36份以上，也可以外送到花蓮市區」**",
     "source": "hsuhsutalk.com/hualien-yijiacun-chicken-bento",
-    "phone": "03-861-1035"
+    "phone": "03-861-1035",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-29.webp",
+    "imageSource": "https://www.facebook.com/100057038816515",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/438900899_955177616393523_6453613674349512456_n.jpg?stp=dst-jpg_tt6&cstp=mx822x810&ctp=s720x720&_nc_cat=103&ccb=1-7&_nc_sid=3ab345&_nc_ohc=SaCykvmcqCQQ7kNvwFwCiNh&_nc_oc=AdqUFX10DX5jseLhZHY6cevcKaNhyNRvO-R8yQL2ICB0UitrjX7n8Ny1nxzdikaLbykKWP1e5XFKx7Uv7-VtOpSg&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=Rr60r1_q0EMDY-K3Pw6NNg&_nc_ss=7b20f&oh=00_AQO4qIfsttC_TnAdykEzkJtNpIQB0eFAcrv0fKKtOpRQ6Q&oe=6ADE475F",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-30",
@@ -62808,7 +64072,11 @@ window.RESTAURANTS = [
     "evidence": "懶人包店卡明示：**「外帶外送滿500元…滿500元免費外送」**（同格另列雙平台—discovery only；**勿用 UE/FP 作 orderUrl**）",
     "source": "tutufoodaholic.tw/covid19-food-togo",
     "phone": "03-835-9527",
-    "address": "花蓮市林森路280號"
+    "address": "花蓮市林森路280號",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-42.webp",
+    "imageSource": "https://shop.ichefpos.com/store/0WMHmXGE/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9e3cc517-130d-4b78-9fc7-2741278840c7/bb1a68ae-d302-11eb-a441-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-43",
@@ -62889,7 +64157,11 @@ window.RESTAURANTS = [
     "evidence": "東華外送整理摘句明示：**「東華校區滿300免運、壽豐火車站附近滿500免運，不足加30」**（Dcard 東華板 2022-06 外送整理；愛呷／lovekhc 複述）",
     "source": "lovekhc 志學外送摘 Dcard ；taiwaneast 東華外送 ；footinder／mygov",
     "phone": "0987-437-083",
-    "address": "花蓮縣壽豐鄉志學村中正路46號1"
+    "address": "花蓮縣壽豐鄉志學村中正路46號1",
+    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-45.webp",
+    "imageSource": "https://shop.ichefpos.com/store/OfLOaGo0/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d62afd59-8bb8-4baf-a7c8-42993c20aae9/bdc4a086-c0e2-11ed-b996-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "hl-scout-lead-46",
@@ -63195,7 +64467,11 @@ window.RESTAURANTS = [
     "evidence": "地方報導明示：**「滿300元市區免費外送！」**（另寫宅配滿2000免運—跨縣宅配非本列自送主證據）",
     "source": "jjmore.com/detailnews.php?id=2323",
     "phone": "0932-661-307",
-    "address": "台東市中興路二段130號"
+    "address": "台東市中興路二段130號",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-4.webp",
+    "imageSource": "https://www.facebook.com/p/%E4%BD%95%E5%AE%B6%E5%82%B3%E7%B5%B1%E6%BB%B7%E5%91%B3-100063737423518",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/330243429_743105760460898_957442309729492255_n.jpg?stp=dst-jpg_tt6&cstp=mx758x758&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=fDFjFM8q4PAQ7kNvwFC__Wp&_nc_oc=Adrh2FQFdYCqqZanMtp7sYV_8ekdiIuBShH1cMn3IOs5mqatDdfS6IXEBXXAIfewQM6fGr3AbDnLsD1UAM_OiKxd&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=QMls1PUU4pbbFbSwmb1ysg&_nc_ss=7b20f&oh=00_AQMyaGGSYOsNnNXkLSwnOKUukfl1-1CZ-DJZkxiDG5sdpw&oe=6ADE68D3",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-5",
@@ -63222,7 +64498,11 @@ window.RESTAURANTS = [
     "evidence": "粉專／彙整頁明示：**「正市區滿150即外送」**／複述 **「市區滿150即外送」**",
     "source": "hotel.twagoda.com/entry/86179626 ；同站 entry/87426710",
     "phone": "089-330798",
-    "address": "台東市正氣路463號(台東高商對面、50"
+    "address": "台東市正氣路463號(台東高商對面、50",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-5.webp",
+    "imageSource": "https://shop.ichefpos.com/store/wycUH1_S/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3f528413-3d1a-4e95-8d5f-917ca23ad68d/66ea177e-ccc3-11eb-9ccc-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-6",
@@ -63278,7 +64558,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/@882hoqtn",
     "lineUrl": "https://line.me/R/ti/p/@882hoqtn",
     "phone": "089-333621",
-    "address": "台東市豐榮路270號"
+    "address": "台東市豐榮路270號",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-7.webp",
+    "imageSource": "https://www.facebook.com/people/%E6%9D%B1%E6%99%A8%E7%B1%B3%E7%B3%95/100057582814161",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/480840236_1098410322088385_4124775088839117129_n.jpg?stp=dst-jpg_tt6&cstp=mx1313x1313&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1Q8Szkk_-5cQ7kNvwEdZvK5&_nc_oc=AdqkMHPn_MXwb6kl7NNlzOODnJgV2i24k5yJjrUPMtXIXdYJijQ4E-UPzY19kz3kPPQ7K5q7hh2Phvokfl0XEeIa&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=eBmqgT4BCDYBqB_4WOoXNA&_nc_ss=7b20f&oh=00_AQMK3hdGoTcMsKDEK58022mo9llq84frVjOiTXSTEWc6fQ&oe=6ADE45D1",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-8",
@@ -63384,7 +64668,11 @@ window.RESTAURANTS = [
     "evidence": "懶人包店卡明示：**「市區滿三百即可免費外送」**",
     "source": "zztaitung.com/19295/take-out",
     "phone": "089-333757",
-    "address": "台東市更生路148巷33號"
+    "address": "台東市更生路148巷33號",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-11.webp",
+    "imageSource": "https://shop.ichefpos.com/store/OMXd0y8k/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7b9acd9c-f347-443b-a9e6-61861c6060d5/a0610044-d5c3-11ec-a792-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-12",
@@ -63550,7 +64838,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://line.me/R/ti/p/%40swl6951w",
     "lineUrl": "https://line.me/R/ti/p/%40swl6951w",
     "phone": "089-362266",
-    "address": "取貨點表列新生路59號/大同路210號/開封街669號"
+    "address": "取貨點表列新生路59號/大同路210號/開封街669號",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-18.webp",
+    "imageSource": "https://www.obamacake.com.tw/",
+    "imageOriginal": "https://shoplineimg.com/62218830ee1735005cc28193/6abb8901d738ba40928419cc/375x.webp?source_format=jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-19",
@@ -63798,7 +65090,11 @@ window.RESTAURANTS = [
     "source": "shop.ichefpos.com/store/Fiz9XnM3/ordering （Chrome dump Reminder）",
     "orderUrl": "https://shop.ichefpos.com/store/Fiz9XnM3/ordering",
     "phone": "089-229971",
-    "address": "台東市四維路三段150號"
+    "address": "台東市四維路三段150號",
+    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-27.webp",
+    "imageSource": "https://shop.ichefpos.com/store/Fiz9XnM3/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ccde2530-e460-4d21-8c58-7463e1e6aff6/907adf08-f74b-11eb-bdc6-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tt-scout-lead-28",
@@ -64329,7 +65625,11 @@ window.RESTAURANTS = [
     "deliveryMinType": "amount",
     "deliveryMinValue": 300,
     "deliveryMinLabel": "滿 $300；大台北地區",
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/daan-new-021.webp",
+    "imageSource": "https://www.truedan.com.tw/product.php",
+    "imageOriginal": "https://www.truedan.com.tw/manager_admin/upload_file/459/16620104591.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "daan-new-022",
@@ -64549,7 +65849,11 @@ window.RESTAURANTS = [
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "imageUrl": "https://zisong.tw/assets/shops/daan-new-030.webp",
+    "imageSource": "https://shop.ichefpos.com/store/wJVVIpRD/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/01dd8e09-1fdd-46bd-a81b-dfd604ebde46/21ee02e0-21f1-11ee-add0-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "siammore-1",
@@ -65462,7 +66766,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-1.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-2",
@@ -65493,7 +66800,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-2.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-3",
@@ -65524,7 +66834,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-3.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-5",
@@ -65555,7 +66868,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-5.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-8",
@@ -65586,7 +66902,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-8.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-9",
@@ -65617,7 +66936,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-9.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-4",
@@ -65648,7 +66970,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-4.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-6",
@@ -65679,7 +67004,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-6.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-7",
@@ -65710,7 +67038,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-7.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-13",
@@ -65741,7 +67072,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-13.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-12",
@@ -65772,7 +67106,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-12.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "eatogether-11",
@@ -65803,7 +67140,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-11.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG%E7%BF%BB%E6%96%B0/%E7%B6%93%E5%85%B8%E5%88%86%E9%A5%97_%E8%B6%85%E5%80%BC%E6%B5%B7%E9%99%B8%E8%87%AA%E7%94%B1%E9%85%8D.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-10",
@@ -65834,7 +67174,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-10.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-8",
@@ -65865,7 +67208,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-8.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-7",
@@ -65896,7 +67242,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-7.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-6",
@@ -65927,7 +67276,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-6.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-5",
@@ -65958,7 +67310,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-5.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-4",
@@ -65989,7 +67344,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-4.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "jinzhu-3",
@@ -66500,7 +67858,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-2.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/%E5%96%AE%E9%BB%9E%E5%9C%96/%E7%87%92%E6%B9%AF%E5%BC%B7%E5%BC%B7%E6%BB%BE/%E7%9C%9F%E7%8F%A0%E5%90%83%E6%A1%8C_%E5%96%AE%E9%81%93%E5%8E%BB%E8%83%8C_EATOGO_%E5%B9%B2%E8%B2%9D%E8%9D%A6%E4%BB%81%E7%B4%85%E7%87%92%E7%BE%B9(%E5%B0%8F)----_320x0280.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-1",
@@ -66531,7 +67892,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-1.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-3",
@@ -66562,7 +67926,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-3.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-4",
@@ -66593,7 +67960,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-4.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-5",
@@ -66624,7 +67994,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-5.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-6",
@@ -66655,7 +68028,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-6.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-7",
@@ -67169,7 +68545,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-10.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-11",
@@ -67200,7 +68579,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-11.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-13",
@@ -67231,7 +68613,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-13.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-14",
@@ -67262,7 +68647,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-14.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-19",
@@ -67293,7 +68681,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-19.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-20",
@@ -67324,7 +68715,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-20.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-22",
@@ -67355,7 +68749,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-22.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-9",
@@ -67386,7 +68783,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-9.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-16",
@@ -67417,7 +68817,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-16.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-18",
@@ -67448,7 +68851,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-18.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-27",
@@ -67479,7 +68885,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-27.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-12",
@@ -67510,7 +68919,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-12.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-15",
@@ -67541,7 +68953,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-15.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-17",
@@ -67572,7 +68987,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-17.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-21",
@@ -67603,7 +69021,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-21.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-40",
@@ -67634,7 +69055,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-40.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-39",
@@ -67665,7 +69089,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-39.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-38",
@@ -67696,7 +69123,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-38.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-37",
@@ -67727,7 +69157,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-37.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-36",
@@ -67758,7 +69191,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-36.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-35",
@@ -67789,7 +69225,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-35.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-34",
@@ -67820,7 +69259,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-34.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-33",
@@ -67851,7 +69293,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-33.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-32",
@@ -67882,7 +69327,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-32.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-30",
@@ -67913,7 +69361,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-30.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-29",
@@ -67944,7 +69395,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-29.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-28",
@@ -67975,7 +69429,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/kaifun-28.webp",
+    "imageSource": "https://kaifun.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/kf/2026%E7%A7%8B%E5%AD%A3_%E4%BE%BF%E7%95%B6/%E9%96%8B%E9%A3%AF%E4%BE%BF%E7%95%B6_320_%E8%BE%9B%E9%A6%99%E4%B8%8B%E9%A3%AF%E9%A4%90%E7%9B%92-fotor-20260922171534-1.png",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kaifun-26",
@@ -68460,7 +69917,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/fruitfulfood-11.webp",
+    "imageSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/guo/fruitfulfood/%E6%98%8E%E6%98%9F%E8%87%AA%E7%94%B1%E9%85%8D-1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "fruitfulfood-8",
@@ -68491,7 +69951,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/fruitfulfood-8.webp",
+    "imageSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/guo/fruitfulfood/%E6%98%8E%E6%98%9F%E8%87%AA%E7%94%B1%E9%85%8D-1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "fruitfulfood-14",
@@ -68522,7 +69985,10 @@ window.RESTAURANTS = [
     "chain": true,
     "featured": false,
     "origin": "eatogo-scout",
-    "imageUrl": null
+    "imageUrl": "https://zisong.tw/assets/shops/fruitfulfood-14.webp",
+    "imageSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/guo/fruitfulfood/%E6%98%8E%E6%98%9F%E8%87%AA%E7%94%B1%E9%85%8D-1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "fruitfulfood-13",
@@ -69264,7 +70730,11 @@ window.RESTAURANTS = [
     "source": "clairehsaun; dinbendon shop=566693",
     "address": "圓通路8號",
     "phone": "02-8245-6075",
-    "hours": "10:30–14:30, 16:30–20:00（週六公休）"
+    "hours": "10:30–14:30, 16:30–20:00（週六公休）",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-20260928-001.webp",
+    "imageSource": "https://www.facebook.com/people/%E4%B8%B8%E4%BA%8C%E9%A3%9F%E5%A0%82/100083250426558",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/593303247_829398993178441_7505604432423152347_n.jpg?stp=dst-jpg_tt6&cstp=mx770x770&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=fNHWHuxCk64Q7kNvwHIc5wl&_nc_oc=AdpBmY8spLsrOyrg56fgXY8L5RQbVDRNhkpGICdpnD4fT_TUzQvl2qvmRkrr_fY7tncBwUdR9FyxpEt66SzNEr_u&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=5Cjsp6wzA94b064rem23SQ&_nc_ss=7b20f&oh=00_AQM-CCIV70Lxx7m-C7MB4t2qz7MIgmq_DH-laoSwcJOwjw&oe=6ADE74E3",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-freeze-20260928-002",
@@ -69294,7 +70764,11 @@ window.RESTAURANTS = [
     "phone": "0986-997-079",
     "hours": "10:30–21:00",
     "orderUrl": "https://lin.ee/kEqnjKX",
-    "lineUrl": "https://lin.ee/kEqnjKX"
+    "lineUrl": "https://lin.ee/kEqnjKX",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-20260928-002.webp",
+    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-freeze-20260928-003",
@@ -69551,7 +71025,11 @@ window.RESTAURANTS = [
     "hours": "門市時段以悟饕官網／電洽為準",
     "orderUrl": "https://dinbendon.net/do/idine?shop=603210",
     "freeDeliveryThreshold": null,
-    "deliveryFee": null
+    "deliveryFee": null,
+    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-b2-20260928-004.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6jRJw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-freeze-b2-20260928-005",
@@ -69693,7 +71171,11 @@ window.RESTAURANTS = [
     "orderUrl": "https://dinbendon.net/do/idine?shop=90818",
     "lineUrl": "https://page.line.me/lyr3739t",
     "freeDeliveryThreshold": null,
-    "deliveryFee": null
+    "deliveryFee": null,
+    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-b2-20260928-010.webp",
+    "imageSource": "https://order.ocard.co/toymodel/w6jRJw",
+    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/f386a41d3074776e0abce47b8587bdf1.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "nt-freeze-b3-20260929-001",
@@ -70066,7 +71548,11 @@ window.RESTAURANTS = [
     "address": "台中市西區五權西三街105號",
     "phone": "04-2377-0299",
     "hours": "Mon - Tue, Thu - Sun\", \"11:30 AM - 10:30 PM",
-    "orderUrl": "https://potala.oddle.me"
+    "orderUrl": "https://potala.oddle.me",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-freeze-ch-20260929-007.webp",
+    "imageSource": "https://potala.oddle.me/zh_TW",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/3ab890.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-freeze-ch-20260929-008",
@@ -70201,7 +71687,11 @@ window.RESTAURANTS = [
     "address": "台中市西屯區西屯路二段269-16號",
     "phone": "04-2452-8878",
     "hours": "UNKNOWN",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=313804"
+    "orderUrl": "https://dinbendon.net/do/idine?shop=313804",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-freeze-ch-20260929-012.webp",
+    "imageSource": "https://www.facebook.com/uuc2781y",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/299558667_450689963739765_1013653348094531496_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=O7JPHD_k8HIQ7kNvwGb_jj7&_nc_oc=AdqHa2aryisegmEhlj9uhztAuMUl9JgpnMSE3JuNy2D52khGFesgBpWqCWq35iYbQn1HCreHc0XzhZ95_t3YuE3p&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=SKiXsPwpTn2eNvFh0s4CZQ&_nc_ss=7b20f&oh=00_AQONpSds21-K49ytRR7meZLfyTZ6Qq2L7rKaMPYu0DMB5g&oe=6ADE5F97",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-freeze-ch-20260929-013",
@@ -70498,7 +71988,11 @@ window.RESTAURANTS = [
     "address": "台中市霧峰區樹仁路38號",
     "phone": "04-2333-8828",
     "hours": "UNKNOWN",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=323455"
+    "orderUrl": "https://dinbendon.net/do/idine?shop=323455",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-freeze-ch-20260929-023.webp",
+    "imageSource": "https://www.facebook.com/people/%E5%90%89%E9%87%8E%E7%83%A4%E8%82%89%E9%A3%AF%E9%9C%A7%E5%B3%B0%E5%BA%97/100063597472614",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/360156246_757812639681978_3993025499357779025_n.jpg?stp=dst-jpg_tt6&cstp=mx958x959&ctp=s720x720&_nc_cat=102&ccb=1-7&_nc_sid=3ab345&_nc_ohc=WlQzgEC0-h4Q7kNvwGRIUdt&_nc_oc=AdonY20lMkSh3IGcK5e_1uor4DKjID9Z7LDXtzwLxsXd9HsF7eZEwqYAz-_rspH0R0utD_LYry-5brnjM4o3_oSt&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=pbbj5nhssh6O_KjzrPAq_w&_nc_ss=7b20f&oh=00_AQPQUlPf3s2Ze2yLlq4K351fbannGblTXqy08QMBsjAKMw&oe=6ADE57EC",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "tc-freeze-ch-20260929-024",
@@ -70744,7 +72238,11 @@ window.RESTAURANTS = [
     "address": "高雄市苓雅區成功路一段215號",
     "phone": "07-2693591",
     "hours": "UNKNOWN",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=291487"
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=291487",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-freeze-ch-20260929-008.webp",
+    "imageSource": "https://www.facebook.com/Shen13931",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300578986_530334818893257_5676667348188618743_n.jpg?stp=dst-jpg_tt6&cstp=mx1037x1037&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=BKsu-q4wuZUQ7kNvwHYhYLB&_nc_oc=Ado36PKagzAwhsBWVQcRQ_qov_TOqOmaEHIKJGIqq4s1eIyl1JgENKMtXh9UWGk5suQsc6dECNIwm4DuFye3Z6KZ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=04m9RHHcmu7Bb4M-KQf2CA&_nc_ss=7b20f&oh=00_AQNpULz7XAniqBM1l8C7vduONahOwLzxY96d7GpQXBxNDg&oe=6ADE7009",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-freeze-ch-20260929-009",
@@ -71014,7 +72512,11 @@ window.RESTAURANTS = [
     "address": "高雄市左營區裕誠路165號",
     "phone": "07-5583150",
     "hours": "UNKNOWN",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=140231"
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=140231",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-freeze-ch-20260929-019.webp",
+    "imageSource": "https://www.mmjd.com.tw/",
+    "imageOriginal": "https://ufileweb.hiwinner.tw/HiperShop/rwd1630/Store/Ownimage/photo_NEWS_PIC7.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "kh-freeze-ch-20260929-020",
@@ -72710,7 +74212,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=115931"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-20261002-010.webp",
+    "imageSource": "https://www.facebook.com/shixiangpasta",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/360086425_658093976338627_4248203297271158070_n.jpg?stp=dst-jpg_tt6&cstp=mx570x460&ctp=s570x460&_nc_cat=105&ccb=1-7&_nc_sid=3ab345&_nc_ohc=CGL4V48kjkMQ7kNvwGApG4w&_nc_oc=AdoQvJo72UhpW2g6xcK9kQlDb5ZWC5-0_14K8G_Tr-IL4Bf0pRXK9TrhUxXj4FeFdGBzOpHcXPuKE8v08_LL7ocZ&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=eFqOjobA8Bme_XcpchgjXg&_nc_ss=7b20f&oh=00_AQNy7t-kUZCt3fqy8jHS-YkCw2R0Oxt-6iKOIzk5hKZpOA&oe=6ADE5937",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-20261002-011",
@@ -75433,7 +76939,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=645800"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-20261002-034.webp",
+    "imageSource": "https://shop.ichefpos.com/store/H6NXM03B/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/899e91d4-4c38-4e79-9f57-3eb55d7c4e4e/5404e2da-38fc-11ef-8203-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-20261002-035",
@@ -76606,7 +78116,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=405057"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-20261002-043.webp",
+    "imageSource": "https://shop.ichefpos.com/store/CUxSR8ij/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/a0fef08d-3aeb-4627-91b6-13c9b1986f7b/b750082e-2ffa-11eb-bf55-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-20261002-044",
@@ -76900,7 +78414,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=537466"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-20261002-046.webp",
+    "imageSource": "https://shop.ichefpos.com/store/rwYWRaq2/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/56b1c9dc-a185-438e-b2c3-315378f7006f/2824e242-66f0-11ef-bb59-0242ac110004.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-20261002-047",
@@ -79953,7 +81471,11 @@ window.RESTAURANTS = [
     "phone": null,
     "hours": "UNKNOWN",
     "orderUrl": "https://lin.ee/hnzacdky",
-    "lineUrl": "https://lin.ee/hnzacdky"
+    "lineUrl": "https://lin.ee/hnzacdky",
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-025.webp",
+    "imageSource": "https://www.facebook.com/61574420990284",
+    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/488353139_122107538252814033_7335197752958978604_n.jpg?stp=dst-jpg_tt6&cstp=mx1179x1179&ctp=s720x720&_nc_cat=108&ccb=1-7&_nc_sid=3ab345&_nc_ohc=y8R-HKFPpIkQ7kNvwG2oK0u&_nc_oc=AdrlIozsKIO498_dKiwCPmVQWzoEm7WNAr2zM2iEVEH7Bjn4NRjyPBx330KZkgLVH5HxuhIv_HQS_Q-Tcc5nUOzq&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=49MAhLkKVTt-2y_4Xky5mg&_nc_ss=7b20f&oh=00_AQPWf2JoXTAFJBGQb9kkt_JkyXX36KEkotJmbU0CDSmfSQ&oe=6ADE7B31",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-026",
@@ -80460,7 +81982,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=394890"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-029.webp",
+    "imageSource": "https://shop.ichefpos.com/store/OMXd0y8k/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7b9acd9c-f347-443b-a9e6-61861c6060d5/a0610044-d5c3-11ec-a792-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-031",
@@ -80727,7 +82253,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=489734"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-032.webp",
+    "imageSource": "https://rencha.tw/",
+    "imageOriginal": "https://rencha.tw/wp-content/uploads/elementor/thumbs/DSCF6944-scaled-e1741666196545-r2u639fyl1dt7pasi0wu6l9hazob19sf86y3nonh7o.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-033",
@@ -81628,7 +83158,11 @@ window.RESTAURANTS = [
         }
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=392297"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-039.webp",
+    "imageSource": "https://www.nicenine99.com/",
+    "imageOriginal": "https://www.nicenine99.com/wp-content/uploads/2024/06/60fe1e0db70ad.jpg",
+    "imageCheckedAt": "2026-10-21"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-040",
