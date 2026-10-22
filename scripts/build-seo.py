@@ -4,10 +4,17 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 from urllib.parse import quote
+
+_HERE = Path(__file__).resolve().parent
+for _p in (_HERE, _HERE / "scripts"):
+    if str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+from reader_text import public_hours  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://wwwwxxw.github.io/zison-taipei"
@@ -415,8 +422,9 @@ def card_html(r: dict, prefix: str = "../") -> str:
         parts.append(f'<p class="cuisine-line">{escape_html(r["cuisine"])}</p>')
     if r.get("address"):
         parts.append(f'<p class="addr">{escape_html(r["address"])}</p>')
-    if r.get("hours"):
-        parts.append(f'<p class="hours">時段：{escape_html(r["hours"])}</p>')
+    hours = public_hours(r.get("hours"))
+    if hours:
+        parts.append(f'<p class="hours">時段：{escape_html(hours)}</p>')
     parts.append(f'<div class="actions">{"".join(actions)}</div></article>')
     return "".join(parts)
 
