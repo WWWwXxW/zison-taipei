@@ -4,8 +4,14 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 import re
 from pathlib import Path
+_HERE = Path(__file__).resolve().parent
+for _p in (_HERE, _HERE / "scripts"):
+    if str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+from reader_text import sanitize_records
 
 NUM = r'(?:\d{1,3}(?:,\d{3})+|\d+)'
 
@@ -145,29 +151,7 @@ def extract_amount_min(blob: str):
 
 
 def extract_free_only(r: dict, blob: str):
-    ft = r.get('freeDeliveryThreshold')
-    if isinstance(ft, (int, float)) and not isinstance(ft, bool) and ft == int(ft) and int(ft) > 0:
-        n = int(ft)
-        return {
-            'deliveryMinType': 'amount',
-            'deliveryMinValue': n,
-            'deliveryMinLabel': f'滿 ${n} 免運',
-        }
-    nums = []
-    for m in re.finditer(rf'(?<!未)滿\s*(?:NT\$|\$)?\s*({NUM})\s*(?:元)?\s*(?:免運|免外送費)', blob):
-        try:
-            n = parse_num(m.group(1))
-        except ValueError:
-            continue
-        if 0 < n <= 100000:
-            nums.append(n)
-    if nums:
-        n = min(nums)
-        return {
-            'deliveryMinType': 'amount',
-            'deliveryMinValue': n,
-            'deliveryMinLabel': f'滿 ${n} 免運',
-        }
+    """免運門檻 stays secondary text in terms. Never copied into the 起送 field."""
     return None
 
 
@@ -200,6 +184,7 @@ def backfill(path: Path) -> tuple[list, list]:
         r['deliveryMinLabel'] = fields['deliveryMinLabel']
         if r['deliveryMinLabel']:
             labeled.append(r)
+    data = sanitize_records(data)
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write('\n')
