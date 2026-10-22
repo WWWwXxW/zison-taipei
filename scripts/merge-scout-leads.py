@@ -3,11 +3,17 @@
 from __future__ import annotations
 
 import json
+import sys
 import re
 import unicodedata
 from collections import Counter
 from datetime import date
 from pathlib import Path
+_HERE = Path(__file__).resolve().parent
+for _p in (_HERE, _HERE / "scripts"):
+    if str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+from reader_text import sanitize_records
 from urllib.parse import urlparse, urlunparse
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -457,7 +463,7 @@ def main() -> None:
             if bh:
                 brand_hosts.add(bh)
 
-    merged = existing + added
+    merged = sanitize_records(existing + added)
     (ROOT / "restaurants.json").write_text(
         json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )

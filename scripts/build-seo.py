@@ -4,10 +4,17 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 from urllib.parse import quote
+
+_HERE = Path(__file__).resolve().parent
+for _p in (_HERE, _HERE / "scripts"):
+    if str(_p) not in sys.path:
+        sys.path.insert(0, str(_p))
+from reader_text import public_hours  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://wwwwxxw.github.io/zison-taipei"
@@ -418,8 +425,9 @@ def card_html(r: dict, prefix: str = "../") -> str:
         parts.append(f'<p class="cuisine-line">{escape_html(r["cuisine"])}</p>')
     if r.get("address"):
         parts.append(f'<p class="addr">{escape_html(r["address"])}</p>')
-    if r.get("hours"):
-        parts.append(f'<p class="hours">時段：{escape_html(r["hours"])}</p>')
+    hours = public_hours(r.get("hours"))
+    if hours:
+        parts.append(f'<p class="hours">時段：{escape_html(hours)}</p>')
     parts.append(f'<div class="actions">{"".join(actions)}</div></article>')
     return "".join(parts)
 
@@ -533,7 +541,7 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
   <footer class="site-footer">
     <div class="inner">
       <p>© 自送 — 免費公開目錄。訂單與配送請直接與餐廳聯繫。</p>
-      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a></p>
+      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a> · <a href="../privacy.html">隱私權政策</a></p>
     </div>
   </footer>
 </body>
@@ -609,7 +617,7 @@ def cuisine_page(slug: str, label: str, items: list[dict], all_cuisine_counts: l
   <footer class="site-footer">
     <div class="inner">
       <p>© 自送 — 免費公開目錄。訂單與配送請直接與餐廳聯繫。</p>
-      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a></p>
+      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a> · <a href="../privacy.html">隱私權政策</a></p>
     </div>
   </footer>
 </body>
@@ -622,6 +630,7 @@ def build_sitemap(district_slugs: list[str], cuisine_slugs: list[str]) -> str:
         ("/", 1.0, "weekly"),
         ("/index.html", 1.0, "weekly"),
         ("/about.html", 0.5, "monthly"),
+        ("/privacy.html", 0.3, "yearly"),
     ]
     for s in district_slugs:
         urls.append((f"/district/{s}.html", 0.8, "weekly"))

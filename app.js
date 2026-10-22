@@ -33,6 +33,120 @@
       .replace(/"/g, '&quot;');
   }
 
+  var TERM_LABELS = [
+    ['Delivery fee (min listed)', '最低運費', false],
+    ['Delivery fee max listed', '最高運費', false],
+    ['Free-delivery threshold', '免運門檻', true],
+    ['Minimum / shipping', '起送', false],
+    ['Minimum order', '起送', false],
+    ['Delivery fee', '運費', false],
+    ['LINE ID', 'LINE ID', false],
+    ['LINE', 'LINE', false],
+    ['Range', '外送範圍', false]
+  ];
+
+  function blankish(value) {
+    var s = String(value == null ? '' : value).trim().replace(/^[；;。．]+|[；;。．]+$/g, '');
+    return !s || /^(unknown|n\/a|na|todo|null|none|undefined|-+|—+)$/i.test(s);
+  }
+
+  function formatAmount(raw) {
+    if (!/^\d+(?:\.\d+)?$/.test(raw)) return '';
+    var n = Number(raw);
+    if (!isFinite(n)) return '';
+    if (Math.round(n) === n) return 'NT$' + Math.round(n).toLocaleString('en-US');
+    return 'NT$' + String(n);
+  }
+
+  function distanceKey(key) {
+    var known = { within500m: '500公尺內', within1km: '1公里內', within2km: '2公里內' };
+    if (known[key]) return known[key];
+    var m = /^within(\d+)(m|km)$/.exec(key);
+    if (!m) return '';
+    return m[2] === 'm' ? (m[1] + '公尺內') : (m[1] + '公里內');
+  }
+
+  function formatThreshold(raw) {
+    var text = String(raw || '').trim();
+    if (blankish(text)) return '';
+    var amount = formatAmount(text);
+    if (amount) return amount;
+    if (text.charAt(0) === '{' && text.charAt(text.length - 1) === '}') {
+      try {
+        var obj = JSON.parse(text);
+        var parts = [];
+        Object.keys(obj).forEach(function (key) {
+          var label = distanceKey(key);
+          var val = obj[key];
+          if (!label || typeof val !== 'number') return;
+          var shown = Math.round(val) === val ? Math.round(val) : val;
+          parts.push(label + ' NT$' + (typeof shown === 'number' && Math.round(shown) === shown ? shown.toLocaleString('en-US') : shown));
+        });
+        return parts.join('、');
+      } catch (e) { /* keep the original text below */ }
+    }
+    if (/unknown/i.test(text)) {
+      text = text.replace(/\bUNKNOWN\b/gi, '未公開').replace(/^[；;\s]+|[；;\s]+$/g, '');
+      if (blankish(text) || text === '未公開') return '';
+    }
+    return text;
+  }
+
+  function readerProse(text) {
+    if (text == null) return '';
+    var t = String(text).replace(/\*\*/g, '');
+    t = t.replace(/\bUNKNOWN\b/gi, '未公開');
+    t = t.replace(/\bbrand URL\b/gi, '品牌網址');
+    t = t.replace(/deliveryCreatable:\s*true、?/gi, '');
+    t = t.replace(/QA pass:\s*food-order\s*\+\s*Delivery/gi, '確認為外送訂餐頁');
+    t = t.replace(/\s*→\s*medium\b/g, '');
+    t = t.replace(/[ \t]{2,}/g, ' ').replace(/；{2,}/g, '；').replace(/^[；;\s]+|[；;\s]+$/g, '');
+    if (blankish(t) || t === '未公開') return '';
+    return t;
+  }
+
+  /** Internal terms template → Traditional Chinese. UNKNOWN segments are omitted.
+      免運門檻 stays in this summary string and is never returned as a badge. */
+  function readerTerms(text) {
+    var raw = String(text == null ? '' : text).trim();
+    if (!raw) return '';
+    var labelRe = /(?:^|[；;])\s*(Delivery fee \(min listed\)|Delivery fee max listed|Free-delivery threshold|Minimum \/ shipping|Minimum order|Delivery fee|LINE ID|LINE|Range)\s*:\s*/g;
+    var matches = [];
+    var m;
+    while ((m = labelRe.exec(raw))) matches.push({ label: m[1], start: m.index, end: labelRe.lastIndex });
+    if (!matches.length) return readerProse(raw);
+    var zh = {};
+    TERM_LABELS.forEach(function (row) { zh[row[0]] = { name: row[1], secondary: row[2] }; });
+    var primary = [], secondary = [], tail = [];
+    matches.forEach(function (hit, i) {
+      var end = i + 1 < matches.length ? matches[i + 1].start : raw.length;
+      var value = raw.slice(hit.end, end).replace(/[；;]\s*$/, '').trim();
+      var meta = zh[hit.label];
+      if (!meta) return;
+      var shown = '';
+      if (hit.label === 'Free-delivery threshold') shown = formatThreshold(value);
+      else if (hit.label === 'Delivery fee') shown = formatAmount(value) || (blankish(value) ? '' : readerProse(value));
+      else shown = blankish(value) ? '' : readerProse(value);
+      if (!shown) return;
+      var piece = meta.name + '：' + shown;
+      if (hit.label === 'LINE' || hit.label === 'LINE ID') tail.push(piece);
+      else if (meta.secondary) secondary.push(piece);
+      else primary.push(piece);
+    });
+    return primary.concat(secondary, tail).join('；');
+  }
+
+  function readerHours(text) {
+    var t = String(text == null ? '' : text).trim().replace(/^hours\s+/i, '');
+    if (blankish(t)) return '';
+    t = readerProse(t);
+    if (!t || t === '未公開') {
+      if (/unknown/i.test(String(text)) && text.indexOf('（') === -1 && text.indexOf('(') === -1) return '';
+    }
+    if (t === '未公開') return '';
+    return t;
+  }
+
   function encodeDistrictValue(city, district) {
     if (!district) return '';
     if (AMBIGUOUS_DISTRICTS[district] && city) return city + '|' + district;
@@ -290,8 +404,8 @@
           '<h2><a href="shop/' + encodeURIComponent(r.id) + '.html">' + escapeHtml(r.name) + '</a></h2>' +
           channelChips(r) +
           (r.cuisine ? '<p class="cuisine-line">' + escapeHtml(r.cuisine) + '</p>' : '') +
-          (r.address ? '<p class="addr">' + escapeHtml(r.address) + '</p>' : '') +
-          (r.hours ? '<p class="hours">時段：' + escapeHtml(r.hours) + '</p>' : '') +
+          (function () { var addr = readerProse(r.address); return addr ? ('<p class="addr">' + escapeHtml(addr) + '</p>') : ''; })() +
+          (function () { var hs = readerHours(r.hours); return hs ? ('<p class="hours">時段：' + escapeHtml(hs) + '</p>') : ''; })() +
           (function () { var dc = deliveryChips(r).join(''); return dc ? ('<div class="delivery-conditions" aria-label="外送條件">' + dc + '</div>') : ''; })() +
           '<div class="actions">' + actions.join('') + '</div>' +
         '</div>' +
@@ -715,7 +829,7 @@
           row('料理類型', r.cuisine) +
           row('縣市', r.city) +
           (isCitywide(r) ? row('門市', '多分店・依地址分配門市') : row('行政區', r.district)) +
-          row('地址', r.address) +
+          row('地址', readerProse(r.address) || null) +
           row('起送', (r.deliveryTerms && r.deliveryTerms.minOrder) || null) +
           row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
           row('結單', (r.deliveryTerms && r.deliveryTerms.cutoff) || null) +
@@ -724,18 +838,13 @@
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
           row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
-          row('營業時間', (function () {
-            if (r.hours == null) return null;
-            var hs = String(r.hours).trim();
-            if (!hs || hs.toUpperCase() === 'UNKNOWN' || hs === '未知') return null;
-            return hs;
-          })()) +
-          row('配送範圍說明', r.range) +
+          row('營業時間', readerHours(r.hours) || null) +
+          row('配送範圍說明', readerProse(r.range) || null) +
           row('免運門檻（參考）', freeText || null) +
           row('最後核對', r.checkedAt) +
-          row('外送條件備註', r.deliveryNotes) +
-          row('說明／條件摘要', r.terms) +
-          row('收錄依據摘要', r.evidence) +
+          row('外送條件備註', readerProse(r.deliveryNotes) || null) +
+          row('說明／條件摘要', readerTerms(r.terms) || null) +
+          row('收錄依據摘要', readerProse(r.evidence) || null) +
         '</dl>' +
         detailMenuHtml(r) +
       '</div>';
