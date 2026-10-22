@@ -3141,7 +3141,7 @@
     "id": "scout-b1-16",
     "slug": "ruikee-瑞記海南雞飯",
     "name": "Ruikee 瑞記海南雞飯",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "海南雞",
     "cuisineTags": [
       "海南雞"
@@ -3161,13 +3161,15 @@
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-16.webp",
     "imageSource": "https://ruikee.tw/",
     "imageOriginal": "https://ruikee.tw/_assets/media/f97f9ef2fb78ba53e852cc6e27ffed54.jpg",
-    "imageCheckedAt": "2026-10-21"
+    "imageCheckedAt": "2026-10-21",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b1-17",
     "slug": "必勝客-pizza-hut",
     "name": "必勝客 Pizza Hut",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "Pizza",
     "cuisineTags": [
       "Pizza"
@@ -3184,13 +3186,15 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://image.pizzahut.com.tw/dynamic/ad/71f49ef547e1c32f11afce56cc75315d.jpg"
+    "imageUrl": "https://image.pizzahut.com.tw/dynamic/ad/71f49ef547e1c32f11afce56cc75315d.jpg",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b1-18",
     "slug": "達美樂-domino-s",
     "name": "達美樂 Domino's",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "Pizza",
     "cuisineTags": [
       "Pizza"
@@ -3206,13 +3210,15 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b1-19",
     "slug": "肯德基-kfc",
     "name": "肯德基 KFC",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "炸雞",
     "cuisineTags": [
       "炸雞"
@@ -3228,13 +3234,15 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b1-20",
     "slug": "德克士-dicos",
     "name": "德克士 Dicos",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "炸雞",
     "cuisineTags": [
       "炸雞"
@@ -3250,7 +3258,9 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b1-21",
@@ -3500,7 +3510,7 @@
     "id": "scout-b1-34",
     "slug": "麥當勞歡樂送",
     "name": "麥當勞歡樂送",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "速食",
     "cuisineTags": [
       "速食"
@@ -3516,7 +3526,9 @@
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
-    "city": "台北市"
+    "city": "台北市",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b2-35",
@@ -4099,7 +4111,7 @@
     "id": "scout-b3-61",
     "slug": "bonjour-朋廚烘焙坊",
     "name": "Bonjour 朋廚烘焙坊",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "烘焙／會議餐盒",
     "cuisineTags": [
       "烘焙",
@@ -4119,7 +4131,9 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Bonjourbdfeeb.jpg"
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Bonjourbdfeeb.jpg",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b3-62",
@@ -4204,7 +4218,7 @@
     "id": "scout-b3-65",
     "slug": "馬友友印度廚房-mayur",
     "name": "馬友友印度廚房 Mayur",
-    "district": "台北多區",
+    "district": "信義區",
     "cuisine": "印度菜",
     "cuisineTags": [
       "印度菜"
@@ -4216,7 +4230,7 @@
     "hours": "基隆路例：午約 12:00–15:00／晚 17:30–21:00",
     "orderUrl": "https://mayurindiankitchen.oddle.me/zh_TW/stores",
     "phone": "02-2720-0011",
-    "address": "信義基隆路一段350-7號",
+    "address": "台北市信義區基隆路一段350-7號",
     "evidence": "Official Oddle delivery & pickup",
     "source": "mayurindiankitchen.oddle.me",
     "deliveryMinType": null,
@@ -4229,7 +4243,7 @@
     "id": "scout-b3-66",
     "slug": "餵-way",
     "name": "餵 way",
-    "district": "台北多區",
+    "district": "中正區",
     "cuisine": "健康餐盒",
     "cuisineTags": [
       "健康餐盒"
@@ -4241,7 +4255,7 @@
     "hours": "辛亥約 11:30–18:30／外送至約 19:30",
     "orderUrl": "https://wayway.oddle.me/zh_TW/stores",
     "phone": "02-2367-5016",
-    "address": "辛亥路一段1號",
+    "address": "台北市中正區辛亥路一段1號",
     "evidence": "Official Oddle 外帶外送",
     "source": "wayway.oddle.me",
     "deliveryMinType": null,
@@ -4790,7 +4804,7 @@
     "id": "scout-b4-87",
     "slug": "太朗飯糰-taro-onigiri",
     "name": "太朗飯糰 TARO ONIGIRI",
-    "district": "台北多區",
+    "district": "士林區",
     "cuisine": "沖繩飯糰",
     "cuisineTags": [
       "沖繩飯糰"
@@ -4802,7 +4816,7 @@
     "hours": "士林創始約 07:30–20:00（外送約至 19:30）",
     "orderUrl": "https://taroonigiri.oddle.me/zh_TW/stores",
     "phone": "02-2832-0117",
-    "address": "士林中正路296號",
+    "address": "台北市士林區中正路296號",
     "evidence": "Official Oddle 外帶外送（多門市）",
     "source": "taroonigiri.oddle.me",
     "deliveryMinType": null,
@@ -5157,7 +5171,7 @@
     "id": "scout-b4-101",
     "slug": "非常泰",
     "name": "非常泰",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "泰式",
     "cuisineTags": [
       "泰式"
@@ -5174,13 +5188,15 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Yellowcurrychickenda8105_1595226338515.jpg"
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Yellowcurrychickenda8105_1595226338515.jpg",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b4-102",
     "slug": "1010湘",
     "name": "1010湘",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "湘菜／湖南菜",
     "cuisineTags": [
       "湘菜",
@@ -5198,13 +5214,15 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/a41024.jpg"
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/a41024.jpg",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b4-103",
     "slug": "時時香",
     "name": "時時香",
-    "district": "台北多區",
+    "district": "",
     "cuisine": "中式飯館／合菜",
     "cuisineTags": [
       "中式飯館",
@@ -5222,7 +5240,9 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ChickensoupwithClamspeeledchilipeppers71f67c_1592545982597_1686998329505.jpg"
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ChickensoupwithClamspeeledchilipeppers71f67c_1592545982597_1686998329505.jpg",
+    "multiArea": true,
+    "serviceDistricts": "all"
   },
   {
     "id": "scout-b5-104",
@@ -66084,7 +66104,7 @@
     ],
     "phone": "02-3707-6968",
     "orderUrl": "https://taroonigiri.oddle.me/zh_TW/stores",
-    "evidence": "Oddle stores：太朗飯糰（大安店）10685台北市大安區大安路一段236號；標題為外帶外送線上訂餐。既有為台北多區／士林地址。",
+    "evidence": "Oddle stores：太朗飯糰（大安店）10685台北市大安區大安路一段236號；標題為外帶外送線上訂餐。創始店為台北市士林區中正路296號（另列）。",
     "source": "taroonigiri.oddle.me",
     "checkedAt": "2026-09-24",
     "chain": true,
