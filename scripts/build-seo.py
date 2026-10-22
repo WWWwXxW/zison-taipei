@@ -477,6 +477,8 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
 <html lang="zh-Hant">
 <head>
   <meta charset="utf-8" />
+  <meta name="google-adsense-account" content="ca-pub-1277341561644861">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1277341561644861" crossorigin="anonymous"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{escape_html(desc)}" />
   <link rel="canonical" href="{BASE}/district/{slug}.html" />
@@ -551,6 +553,8 @@ def cuisine_page(slug: str, label: str, items: list[dict], all_cuisine_counts: l
 <html lang="zh-Hant">
 <head>
   <meta charset="utf-8" />
+  <meta name="google-adsense-account" content="ca-pub-1277341561644861">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1277341561644861" crossorigin="anonymous"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{escape_html(desc)}" />
   <link rel="canonical" href="{BASE}/cuisine/{slug}.html" />
