@@ -318,7 +318,7 @@ CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "
 
 # District → city (same partitions as DISTRICTS list above)
 _DISTRICT_CITY_PARTS = [
-    (["中正區", "大同區", "中山區", "松山區", "大安區", "萬華區", "信義區", "士林區", "北投區", "內湖區", "南港區", "文山區", "台北多區"], "台北市"),
+    (["中正區", "大同區", "中山區", "松山區", "大安區", "萬華區", "信義區", "士林區", "北投區", "內湖區", "南港區", "文山區"], "台北市"),
     (["板橋區", "中和區", "永和區", "新莊區", "三重區", "蘆洲區", "土城區", "樹林區", "淡水區", "林口區", "汐止區", "新店區", "八里區", "深坑區", "三峽區", "五股區", "鶯歌區", "瑞芳區", "金山區", "三芝區", "石門區", "坪林區", "貢寮區", "萬里區", "雙溪區", "平溪區", "烏來區", "石碇區", "泰山區", "新北多區"], "新北市"),
     (["中區", "東區", "南區", "西區", "北區", "北屯區", "西屯區", "南屯區", "太平區", "大里區", "霧峰區", "烏日區", "豐原區", "后里區", "石岡區", "東勢區", "和平區", "新社區", "潭子區", "大雅區", "神岡區", "大肚區", "沙鹿區", "龍井區", "梧棲區", "清水區", "大甲區", "外埔區", "台中大安區", "台中多區"], "台中市"),
     (["三民區", "鳳山區", "左營區", "苓雅區", "新興區", "楠梓區", "前鎮區", "鼓山區", "小港區", "仁武區", "前金區", "鹽埕區", "岡山區", "路竹區", "大社區", "彌陀區", "旗山區", "旗津區", "鳥松區", "林園區", "湖內區", "茄萣區", "橋頭區", "燕巢區", "梓官區", "大寮區", "大樹區", "美濃區", "高雄多區"], "高雄市"),
@@ -393,7 +393,10 @@ def card_html(r: dict, prefix: str = "../") -> str:
     badges = []
     district = r.get("district") or ""
     city = r.get("city") or ""
-    if district:
+    citywide = bool(r.get("multiArea") or r.get("serviceDistricts") == "all")
+    if citywide:
+        badges.append('<span class="place-note muted">多分店・依地址分配門市</span>')
+    elif district:
         badges.append(f'<span class="badge district">{escape_html(district)}</span>')
     if city:
         badges.append(f'<span class="badge city">{escape_html(city)}</span>')
@@ -673,9 +676,11 @@ def update_index(
     # Live counts: city → district → n
     live: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     for r in data:
+        if r.get("multiArea") or r.get("serviceDistricts") == "all":
+            continue
         c = (r.get("city") or "").strip()
         d = (r.get("district") or "").strip()
-        if c and d:
+        if c and d and d != "台北多區":
             live[c][d] += 1
 
     city_keys = [c for c in CITY_ORDER if c in live]

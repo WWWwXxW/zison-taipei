@@ -403,6 +403,29 @@ img { max-width: 100%; }
   border-color: #cfe8d6;
 }
 
+.place-note {
+  font-size: 12px;
+  font-weight: 500;
+  color: #9a7f66;
+  line-height: 1.4;
+}
+
+.district-chains {
+  margin: 28px 0 8px;
+}
+
+.district-chains h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.district-chains-note {
+  margin: 0 0 12px;
+  color: #9a7f66;
+  font-size: 13px;
+}
+
 .badge.delivery-min {
   background: var(--accent);
   color: #fffaf5;

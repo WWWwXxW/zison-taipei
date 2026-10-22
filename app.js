@@ -176,11 +176,18 @@
     return ordered;
   }
 
+  /** Taipei multi-branch brands: show under every district of their city, not as their own option. */
+  function isCitywide(r) {
+    return !!(r && (r.multiArea === true || r.serviceDistricts === 'all'));
+  }
+
   function districtsForCity(list, city) {
     if (!city) return [];
     var set = {};
     list.forEach(function (r) {
-      if (r.city === city && r.district) set[r.district] = 1;
+      if (r.city !== city || !r.district || isCitywide(r)) return;
+      if (r.district === '台北多區') return;
+      set[r.district] = 1;
     });
     return Object.keys(set).sort(function (a, b) {
       return a.localeCompare(b, 'zh-Hant');
@@ -324,7 +331,9 @@
     var badges = [];
     var district = r.district || '';
     var city = r.city || '';
-    if (district) {
+    if (isCitywide(r)) {
+      badges.push('<span class="place-note muted">多分店・依地址分配門市</span>');
+    } else if (district) {
       badges.push('<span class="badge district">' + escapeHtml(district) + '</span>');
     }
     if (city) {
@@ -460,7 +469,11 @@
 
   function matches(r, q, city, district, cuisine, softOr) {
     if (city && r.city !== city) return false;
-    if (district && r.district !== district) return false;
+    if (district) {
+      var local = r.district === district && !isCitywide(r);
+      var citywideHere = isCitywide(r) && (!city || r.city === city);
+      if (!local && !citywideHere) return false;
+    }
     if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
     if (q) {
       var hay = haystackOf(r);
@@ -543,6 +556,8 @@
     }
     // empty string means user chose 全部縣市
     var district = parsed.district || '';
+    // Old multi-area bookmark: show the Taipei (or selected city) listing, not a fake district.
+    if (district === '台北多區') district = '';
     if (parsed.city && (!city || city === parsed.city)) {
       city = parsed.city;
     }
@@ -583,6 +598,11 @@
         }
       }
       filtered.sort(function (a, b) {
+        if (districtVal) {
+          var ca = isCitywide(a) ? 1 : 0;
+          var cb = isCitywide(b) ? 1 : 0;
+          if (ca !== cb) return ca - cb;
+        }
         var pa = /^https?:\/\//i.test(String(a.imageUrl || '').trim()) ? 0 : 1;
         var pb = /^https?:\/\//i.test(String(b.imageUrl || '').trim()) ? 0 : 1;
         if (pa !== pb) return pa - pb;
@@ -808,7 +828,7 @@
         '<dl>' +
           row('料理類型', r.cuisine) +
           row('縣市', r.city) +
-          row('行政區', r.district) +
+          (isCitywide(r) ? row('門市', '多分店・依地址分配門市') : row('行政區', r.district)) +
           row('地址', readerProse(r.address) || null) +
           row('起送', (r.deliveryTerms && r.deliveryTerms.minOrder) || null) +
           row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
