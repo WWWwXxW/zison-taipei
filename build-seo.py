@@ -536,7 +536,7 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
   <footer class="site-footer">
     <div class="inner">
       <p>© 自送 — 免費公開目錄。訂單與配送請直接與餐廳聯繫。</p>
-      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a></p>
+      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a> · <a href="../privacy.html">隱私權政策</a></p>
     </div>
   </footer>
 </body>
@@ -612,7 +612,7 @@ def cuisine_page(slug: str, label: str, items: list[dict], all_cuisine_counts: l
   <footer class="site-footer">
     <div class="inner">
       <p>© 自送 — 免費公開目錄。訂單與配送請直接與餐廳聯繫。</p>
-      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a></p>
+      <p><a href="../about.html">目錄說明</a> · <a href="../index.html">店家目錄</a> · <a href="../privacy.html">隱私權政策</a></p>
     </div>
   </footer>
 </body>
@@ -625,6 +625,7 @@ def build_sitemap(district_slugs: list[str], cuisine_slugs: list[str]) -> str:
         ("/", 1.0, "weekly"),
         ("/index.html", 1.0, "weekly"),
         ("/about.html", 0.5, "monthly"),
+        ("/privacy.html", 0.3, "yearly"),
     ]
     for s in district_slugs:
         urls.append((f"/district/{s}.html", 0.8, "weekly"))
