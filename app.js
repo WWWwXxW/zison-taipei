@@ -92,9 +92,79 @@
     return text;
   }
 
+  /** Display-only cleanup of internal source/provenance labels (records keep the raw text). */
+  var EN_DAYS = { Mon: '一', Tue: '二', Wed: '三', Thu: '四', Fri: '五', Sat: '六', Sun: '日' };
+  function enTime(h, m, ap) {
+    var n = Number(h) % 12; if (/pm/i.test(ap)) n += 12;
+    return (n < 10 ? '0' : '') + n + ':' + m;
+  }
+  function englishHours(t) {
+    if (!/\b(AM|PM|Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b/.test(t)) return t;
+    t = t.replace(/",\s*"/g, ' ');
+    t = t.replace(/(\d{1,2}):(\d{2})\s*(AM|PM)/g, function (_, h, m, ap) { return enTime(h, m, ap); });
+    t = t.replace(/\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s*[-–]\s*(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b/g, function (_, a, b) { return '週' + EN_DAYS[a] + '至週' + EN_DAYS[b]; });
+    t = t.replace(/\b(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b/g, function (_, a) { return '週' + EN_DAYS[a]; });
+    t = t.replace(/\bAM\s*/g, '上午 ').replace(/\bPM\s*/g, '下午 ');
+    t = t.replace(/(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/g, '$1–$2').replace(/,\s*/g, '、');
+    return t;
+  }
+  var SRC_TAGS = /^(表|食記|\d{4} ?食記|頁面|平台|懶人包|dinbendon|頁示|店卡|交叉|彙整|公開彙整|\d{4}|\d{4} ?文|官網|刊登|目錄|名冊|EPB|補給站|萬家|LINE|訂便當網|店文)$/;
+  function cleanHoursTags(t) {
+    return t.replace(/（([^（）]*)）/g, function (all, inner) {
+      var parts = inner.split(/[—；;]/).map(function (s) { return s.trim(); }).filter(function (s) { return s && !SRC_TAGS.test(s); });
+      return parts.length ? '（' + parts.join('；') + '）' : '';
+    });
+  }
+  function cleanSourceJargon(text) {
+    var t = String(text == null ? '' : text);
+    if (!t) return t;
+    // chain templates
+    t = t.replace(/肯德基官網找餐廳（[^）]*）列出本餐廳地址與營業時間；以本餐廳自己的地址查官網外送系統（[^）]*）回傳的就是本餐廳，確認本店接官網外送單。?/g, '肯德基官網門市查詢列出本餐廳地址與營業時間；用本餐廳地址查官網外送系統，回傳的就是本餐廳，所以本店有接官網外送單。');
+    t = t.replace(/必勝客官方門市資料（[^）]*）/g, '必勝客官網門市資料');
+    t = t.replace(/達美樂官網尋找門市（[^）]*）/g, '達美樂官網門市資料');
+    t = t.replace(/德克士官網門市資訊（[^）]*）/g, '德克士官網門市資訊');
+    t = t.replace(/Oddle Eats TW discover\/explore 目錄與單店頁 \S+ 之 addresses 明列(\S{2,4}?)地址且 enableDelivery\/eligibleForDelivery；官方店舖連結 [^\s。；]+。?/g, '店家官方 Oddle 訂餐頁列出$1地址，並顯示有開放外送。');
+    t = t.replace(/官方 EATOGO API \S+?[：:]?\s*該分店 allowDelivery=1(（launch_delivery=1）)?；?/g, '品牌官方 EATOGO 訂餐系統顯示本分店有開外送；');
+    t = t.replace(/deliveryDist 明列/g, '系統列出').replace(/API deliveryDist 上限/g, '官方訂餐系統上限');
+    t = t.replace(/min_purchase\s*/g, '最低消費 ').replace(/delivery_free\s*/g, '免運 ');
+    t = t.replace(/Oddle storefront dump/g, '店家官方 Oddle 訂餐頁資料').replace(/`/g, '');
+    t = t.replace(/eligibleForDelivery:?\s*true/g, '有開放外送').replace(/deliveryZones/g, '外送區');
+    t = t.replace(/（圓心約[^）]*）/g, '').replace(/（r=\d+m）/g, '');
+    t = t.replace(/(\d+KM)\s*min\s*=\s*/g, '$1 最低消費 ').replace(/(\d+KM)(?=最低)/g, '$1 ');
+    t = t.replace(/minimumOrderCost\s*=\s*/g, '最低消費 ').replace(/deliveryFreeAfter\s*=\s*/g, '滿額免運 ').replace(/freeAfter\s*=\s*/g, '免運 ').replace(/\bmin\s*=\s*/g, '最低消費 ').replace(/\bfee\s*=\s*/g, '運費 ').replace(/\bcost\s*=\s*/g, '運費 ');
+    // platform labels
+    t = t.replace(/訂便當（dinbendon）店家頁公開外送條件/g, '訂便當網店家頁寫明的外送條件');
+    t = t.replace(/(?:dinbendon|訂便當)\s*(?:API detail shopId=\d+|公用店家頁／API|公用店家頁／搜尋摘要|公用店家明示|公用店家頁|公用店家|SSR meta|meta／店卡|meta|notice／publicNotice|notice／description|publicNotice|notice|description|簡介／訂購說明明示|簡介明示|簡介|訂購說明明示|訂購說明|店卡明示|電話欄明示|店家頁|API)?(?:明示)?\s*[:：]\s*/g, '訂便當網店家頁寫明：');
+    t = t.replace(/dinbendon/gi, '訂便當網');
+    t = t.replace(/訂便當網\s*(?:shop=\d+\s*)?(?:(?:detail|description|notice|publicNotice|pub|meta|說明|簡介|公用頁|sentAreas 可讀|店家資訊|bootstrap 文案|SSR|API|公開)[／/、\s]*)+(?:明示|寫明)?\s*[:：「]/g, function (m) { return '訂便當網店家頁寫明' + (/「$/.test(m) ? '「' : '：'); });
+    t = t.replace(/[（(][^（）()]*(?:shop=|Batch|near-miss|解鎖|交叉|Gaps|異店|不另收|discovery|bootstrap|sentAreas)[^（）()]*[）)]/g, '');
+    t = t.replace(/[；;][^；;]*(?:shop=|Batch|near-miss|解鎖|交叉|Gaps|異店|不另收)[^；;]*/g, '');
+    t = t.replace(/(?:publicNotice|notice|description|detail|meta)(?:[／/](?:publicNotice|notice|description|detail|meta|pub|公用頁))*\s*[:：]/g, '店家頁另寫：').replace(/(?:公開\s*)?(?:publicNotice|notice|description)\b/g, '店家頁說明');
+    t = t.replace(/permio\d\s*[:：]?\s*/g, '網路外送店家名單：');
+    t = t.replace(/(?:\d{4}\s*)?(?:[A-Za-z]+\s*)?(?:\d{4}\s*)?(?:\S{0,4}防疫)?懶人包(?:店卡|親送門檻)?(?:明示)?/g, '網路整理的外送店家名單');
+    t = t.replace(/EPD\s*(?=不鏽鋼)/g, '環保局').replace(/EPD 名單|環保局名冊明示|環保局名冊|環保局名單|\bEPB\b/g, '環保局公布的店家名單');
+    t = t.replace(/(?:\d{4}\s*)?食記(?:店卡)?明示/g, '網路食記寫明').replace(/店卡明示/g, '店家資訊寫明').replace(/補給站明示/g, '網路外送補給站名單寫明').replace(/萬家微網站明示/g, '店家微網站寫明').replace(/amonblog 明示/g, '網路文章寫明').replace(/Mys 表明示/g, '網路整理名單寫明');
+    t = t.replace(/bendon-dao/g, '便當訂購平台店家頁').replace(/268web(?: Part=\d+)?/g, '便當訂購網');
+    t = t.replace(/Ocard Notices/g, 'Ocard 線上點餐頁公告').replace(/iCHEF Reminder／Chrome dump/g, 'iCHEF 線上點餐頁提醒').replace(/\bReminder\b/g, '提醒').replace(/／?Chrome dump/g, '');
+    t = t.replace(/Official Oddle\s*/g, '店家官方 Oddle 訂餐頁').replace(/渠道[:：]\s*/g, '訂餐管道：');
+    t = t.replace(/Oddle (?:el=true|eligibleForDelivery)/g, '店家官方 Oddle 訂餐頁顯示有開外送');
+    t = t.replace(/enableDelivery\/eligibleForDelivery|enableDelivery|eligibleForDelivery|allowDelivery=1|launch_delivery=1/g, '有開外送');
+    // internal references / bookkeeping
+    t = t.replace(/（異於[^）]*）/g, '').replace(/（shop=\d+[^）]*）/g, '').replace(/[；;]?\s*Checked:\s*\d{4}-\d{2}-\d{2}/g, '').replace(/[；;]?\s*Batch:\s*[\w-]+/g, '');
+    t = t.replace(/foodintainan(?:／[a-z]+)?\s*[\u4e00-\u9fff]{0,2}網路整理的外送店家名單/g, '網路整理的外送店家名單').replace(/(?:foodintainan|findglocal|footinder|candylife|vivawei|hululu)(?:／[a-z]+)?\s*/g, '網路店家資訊');
+    t = t.replace(/SSR meta|\bmeta\b/g, '店家頁').replace(/店卡/g, '店家資訊').replace(/／?殼文/g, '').replace(/搜尋索引|搜尋摘要/g, '搜尋結果摘要').replace(/\s*Notices\b/g, '公告');
+    t = t.replace(/\bUE\/FP\b|\bFP\/UE\b/g, 'Uber Eats／foodpanda').replace(/[；;]?\s*→?\s*order_url[^；;]*/g, '').replace(/=true\b/g, '');
+    t = t.replace(/\s*shop=\d+/g, '').replace(/（launch_delivery=\d）；?/g, '').replace(/(?:有開放外送 \+ )?有開外送:true/gi, '官方訂餐頁顯示有開放外送').replace(/minimumOrderAmount\s*=\s*/g, '最低消費 ').replace(/deliveryFee\s*/g, '運費 ').replace(/Mys 表／文明示/g, '網路整理名單與文章寫明');
+    t = t.replace(/（[^（）]*_dist=\d+[^（）]*）/g, '').replace(/[；;]同 store block[^；;]*/g, '').replace(/舊 amonblog/g, '舊網路文章').replace(/Minimum order\s*/g, '最低訂購 ');
+    t = t.replace(/\bEPD\b\s*示?/g, '環保局名單');
+    t = t.replace(/\blocator API\b/g, '門市查詢系統').replace(/\bAPI\b/g, '系統');
+    t = t.replace(/https?:\/\/[^\s，。；、）」（]+/g, '').replace(/（\s*）|\(\s*\)/g, '').replace(/\s+([，。；、）])/g, '$1').replace(/：\s*。/g, '。');
+    return t;
+  }
+
   function readerProse(text) {
     if (text == null) return '';
-    var t = String(text).replace(/\*\*/g, '');
+    var t = cleanSourceJargon(String(text)).replace(/\*\*/g, '');
     t = t.replace(/\bUNKNOWN\b/gi, '未公開');
     t = t.replace(/\bbrand URL\b/gi, '品牌網址');
     t = t.replace(/deliveryCreatable:\s*true、?/gi, '');
@@ -139,6 +209,7 @@
   function readerHours(text) {
     var t = String(text == null ? '' : text).trim().replace(/^hours\s+/i, '');
     if (blankish(t)) return '';
+    t = englishHours(cleanHoursTags(t));
     t = readerProse(t);
     if (!t || t === '未公開') {
       if (/unknown/i.test(String(text)) && text.indexOf('（') === -1 && text.indexOf('(') === -1) return '';
@@ -176,17 +247,11 @@
     return ordered;
   }
 
-  /** Taipei multi-branch brands: show under every district of their city, not as their own option. */
-  function isCitywide(r) {
-    return !!(r && (r.multiArea === true || r.serviceDistricts === 'all'));
-  }
-
   function districtsForCity(list, city) {
     if (!city) return [];
     var set = {};
     list.forEach(function (r) {
-      if (r.city !== city || !r.district || isCitywide(r)) return;
-      if (r.district === '台北多區') return;
+      if (r.city !== city || !r.district) return;
       set[r.district] = 1;
     });
     return Object.keys(set).sort(function (a, b) {
@@ -331,9 +396,7 @@
     var badges = [];
     var district = r.district || '';
     var city = r.city || '';
-    if (isCitywide(r)) {
-      badges.push('<span class="place-note muted">多分店・依地址分配門市</span>');
-    } else if (district) {
+    if (district) {
       badges.push('<span class="badge district">' + escapeHtml(district) + '</span>');
     }
     if (city) {
@@ -470,9 +533,7 @@
   function matches(r, q, city, district, cuisine, softOr) {
     if (city && r.city !== city) return false;
     if (district) {
-      var local = r.district === district && !isCitywide(r);
-      var citywideHere = isCitywide(r) && (!city || r.city === city);
-      if (!local && !citywideHere) return false;
+      if (r.district !== district) return false;
     }
     if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
     if (q) {
@@ -598,11 +659,6 @@
         }
       }
       filtered.sort(function (a, b) {
-        if (districtVal) {
-          var ca = isCitywide(a) ? 1 : 0;
-          var cb = isCitywide(b) ? 1 : 0;
-          if (ca !== cb) return ca - cb;
-        }
         var pa = /^https?:\/\//i.test(String(a.imageUrl || '').trim()) ? 0 : 1;
         var pb = /^https?:\/\//i.test(String(b.imageUrl || '').trim()) ? 0 : 1;
         if (pa !== pb) return pa - pb;
@@ -663,14 +719,100 @@
 
   function findByIdOrSlug(id) {
     var data = window.RESTAURANTS || [];
-    return data.find(function (r) { return r.id === id || r.slug === id; });
+    var r = data.find(function (x) { return x.id === id || x.slug === id; });
+    // Menus live in menus.js (loaded by detail.html only) so data.js stays small for listings.
+    var menus = window.ZISONG_MENUS;
+    if (r && !r.menu && menus && menus[r.id]) r.menu = menus[r.id];
+    return r;
   }
+
+  /** Shops removed on 2026-10-22 (no verifiable source, or closed) -> their district listing. */
+  var HIDDEN_SHOPS = {
+    'daan-new-029': 'district/daan.html',
+    'scout-b11-232': 'district/daan.html',
+    'scout-b12-246': 'district/daan.html',
+    'scout-b12-247': 'district/daan.html',
+    'scout-b12-249': 'district/xinyi.html',
+    'scout-b12-256': 'district/zhongshan.html',
+    'scout-lead-346': 'district/zhongshan.html',
+    'scout-lead-347': 'district/zhongshan.html',
+    'scout-lead-349': 'district/zhongshan.html',
+    'scout-lead-351': 'district/zhongshan.html',
+    'scout-lead-360': 'district/zhongzheng.html',
+    'scout-lead-363': 'district/zhongshan.html',
+    'scout-lead-364': 'district/zhongshan.html',
+    'scout-lead-367': 'district/zhongshan.html',
+    'scout-lead-372': 'district/songshan.html',
+    'scout-lead-373': 'district/songshan.html',
+    'scout-lead-378': 'district/songshan.html',
+    'scout-lead-379': 'district/songshan.html',
+    'scout-lead-380': 'district/daan.html',
+    'scout-lead-381': 'district/daan.html',
+    'scout-lead-382': 'district/daan.html',
+    'scout-lead-384': 'district/daan.html',
+    'scout-lead-385': 'district/daan.html',
+    'scout-lead-386': 'district/xinyi.html',
+    'scout-lead-388': 'district/xinyi.html',
+    'scout-lead-389': 'district/xinyi.html',
+    'scout-lead-390': 'district/xinyi.html',
+    'scout-lead-391': 'district/xinyi.html',
+    'scout-lead-392': 'district/zhongzheng.html',
+    'scout-lead-396': 'district/neihu.html',
+    'scout-lead-401': 'district/xinyi.html',
+    'scout-lead-404': 'district/xinyi.html',
+    'scout-lead-407': 'district/xinyi.html',
+    'scout-lead-409': 'district/xinyi.html',
+    'scout-lead-414': 'district/daan.html',
+    'scout-lead-415': 'district/daan.html',
+    'scout-lead-416': 'district/daan.html',
+    'scout-lead-417': 'district/xinyi.html',
+    'scout-lead-421': 'district/xinyi.html',
+    'scout-lead-422': 'district/xinyi.html',
+    'scout-lead-427': 'district/wanhua.html',
+    'scout-lead-428': 'district/wanhua.html',
+    'scout-lead-430': 'district/neihu.html',
+    'scout-lead-432': 'district/nangang.html',
+    'scout-lead-435': 'district/beitou.html',
+    'scout-lead-437': 'district/daan.html',
+    'scout-lead-454': 'district/datong.html',
+    'scout-lead-455': 'district/wenshan.html',
+    'scout-lead-456': 'district/shilin.html',
+    'scout-lead-462': 'district/zhongzheng.html',
+    'scout-lead-466': 'district/zhongshan.html',
+    'scout-lead-469': 'district/shilin.html',
+    'scout-lead-470': 'district/daan.html',
+    'scout-lead-478': 'district/zhongshan.html',
+    'scout-lead-479': 'district/zhongshan.html',
+    'scout-lead-480': 'district/zhongshan.html',
+    'scout-lead-481': 'district/zhongzheng.html',
+    'scout-lead-482': 'district/daan.html',
+    'scout-lead-484': 'district/xinyi.html',
+    'scout-lead-490': 'district/daan.html',
+    'scout-lead-491': 'district/zhongshan.html',
+    'scout-lead-494': 'district/zhongshan.html',
+    'scout-lead-501': 'district/zhongshan.html',
+    'scout-lead-502': 'district/zhongshan.html',
+    'scout-lead-503': 'district/zhongshan.html'
+  };
+
+  /** Old single-record chain pages, now split into one record per branch. */
+  var SPLIT_CHAINS = {
+    'scout-b1-16': '瑞記海南雞飯', 'scout-b1-17': '必勝客', 'scout-b1-18': '達美樂',
+    'scout-b1-19': '肯德基', 'scout-b1-20': '德克士',
+    'scout-b4-101': '非常泰', 'scout-b4-102': '1010湘', 'scout-b4-103': '時時香',
+    'nt-scout-lead-10': '關山珍享便當'
+  };
 
   function menuSourceName(url) {
     var u = String(url || '');
     if (/dinbendon/i.test(u)) return '訂便當';
     if (/oddle\.me/i.test(u)) return 'Oddle';
-    return '';
+    if (/ichefpos\.com/i.test(u)) return 'iCHEF 線上點餐';
+    if (/eatogo\.com\.tw/i.test(u)) return 'EATOGO';
+    if (/ocard\.co/i.test(u)) return 'Ocard';
+    if (/inline\.app/i.test(u)) return 'inline';
+    if (/nidin\.shop/i.test(u)) return '你訂';
+    return '店家官方頁面';
   }
 
   function linkifyText(text) {
@@ -704,7 +846,7 @@
   }
 
   function phoneTel(part) {
-    return String(part).replace(/[^\d+]/g, '');
+    return String(part).replace(/\s*(?:分機|轉|#|ext\.?).*$/i, '').replace(/[^\d+]/g, '');
   }
 
   function phoneLinksHtml(phone) {
@@ -715,12 +857,25 @@
     }).join('、');
   }
 
-  /** Priced menu only. No block when the shop has no priced items. All priced items, not capped. */
+  function officialLabel(u, button) {
+    if (/facebook\.com|instagram\.com/i.test(u)) return '店家粉專';
+    if (/dinbendon|oddle\.me|eatogo|ichefpos|ocard\.co|nidin\.shop|inline\.app|bendon-dao|quickclick|iding\.tw|imenu\.com|dudooeat/i.test(u)) return button ? '店家菜單・訂餐頁' : '店家菜單頁';
+    return button ? '官網・菜單' : '店家官網';
+  }
+
+  function menuPriceText(price) {
+    var p = String(price).trim();
+    if (/^\d/.test(p)) return '$' + p;
+    return p;
+  }
+
+  /** Priced menu only. No block when the shop has no priced items. */
   function detailMenuHtml(r) {
     var menu = r.menu;
     if (!menu || !menu.items || !menu.items.length) return '';
     var rows = [];
     var lastCat = null;
+    var shown = 0;
     for (var i = 0; i < menu.items.length; i++) {
       var it = menu.items[i] || {};
       var name = it.name != null ? String(it.name).trim() : '';
@@ -731,30 +886,63 @@
         rows.push('<li class="menu-cat">' + escapeHtml(cat) + '</li>');
         lastCat = cat;
       }
+      shown++;
       var desc = it.description != null ? String(it.description).trim() : '';
       if (desc) {
-        rows.push('<li class="has-desc"><div class="menu-row"><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></div><p class="menu-desc">' + escapeHtml(desc) + '</p></li>');
+        rows.push('<li class="has-desc"><div class="menu-row"><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(menuPriceText(price)) + '</span></div><p class="menu-desc">' + escapeHtml(desc) + '</p></li>');
       } else {
-        rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(price) + '</span></li>');
+        rows.push('<li><span class="menu-name">' + escapeHtml(name) + '</span><span class="menu-price">' + escapeHtml(menuPriceText(price)) + '</span></li>');
       }
     }
     if (!rows.length) return '';
-    var srcUrl = menu.source ? String(menu.source).trim() : '';
+    var srcUrl = String(r.menuSource || menu.source || '').trim();
     var srcName = menuSourceName(srcUrl);
-    var when = menu.fetchedOn ? String(menu.fetchedOn).trim() : '';
+    var when = String(r.menuCheckedAt || menu.fetchedOn || '').trim();
     var srcBit = '';
-    if (srcName && srcUrl) {
-      srcBit = '<a href="' + escapeHtml(srcUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(srcName) + '</a>';
-    } else if (srcName) {
-      srcBit = escapeHtml(srcName);
-    } else if (srcUrl) {
-      srcBit = '<a href="' + escapeHtml(srcUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(srcUrl) + '</a>';
+    if (srcUrl && /^https?:\/\//i.test(srcUrl)) {
+      srcBit = '<a href="' + escapeHtml(srcUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(srcName || srcUrl) + '</a>';
     }
-    var sourceLine = '';
-    if (srcBit || when) {
-      sourceLine = '<p class="menu-source">來源：' + srcBit + (srcBit && when ? '，' : '') + escapeHtml(when) + '</p>';
+    var lead = '';
+    if (menu.total && menu.total > shown) {
+      lead = '列出 ' + shown + ' 項，完整 ' + menu.total + ' 項見' + (srcBit || '店家頁面') + '。';
+    } else if (srcBit) {
+      lead = '菜單來源：' + srcBit + '。';
     }
+    var upd = menu.sourceUpdated ? String(menu.sourceUpdated).trim() : '';
+    var sourceLine = '<p class="menu-source">' + lead + (upd ? '店家最後更新 ' + escapeHtml(upd) + '，' : '') + (when ? '本站核對 ' + escapeHtml(when) + '。' : '') + '價格與供應以店家為準。</p>';
     return '<section class="detail-menu" aria-label="菜單"><h2>菜單</h2><ul>' + rows.join('') + '</ul>' + sourceLine + '</section>';
+  }
+
+  /** Shops without a priced menu: show what they sell and how to ask. */
+  function detailNoMenuHtml(r) {
+    if (r.menu && r.menu.items && r.menu.items.length) return '';
+    var tags = (r.cuisineTags || []).filter(function (t) { return t && !/未公開/.test(t); });
+    if (!tags.length && r.cuisine && !/未公開/.test(r.cuisine)) {
+      tags = String(r.cuisine).split(/[、／\/，,]/).map(function (t) { return t.trim(); }).filter(Boolean);
+    }
+    var chips = tags.length
+      ? '<div class="menu-tags">' + tags.map(function (t) { return '<span class="menu-tag">' + escapeHtml(t) + '</span>'; }).join('') + '</div>'
+      : '';
+    var first = phoneParts(r.phone)[0];
+    var ask;
+    if (first && phoneTel(first)) {
+      ask = '菜單請洽店家：<a href="tel:' + escapeHtml(phoneTel(first)) + '">' + escapeHtml(first) + '</a>';
+      if (r.officialUrl) ask += '，或看<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + officialLabel(r.officialUrl) + '</a>';
+    } else if (r.officialUrl) {
+      ask = '菜單請看<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + officialLabel(r.officialUrl) + '</a>';
+    } else if (r.orderUrl || r.lineUrl) {
+      ask = '菜單請看上方的店家官方訂餐頁';
+    } else {
+      ask = '菜單請洽店家';
+    }
+    return '<section class="detail-menu detail-nomenu" aria-label="供應餐點"><h2>供應餐點</h2>' + chips + '<p class="menu-ask">' + ask + '。</p></section>';
+  }
+
+  /** One clear delivery line near the top, from the shop's own stated terms only. */
+  function detailDeliveryHtml(r) {
+    var text = r.deliverySummary ? String(r.deliverySummary).trim() : '';
+    if (!text) text = '店家自己外送，條件請電話問店家';
+    return '<p class="detail-delivery"><strong>外送條件：</strong>' + escapeHtml(text) + '</p>';
   }
 
   function initDetail() {
@@ -762,6 +950,14 @@
     if (!root) return;
     var id = getParam('id') || getParam('slug');
     var r = id ? findByIdOrSlug(id) : null;
+    if (!r && id && SPLIT_CHAINS[id]) {
+      location.replace('index.html?city=&q=' + encodeURIComponent(SPLIT_CHAINS[id]));
+      return;
+    }
+    if (!r && id && HIDDEN_SHOPS[id]) {
+      location.replace(HIDDEN_SHOPS[id]);
+      return;
+    }
     if (!r) {
       root.innerHTML =
         '<div class="detail-card"><h1>找不到店家</h1>' +
@@ -785,6 +981,10 @@
     if (oh) {
       actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐</a>');
     }
+    if (r.officialUrl && r.officialUrl !== oh) {
+      var offLabel = officialLabel(r.officialUrl, true);
+      actions.push('<a class="btn ' + (oh ? 'btn-ghost' : 'btn-primary') + ' btn-official" href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + offLabel + '</a>');
+    }
     if (r.phone) {
       phoneParts(r.phone).forEach(function (p) {
         var tel = phoneTel(p);
@@ -801,7 +1001,7 @@
     if (r.freeDeliveryThreshold != null) {
       freeText = typeof r.freeDeliveryThreshold === 'number'
         ? ('滿 NT$' + r.freeDeliveryThreshold)
-        : String(r.freeDeliveryThreshold);
+        : (formatThreshold(String(r.freeDeliveryThreshold)) || String(r.freeDeliveryThreshold));
     }
     var feeText = '';
     if (r.deliveryFee != null) {
@@ -810,12 +1010,13 @@
         : String(r.deliveryFee);
     }
 
-    var backCity = r.city ? ('?city=' + encodeURIComponent(r.city)) : '';
+    var backCity = r.city ? ('?city=' + encodeURIComponent(r.city) + (r.district ? '&district=' + encodeURIComponent(encodeDistrictValue(r.city, r.district)) : '')) : '';
     root.innerHTML =
       '<div class="detail-card">' +
         '<a class="back-link" href="index.html' + backCity + '">← 回目錄</a>' +
         '<div class="badges">' + badges.join('') + '</div>' +
         '<h1>' + escapeHtml(r.name) + '</h1>' +
+        detailDeliveryHtml(r) +
         (/^https?:\/\//i.test(String(r.imageUrl || '').trim())
           ? '<figure class="shop-photo" style="margin:16px 0 8px;border-radius:12px;overflow:hidden;background:#f3ead8"><img src="' + escapeHtml(r.imageUrl) + '" alt="' + escapeHtml(r.name) + ' 餐點照片" style="display:block;width:100%;height:auto;max-height:440px;object-fit:cover" onerror="this.parentNode.hidden=true" />' +
             '<figcaption style="font-size:12px;color:#7a6a5a;padding:6px 10px;margin:0">餐點照片取自店家官方頁面' + (r.imageSource ? '（<a href="' + escapeHtml(r.imageSource) + '" target="_blank" rel="noopener noreferrer">來源</a>）' : '') + '，實際餐點以店家為準</figcaption></figure>'
@@ -825,10 +1026,12 @@
         '<div class="actions">' +
           actions.join('') +
         '</div>' +
+        detailMenuHtml(r) +
+        detailNoMenuHtml(r) +
         '<dl>' +
           row('料理類型', r.cuisine) +
           row('縣市', r.city) +
-          (isCitywide(r) ? row('門市', '多分店・依地址分配門市') : row('行政區', r.district)) +
+          row('行政區', r.district) +
           row('地址', readerProse(r.address) || null) +
           row('起送', (r.deliveryTerms && r.deliveryTerms.minOrder) || null) +
           row('範圍', (r.deliveryTerms && r.deliveryTerms.area) || null) +
@@ -836,6 +1039,7 @@
           row('外送條件', r.deliveryNote) +
           row('外送費', feeText || null) +
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
+          row('官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(r.officialUrl) + '</a>') : null, true) +
           row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
           row('營業時間', readerHours(r.hours) || null) +
@@ -846,7 +1050,6 @@
           row('說明／條件摘要', readerTerms(r.terms) || null) +
           row('收錄依據摘要', readerProse(r.evidence) || null) +
         '</dl>' +
-        detailMenuHtml(r) +
       '</div>';
   }
 
