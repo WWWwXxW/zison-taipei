@@ -12,6 +12,13 @@ for _p in (_HERE, _HERE / "scripts"):
     if str(_p) not in sys.path:
         sys.path.insert(0, str(_p))
 from reader_text import sanitize_records
+import sys as _zs_sys
+from pathlib import Path as _ZsPath
+for _zs_p in (_ZsPath(__file__).resolve().parent, _ZsPath(__file__).resolve().parent / "scripts"):
+    if str(_zs_p) not in _zs_sys.path:
+        _zs_sys.path.insert(0, str(_zs_p))
+from zisong_data import write_split_js  # data.js without menus + menus.js
+
 
 NUM = r'(?:\d{1,3}(?:,\d{3})+|\d+)'
 
@@ -192,10 +199,8 @@ def backfill(path: Path) -> tuple[list, list]:
 
 
 def write_data_js(data: list, dest: Path) -> None:
-    dest.write_text(
-        'window.RESTAURANTS = ' + json.dumps(data, ensure_ascii=False, indent=2) + ';\n',
-        encoding='utf-8',
-    )
+    # data.js carries no menus; menus.js holds them (see scripts/zisong_data.py)
+    write_split_js(dest.parent, data)
 
 
 def main():

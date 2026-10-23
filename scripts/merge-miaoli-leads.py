@@ -19,6 +19,13 @@ for _p in (_HERE, _HERE / "scripts"):
         sys.path.insert(0, str(_p))
 from reader_text import sanitize_records
 from urllib.parse import urlparse, urlunparse
+import sys as _zs_sys
+from pathlib import Path as _ZsPath
+for _zs_p in (_ZsPath(__file__).resolve().parent, _ZsPath(__file__).resolve().parent / "scripts"):
+    if str(_zs_p) not in _zs_sys.path:
+        _zs_sys.path.insert(0, str(_zs_p))
+from zisong_data import write_split_js  # data.js without menus + menus.js
+
 
 ROOT = Path(__file__).resolve().parents[1]
 CORPUS = Path("/workspace/miaoli-own-delivery-leads.md")
@@ -715,10 +722,7 @@ def merge_into(root: Path, md: str) -> dict:
     (root / "restaurants.json").write_text(
         json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    (root / "data.js").write_text(
-        "window.RESTAURANTS = " + json.dumps(merged, ensure_ascii=False, indent=2) + ";\n",
-        encoding="utf-8",
-    )
+    write_split_js(root, merged)
 
     by_dist = Counter(r["district"] for r in added)
     by_city = Counter(r["city"] for r in added)

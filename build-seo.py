@@ -391,10 +391,7 @@ def card_html(r: dict, prefix: str = "../") -> str:
     badges = []
     district = r.get("district") or ""
     city = r.get("city") or ""
-    citywide = bool(r.get("multiArea") or r.get("serviceDistricts") == "all")
-    if citywide:
-        badges.append('<span class="place-note muted">多分店・依地址分配門市</span>')
-    elif district:
+    if district:
         badges.append(f'<span class="badge district">{escape_html(district)}</span>')
     if city:
         badges.append(f'<span class="badge city">{escape_html(city)}</span>')
@@ -674,8 +671,6 @@ def update_index(
     # Live counts: city → district → n
     live: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     for r in data:
-        if r.get("multiArea") or r.get("serviceDistricts") == "all":
-            continue
         c = (r.get("city") or "").strip()
         d = (r.get("district") or "").strip()
         if c and d and d != "台北多區":
@@ -823,6 +818,10 @@ def main() -> None:
 
     # --- index browse ---
     update_index(district_counts_sorted, cuisine_counts_sorted, data)
+
+    # --- data.js (no menus) + menus.js, from restaurants.json (source of truth) ---
+    from zisong_data import write_split_js
+    print("data split:", write_split_js(ROOT, data))
 
     # Report
     print(f"restaurants: {len(data)}")
