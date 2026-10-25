@@ -627,6 +627,7 @@ def build_sitemap(district_slugs: list[str], cuisine_slugs: list[str]) -> str:
         ("/", 1.0, "weekly"),
         ("/index.html", 1.0, "weekly"),
         ("/about.html", 0.5, "monthly"),
+        ("/join.html", 0.5, "monthly"),
         ("/privacy.html", 0.3, "yearly"),
     ]
     for s in district_slugs:

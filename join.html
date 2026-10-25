@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="google-adsense-account" content="ca-pub-1277341561644861">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1277341561644861" crossorigin="anonymous"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="店家自薦：你的店自己外送嗎？免費加入自送（zisong）店家自送目錄。填店名、地址、電話、外送條件，我們到店家自己的頁面核對後收錄，不收任何費用。" />
+  <link rel="canonical" href="https://zisong.tw/join.html" />
+  <title>店家自薦・免費加入｜自送</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css?v=20260923-card-media1" />
+  <style>.join-form{max-width:34rem;margin:12px 0 0}.join-form label{font-size:14px;color:var(--ink);font-weight:600}.join-error{color:#b3261e;font-weight:600;margin:0}</style>
+</head>
+<body class="page-about page-join">
+  <a class="skip-link" href="#main">跳至主要內容</a>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html" aria-label="自送 zisong 首頁"><span class="brand-name">自送</span><span class="brand-roman">zisong</span></a>
+      <nav class="nav" aria-label="主要導覽"><a href="index.html">店家目錄</a><a href="about.html">關於自送</a><a href="join.html" aria-current="page">店家自薦</a></nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="main">
+    <article class="prose">
+      <h1>我是店家，想被收錄</h1>
+      <p>「自送」整理<strong>店家自己外送</strong>的店：客人直接打電話、用官網／LINE／訂便當跟店家訂，由店家自己送餐，不經過 Uber Eats、foodpanda。</p>
+      <p>如果你的店有自己外送（例如「滿 $500 外送」「10:30 前訂、3 個便當就外送」），歡迎填下面的表單。<strong>完全免費</strong>，不收上架費、不抽成，也不會幫客人代訂或收款。</p>
+      <h2>收錄前我們會怎麼做</h2>
+      <ul>
+        <li>我們會到你的<strong>官網、FB、IG 或自家訂餐頁</strong>核對店名、地址、電話和外送條件，有公開寫的才收錄。</li>
+        <li>外送條件會照你寫的原文放在店頁最上面，不會自己加條件。</li>
+        <li>有餐點照片或菜單的公開頁面，請一起附上連結，客人比較看得懂你賣什麼。</li>
+      </ul>
+      <h2>填寫店家資料</h2>
+      <form id="join-form" class="report-form join-form" novalidate>
+        <label>店名（必填）<input name="name" required maxlength="80" placeholder="例如：○○便當" /></label>
+        <label>地址（必填，含縣市、行政區）<input name="address" required maxlength="160" placeholder="例如：台北市中山區南京東路一段 1 號" /></label>
+        <label>電話（必填）<input name="phone" required maxlength="40" inputmode="tel" placeholder="例如：02-2345-6789" /></label>
+        <label>外送條件（必填）<textarea name="delivery" required rows="3" maxlength="400" placeholder="例如：滿 $500 外送；10:30 前訂、3 個便當就外送；只送中山區"></textarea></label>
+        <label>官網／FB／IG／訂餐頁連結<textarea name="links" rows="2" maxlength="600" placeholder="一行一個連結"></textarea></label>
+        <label>聯絡人 email（選填，有問題時聯絡你）<input name="email" type="email" maxlength="120" /></label>
+        <p class="join-error" id="join-error" role="alert" hidden></p>
+        <p><button type="submit" class="btn btn-primary">用 email 寄出自薦資料</button></p>
+        <p class="muted" style="font-size:13px">按下後會打開你的 email 程式，內容已經填好，寄出就完成。如果沒有跳出 email，請把上面的資料直接寄到 <a href="mailto:zisong.taiwan@gmail.com">zisong.taiwan@gmail.com</a>。</p>
+      </form>
+      <p style="margin-top:1.5rem"><a class="btn btn-ghost" href="index.html">回到店家目錄</a></p>
+    </article>
+  </main>
+  <script>
+  (function(){
+    var f=document.getElementById('join-form'), err=document.getElementById('join-error');
+    f.addEventListener('submit',function(e){
+      e.preventDefault();
+      var v=function(n){return (f.elements[n].value||'').trim();};
+      var miss=[];
+      [['name','店名'],['address','地址'],['phone','電話'],['delivery','外送條件']].forEach(function(p){if(!v(p[0]))miss.push(p[1]);});
+      if(miss.length){err.textContent='請填寫：'+miss.join('、');err.hidden=false;return;}
+      err.hidden=true;
+      var body=['店名：'+v('name'),'地址：'+v('address'),'電話：'+v('phone'),'外送條件：'+v('delivery'),'官網／FB／IG 連結：'+(v('links')||'（未填）'),'聯絡人 email：'+(v('email')||'（未填）'),'','（由 zisong.tw/join.html 店家自薦表單產生）'].join('\n');
+      var url='mailto:zisong.taiwan@gmail.com?subject='+encodeURIComponent('店家自薦：'+v('name'))+'&body='+encodeURIComponent(body);
+      if(window.goatcounter&&window.goatcounter.count){try{window.goatcounter.count({path:'join-submit',title:'店家自薦送出',event:true});}catch(x){}}
+      window.location.href=url;
+    });
+  })();
+  </script>
+
+  <footer class="site-footer">
+    <div class="inner">
+      <p>© 自送 — 店家自送目錄，不是外送平台目錄。</p>
+      <p><a href="privacy.html">隱私權政策</a></p>
+    </div>
+  </footer>
+  <script src="track.js?v=20261022-clicks" defer></script>
+</body>
+</html>
