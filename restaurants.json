@@ -26,7 +26,7 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "imageUrl": "https://inline.imgix.net/companies/155c842f-68e6-496d-ba7c-54fab4d6863b_%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-10-15%20%E4%B8%8B%E5%8D%885.25.44.png"
+    "imageUrl": null
   },
   {
     "id": "cg-2",
@@ -4101,7 +4101,7 @@
     ],
     "phone": "02-2558-2578",
     "orderUrl": "https://order.ocard.co/naptea/mXEMaK",
-    "hours": "官方頁可預訂次日並選送達時段；本次頁面顯示9/15 11:30–12:00，實際可選日期與時段以點餐頁為準。",
+    "hours": "可預訂次日並選送達時段；實際可選日期與時段以官方訂餐頁為準。",
     "range": "距門市最遠6.1公里",
     "terms": "外送範圍：距門市最遠6.1公里；實際地址需在官方頁輸入確認；起送：0.1–1公里最低NT$350、運費NT$40、滿NT$850免運；距離增加時最低NT$450–1,000、運費NT$50–100、免運滿額NT$1,000–3,000。",
     "freeDeliveryThreshold": null,
@@ -4603,7 +4603,7 @@
     "phone": "02-2552-0575",
     "orderUrl": "https://store.dudooeat.com/order/store/f103825a40b148479b83f5a2429763b5",
     "lineId": "@tzw6638p",
-    "hours": "官方頁顯示實際可選時段；公開頁未提供固定的外送接單或送達時段。",
+    "hours": "可選時段以官方訂餐頁為準；未公開固定的外送接單或送達時段。",
     "range": "配送範圍未公開",
     "terms": "外送範圍：配送範圍未公開；請在官方頁或LINE提供地址確認；起送：低消與免運門檻未公開；請在官方頁或LINE提供地址確認。；LINE ID：@tzw6638p",
     "freeDeliveryThreshold": null,
@@ -13120,7 +13120,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "hours": "未公開（以 iCHEF／LINE 預約為主；常需提前1–2天）",
+    "hours": "未公開（以 LINE 或線上預約為主；常需提前 1–2 天）",
     "orderUrl": "https://shop.ichefpos.com/store/D8ZTTWF1/ordering",
     "phone": "02-8773-5018",
     "address": "敦化北路50巷23號1樓",
@@ -14019,7 +14019,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "hours": "約一–六 09:00/10:00–20:00；週日休（公開資料；請再確認）",
+    "hours": "約週一–六 09:00/10:00–20:00；週日休（請先電話確認）",
     "phone": "02-3762-2558",
     "address": "永吉路30巷89號",
     "evidence": "公開目錄／訂便當系統：滿6個可電話外送",
@@ -14415,7 +14415,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "hours": "約 11:00–19:00（公開資料；請再確認）",
+    "hours": "約 11:00–19:00（請先電話確認）",
     "orderUrl": "https://rink.cc/0b2b1",
     "phone": "0972-320-152",
     "address": "內江街17號",
@@ -16707,7 +16707,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "hours": "未公開（以 iCHEF／門市為準）",
+    "hours": "未公開（以線上點餐頁或門市為準）",
     "orderUrl": "https://shop.ichefpos.com/store/LKd-z5N5/ordering",
     "phone": "02-2627-1011",
     "address": "內湖路一段623號",
@@ -21903,7 +21903,7 @@
   {
     "id": "scout-b5-132",
     "slug": "山海樓-手工台菜餐廳-Mountain-and-Sea-House-中正區",
-    "name": "山海樓 手工臺菜餐廳  Mountain and Sea House",
+    "name": "山海樓 手工臺菜餐廳 Mountain and Sea House",
     "district": "中正區",
     "address": "仁愛路二段 94號",
     "cuisine": "中港料理",
@@ -24164,7 +24164,7 @@
   {
     "id": "scout-b5-146",
     "slug": "大心-台北信義威秀店-信義區",
-    "name": "大心\t台北信義威秀店",
+    "name": "大心 台北信義威秀店",
     "district": "信義區",
     "address": "松壽路20號, 2樓(大心台北信義威秀店)",
     "cuisine": "南洋料理、泰式料理",
@@ -25613,7 +25613,7 @@
   {
     "id": "scout-b5-155",
     "slug": "瓦城-台北微風信義店-信義區",
-    "name": "瓦城\t台北微風信義店",
+    "name": "瓦城 台北微風信義店",
     "district": "信義區",
     "address": "忠孝東路五段68號, B1(瓦城台北微風信義店)",
     "cuisine": "南洋料理、海鮮合菜、泰式料理",
@@ -27077,7 +27077,7 @@
   {
     "id": "scout-b5-165",
     "slug": "法國柯茲-CLUIZEL-內湖區",
-    "name": "法國柯茲  CLUIZEL",
+    "name": "法國柯茲 CLUIZEL",
     "district": "內湖區",
     "address": "瑞湖街182號",
     "cuisine": "私房甜點",
@@ -27174,7 +27174,7 @@
   {
     "id": "scout-b5-167",
     "slug": "瓦城-台北CITYLINK內湖店-內湖區",
-    "name": "瓦城\t台北CITYLINK內湖店",
+    "name": "瓦城 台北CITYLINK內湖店",
     "district": "內湖區",
     "address": "成功路四段188號, 2樓(瓦城台北CITYLINK內湖店)",
     "cuisine": "南洋料理、海鮮合菜、泰式料理",
@@ -27364,7 +27364,7 @@
   {
     "id": "scout-b5-168",
     "slug": "瓦城-台北西湖店-內湖區",
-    "name": "瓦城\t台北西湖店【自取免下車取餐地點:內湖路一段246號 (瓦城店門口)】",
+    "name": "瓦城 台北西湖店",
     "district": "內湖區",
     "address": "內湖路一段246-1號, (瓦城台北西湖店)",
     "cuisine": "南洋料理、海鮮合菜、泰式料理",
@@ -37796,7 +37796,7 @@
   {
     "id": "scout-b5-229",
     "slug": "瓦城-台北安和店-大安區",
-    "name": "瓦城 台北安和店【自取免下車取餐地點:安和路二段133號(瓦城店門口)】",
+    "name": "瓦城 台北安和店",
     "district": "大安區",
     "address": "安和路二段133號, 1樓(瓦城台北安和店)",
     "cuisine": "南洋料理、海鮮合菜、泰式料理",
@@ -40040,7 +40040,7 @@
   {
     "id": "scout-b5-246",
     "slug": "美術系壽司-景美店-文山區",
-    "name": "美術系壽司  景美店",
+    "name": "美術系壽司 景美店",
     "district": "文山區",
     "address": "景文街43號",
     "cuisine": "日本和食",
@@ -44369,11 +44369,6 @@
           "name": "＋純炙燒松阪豬",
           "price": 120,
           "category": "單點滿足多一點"
-        },
-        {
-          "name": "小購物袋",
-          "price": 1,
-          "category": "其他購物選項"
         }
       ],
       "source": "https://shop.ichefpos.com/store/S7UIgQ8p/ordering",
@@ -45433,7 +45428,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "hours": "一–五約 11:00–13:30／16:30–19:00；六日休（公開資料）",
+    "hours": "週一–五約 11:00–13:30／16:30–19:00；六日休",
     "evidence": "電話＋LINE 團訂外送；在地文案：士林附近滿約5個免運，天母／石牌／圓山可電洽滿額；福華路145號1樓；亦上平台但電話／LINE 為自有通道",
     "source": "tenjo.tw 等食記交叉；LINE",
     "checkedAt": "2026-09-21",
@@ -50287,7 +50282,7 @@
     "source": "https://s.openrice.com/cHbSm027y6400；https://data.gov.tw/dataset/8938",
     "checkedAt": "2026-10-22",
     "phone": "02-2339-1939",
-    "address": "汀州路一段336號1樓（與",
+    "address": "汀州路一段336號1樓",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -62273,7 +62268,7 @@
     "evidence": "營業時間（官方頁）：listing: 週一~週五 11:00~14:00、17:00~20:00；來源：https://www.facebook.com/AQTheBest/",
     "source": "https://www.facebook.com/AQTheBest/",
     "phone": "02-2345-9554",
-    "address": "虎林街132巷35號(永春捷運站2號",
+    "address": "虎林街132巷35號",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -62360,7 +62355,7 @@
     "evidence": "官方頁原文：「line訂餐 king27205820（line訂餐每個折價5元適用）」；來源：https://www.facebook.com/100063554471327/",
     "source": "https://www.facebook.com/100063554471327/",
     "phone": "0936-169-850",
-    "address": "市民大道八段619號(南港展覽館5號",
+    "address": "市民大道八段619號",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 10,
     "deliveryMinLabel": "滿 10 個",
@@ -62387,7 +62382,7 @@
     "evidence": "官方頁原文：「line訂餐 king27205820（line訂餐每個折價5元適用）」；來源：https://www.facebook.com/100063554471327/",
     "source": "https://www.facebook.com/100063554471327/",
     "phone": "0936-169-850",
-    "address": "市民大道八段619號(南港展覽館5號",
+    "address": "市民大道八段619號",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
     "deliveryMinLabel": "滿 $1000",
@@ -64898,7 +64893,7 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "hours": "未公開（以 iCHEF／門市為準）",
+    "hours": "未公開（以線上點餐頁或門市為準）",
     "evidence": "iCHEF：外送規則公開——4 km 內滿 500 可外送（運費100）／滿 700 免運；5 km 內滿 700（運費150）／滿 1200 免運；6 km+ 遞增；並註需致電門市協調尖峰外送",
     "source": "iCHEF biHMXNMK",
     "orderUrl": "https://shop.ichefpos.com/store/biHMXNMK/ordering",
@@ -65303,7 +65298,7 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "hours": "約一–五 11:00–19:00；六日公休（Gomaji／公開頁）",
+    "hours": "約週一–五 11:00–19:00；六日公休",
     "evidence": "訂便當系統／公開店家說明：滿千外送（中山／大安／松山／信義／南港／內湖；週一三五與二四菜色輪替以頁面為準）；電話公開",
     "source": "dinbendon shop=455776；gomaji 183220 交叉",
     "phone": "02-2768-2618",
@@ -65531,7 +65526,7 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "hours": "未公開（以 iCHEF／門市為準）",
+    "hours": "未公開（以線上點餐頁或門市為準）",
     "evidence": "iCHEF：明示外送；台北市訂購 滿 NT$3000 免運；未滿則 5 km 內運費 50、每加 1 km +10；備註收餐地址；匯款結帳",
     "source": "iCHEF YX36NfJV",
     "orderUrl": "https://shop.ichefpos.com/store/YX36NfJV/ordering",
@@ -65748,7 +65743,7 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "hours": "未公開（以 iCHEF／門市為準）",
+    "hours": "未公開（以線上點餐頁或門市為準）",
     "evidence": "iCHEF：明示外送；滿 NT$600 運費120／滿 NT$2380 免運；建議一小時前訂",
     "source": "iCHEF WGIfETjT",
     "orderUrl": "https://shop.ichefpos.com/store/WGIfETjT/ordering",
@@ -67890,7 +67885,7 @@
     "hours": "11:00–14:00 / 17:30–19:30；週六半天；週日休",
     "evidence": "268web 公用外送頁：3 個以上可外送；跨區／車程15分以上電洽",
     "source": "268web Part=220008",
-    "phone": "2962-9209",
+    "phone": "02-2962-9209",
     "address": "板新路237號",
     "city": "新北市",
     "deliverySummary": "3 個以上就外送"
@@ -67951,7 +67946,7 @@
     "phone": "02-2250-7568",
     "address": "雙十路二段239號4",
     "city": "新北市",
-    "imageUrl": "https://www.pengyuan.com.tw/public/upload/images/%E5%BD%AD%E5%9C%92%E5%A4%96%E5%B8%B6%E8%8F%9C%E5%96%AE-02%20(2023%E7%83%A4%E9%B4%A8%E4%BF%AE%E6%AD%A3)(1).jpg",
+    "imageUrl": null,
     "deliverySummary": "滿 $800 免運"
   },
   {
@@ -68589,7 +68584,7 @@
     "orderUrl": "https://page.line.me/gzy5506t",
     "lineUrl": "https://page.line.me/gzy5506t",
     "phone": "02-2962-9057",
-    "address": "三民路二段9號(268",
+    "address": "三民路二段9號",
     "city": "新北市",
     "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-20.webp",
     "imageSource": "https://shop.ichefpos.com/store/-JH3PAqc/ordering",
@@ -69464,7 +69459,7 @@
     "deliveryMinLabel": "滿 $600 免運",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–20:00（公開資料）",
+    "hours": "約 11:00–20:00",
     "evidence": "Ocard 公開運費階梯：運送距離上限 3 公里；0–1 km 運費$60／最低$200／滿$600免運；1–2 km 運費$80／最低$200／滿$600免運；2–3 km 運費$100／最低$200／滿$600免運",
     "source": "Ocard wJdZpm",
     "orderUrl": "https://order.ocard.co/theproteinbox/wJdZpm",
@@ -71372,7 +71367,7 @@
     "deliveryMinLabel": "滿 $300",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "未公開（公開資料約 11:00–19:30 帶）",
+    "hours": "約 11:00–19:30（請先電話確認）",
     "evidence": "訂便當 公用店家訂購說明：中永和地區滿 NT$300 可外送；雙北其他地區滿 NT$600",
     "source": "dinbendon shop=534046",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=534046",
@@ -74852,7 +74847,7 @@
     "evidence": "訂便當 公開店家頁：滿300外送",
     "source": "dinbendon shop=194239",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=194239",
-    "phone": "8985-6750",
+    "phone": "02-8985-6750",
     "address": "三重中華路66號",
     "city": "新北市",
     "menu": {
@@ -75805,7 +75800,7 @@
     "evidence": "訂便當 公開店家頁：滿4個才外送",
     "source": "dinbendon shop=196281",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=196281",
-    "phone": "8285-0229",
+    "phone": "02-8285-0229",
     "address": "民族路164號",
     "city": "新北市",
     "menu": {
@@ -76804,7 +76799,7 @@
     "evidence": "訂便當 公開店家頁：六日公休、5個以上外送(僅中午)",
     "source": "dinbendon shop=635281",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=635281",
-    "phone": "2981-0285",
+    "phone": "02-2981-0285",
     "address": "三重區中正北路203號",
     "city": "新北市",
     "menu": {
@@ -76952,7 +76947,7 @@
     "evidence": "訂便當 公開店家頁：※滿3個可外送；早上10點30分前完成便當訂購",
     "source": "dinbendon shop=499529",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=499529",
-    "phone": "2995-0795",
+    "phone": "02-2995-0795",
     "address": "重區五谷王南街46巷24號",
     "city": "新北市",
     "menu": {
@@ -77004,7 +76999,7 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=499529",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.facebook.com/%E4%BA%8C%E5%A6",
+    "officialUrl": null,
     "deliverySummary": "3 個以上就外送"
   },
   {
@@ -77323,7 +77318,7 @@
     "evidence": "訂便當 公開店家頁：中和區滿200外送；09:00-12:00，16:00~18:30",
     "source": "dinbendon shop=606494",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=606494",
-    "phone": "8969-7199",
+    "phone": "02-8969-7199",
     "address": "板橋區民權路202巷13弄1號",
     "city": "新北市",
     "menu": {
@@ -77660,8 +77655,8 @@
     "evidence": "訂便當 公開店家頁：滿300元外送",
     "source": "dinbendon shop=590317",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=590317",
-    "phone": "2942-4211",
-    "address": "中和區仁愛路15號(另鏡像列仁愛街15號",
+    "phone": "02-2942-4211",
+    "address": "中和區仁愛路15號",
     "city": "新北市",
     "menu": {
       "items": [
@@ -77967,7 +77962,7 @@
     "evidence": "訂便當 公開店家頁：訂購說明 五個以上外送（請提早半小時預定）",
     "source": "dinbendon shop=496253",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=496253",
-    "phone": "8668-5518",
+    "phone": "02-8668-5518",
     "address": "和平街182號1",
     "city": "新北市",
     "menu": {
@@ -78155,7 +78150,7 @@
     "evidence": "訂便當 公開店家頁：滿10才送；太晚訂不到",
     "source": "dinbendon shop=155273",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=155273",
-    "phone": "82214309",
+    "phone": "02-8221-4309",
     "address": "連城路479號",
     "city": "新北市",
     "menu": {
@@ -80820,7 +80815,7 @@
     "evidence": "訂便當 公開店家頁：滿5個才有外送",
     "source": "dinbendon shop=240795",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=240795",
-    "phone": "8522-2867",
+    "phone": "02-8522-2867",
     "address": "化成路648號",
     "city": "新北市",
     "menu": {
@@ -81076,7 +81071,7 @@
     "evidence": "訂便當店家介紹：300外送；店家公告 註不送五股工業區",
     "source": "dinbendon shop=301542",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=301542",
-    "phone": "8993-2834",
+    "phone": "02-8993-2834",
     "address": "新莊區化成路364巷6號",
     "city": "新北市",
     "menu": {
@@ -81264,7 +81259,7 @@
     "evidence": "訂便當 公開店家頁：7-8個以上外送",
     "source": "dinbendon shop=145485",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=145485",
-    "phone": "2994-7609",
+    "phone": "02-2994-7609",
     "address": "化成路406號",
     "city": "新北市",
     "menu": {
@@ -81402,7 +81397,7 @@
     "evidence": "訂便當店家介紹／公用頁：5個以上外送（食記另見滿500說法；本列以 訂便當 個數句為準）",
     "source": "dinbendon shop=408801",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=408801",
-    "phone": "2277-2178",
+    "phone": "02-2277-2178",
     "address": "新莊區化成路566號",
     "city": "新北市",
     "menu": {
@@ -89597,8 +89592,8 @@
     "phone": "02-2962-2626",
     "address": "板橋區國慶路133號",
     "city": "新北市",
-    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-252.webp",
-    "imageSource": "https://www.facebook.com/groups/dinbendon/posts/1604809120548163/",
+    "imageUrl": null,
+    "imageSource": null,
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/623804361_3143950679144995_1915759339097769634_n.jpg?stp=dst-jpg_tt6&cstp=mx1567x1045&ctp=p600x600&_nc_cat=108&ccb=1-7&_nc_sid=6376bf&_nc_ohc=bB0a63ZQYkoQ7kNvwE8e4OD&_nc_oc=AdqeG0ADYOfVcfDTu4PEQfI0wDyJNlg3148MgBEjV9If-BQEyGuKLvUJ0VtBxSd5wiYKw1-AngYzzeSlAMOyoK8Q&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=Cc8f_1rp5IyL4k7zfRVrPQ&_nc_ss=7b20f&oh=00_AQMg7lN-WGQuPiOpKq7A8VZU9Ws6Ija7d1Lq0_8qf_AV-g&oe=6ADE780C",
     "imageCheckedAt": "2026-10-21",
     "menu": {
@@ -110174,7 +110169,7 @@
     "deliveryMinLabel": "滿 $800",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–22:00（公開頁／地圖）",
+    "hours": "約 11:00–22:00",
     "evidence": "訂便當 公用店家頁／搜尋摘要：＊滿800元外送免運",
     "source": "dinbendon shop=362354；footinder／bizlion 交叉電話",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=362354",
@@ -110313,7 +110308,7 @@
     "source": "dinbendon shop=636827",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=636827",
     "phone": "0989-690-818",
-    "address": "連興街67號(摘要「67號",
+    "address": "連興街67號",
     "city": "新北市",
     "menu": {
       "items": [
@@ -111796,7 +111791,7 @@
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–21:00（公開地圖）",
+    "hours": "約 11:00–21:00",
     "evidence": "訂便當店家公告：滿500以上外送~；送達新北市新莊區",
     "source": "dinbendon shop=270767 notice；食記交叉滿500",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=270767",
@@ -115603,7 +115598,7 @@
     "source": "dinbendon shop=343291",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=343291",
     "phone": "02-2625-9611",
-    "address": "北新路182巷41弄4號1樓(異於隔壁弄6",
+    "address": "北新路182巷41弄4號1樓",
     "city": "新北市",
     "menu": {
       "items": [
@@ -117545,7 +117540,7 @@
     "evidence": "訂便當店家公告／店家介紹：5個可外送",
     "source": "dinbendon shop=393035",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=393035",
-    "phone": "2218-6767",
+    "phone": "02-2218-6767",
     "address": "中正路503之1號",
     "city": "新北市",
     "menu": {
@@ -118048,7 +118043,7 @@
     "evidence": "訂便當店家公告：600外送",
     "source": "dinbendon shop=647314",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=647314",
-    "phone": "2992-2222",
+    "phone": "02-2992-2222",
     "address": "福壽街170號",
     "city": "新北市",
     "menu": {
@@ -118236,7 +118231,7 @@
     "hours": "09:00–14:00／16:00–20:30；週日休",
     "evidence": "便當網頁原文：300元以上外送；跨區／車程15分鐘以上電洽",
     "source": "268web Part=242005",
-    "phone": "2277-8393",
+    "phone": "02-2277-8393",
     "address": "中港路361號",
     "city": "新北市",
     "deliverySummary": "滿 $300 外送"
@@ -118264,7 +118259,7 @@
     "evidence": "訂便當店家介紹：滿500外送",
     "source": "dinbendon shop=391920",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=391920",
-    "phone": "8919-3577",
+    "phone": "02-8919-3577",
     "address": "大豐路4-1號",
     "city": "新北市",
     "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-462.webp",
@@ -119526,7 +119521,7 @@
     "evidence": "訂便當店家公告：滿500元外送；至少提前1小時；六日公休",
     "source": "dinbendon shop=360293",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=360293",
-    "phone": "2641-8576",
+    "phone": "02-2641-8576",
     "address": "和平街46巷8號",
     "city": "新北市",
     "menu": {
@@ -119714,7 +119709,7 @@
     "evidence": "訂便當店家公告：滿500元外送",
     "source": "dinbendon shop=162200",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=162200",
-    "phone": "2649-0776",
+    "phone": "02-2649-0776",
     "address": "汐止區樟樹一路121之2號",
     "city": "新北市",
     "menu": {
@@ -120389,7 +120384,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 10:30–23:59／週六至 24:00（iCHEF／公開資料）",
+    "hours": "約 10:30–23:59；週六至 24:00",
     "evidence": "iCHEF 店家提醒：滿額免費外送2公里內600元、3公里700元以此類推；週一–六 20:00–21:00 後不接受外送",
     "source": "iCHEF DHW3JHrT",
     "orderUrl": "https://shop.ichefpos.com/store/DHW3JHrT/ordering",
@@ -121336,7 +121331,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–20:30（公開資料）",
+    "hours": "約 11:00–20:30",
     "evidence": "iCHEF 店家提醒：消費滿 1,500 元享免運；未達金額視距離酌收；親洽門市／LINE",
     "source": "iCHEF BnUY8vJo；mabopoke.com",
     "orderUrl": "https://shop.ichefpos.com/store/BnUY8vJo/ordering",
@@ -123335,7 +123330,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "週一至週五 09:00–17:00（官網聯絡資訊）",
+    "hours": "週一至週五 09:00–17:00",
     "evidence": "官網 FAQ 明示：外送基本門檻需滿＄399；3km內［$399+運費40元］［$599免運配送］；5km內［$499+運費60元］［$1000免運配送］；7km內［$1000+運費60元］［$1500免運配送］；雙北市皆可配合外送（依距離）",
     "source": "foodieknows.com FAQ／footer",
     "orderUrl": "https://foodieknows.com/",
@@ -133172,7 +133167,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "15個以下當天9點前；量大電洽",
+    "hours": "15 個以下當天 9 點前訂；量大請電話問店家",
     "evidence": "環保局名單最低訂購／外送句：「1公里內，金額300；2公里內，金額500；3公里內，金額700」",
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2202-6699",
@@ -138243,7 +138238,7 @@
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–13:30／16:30–20:00；週日休（公開資料）",
+    "hours": "約 11:00–13:30／16:30–20:00；週日休",
     "evidence": "訂便當 公用店家明文：「滿500元外送~早點打電話訂購」",
     "source": "dinbendon shop=562078 HTML 2026-09-22；restaurantguru 電話",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=562078",
@@ -138917,7 +138912,7 @@
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–14:00／16:00–22:30（公開資料）",
+    "hours": "約 11:00–14:00／16:00–22:30",
     "evidence": "訂便當 公用店家摘要：滿500元外送",
     "source": "dinbendon shop=272512 搜尋摘要；地方情報電話",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=272512",
@@ -142112,7 +142107,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 08:00–21:00（官網門市）",
+    "hours": "約 08:00–21:00",
     "evidence": "官網活動頁明文：「外送服務：消費滿 499元，免費送到家（三公里內）」",
     "source": "pearcafe.com.tw/news-detail/96",
     "orderUrl": "https://www.pearcafe.com.tw/news-detail/96",
@@ -147310,7 +147305,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "未公開（店家頁寫 8 點營業）",
+    "hours": "約 8 點開始營業（完整時段請電話問店家）",
     "evidence": "訂便當：「300上外送」；「8點營業」",
     "source": "dinbendon；foodytw／twagoda",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=5852",
@@ -149573,11 +149568,6 @@
     "menu": {
       "items": [
         {
-          "name": "購物袋",
-          "price": 1,
-          "category": "-健康低卡便當-"
-        },
-        {
           "name": "超低卡蔬食",
           "price": 105,
           "category": "-健康低卡便當-"
@@ -151252,7 +151242,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–19:00（官網門市）",
+    "hours": "約 11:00–19:00",
     "evidence": "同品牌官網 FAQ／配送規則：「前一天下午兩點前下訂；5公里內外加30元油資，以趟計算」（中央廚房 merchant courier；與 #26 美術旗艦同規、分店電話不同）",
     "source": "can-do.com.tw",
     "orderUrl": "https://www.can-do.com.tw/content-63.html",
@@ -151281,7 +151271,7 @@
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–14:00、17:00–21:00（週二公休；Inline／官網）",
+    "hours": "約 11:00–14:00、17:00–21:00；週二公休",
     "evidence": "Oddle computerUse 結帳／優惠文案 verbatim：「外送10公里內滿$1000享免運! (請記得勾選優惠方案，年菜恕不適用)」；「外送滿$1000即享免運! (外送10km內，依系統判定為主，年菜恕不適用)」；購物車 最低訂購 NT$500（測試三民九如一613 運費 NT$110）",
     "source": "Oddle CU；cixiangting.oddle.me；cxt-vegan.tw",
     "orderUrl": "https://cixiangting.oddle.me/zh_TW",
@@ -155155,7 +155145,7 @@
     "evidence": "Oddle el=true 配送區：各 zone（約 1–10KM）: 500（店家通道外送）",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://jiabena.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88632229966",
+    "phone": "03-2229966",
     "address": "桃園區中正路911號",
     "menu": {
       "items": [
@@ -155311,7 +155301,7 @@
     "evidence": "Oddle 店家頁：各 zone（約 1–8KM）: 500",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://tangmingchalou.oddle.me/zh_TW?el=true",
-    "phone": "+88633360979",
+    "phone": "03-3360979",
     "address": "桃園區中正路61號6",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/52cfbd.jpg",
     "menu": {
@@ -156589,7 +156579,7 @@
     "evidence": "Oddle el=true 配送區 ：1–3km 499；4–6km 799；7–8／10km 1000；11公里 3000（另見 deliveryFreeAfter）",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://unagi8080.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88632870044",
+    "phone": "03-2870044",
     "address": "區橫峰里大成路二段100號2樓之11",
     "menu": {
       "items": [
@@ -156693,7 +156683,7 @@
     "evidence": "Oddle 店家頁：1公里 min 300；3公里 600；6公里 800",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://fengji.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88633012152",
+    "phone": "03-3012152",
     "address": "桃園區莊敬路二段108號",
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-59.webp",
     "imageSource": "https://fengji.oddle.me/zh_TW",
@@ -157001,7 +156991,7 @@
     "evidence": "食記明示：「點滿三個便當就有外送的服務」／「三個便當就可以外送」",
     "source": "viviyu 2020-04；appletrees 舊址文",
     "phone": "03-346-5388",
-    "address": "永安路354號(2020",
+    "address": "永安路354號",
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-67.webp",
     "imageSource": "https://www.facebook.com/people/%E5%8B%A4%E8%A8%98%E7%87%92%E8%87%98%E4%BE%BF%E7%95%B6%E5%BA%97%E6%B0%B8%E5%AE%89%E8%B7%AF%E7%B8%BD%E5%BA%97/100063815843864",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/305816214_505078048296052_8568907807550350810_n.jpg?stp=dst-jpg_tt6&cstp=mx1061x1044&ctp=s720x720&_nc_cat=110&ccb=1-7&_nc_sid=3ab345&_nc_ohc=MweaZx2tYZAQ7kNvwGPLfJV&_nc_oc=Adr70SxNuuv1yW0CQVB4NNXvysNkqnhL6hABL4nku2nmoPHJVTsAC4HVzT46iq9p62g5Cf4FZzp5uNiXhjRC7MNo&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=suPRszZl2NvsNYv29BSwMA&_nc_ss=7b20f&oh=00_AQO6ZXBVovkQYUIPbFmR4VzrVXvsLF_r-9edYdq_J9UqcQ&oe=6ADE6E6F",
@@ -157031,7 +157021,7 @@
     "evidence": "Oddle 店家頁：配送範圍 1–5km（最低消費 $0；仍為店家通道外送）",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": null,
-    "phone": "+88633358085",
+    "phone": "03-3358085",
     "address": "桃園區中華路71號",
     "deliverySummary": "Oddle 店家頁：配送 1–5 公里，最低消費 $0"
   },
@@ -157528,11 +157518,6 @@
     "menu": {
       "items": [
         {
-          "name": "購物袋",
-          "price": 2,
-          "category": "塑膠袋"
-        },
-        {
           "name": "NEW-辣炒起司雞",
           "price": 149,
           "category": "主餐"
@@ -157709,7 +157694,7 @@
     "evidence": "Oddle 店家頁：開放外送；配送區示例 3KM／6KM : 1000（cost 60／120）",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://lemongrass.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88633337199",
+    "phone": "03-3337199",
     "address": "桃園區成功路一段29號2",
     "menu": {
       "items": [
@@ -157899,7 +157884,7 @@
     "evidence": "Oddle 店家頁：開放外送；1公里 500；2–7km／新莊八公里等 zone min 600（另有冷凍宅配專區不計）",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://chinanortheastpot.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88633272585",
+    "phone": "03-3272585",
     "address": "龜山區興華二街15號1",
     "menu": {
       "items": [
@@ -158279,7 +158264,7 @@
     "evidence": "Oddle 店家頁：開放外送；1km min 500；4–5km 650；8–10km 900；11–15km 1000 等梯次",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://mykonos256.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88634882638",
+    "phone": "03-4882638",
     "address": "楊梅區新農街256號",
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-77.webp",
     "imageSource": "https://www.facebook.com/Mykonos256",
@@ -158648,7 +158633,7 @@
     "evidence": "Oddle 店家頁：開放外送；1／4KM min 580；5–6km 600；7km 650；10km 700；11–12km 750；13–14km 800 等",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://potdance.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88633270255",
+    "phone": "03-3270255",
     "address": "龜山區文化三路368號1",
     "menu": {
       "items": [
@@ -158838,7 +158823,7 @@
     "evidence": "Oddle 店家頁：開放外送；各 zone（1–4KM／林口8KM／蘆竹9KM／桃園+龜山+部分鶯歌15KM）: 500",
     "source": "Oddle dump 2026-09-22",
     "orderUrl": "https://meilicafe.oddle.me/zh_TW/stores?el=true",
-    "phone": "+88633187253",
+    "phone": "03-3187253",
     "address": "龜山區復興北路20號",
     "menu": {
       "items": [
@@ -159526,7 +159511,7 @@
     "source": "dinbendon；footinder",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=196322",
     "phone": "06-5115-650",
-    "address": "台南市新市區大順三路125號2F(部分來源寫127號2",
+    "address": "台南市新市區大順三路125號2F",
     "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-4.webp",
     "imageSource": "https://www.facebook.com/e.do.la.2f",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/465913980_992597256216908_845552769268795577_n.jpg?stp=dst-jpg_tt6&cstp=mx1181x1076&ctp=s720x720&_nc_cat=100&ccb=1-7&_nc_sid=3ab345&_nc_ohc=jLaa1aev1CwQ7kNvwGpeEGL&_nc_oc=AdrSWHzK_nid3i7LwK9EFCPZyoEbHZOvF4D3nmeXn7b3T56UgYP-DMnRMQGf3UkDlK2lDr3BdAj74DAR1WLUz7Xf&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=lQT0jAnk56U2FmddKUS6gw&_nc_ss=7b20f&oh=00_AQMfYGNx2dt0Dpmm72G9X9pMA55PLV5LtwQeQb1qZQrATA&oe=6ADE5A0E",
@@ -167151,7 +167136,7 @@
     "deliveryMinLabel": "滿 $200",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 11:00–14:00、17:00–20:30（官網檔）",
+    "hours": "約 11:00–14:00、17:00–20:30",
     "evidence": "eatmary 防疫便當整理明示：「滿$200，3公里內可外送」",
     "source": "eatmary；cxt-vegan",
     "orderUrl": "https://cxt-vegan.tw/",
@@ -173773,7 +173758,7 @@
     "evidence": "2021 防疫懶人包明示：「香山牛埔地區3碗外送、市區15碗可外送、請於10:30之前來電」",
     "source": "y00.tw/takeout 2021",
     "phone": "03-530-1390",
-    "address": "新竹市香山區牛埔路396號(2021",
+    "address": "新竹市香山區牛埔路396號",
     "imageUrl": "https://zisong.tw/assets/shops/hc-scout-lead-54.webp",
     "imageSource": "https://shop.ichefpos.com/store/2J81T7aU/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/02c08a19-28fc-4bf4-857c-ff26d69a5446/6c992d06-c853-11ef-8b05-0242ac110002.jpeg?channel=online-restaurant",
@@ -177353,7 +177338,7 @@
     "deliveryMinLabel": "滿 $250",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 10:00–18:00；週日／國定公休；售完提早打烊（FB 引文）",
+    "hours": "約 10:00–18:00；週日／國定假日公休；售完提早打烊",
     "evidence": "目錄／FB 引文明示：「新竹市(園區)滿250元可外送」；「20盒以上請提前一天預訂」；外送電話同門市",
     "source": "needmorefood 引 FB；fonfood／目錄",
     "phone": "0972-866-086",
@@ -182690,7 +182675,7 @@
     "evidence": "懶人包／情報整理摘要：「3公里內滿500元可外送」（3–4 公里門檻各源寫法不一，曾見滿800／1000 — 請電話確認）",
     "source": "tag.gotoformosa／txg 彙整摘要",
     "phone": "04-885-3602",
-    "address": "見地址溪湖鎮二溪路一段88號",
+    "address": "溪湖鎮二溪路一段88號",
     "deliverySummary": "滿 $500 外送（依距離或地區不同，請先電話確認）"
   },
   {
@@ -184052,7 +184037,7 @@
     "evidence": "ikiwi 明示：「消費滿10個便當，自送」",
     "source": "ikiwi.tw/take-out-lunch-yuanlin-foods；beri.tw/pakupaku 2025-07",
     "phone": "04-836-3250",
-    "address": "見地址員林市中山路二段50號1",
+    "address": "員林市中山路二段50號1",
     "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-33.webp",
     "imageSource": "https://www.facebook.com/PAKUPAKUYakinikuDon/posts/413576106750636/",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t1.6435-9/186506441_413576063417307_2777599841248762345_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=90XeTpnWgl4Q7kNvwGjWqst&_nc_oc=AdoU6y8HQ_fLWivaqUW074ZAApj4RiTPsAI4TaaxkCZCNuRpp8tTUxa8aktU3OVT-kdPElcLVFcTxYnCfel7pZ2z&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=v_s_KvcpcCRvmYeFew7PJw&_nc_ss=7b20f&oh=00_AQNnlxGeaqKvZllfVsfLv-JYcor2Mrmpd3TNY-MUicDJGg&oe=6AFFFEC6",
@@ -184451,7 +184436,7 @@
     "evidence": "懶人包明示：「五百公尺內滿百免費外送」／外帶自取曾註 79 折（活動句另計）",
     "source": "ieatcandy.tw/yuanlin 2021-05；needmorefood／gotoformosa 電話彙整",
     "phone": "04-833-8602",
-    "address": "見地址員林市大同路250號"
+    "address": "員林市大同路250號"
   },
   {
     "id": "ch-scout-lead-48",
@@ -184507,7 +184492,7 @@
     "evidence": "情報整理明示：「另外也有做便當外送服務滿500元就可以了」",
     "source": "taiwaneast／txg 溪湖滷肉／焢肉彙整；footinder",
     "phone": "0956-662-777",
-    "address": "見地址溪湖鎮員鹿路一段458–459/459號",
+    "address": "溪湖鎮員鹿路一段458–459/459號",
     "deliverySummary": "滿 $500 外送"
   },
   {
@@ -185123,7 +185108,7 @@
     "orderUrl": "https://shop.ichefpos.com/store/GYYnBipf/ordering",
     "lineUrl": "https://page.line.me/636kwpin",
     "phone": "05-2326624",
-    "address": "嘉義市西區八德路157號(舊址民生南路107號",
+    "address": "嘉義市西區八德路157號",
     "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-19.webp",
     "imageSource": "https://shop.ichefpos.com/store/GYYnBipf/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3c018168-8297-473e-a878-578c70b778c2/1e8213b8-4d78-11ef-8e6f-0242ac110002.jpeg?channel=online-restaurant",
@@ -186973,7 +186958,7 @@
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "週六、日公休（2021 年資料）；現行工時 請來電確認",
+    "hours": "週六、日公休（2021 年資料）；現在的營業時間請電話問店家",
     "evidence": "2021 防疫懶人包明示：「滿500即可外送～《外送請於10點前訂餐》 限（斗六市區）（工業區需滿1000）」；大量訂餐前三天預訂",
     "source": "twobaby.tw 2021-05",
     "phone": "05-5360910",
@@ -187087,7 +187072,7 @@
     "evidence": "2021 防疫懶人包明示：「防疫期間消費滿（100）市區可外送」",
     "source": "twobaby.tw 2021-05",
     "phone": "0983-477-617",
-    "address": "吆鬼街)64號"
+    "address": "雲林縣斗六市雲林溪攤販臨時集中場（第二期）第62、64號攤位（雲林溪美食廣場）"
   },
   {
     "id": "yl-scout-lead-15",
@@ -187954,7 +187939,7 @@
     "deliveryMinLabel": "滿 $200",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "約 10:00–14:00、16:00–20:30；部分資料週日休",
+    "hours": "約 10:00–14:00、16:00–20:30；週日可能公休（請先電話確認）",
     "evidence": "多家整理引 FB 粉專 About／店卡明示：「西螺附近滿200以上均可外送!!」；「較遠需滿300以上」",
     "source": "taiwaneast／lovekhc 引 FB；iwans／footinder 店卡",
     "phone": "05-5865819",
@@ -187982,7 +187967,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "平日約 11:00–14:00、17:00–21:00；假日／國定約 11:00–21:00；全年無休（粉專／鏡像）",
+    "hours": "平日約 11:00–14:00、17:00–21:00；假日／國定假日約 11:00–21:00；全年無休（以粉專為準）",
     "evidence": "FB 公告（toplocalplaces 鏡像）明示：「1.麥寮市區內 不限金額即可外送」；「2.六輕 滿1000即可外送」；另見較早句「六輕滿十份餐即可外送」及「市區街上一份餐點也有外送」— 以編號公告為準",
     "source": "toplocalplaces FB 鏡像；needmorefood／opengovtw",
     "phone": "05-6938633",
@@ -188407,7 +188392,7 @@
     "source": "dinbendon（最後修改 2024/11/21）",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=589972",
     "phone": "0978-838-956",
-    "address": "南投縣埔里鎮中正路470號(頁面寫「470",
+    "address": "南投縣埔里鎮中正路470號",
     "menu": {
       "items": [
         {
@@ -189365,7 +189350,7 @@
     "evidence": "FB 外送公告原文（轉載）：「即日起配合外送團隊，市區內滿600元，市區外環滿1000元免外送費」；南崗工業區請電話洽詢；未滿金額另由外送團隊收費",
     "source": "facebook.com/CHFOODGOOD 公告轉載；ningl.tw 2025-10",
     "phone": "049-230-1939",
-    "address": "南投縣草屯鎮碧山路95號(2025",
+    "address": "南投縣草屯鎮碧山路95號",
     "deliverySummary": "滿 $1000 免運"
   },
   {
@@ -189534,7 +189519,7 @@
     "evidence": "草屯外帶懶人包明示：「外送滿600元九折優惠」（滿額句＝自送門檻）",
     "source": "33onelove caotun-takeout 2021；ifoodie／食記",
     "phone": "049-231-0941",
-    "address": "南投縣草屯鎮育英街9號(勿與聯亭同址中興路283",
+    "address": "南投縣草屯鎮育英街9號",
     "deliverySummary": "滿 $600 外送"
   },
   {
@@ -190286,7 +190271,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "曾列週二至週日 11:00-13:30、17:00-20:00（每週一公休）— 現行工時請確認",
+    "hours": "過去為週二至週日 11:00-13:30、17:00-20:00（每週一公休）；現在的營業時間請電話問店家",
     "evidence": "vivawei 2021 外送懶人包明示親送門檻：「苗栗市區（不超過後龍溪）消費滿500元免費外送，如果你近近的or店家剛好閒閒的，也許不用500元也可外送，請先致電詢問不要客氣！」；另有 iCHEF 線上點餐頁",
     "source": "vivawei.tw/miaoli-takeout；asakusa-curry",
     "orderUrl": "https://shop.ichefpos.com/store/4WN_-AwX/ordering",
@@ -191075,7 +191060,7 @@
     "evidence": "vivawei 專文備註明示：「尚順/頭份市區2-3杯即可外送、竹南科學園區滿200元可外送」（2021 懶人包另寫「頭份市區滿100元」— 請以電話覆核現行）",
     "source": "vivawei.tw/beverages；vivawei.tw/miaoli-takeout",
     "phone": "037-687366",
-    "address": "苗栗縣頭份市建國路116號(2020",
+    "address": "苗栗縣頭份市建國路116號",
     "deliverySummary": "滿 $200 外送"
   },
   {
@@ -197435,7 +197420,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "10:30-13:30、16:30-21:30（表寫 16:30-09:30 疑誤；初二／十六／星期日休—以現場為準）",
+    "hours": "10:30-13:30、16:30-21:30；初二、十六、星期日休（以現場為準）",
     "evidence": "店卡明示：「滿300元鶴聲國中附近區域可外送」",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "08-7515476",
@@ -197624,7 +197609,7 @@
     "deliveryMinLabel": "滿 $300",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "疫情期間曾列 11:00-16:00（星期日公休）— 現行工時請確認",
+    "hours": "疫情期間為 11:00-16:00（星期日公休）；現在的營業時間請電話問店家",
     "evidence": "店卡明示：「屏東市區滿300元可外送」",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "0989-684-181",
@@ -197900,7 +197885,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "10:00-14:00、17:00-19:50（星期三休；以現場為準；現行工時請確認）",
+    "hours": "10:00-14:00、17:00-19:50；星期三休（以現場為準，請先電話確認）",
     "evidence": "店卡明示：「滿300元可市區外送、若不滿三百元但需要協助外送，可私訊告知地址溝通」",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "0916-479-198",
@@ -198403,7 +198388,7 @@
     "deliveryMinLabel": "滿 $100",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "9:00-21:00（星期日 18:30 後休?—表寫「星期日6:30後休」疑誤；以現場為準）",
+    "hours": "9:00-21:00；星期日約 18:30 後休息（以現場為準）",
     "evidence": "店卡明示：「店家附近買100元即可外送」",
     "source": "etaiwan.blog/groups_pingtung_list-2",
     "phone": "08-7239900",
@@ -198682,7 +198667,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "表列工時片段 10:30-01:30、17:00-19:00（星期二休—以現場為準）",
+    "hours": "營業時間不確定（約 10:30 起、晚上約 17:00-19:00）；星期二休（請先電話確認）",
     "evidence": "小鎮資訊優惠文明示：「外送600元市區」／店介 「外送600起市區」",
     "source": "news.tw789.net/st-shopnews-42",
     "phone": "0927-252-816",
@@ -199346,7 +199331,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "上午11:00～13:30、下午17:00～19:30（FB 防疫班次—以現場為準）",
+    "hours": "上午 11:00～13:30、下午 17:00～19:30（以現場為準）",
     "evidence": "FB 摘句明示：「防疫期間…提供外送服務兩碗以上可送」",
     "source": "FB 九湯屋花蓮新城北埔店；cturamen.com.tw",
     "phone": "03-826-0909",
@@ -200538,7 +200523,7 @@
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "hours": "11:00-14:15／17:00-20:00（官網文—以現場為準）",
+    "hours": "11:00-14:15／17:00-20:00（以現場為準）",
     "evidence": "官網明示：「開啟外送模式：台東市區免費外送 200公尺內，滿150元 600公尺內，滿300元」；《外送》請打電話訂餐",
     "source": "dungding.com.tw 外帶自取95折文",
     "orderUrl": "https://dungding.com.tw/",
@@ -200606,7 +200591,7 @@
     "evidence": "粉專／頁明示：「正市區滿150即外送」／複述 「市區滿150即外送」",
     "source": "hotel.twagoda.com/entry/86179626；同站 entry/87426710",
     "phone": "089-330798",
-    "address": "台東市正氣路463號(台東高商對面、50",
+    "address": "台東市正氣路463號",
     "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-5.webp",
     "imageSource": "https://shop.ichefpos.com/store/wycUH1_S/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3f528413-3d1a-4e95-8d5f-917ca23ad68d/66ea177e-ccc3-11eb-9ccc-0242ac110002.jpeg?channel=online-restaurant",
@@ -201082,7 +201067,7 @@
     "evidence": "店家 FB 首頁／資訊摘句明示：「市區便當滿三個或是滿240元有外送。」",
     "source": "taiwaneast.com/info/台東+烤鴨+便當 （FB 摘句）；zztaitung.com/20303/taitungbento（電話交叉）",
     "phone": "089-343328",
-    "address": "博愛路250號(他源亦見博愛路191",
+    "address": "博愛路250號",
     "deliverySummary": "滿 $240 外送（依距離或地區不同，請先電話確認）"
   },
   {
@@ -207881,10 +207866,6 @@
           "description": "特選牛肉切片搭配新鮮蔬菜與香料，大滿足的肉食開胃菜。\n過敏原：堅果、魚類。"
         },
         {
-          "name": "塑膠提袋",
-          "price": 2
-        },
-        {
           "name": "現搗青木瓜涼拌｜套餐加購價169元",
           "price": 169
         },
@@ -212009,10 +211990,6 @@
           "description": "紅茶與牛乳的完美比例，奶茶愛好者必點。"
         },
         {
-          "name": "加購塑膠袋",
-          "price": 2
-        },
-        {
           "name": "運費",
           "price": 5,
           "description": "運送額外收取之運費，\n需經由門市人員通知後操作。"
@@ -213950,11 +213927,6 @@
           "name": "清炒高麗菜",
           "price": 250,
           "description": "辣度：0"
-        },
-        {
-          "name": "塑膠袋",
-          "price": 2,
-          "description": "如未加購塑膠袋，外帶外送過程中所造成傾倒或灑漏等狀況概不負責。"
         },
         {
           "name": "山藥蛤蜊蒜雞湯",
@@ -219646,11 +219618,6 @@
           "description": "辣度：0"
         },
         {
-          "name": "塑膠袋",
-          "price": 2,
-          "description": "如未加購塑膠袋，外帶外送過程中所造成傾倒或灑漏等狀況概不負責。"
-        },
-        {
           "name": "山藥蛤蜊蒜雞湯",
           "price": 490,
           "description": "特選仿土雞腿，搭配養生山藥、飽滿蛤蜊及酥炸黃金蒜仁一同熬煮，集鮮、香、甜於一鍋。\n◎ 過敏原：奶、蛋、酒、大豆、螺貝類"
@@ -220479,10 +220446,6 @@
           "price": 20
         },
         {
-          "name": "加購塑膠袋",
-          "price": 2
-        },
-        {
           "name": "運費",
           "price": 5,
           "description": "運送額外收取之運費，\n需經由門市人員通知後操作。"
@@ -221272,7 +221235,7 @@
     "source": "twagoda／社群轉載",
     "address": "中山北路一段156之3號",
     "phone": "02-8631-6622",
-    "hours": "午餐／晚餐時段（確切表請電洽；無完整官方工時表）",
+    "hours": "午餐／晚餐時段（確切時間請電話問店家）",
     "deliverySummary": "市區滿150（沙崙／紅樹林250）"
   },
   {
@@ -221414,7 +221377,7 @@
     "source": "dinbendon shop=317432; FB 乾隆福隆泰山",
     "address": "明志路一段453號",
     "phone": "02-8531-5611",
-    "hours": "午餐／晚餐時段（確切表請電洽）",
+    "hours": "午餐／晚餐時段（確切時間請電話問店家）",
     "orderUrl": "https://dinbendon.net/do/idine?shop=317432",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
@@ -221528,7 +221491,7 @@
     "source": "dinbendon shop=603210; wu-tau.com id=411",
     "address": "明志路三段84號1樓",
     "phone": "02-2902-5555",
-    "hours": "門市時段以悟饕官網／電洽為準",
+    "hours": "門市時段以悟饕官網為準，或請電話問店家",
     "orderUrl": "https://dinbendon.net/do/idine?shop=603210",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
@@ -221776,7 +221739,7 @@
     "source": "dinbendon shop=90818; wu-tau.com id=72",
     "address": "連興街134號",
     "phone": "02-2642-7917",
-    "hours": "門市時段以悟饕官網／電洽為準",
+    "hours": "門市時段以悟饕官網為準，或請電話問店家",
     "orderUrl": "https://dinbendon.net/do/idine?shop=90818",
     "lineUrl": "https://page.line.me/lyr3739t",
     "freeDeliveryThreshold": null,
@@ -222322,7 +222285,7 @@
     "source": "dinbendon shop=212272 / 496678; twagoda 鮮味手工麵",
     "address": "中華路129號",
     "phone": "02-8686-6263",
-    "hours": "未公開（請電洽／以店家為準）",
+    "hours": "未公開（請電話問店家）",
     "orderUrl": "https://dinbendon.net/do/idine?shop=212272",
     "menu": {
       "items": [
@@ -232027,7 +231990,7 @@
   {
     "id": "zhubei-freeze-20261002-018",
     "slug": "台北迪化街-大腸紅麵線-竹北",
-    "name": "台北迪化街  大腸紅麵線",
+    "name": "台北迪化街 大腸紅麵線",
     "city": "新竹縣",
     "district": "竹北市",
     "cuisine": "麵食",
@@ -241826,7 +241789,7 @@
       "麵食",
       "中式"
     ],
-    "phone": "2505-4736",
+    "phone": "02-2505-4736",
     "orderUrl": "https://dinbendon.net/do/idine?shop=116022",
     "evidence": "訂便當店家頁公開外送條件：「500元以上外送；11:00以前訂。」；店家頁地址 台北市錦州街、電話 2505-4736；店家資料最後更新 2026/02/06。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=116022；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -242002,7 +241965,7 @@
       "越南河粉",
       "東南亞"
     ],
-    "phone": "25076528",
+    "phone": "02-2507-6528",
     "orderUrl": "https://dinbendon.net/do/idine?shop=381478",
     "evidence": "訂便當店家頁公開外送條件：「700外送，」；店家頁地址 台北市中山區建國北路二段6巷21號、電話 25076528；店家資料最後更新 2025/10/28。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=381478；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -242315,7 +242278,7 @@
       "麵食",
       "中式"
     ],
-    "phone": "27120016",
+    "phone": "02-2712-0016",
     "orderUrl": "https://dinbendon.net/do/idine?shop=306252",
     "evidence": "訂便當店家頁公開外送條件：「滿600外送」；店家頁地址 台北市興安街161-1號、電話 27120016；店家資料最後更新 2026/09/17。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=306252；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -242476,7 +242439,7 @@
       "便當",
       "中式"
     ],
-    "phone": "2777 2468",
+    "phone": "02-2777-2468",
     "orderUrl": "https://dinbendon.net/do/idine?shop=252431",
     "evidence": "訂便當店家頁公開外送條件：「松山區1000元以上外送。」；店家頁地址 台北市長安東路二段230號、電話 2777 2468；店家資料最後更新 2026/01/11。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=252431；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -242745,7 +242708,7 @@
       "小吃",
       "中式"
     ],
-    "phone": "2503-4149",
+    "phone": "02-2503-4149",
     "orderUrl": "https://dinbendon.net/do/idine?shop=392662",
     "evidence": "訂便當店家頁公開外送條件：「500以上外送」；店家頁地址 台北市松山區伊通街135號1樓、電話 2503-4149, 2503-1386；店家資料最後更新 2026/09/02。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=392662；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -242877,7 +242840,7 @@
       "小吃",
       "中式"
     ],
-    "phone": "25175316",
+    "phone": "02-2517-5316",
     "orderUrl": "https://dinbendon.net/do/idine?shop=188228",
     "evidence": "訂便當店家頁公開外送條件：「500以上可以外送」；店家頁地址 台北市錦州街455號、電話 25175316；店家資料最後更新 2025/12/29。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=188228；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -243264,7 +243227,7 @@
       "麵食",
       "中式"
     ],
-    "phone": "27714679",
+    "phone": "02-2771-4679",
     "orderUrl": "https://dinbendon.net/do/idine?shop=282296",
     "evidence": "訂便當店家頁公開外送條件：「滿700元可外送」；店家頁地址 台北市大安區忠孝東路3段217巷2弄1號、電話 27714679；店家資料最後更新 2026/03/27。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=282296；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -244427,7 +244390,7 @@
       "麵食",
       "東南亞"
     ],
-    "phone": "27267627",
+    "phone": "02-2726-7627",
     "orderUrl": "https://dinbendon.net/do/idine?shop=411543",
     "evidence": "訂便當店家頁公開外送條件：「800以上外送」；店家頁地址 台北市信義區信義路六段102號、電話 27267627；店家資料最後更新 2026/02/23。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=411543；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -244755,7 +244718,7 @@
       "便當",
       "麵食"
     ],
-    "phone": "2762-1666",
+    "phone": "02-2762-1666",
     "orderUrl": "https://dinbendon.net/do/idine?shop=146209",
     "evidence": "訂便當店家頁公開外送條件：「滿700元可外送，請於 上午 10:30前來電」；店家頁地址 台北市忠孝東路五段143號、電話 2762-1666，2756-6608；店家資料最後更新 2026/02/13。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=146209；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -246283,7 +246246,7 @@
       "小吃",
       "中式"
     ],
-    "phone": "28819391",
+    "phone": "02-2881-9391",
     "orderUrl": "https://dinbendon.net/do/idine?shop=618836",
     "evidence": "訂便當店家頁公開外送條件：「滿350外送，實際請詢問店家」；店家頁地址 台北市士林區大南路303號、電話 28819391；店家資料最後更新 2025/10/07。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=618836；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -247214,7 +247177,7 @@
       "麵食",
       "中式"
     ],
-    "phone": "2871-7818",
+    "phone": "02-2871-7818",
     "orderUrl": "https://dinbendon.net/do/idine?shop=633925",
     "evidence": "訂便當店家頁公開外送條件：「滿500外送」；店家頁地址 台北市士林區天玉街3號、電話 2871-7818, 2877-1967；店家資料最後更新 2026/04/08。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=633925；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -251411,7 +251374,7 @@
       "便當",
       "中式"
     ],
-    "phone": "27836889",
+    "phone": "02-2783-6889",
     "orderUrl": "https://dinbendon.net/do/idine?shop=612463",
     "evidence": "訂便當店家頁公開外送條件：「2公里內滿600元/3公里內滿1000元即可外送」；店家頁地址 台北市南港區新明街55號、電話 27836889；店家資料最後更新 2026/06/08。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=612463；Checked: 2026-10-22；Batch: 20261022-daily",
@@ -355575,11 +355538,6 @@
           "category": "單點"
         },
         {
-          "name": "塑膠袋",
-          "price": 1,
-          "category": "單點"
-        },
-        {
           "name": "檸檬愛玉",
           "price": 30,
           "category": "飲料"
@@ -373153,7 +373111,7 @@
   {
     "id": "dbd-352285",
     "slug": "New內湖巧食雞碳烤雞排",
-    "name": "New內湖巧食雞碳烤雞排",
+    "name": "內湖巧食雞碳烤雞排",
     "district": "內湖區",
     "address": "內湖路一段285巷68弄9號",
     "cuisine": "雞排、小吃",
@@ -373888,7 +373846,7 @@
   {
     "id": "dbd-131651",
     "slug": "蕭記-無人知影",
-    "name": "蕭記　無人知影",
+    "name": "蕭記 無人知影",
     "district": "內湖區",
     "address": "內湖路1段285巷65弄7號",
     "cuisine": "便當、麵食、中式",
