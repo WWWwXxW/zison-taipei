@@ -823,7 +823,7 @@
     while ((m = re.exec(text))) {
       out += escapeHtml(text.slice(last, m.index));
       var url = m[0];
-      out += '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(url) + '</a>';
+      out += '<a href="' + escapeHtml(url) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(/line\.me|lin\.ee/i.test(url) ? lineLinkText(url) : linkLabel(url)) + '</a>';
       last = m.index + url.length;
     }
     out += escapeHtml(text.slice(last));
@@ -831,11 +831,16 @@
   }
 
   /** LINE wording from the sourced note, else the existing account link. */
+  function lineLinkText(u) {
+    var m = /(@[A-Za-z0-9._\-]+)/.exec(decodeURIComponent(String(u || '').replace(/%(?![0-9A-Fa-f]{2})/g, '%25')));
+    return m ? '加 LINE 好友（' + m[1] + '）' : '加 LINE 好友';
+  }
+
   function detailLineHtml(r) {
     var note = r.line != null ? String(r.line).trim() : '';
     if (note) return linkifyText(note);
     if (r.lineUrl) {
-      return '<a href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(r.lineUrl) + '</a>';
+      return '<a href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(lineLinkText(r.lineUrl)) + '</a>';
     }
     if (r.lineId) return escapeHtml(r.lineId);
     return null;
@@ -861,6 +866,15 @@
     if (/facebook\.com|instagram\.com/i.test(u)) return '店家粉專';
     if (/dinbendon|oddle\.me|eatogo|ichefpos|ocard\.co|nidin\.shop|inline\.app|bendon-dao|quickclick|iding\.tw|imenu\.com|dudooeat/i.test(u)) return button ? '店家菜單・訂餐頁' : '店家菜單頁';
     return button ? '官網・菜單' : '店家官網';
+  }
+
+  /** Readable link text: label + host, instead of the raw URL. */
+  function linkLabel(u) {
+    var host = '';
+    var m = /^https?:\/\/([^\/?#:]+)/i.exec(String(u || ''));
+    if (m) host = m[1].replace(/^www\./i, '');
+    var label = officialLabel(u, false);
+    return host ? label + '（' + host + '）' : label;
   }
 
   function menuPriceText(price) {
@@ -1039,8 +1053,8 @@
           row('外送條件', r.deliveryNote) +
           row('外送費', feeText || null) +
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
-          row('官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(r.officialUrl) + '</a>') : null, true) +
-          row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(oh) + '</a>') : null, true) +
+          row('官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(r.officialUrl)) + '</a>') : null, true) +
+          row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(oh)) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
           row('營業時間', readerHours(r.hours) || null) +
           row('配送範圍說明', readerProse(r.range) || null) +
