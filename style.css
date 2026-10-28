@@ -1019,3 +1019,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .detail-nomenu .menu-tag{background:#f4ebdc;color:#5f4430;border-radius:999px;padding:6px 12px;font-size:15px;font-weight:600}
 .detail-nomenu .menu-ask{font-size:15px;margin:6px 0 4px;line-height:1.7}
 .detail-nomenu .menu-ask a{text-decoration:underline;text-underline-offset:3px}
+/* 2026-10-28 導覽頁清單：訂餐／電話改成看得到的按鈕 */
+.prose li .guide-actions{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
+.prose li .guide-actions .btn{margin-top:0;min-height:40px;padding:8px 14px;font-size:14px;text-decoration:none}
