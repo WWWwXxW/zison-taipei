@@ -366019,7 +366019,7 @@
     "confidence": "medium",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "華固10:00前訂購且MOV500可外送",
+    "deliveryMinLabel": "華固 10:00 前訂、滿 $500 可外送",
     "city": "新北市",
     "orderChannel": "dinbendon",
     "menu": {
@@ -366097,7 +366097,7 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=441021",
     "menuCheckedAt": "2026-10-24",
-    "deliverySummary": "華固10:00前訂購且MOV500可外送"
+    "deliverySummary": "華固 10:00 前訂、滿 $500 可外送"
   },
   {
     "id": "dbd-521990",
