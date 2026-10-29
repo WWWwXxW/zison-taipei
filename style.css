@@ -1022,3 +1022,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 /* 2026-10-28 導覽頁清單：訂餐／電話改成看得到的按鈕 */
 .prose li .guide-actions{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
 .prose li .guide-actions .btn{margin-top:0;min-height:40px;padding:8px 14px;font-size:14px;text-decoration:none}
+
+/* two back-links side by side (回目錄 + 行政區頁) */
+.back-link + .back-link{margin-left:16px}
