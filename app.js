@@ -162,6 +162,20 @@
     return t;
   }
 
+  var HOURS_RE = /\d{1,2}\s*[:：]\s*\d{2}|\d{1,2}\s*(點|時)|公休|店休|休息|全天|24\s*小時|營業|早上|中午|晚上|午餐|晚餐|上午|下午/;
+  var EVIDENCE_EN = [[/\bdelivery\s*&\s*pickup\b/gi, '外送與自取'], [/\bWe deliver\b/g, '有外送'], [/\bDelivery\s*\((?:restaurant|store)\)/g, '外送'], [/\bDelivery／Pickup\b/g, '外送／自取'], [/\bnon-?pickup\b|非\s*pickup(?:-only)?/gi, '非僅自取'], [/\bpickup-only\b/gi, '僅自取'], [/\bpickup\b/gi, '自取'], [/\bDelivery\b/gi, '外送'], [/最低訂購\s*total/g, '最低訂購金額'], [/\btotal\b/g, '金額'], [/頁面\s*JSON/g, '頁面資料'], [/\bJSON\b/g, '資料'], [/\bcanon\b/g, '同名'], [/\bOfficial Account\b|\bal Account\b/g, '官方帳號']];
+  /** 收錄依據: drop dangling 「來源：」, empty 「：、、、」 lists and English field names. */
+  function readerEvidence(text) {
+    var t = readerProse(text);
+    if (!t) return '';
+    EVIDENCE_EN.forEach(function (p) { t = t.replace(p[0], p[1]); });
+    t = t.replace(/([：:])\s*(?:、\s*)+/g, '$1').replace(/(?:、\s*){2,}/g, '、');
+    t = t.replace(/[；;，,]?\s*來源[：:]\s*(?=$|[；;。])/g, '');
+    t = t.replace(/[：:]\s*(?=[；;。]|$)/g, '');
+    t = t.replace(/[；;]{2,}/g, '；').replace(/^[；;\s]+|[；;\s]+$/g, '');
+    return t;
+  }
+
   function readerProse(text) {
     if (text == null) return '';
     var t = cleanSourceJargon(String(text)).replace(/\*\*/g, '');
@@ -346,6 +360,11 @@
     return /line\.me|lin\.ee|line\.naver/i.test(u);
   }
 
+  /** dinbendon = shared group-order menu page (not the shop's own ordering);
+      bendon-dao = 便當報報 ordering platform (orderable, but not official). */
+  function groupMenuUrl(u) { return /dinbendon/i.test(String(u || '')); }
+  function bendonDaoUrl(u) { return /bendon-dao/i.test(String(u || '')); }
+
   function isOddleUrl(u) {
     if (!u) return false;
     return /oddle\.me/i.test(u);
@@ -363,7 +382,9 @@
     }
     if (isOddleUrl(r.orderUrl)) {
       chips.push('<span class="channel oddle">Oddle</span>');
-    } else if (r.orderUrl && !isLineUrl(r.orderUrl)) {
+    } else if (bendonDaoUrl(r.orderUrl)) {
+      chips.push('<span class="channel web">便當報報</span>');
+    } else if (r.orderUrl && !isLineUrl(r.orderUrl) && !groupMenuUrl(r.orderUrl)) {
       chips.push('<span class="channel web">官網</span>');
     }
     if (!chips.length) return '';
@@ -371,9 +392,11 @@
   }
 
   /** Delivery chips: 起送 primary; 免運 secondary (never the hero). */
-  function deliveryChips(r) {
+  function deliveryChips(r, inDetail) {
     var chips = [];
     var label = r.deliveryMinLabel;
+    // detail pages already print the full 外送條件 line; a sentence-long badge just repeats it
+    if (inDetail && label && String(label).trim().length > 14) label = null;
     var isFreeLabel = label && String(label).indexOf('免運') !== -1;
     if (label && String(label).trim() && label !== '未知' && String(label).toUpperCase() !== 'UNKNOWN' && !isFreeLabel) {
       chips.push('<span class="badge delivery-min">' + escapeHtml(label) + '</span>');
@@ -450,11 +473,15 @@
 
     var actions = [];
     var oh = orderHref(r);
-    if (oh) {
-      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐 ↗</a>');
+    var menuOnly = oh && groupMenuUrl(oh);
+    if (oh && !menuOnly) {
+      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + (bendonDaoUrl(oh) ? '前往訂餐（便當報報）↗' : '前往官方訂餐 ↗') + '</a>');
     }
     if (r.phone) {
-      actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
+      actions.push('<a class="btn ' + (menuOnly ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
+    }
+    if (menuOnly) {
+      actions.push('<a class="btn btn-ghost" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">看菜單（訂便當網）↗</a>');
     }
     actions.push('<a class="btn btn-ghost" href="shop/' + encodeURIComponent(r.id) + '.html">詳情</a>');
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
@@ -863,6 +890,8 @@
   }
 
   function officialLabel(u, button) {
+    if (groupMenuUrl(u)) return button ? '看菜單（訂便當網）' : '訂便當網菜單頁';
+    if (bendonDaoUrl(u)) return button ? '前往訂餐（便當報報）' : '便當報報訂餐頁';
     if (/facebook\.com|instagram\.com/i.test(u)) return '店家粉專';
     if (/dinbendon|oddle\.me|eatogo|ichefpos|ocard\.co|nidin\.shop|inline\.app|bendon-dao|quickclick|iding\.tw|imenu\.com|dudooeat/i.test(u)) return button ? '店家菜單・訂餐頁' : '店家菜單頁';
     return button ? '官網・菜單' : '店家官網';
@@ -944,6 +973,8 @@
       if (r.officialUrl) ask += '，或看<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + officialLabel(r.officialUrl) + '</a>';
     } else if (r.officialUrl) {
       ask = '菜單請看<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + officialLabel(r.officialUrl) + '</a>';
+    } else if (r.orderUrl && groupMenuUrl(r.orderUrl)) {
+      ask = '菜單請看上方「看菜單（訂便當網）」';
     } else if (r.orderUrl || r.lineUrl) {
       ask = '菜單請看上方的店家官方訂餐頁';
     } else {
@@ -987,25 +1018,30 @@
     }
 
     var badges = placeBadges(r);
-    deliveryChips(r).forEach(function (c) { badges.push(c); });
+    deliveryChips(r, true).forEach(function (c) { badges.push(c); });
     if (r.chain) badges.push('<span class="badge chain">全國／大型連鎖</span>');
 
     var actions = [];
     var oh = orderHref(r);
+    var menuOnly = oh && groupMenuUrl(oh);
+    var phoneFirst = menuOnly || (!oh && r.officialUrl && groupMenuUrl(r.officialUrl));
+    function phoneBtns() {
+      if (!r.phone) return;
+      phoneParts(r.phone).forEach(function (p, i) {
+        var tel = phoneTel(p);
+        if (!tel) return;
+        actions.push('<a class="btn ' + (phoneFirst && i === 0 ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(tel) + '">撥打電話 ' + escapeHtml(p) + '</a>');
+      });
+    }
+    if (phoneFirst) phoneBtns();
     if (oh) {
-      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">前往官方訂餐</a>');
+      actions.push('<a class="btn ' + (menuOnly ? 'btn-ghost' : 'btn-primary') + '" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + (menuOnly ? '看菜單（訂便當網）' : bendonDaoUrl(oh) ? '前往訂餐（便當報報）' : '前往官方訂餐') + '</a>');
     }
     if (r.officialUrl && r.officialUrl !== oh) {
       var offLabel = officialLabel(r.officialUrl, true);
-      actions.push('<a class="btn ' + (oh ? 'btn-ghost' : 'btn-primary') + ' btn-official" href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + offLabel + '</a>');
+      actions.push('<a class="btn ' + ((oh && !menuOnly) || phoneFirst ? 'btn-ghost' : 'btn-primary') + ' btn-official" href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + offLabel + '</a>');
     }
-    if (r.phone) {
-      phoneParts(r.phone).forEach(function (p) {
-        var tel = phoneTel(p);
-        if (!tel) return;
-        actions.push('<a class="btn btn-ghost" href="tel:' + escapeHtml(tel) + '">撥打電話 ' + escapeHtml(p) + '</a>');
-      });
-    }
+    if (!phoneFirst) phoneBtns();
     if (r.lineUrl) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">LINE 官方帳號</a>');
     }
@@ -1053,16 +1089,16 @@
           row('外送條件', r.deliveryNote) +
           row('外送費', feeText || null) +
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
-          row('官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(r.officialUrl)) + '</a>') : null, true) +
-          row('官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(oh)) + '</a>') : null, true) +
+          row(r.officialUrl && groupMenuUrl(r.officialUrl) ? '菜單頁（第三方）' : '官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(r.officialUrl)) + '</a>') : null, true) +
+          row(oh && groupMenuUrl(oh) ? '菜單頁（第三方）' : oh && bendonDaoUrl(oh) ? '訂餐平台' : '官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(oh)) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
-          row('營業時間', readerHours(r.hours) || null) +
+          (function () { var hs = readerHours(r.hours) || null; return row(hs && !HOURS_RE.test(hs) ? '時段／預訂說明' : '營業時間', hs); })() +
           row('配送範圍說明', readerProse(r.range) || null) +
           row('免運門檻（參考）', freeText || null) +
           row('最後核對', r.checkedAt) +
           row('外送條件備註', readerProse(r.deliveryNotes) || null) +
           row('說明／條件摘要', readerTerms(r.terms) || null) +
-          row('收錄依據摘要', readerProse(r.evidence) || null) +
+          row('收錄依據摘要', readerEvidence(r.evidence) || null) +
         '</dl>' +
       '</div>';
   }
