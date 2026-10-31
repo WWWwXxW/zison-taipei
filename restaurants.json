@@ -63630,7 +63630,11 @@
       "sourceUpdated": "2026-05-13"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=532288",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-355.webp",
+    "imageSource": "https://www.facebook.com/p/%E6%97%BA%E8%A7%92%E4%B9%9D%E8%A8%98%E6%B8%AF%E5%BC%8F%E7%82%92%E9%A3%AF-100063996676313/",
+    "imageOriginal": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063996676313",
+    "imageCheckedAt": "2026-10-31"
   },
   {
     "id": "scout-lead-356",
@@ -64799,7 +64803,11 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "officialUrl": "https://www.facebook.com/AQTheBest/"
+    "officialUrl": "https://www.facebook.com/AQTheBest/",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-405.webp",
+    "imageSource": "https://www.facebook.com/AQTheBest/",
+    "imageOriginal": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100054496687722",
+    "imageCheckedAt": "2026-10-31"
   },
   {
     "id": "scout-lead-406",
@@ -70958,7 +70966,76 @@
     "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-12.webp",
     "imageSource": "https://hong-chu.com.tw/",
     "imageOriginal": "https://hong-chu.com.tw/images/menu/19.png",
-    "imageCheckedAt": "2026-10-28"
+    "imageCheckedAt": "2026-10-28",
+    "menu": {
+      "items": [
+        {
+          "name": "高檔精緻會議便當(需先預訂)",
+          "price": 250
+        },
+        {
+          "name": "會議便當(需先預訂)",
+          "price": 160
+        },
+        {
+          "name": "酥炸雞腿飯",
+          "price": 120
+        },
+        {
+          "name": "蒜泥白肉飯",
+          "price": 110
+        },
+        {
+          "name": "滷香排骨飯",
+          "price": 110
+        },
+        {
+          "name": "糖醋排骨飯",
+          "price": 100
+        },
+        {
+          "name": "滷香雞腿飯",
+          "price": 120
+        },
+        {
+          "name": "焢肉飯",
+          "price": 100
+        },
+        {
+          "name": "無骨雞排飯",
+          "price": 100
+        },
+        {
+          "name": "泰式打拋豬飯",
+          "price": 100
+        },
+        {
+          "name": "黃金排骨飯",
+          "price": 110
+        },
+        {
+          "name": "薄鹽鯖魚飯",
+          "price": 100
+        },
+        {
+          "name": "宮保雞丁飯",
+          "price": 100
+        },
+        {
+          "name": "蝦捲飯",
+          "price": 100
+        },
+        {
+          "name": "魚排飯",
+          "price": 100
+        }
+      ],
+      "source": "https://hong-chu.com.tw/product.html",
+      "fetchedOn": "2026-10-31",
+      "total": 15
+    },
+    "menuSource": "https://hong-chu.com.tw/product.html",
+    "menuCheckedAt": "2026-10-31"
   },
   {
     "id": "nt-scout-lead-13",
@@ -171089,7 +171166,12 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=610141",
     "menuCheckedAt": "2026-10-22",
     "officialUrl": "https://www.aniceholiday.com.tw/",
-    "deliverySummary": "滿 $150 外送"
+    "deliverySummary": "滿 $150 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-71.webp",
+    "imageSource": "https://www.aniceholiday.com.tw/",
+    "imageOriginal": "https://www.aniceholiday.com.tw/uploads/images/cache/06a498e2660a7f54ad96bd3fc41885c2-350x500-optimized.jpg",
+    "imageCheckedAt": "2026-10-31",
+    "imageKind": "brand"
   },
   {
     "id": "tn-scout-lead-72",
