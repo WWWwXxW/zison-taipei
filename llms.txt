@@ -62,6 +62,13 @@
 - 台北不透過外送平台、直接向店家訂餐：https://zisong.tw/guide/taipei-no-platform-delivery.html
 - 為什麼可以試試直接向店家訂外送：https://zisong.tw/guide/why-order-direct.html
 - 中山區店家自己外送／官方訂餐：https://zisong.tw/guide/zhongshan-delivery.html
-- 信義區店家自己外送／官方訂餐：https://zisong.tw/guide/xinyi-delivery.html
+- 信義便當・外送（信義區店家自己外送 112 家・依門檻排序）：https://zisong.tw/guide/xinyi-delivery.html
+- 大安便當・外送（大安區店家自己外送・依門檻排序）：https://zisong.tw/guide/daan-delivery.html
+- 內湖便當・外送（內湖區店家自己外送・依門檻排序）：https://zisong.tw/guide/neihu-delivery.html
+- 新莊便當・外送（新莊區店家自己外送・依門檻排序）：https://zisong.tw/guide/xinzhuang-delivery.html
+- 新店便當・外送（新店區店家自己外送・依門檻排序）：https://zisong.tw/guide/xindian-delivery.html
+- 中和便當・外送（中和區店家自己外送・依門檻排序）：https://zisong.tw/guide/zhonghe-delivery.html
+- 板橋便當・外送（板橋區店家自己外送・依門檻排序）：https://zisong.tw/guide/banqiao-delivery.html
+- 竹北便當・外送（竹北市店家自己外送）：https://zisong.tw/guide/zhubei-bento-delivery.html
 
 這些指南只整理 restaurants.json 中的店家資料；起送、運費、配送範圍與接單狀態可能變動，請以下單時的官方頁面或電話為準。

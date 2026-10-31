@@ -893,6 +893,7 @@
     if (groupMenuUrl(u)) return button ? '看菜單（訂便當網）' : '訂便當網菜單頁';
     if (bendonDaoUrl(u)) return button ? '前往訂餐（便當報報）' : '便當報報訂餐頁';
     if (/facebook\.com|instagram\.com/i.test(u)) return '店家粉專';
+    if (/(^|\/\/|\.)(line\.me|lin\.ee)\//i.test(u)) return button ? 'LINE 官方帳號' : 'LINE 官方帳號';
     if (/dinbendon|oddle\.me|eatogo|ichefpos|ocard\.co|nidin\.shop|inline\.app|bendon-dao|quickclick|iding\.tw|imenu\.com|dudooeat/i.test(u)) return button ? '店家菜單・訂餐頁' : '店家菜單頁';
     return button ? '官網・菜單' : '店家官網';
   }
@@ -1069,7 +1070,7 @@
         detailDeliveryHtml(r) +
         (/^https?:\/\//i.test(String(r.imageUrl || '').trim())
           ? '<figure class="shop-photo" style="margin:16px 0 8px;border-radius:12px;overflow:hidden;background:#f3ead8"><img src="' + escapeHtml(r.imageUrl) + '" alt="' + escapeHtml(r.name) + ' 餐點照片" style="display:block;width:100%;height:auto;max-height:440px;object-fit:cover" onerror="this.parentNode.hidden=true" />' +
-            '<figcaption style="font-size:12px;color:#7a6a5a;padding:6px 10px;margin:0">' + (r.imageKind === 'brand' ? '餐點照片取自品牌官方頁面（餐點示意）' : (/dinbendon\.net/.test(r.imageSource || '') ? '餐點照片取自店家在訂便當網的頁面' : '餐點照片取自店家官方頁面')) + (r.imageSource ? '（<a href="' + escapeHtml(r.imageSource) + '" target="_blank" rel="noopener noreferrer">來源</a>）' : '') + '，實際餐點以店家為準</figcaption></figure>'
+            '<figcaption style="font-size:12px;color:#7a6a5a;padding:6px 10px;margin:0">' + (r.imageKind === 'brand' ? '餐點照片取自品牌官方頁面（餐點示意）' : (/dinbendon\.net/.test(r.imageSource || '') ? '餐點照片取自店家在訂便當網的頁面' : /bendon-dao\.com/.test(r.imageSource || '') ? '餐點照片取自店家在便當報報的頁面' : /iyp\.tw/.test(r.imageSource || '') ? '餐點照片取自店家在中華黃頁的頁面' : '餐點照片取自店家官方頁面')) + (r.imageSource ? '（<a href="' + escapeHtml(r.imageSource) + '" target="_blank" rel="noopener noreferrer">來源</a>）' : '') + '，實際餐點以店家為準</figcaption></figure>'
           : '') +
         channelChips(r) +
         '<div class="notice">本站不代訂、不收款。請直接在餐廳官方網站／LINE／電話下單。外送門檻與運費以店家官方結帳頁為準。</div>' +
