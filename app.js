@@ -893,6 +893,7 @@
     if (groupMenuUrl(u)) return button ? '看菜單（訂便當網）' : '訂便當網菜單頁';
     if (bendonDaoUrl(u)) return button ? '前往訂餐（便當報報）' : '便當報報訂餐頁';
     if (/facebook\.com|instagram\.com/i.test(u)) return '店家粉專';
+    if (/(^|\/\/|\.)(line\.me|lin\.ee)\//i.test(u)) return button ? 'LINE 官方帳號' : 'LINE 官方帳號';
     if (/dinbendon|oddle\.me|eatogo|ichefpos|ocard\.co|nidin\.shop|inline\.app|bendon-dao|quickclick|iding\.tw|imenu\.com|dudooeat/i.test(u)) return button ? '店家菜單・訂餐頁' : '店家菜單頁';
     return button ? '官網・菜單' : '店家官網';
   }
