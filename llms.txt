@@ -69,6 +69,7 @@
 - 新店便當・外送（新店區店家自己外送・依門檻排序）：https://zisong.tw/guide/xindian-delivery.html
 - 中和便當・外送（中和區店家自己外送・依門檻排序）：https://zisong.tw/guide/zhonghe-delivery.html
 - 板橋便當・外送（板橋區店家自己外送・依門檻排序）：https://zisong.tw/guide/banqiao-delivery.html
+- 三重便當・外送（三重區店家自己外送・依門檻排序）：https://zisong.tw/guide/sanchong-delivery.html
 - 竹北便當・外送（竹北市店家自己外送）：https://zisong.tw/guide/zhubei-bento-delivery.html
 
 這些指南只整理 restaurants.json 中的店家資料；起送、運費、配送範圍與接單狀態可能變動，請以下單時的官方頁面或電話為準。

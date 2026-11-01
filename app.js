@@ -832,7 +832,7 @@
 
   function menuSourceName(url) {
     var u = String(url || '');
-    if (/dinbendon/i.test(u)) return '訂便當';
+    if (/dinbendon/i.test(u)) return '訂便當網';
     if (/oddle\.me/i.test(u)) return 'Oddle';
     if (/ichefpos\.com/i.test(u)) return 'iCHEF 線上點餐';
     if (/eatogo\.com\.tw/i.test(u)) return 'EATOGO';
