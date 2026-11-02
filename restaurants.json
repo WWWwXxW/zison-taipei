@@ -24786,7 +24786,7 @@
     "deliveryMinValue": 130,
     "deliveryMinLabel": "滿 $130",
     "city": "台北市",
-    "imageUrl": null,
+    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-139.webp",
     "menu": {
       "items": [
         {
@@ -24946,7 +24946,10 @@
     },
     "menuSource": "https://helencoffee.oddle.me",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $130 外送"
+    "deliverySummary": "滿 $130 外送",
+    "imageSource": "https://helencoffee.oddle.me",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/SalmonWarmSalad3843f8.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "scout-b5-140",
@@ -65964,7 +65967,11 @@
       "sourceUpdated": "2023-06-25"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=158014",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-460.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=158014",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/0bbc1137-b402-4e01-a38f-7069fea70d19.JPG",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "scout-lead-461",
@@ -433601,7 +433608,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=114915",
     "menuCheckedAt": "2026-10-28",
-    "deliverySummary": "台北市區1000元外送"
+    "deliverySummary": "台北市區1000元外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-114915.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=114915",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/3f0ae744-79b3-4913-8804-7913c62ffe47.JPG",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-414551",
@@ -453111,7 +453122,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=612022",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "滿30個飯才外送"
+    "deliverySummary": "滿30個飯才外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-612022.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=612022",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/281fe418-6f51-49f7-ada4-958cec88730b.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-576180",
@@ -465216,7 +465231,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=651309",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "3公里內滿500外送；4公里內滿1000外送；5公里內滿1500外送；如需外送，最少請於2小時前訂餐"
+    "deliverySummary": "3公里內滿500外送；4公里內滿1000外送；5公里內滿1500外送；如需外送，最少請於2小時前訂餐",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-651309.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=651309",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/ee2df375-b060-4ff2-ae86-8b1185fd4680.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-623373",
@@ -481814,7 +481833,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=278390",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "鼎盛1000元外送；亞太500元外送"
+    "deliverySummary": "鼎盛1000元外送；亞太500元外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-278390.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=278390",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/21f9b4dd-b6cd-40bb-898d-470862f746d4.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-592644",
@@ -505232,7 +505255,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=412929",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "8個外送"
+    "deliverySummary": "8個外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-412929.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=412929",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/c1571e5d-c999-4ca5-9888-2473459ae468.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-360132",
@@ -505623,7 +505650,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=314934",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "信義區600元可外送"
+    "deliverySummary": "信義區600元可外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-314934.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=314934",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/09f07179-3c33-4777-be33-b494dcb8deda.PNG",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-4788",
@@ -507724,7 +507755,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=196414",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "10:00前訂購，10份主餐始可外送，週一公休"
+    "deliverySummary": "10:00前訂購，10份主餐始可外送，週一公休",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-196414.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=196414",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/e6beab04-f807-4d0c-93b5-7b303402fd46.JPG",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-390190",
@@ -544461,7 +544496,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=359865",
     "menuCheckedAt": "2026-11-01",
-    "deliverySummary": "滿 $1,000 元 外送新竹市區，新竹科學園區"
+    "deliverySummary": "滿 $1,000 元 外送新竹市區，新竹科學園區",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-359865.webp",
+    "imageSource": "https://dinbendon.net/do/idine?shop=359865",
+    "imageOriginal": "https://dinbendon.net/localstorage/shop/6a1b381c-988f-44f9-a6c5-9ddcbf58395e.jpg",
+    "imageCheckedAt": "2026-11-02"
   },
   {
     "id": "dbd-527387",
