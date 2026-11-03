@@ -11,7 +11,10 @@
    to an image beacon. Listeners do not cancel navigation.
    2026-11-03: shop id is also read from extension-less URLs (/shop/<id>),
    and if count.js fails to load (CDN error / not ready 2 s after window
-   load) clicks are POSTed straight away instead of waiting for pagehide. */
+   load) clicks are POSTed straight away instead of waiting for pagehide.
+   Clicks inside the mobile sticky bar (nav.cta-bar[data-cta="sticky"]) keep
+   the same event name (tel-<id>/order-<id>/line-<id>) and add " #sticky" to
+   the title, so bar vs in-page buttons can be compared in GoatCounter. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
@@ -129,13 +132,14 @@
     if (a) {
       var href = a.getAttribute('href') || '';
       var id = shopId(a);
-      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page()); return; }
+      var where = a.closest('[data-cta]') ? ' #' + a.closest('[data-cta]').getAttribute('data-cta') : '';
+      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page() + where); return; }
       if (/^mailto:/i.test(href)) { track('mailto', page()); return; }
       var external = /^https?:/i.test(href) || /^\/\//.test(href);
       if (external && a.hostname && a.hostname !== location.hostname) {
         if (!id) { track('outbound', a.hostname + ' @ ' + page()); return; }
         var kind = lineHost(a.hostname) ? 'line' : 'order';
-        track(kind + '-' + id, a.hostname + ' @ ' + page());
+        track(kind + '-' + id, a.hostname + ' @ ' + page() + where);
         return;
       }
     }

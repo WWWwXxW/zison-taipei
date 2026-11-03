@@ -1025,3 +1025,13 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 
 /* two back-links side by side (回目錄 + 行政區頁) */
 .back-link + .back-link{margin-left:16px}
+/* 2026-11-03 手機版店頁底部固定「打電話訂／官方訂餐」列（shop/*.html 的 nav.cta-bar） */
+.cta-bar{display:none}
+@media (max-width:760px){
+.cta-bar{display:block;position:fixed;left:0;right:0;bottom:0;z-index:60;background:#fffdf7;border-top:1px solid #e6d9c3;box-shadow:0 -4px 14px rgba(40,25,10,.12);padding:6px 12px calc(8px + env(safe-area-inset-bottom))}
+.cta-cond{margin:0 0 6px;font-size:13px;line-height:1.3;color:#5a4a3a;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cta-btns{display:flex;gap:8px}
+.cta-btn{flex:1;display:flex;align-items:center;justify-content:center;min-height:46px;border-radius:999px;font-size:17px;font-weight:700;text-decoration:none!important;border:1px solid var(--accent);color:var(--accent);background:#fffdf7}
+.cta-btns .cta-btn:last-child{background:var(--accent);color:#fffdf7}
+body.page-detail{padding-bottom:104px}
+}
