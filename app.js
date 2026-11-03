@@ -455,6 +455,29 @@
       '<span class="card-media-hint">尚無店家照片</span></div>';
   }
 
+  // Chain branches can share a brand menu photo. Keep the list order, but if a card would sit right
+  // after (or two after) a card with the identical image, pull forward the nearest later card whose
+  // image differs, so neighbours in the grid never show the same photo.
+  function spreadSameImages(list) {
+    var out = list.slice();
+    function img(r) { return String((r && r.imageUrl) || '').trim(); }
+    for (var i = 1; i < out.length; i++) {
+      var u = img(out[i]);
+      if (!u) continue;
+      if (u !== img(out[i - 1]) && (i < 2 || u !== img(out[i - 2]))) continue;
+      for (var j = i + 1; j < out.length && j < i + 40; j++) {
+        var v = img(out[j]);
+        if (!v && /^https?:/i.test(u)) break;
+        if (v !== img(out[i - 1]) && (i < 2 || v !== img(out[i - 2]))) {
+          var moved = out.splice(j, 1)[0];
+          out.splice(i, 0, moved);
+          break;
+        }
+      }
+    }
+    return out;
+  }
+
   function cardMediaHtml(r) {
     var url = String(r.imageUrl || '').trim();
     var placeholder = mediaPlaceholderInner(r);
@@ -691,6 +714,7 @@
         if (pa !== pb) return pa - pb;
         return (a.name || '').localeCompare(b.name || '', 'zh-Hant');
       });
+      filtered = spreadSameImages(filtered);
 
       countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家' +
         (cityVal ? ('（目前：' + escapeHtml(cityVal) + (districtVal ? (' · ' + escapeHtml(districtVal)) : '') + '）') : '');
