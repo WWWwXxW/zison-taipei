@@ -468,6 +468,7 @@
       for (var j = i + 1; j < out.length && j < i + 40; j++) {
         var v = img(out[j]);
         if (!v && /^https?:/i.test(u)) break;
+        if (deliversInto(out[j], currentDistrictFilter) !== deliversInto(out[i], currentDistrictFilter)) break;
         if (v !== img(out[i - 1]) && (i < 2 || v !== img(out[i - 2]))) {
           var moved = out.splice(j, 1)[0];
           out.splice(i, 0, moved);
@@ -492,6 +493,9 @@
 
   function cardHtml(r) {
     var badges = placeBadges(r);
+    if (currentDistrictFilter && deliversInto(r, currentDistrictFilter)) {
+      badges.unshift('<span class="badge cross-district" title="官方資料明列可外送到' + escapeHtml(currentDistrictFilter) + '">鄰區・可送到這區</span>');
+    }
     if (r.chain) badges.push('<span class="badge chain">連鎖</span>');
 
     var actions = [];
@@ -580,10 +584,20 @@
     return false;
   }
 
+  /** Cross-district only when the official source explicitly names the district
+   *  (deliverAreas, same city). Radius alone never cross-lists. */
+  function deliversInto(r, district) {
+    if (!district || !r || r.district === district) return false;
+    var areas = r.deliverAreas;
+    if (!areas || !areas.length) return false;
+    return areas.indexOf((r.city || '') + district) !== -1;
+  }
+  var currentDistrictFilter = '';
+
   function matches(r, q, city, district, cuisine, softOr) {
     if (city && r.city !== city) return false;
     if (district) {
-      if (r.district !== district) return false;
+      if (r.district !== district && !deliversInto(r, district)) return false;
     }
     if (cuisine && !matchesCuisineFilter(r, cuisine)) return false;
     if (q) {
@@ -708,7 +722,11 @@
           });
         }
       }
+      currentDistrictFilter = districtVal || '';
       filtered.sort(function (a, b) {
+        var xa = deliversInto(a, districtVal) ? 1 : 0;
+        var xb = deliversInto(b, districtVal) ? 1 : 0;
+        if (xa !== xb) return xa - xb;
         var pa = /^https?:\/\//i.test(String(a.imageUrl || '').trim()) ? 0 : 1;
         var pb = /^https?:\/\//i.test(String(b.imageUrl || '').trim()) ? 0 : 1;
         if (pa !== pb) return pa - pb;
@@ -717,7 +735,11 @@
       filtered = spreadSameImages(filtered);
 
       countEl.innerHTML = '顯示 <strong>' + filtered.length + '</strong> / ' + data.length + ' 家' +
-        (cityVal ? ('（目前：' + escapeHtml(cityVal) + (districtVal ? (' · ' + escapeHtml(districtVal)) : '') + '）') : '');
+        (cityVal ? ('（目前：' + escapeHtml(cityVal) + (districtVal ? (' · ' + escapeHtml(districtVal)) : '') + '）') : '') +
+        (function () {
+          var nx = districtVal ? filtered.filter(function (r) { return deliversInto(r, districtVal); }).length : 0;
+          return nx ? ('，含 ' + nx + ' 家鄰區店（官方明列可送到這區）') : '';
+        })();
       var hint = document.getElementById('search-relaxed-hint');
       if (!hint && countEl && countEl.parentNode) {
         hint = document.createElement('p');

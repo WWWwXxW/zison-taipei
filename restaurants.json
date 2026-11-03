@@ -220,7 +220,8 @@
     "imageSource": "https://11pasta.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/0eefa656-3256-4a82-b380-bf4aa9e79dfc/",
     "imageCheckedAt": "2026-10-29",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "radiusKm": 3
   },
   {
     "id": "cg-3",
@@ -1491,7 +1492,8 @@
     },
     "menuSource": "https://order.ocard.co/kebuke/mND0vw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "cg-22",
@@ -1734,7 +1736,8 @@
     },
     "menuSource": "https://order.ocard.co/unochaadmin/mEJdGK?a&utm_source=bot&utm_medium=line",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $350 外送"
+    "deliverySummary": "滿 $350 外送",
+    "radiusKm": 7
   },
   {
     "id": "cg-25",
@@ -1797,7 +1800,8 @@
     "deliveryMinValue": 300,
     "deliveryMinLabel": "滿 $300",
     "city": "台北市",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 3
   },
   {
     "id": "cg-27",
@@ -2842,7 +2846,8 @@
     "imageSource": "https://pancakeboy.mystrikingly.com/",
     "imageOriginal": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/1970685/15400_892223.png",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "radiusKm": 2
   },
   {
     "id": "cg-45",
@@ -2876,7 +2881,8 @@
     "imageSource": "https://shop.ichefpos.com/store/RrYgvics/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c1ded77a-f2e9-4c79-9bad-a6e674131f95/25f5c1b2-5628-11f0-8e7b-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "radiusKm": 8
   },
   {
     "id": "cg-46",
@@ -3701,7 +3707,8 @@
     },
     "menuSource": "https://jomocoffee.oddle.me/zh_TW/",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "radiusKm": 3
   },
   {
     "id": "cg-55",
@@ -3998,7 +4005,8 @@
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "city": "台北市",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "radiusKm": 2
   },
   {
     "id": "cg-59",
@@ -4066,7 +4074,8 @@
     "imageSource": "https://www.facebook.com/nitenitebreakfast/posts/%E5%8F%AA%E9%80%81%E4%B8%8D%E8%B3%A3-%E5%9C%A8%F0%9D%97%9F%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2%E4%B8%8A%E4%BD%A0%E5%8F%AF%E4%BB%A5%EF%B8%8F%E7%B7%9A%E4%B8%8A%E9%A0%90%E7%B4%84%E9%BB%9E%E9%A4%90%EF%B8%8F%E7%9C%8B%E5%88%B0%E6%9C%80%E6%96%B0%E8%8F%9C%E5%96%AE%EF%B8%8F%E7%95%99%E8%A8%80%E8%A9%A2%E5%95%8F%E5%A4%A7%E5%B0%8F%E4%BA%8B%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E5%8D%B3%E6%97%A5%E8%B5%B7%E5%8A%A0%E5%85%A5%E9%82%84%E5%8F%AF%E7%8D%B2%E5%BE%97%E9%99%90%E9%87%8F%E5%8F%AF%E5%8F%AF%E8%96%84%E9%A4%85%E4%B9%99%E4%BB%BD-%E7%AB%8B%E5%8D%B3%E5%8A%A0%E5%85%A5%E5%AE%98%E6%96%B9%F0%9D%97%9F%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B2-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%EF%B8%8F-%E5%85%8C%E6%8F%9B%E5%8D%B7%E5%83%85/185236537704357/",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/475742873_609115675316439_6191217210101114255_n.jpg?stp=dst-jpg_tt6&cstp=mx1438x1440&ctp=s600x600&_nc_cat=111&ccb=1-7&_nc_sid=b96d88&_nc_ohc=e-SpL51leZgQ7kNvwFMSpXo&_nc_oc=Adrv881PdpOxykIsYhl8xr9mlm5O3XRBsl6bRubUyssx5GBVxo2eRlJicF0ylmz1S8J4po8bmaR0GskW7KZRKtlw&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=PCdjHEbSZsyEDcWyDUb_GA&_nc_ss=7b20f&oh=00_AQMbGxoUKLeHEuCwDU4nlCArjK5Knr_ItjwqxEuEBWBl1Q&oe=6ADE62E8",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $1200 外送"
+    "deliverySummary": "滿 $1200 外送",
+    "radiusKm": 6
   },
   {
     "id": "cg-61",
@@ -4884,7 +4893,7 @@
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "中山區、大同區、松山區",
-    "terms": "外送範圍：中山區、大同區、松山區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo",
+    "terms": "外送範圍：中山區、大同區、松山區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo；官方分店資訊：外送區域 中山區、大同區、松山區",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "由雙連地圖店家追查品牌官網，改收錄官方列明可外送的門市。網頁訂餐需先選配送門市。",
@@ -4901,7 +4910,14 @@
     "imageSource": "https://www.facebook.com/VegetsaiSongJiang/posts/%E8%94%A1%E8%80%81%E5%B8%AB%E8%94%AC%E9%A3%9F%E6%89%8B%E8%B7%AF%E8%8F%9C%E7%B3%BB%E5%88%97%E7%B4%85%E7%87%92%E9%BA%BB%E8%BE%A3%E8%87%AD%E8%B1%86%E8%85%90%E5%85%A8%E7%B4%A0%E6%B3%B0%E5%BC%8F%E6%89%93%E6%8B%8B%E8%B1%86%E8%85%90%E6%A4%8D%E7%89%A9%E4%BA%94%E8%BE%9B%E7%B4%A0%E5%A4%A9%E7%84%B6%E7%99%BC%E9%85%B5%E9%9F%93%E5%BC%8F%E6%B3%A1%E8%8F%9C%E5%85%A8%E7%B4%A0%E5%9C%B0%E5%9D%80%E6%98%AF%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E6%9D%BE%E6%B1%9F%E8%B7%AF362%E5%B7%B725%E8%99%9F%E9%9B%BB%E8%A9%B10225420627%E8%94%A1%E8%80%81%E5%B8%AB%E6%9D%BE%E6%B1%9F%E5%BA%97%E7%B2%89%E5%B0%88h/116238163300039/",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t1.6435-9/88143328_116238123300043_1587070615796318208_n.jpg?stp=dst-jpg_tt6&cstp=mx960x720&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=b96d88&_nc_ohc=uxL6UA4KxOYQ7kNvwG9TOyQ&_nc_oc=AdorTF1sEa_EFC7M6NP8ZHpb6Ah-atTDzkd2FLPoWXKEur7xWgj55Dd1JWb47LR2fh8&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=F4ZkBzU9Bq69Py5dbEqpIQ&_nc_ss=7b20f&oh=00_AQMF9VrOeGfwTeoDeSNaTmOyB2_nwWVxRiJQF1E90cc4CQ&oe=6B00087E",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $300 免運"
+    "deliverySummary": "滿 $300 免運",
+    "deliverAreas": [
+      "台北市中山區",
+      "台北市大同區",
+      "台北市松山區"
+    ],
+    "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
+    "deliverAreasCheckedAt": "2026-11-03"
   },
   {
     "id": "cg-68",
@@ -4917,7 +4933,7 @@
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "大安區、信義區、文山區、松山區",
-    "terms": "外送範圍：大安區、信義區、文山區、松山區；另有新北新店區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo",
+    "terms": "外送範圍：大安區、信義區、文山區、松山區；另有新北新店區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo；官方分店資訊：外送區域 大安區、信義區、文山區、松山區、新北新店區",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "由雙連地圖店家追查品牌官網，改收錄官方列明可外送的門市。網頁訂餐需先選配送門市。",
@@ -4992,7 +5008,16 @@
     "imageSource": "https://www.vegetsai.com.tw/",
     "imageOriginal": "https://www.vegetsai.com.tw/img/C_2000X1463.webp",
     "imageCheckedAt": "2026-11-03",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverAreas": [
+      "台北市大安區",
+      "台北市信義區",
+      "台北市文山區",
+      "台北市松山區",
+      "新北市新店區"
+    ],
+    "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
+    "deliverAreasCheckedAt": "2026-11-03"
   },
   {
     "id": "cg-69",
@@ -5008,7 +5033,7 @@
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "中正區、萬華區",
-    "terms": "外送範圍：中正區、萬華區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo",
+    "terms": "外送範圍：中正區、萬華區；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo；官方分店資訊：外送區域 中正區、萬華區",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "由雙連地圖店家追查品牌官網，改收錄官方列明可外送的門市。網頁訂餐需先選配送門市。",
@@ -5026,7 +5051,13 @@
     "imageSource": "https://www.vegetsai.com.tw/",
     "imageOriginal": "https://www.vegetsai.com.tw/img/C_2000X1463.webp",
     "imageCheckedAt": "2026-10-30",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverAreas": [
+      "台北市中正區",
+      "台北市萬華區"
+    ],
+    "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
+    "deliverAreasCheckedAt": "2026-11-03"
   },
   {
     "id": "cg-70",
@@ -5042,7 +5073,7 @@
     "lineUrl": "https://lihi1.cc/dS8D6/orderinfo",
     "hours": "週一至週五11:00–13:00外送，當天10:30前下單。晚間／假日滿$5,000可提前3個工作天預約。",
     "range": "內湖區、中山區",
-    "terms": "外送範圍：內湖區、中山區；中山區僅大直，需確認地址；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo",
+    "terms": "外送範圍：內湖區、中山區；中山區僅大直，需確認地址；起送：5公里內滿$300免運；5公里外滿$500免運。未滿$300可詢問，運費$30且不保證接單。；LINE：https://lihi1.cc/dS8D6/orderinfo；官方分店資訊：外送區域 內湖區、中山區（中山區僅大直，需確認地址）",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "由雙連地圖店家追查品牌官網，改收錄官方列明可外送的門市。網頁訂餐需先選配送門市。",
@@ -5117,7 +5148,15 @@
     "imageSource": "https://www.vegetsai.com.tw/",
     "imageOriginal": "https://www.vegetsai.com.tw/img/A_2000X1463.webp",
     "imageCheckedAt": "2026-11-03",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverAreas": [
+      "台北市內湖區"
+    ],
+    "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
+    "deliverAreasCheckedAt": "2026-11-03",
+    "deliverAreasPartial": [
+      "台北市中山區（僅大直）"
+    ]
   },
   {
     "id": "cg-71",
@@ -5411,7 +5450,8 @@
     },
     "menuSource": "https://order.ocard.co/naptea/mXEMaK",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $350 外送"
+    "deliverySummary": "滿 $350 外送",
+    "radiusKm": 6.1
   },
   {
     "id": "cg-76",
@@ -5440,7 +5480,8 @@
     "deliveryMinValue": 200,
     "deliveryMinLabel": "滿 $200",
     "city": "台北市",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "radiusKm": 8
   },
   {
     "id": "cg-77",
@@ -5594,7 +5635,8 @@
       "sourceUpdated": "2025-10-13"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=618071",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "radiusKm": 4
   },
   {
     "id": "cg-80",
@@ -5755,7 +5797,8 @@
     "imageSource": "https://www.facebook.com/Jidachu.888/posts/%E6%A5%B5%E5%BA%A6%E9%A3%AF%E6%A1%B6%E7%B2%BE%E7%B7%BB%E7%B1%B3%E9%A3%9F%E5%B0%88%E8%B3%A3%E5%BA%97%E8%B2%BC%E5%BF%83%E6%8F%90%E9%86%92%E4%B8%AD%E5%8D%88%E8%A8%82%E5%96%AE%E5%A4%9A-%E5%A4%96%E9%80%81%E8%AB%8B%E6%8F%90%E6%97%A9%E8%A8%82%E8%B3%BC%E5%94%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8%E5%A4%96%E9%80%81%E5%B9%B3%E5%8F%B0%E8%A8%82%E8%B3%BCubereats-%E6%90%9C%E5%B0%8B-%E6%A5%B5%E5%BA%A6%E9%A3%AF%E6%A1%B6-%E9%A4%90%E9%BB%9E%E5%A4%96%E9%80%81%E5%88%B0%E4%BD%A0%E5%AE%B6%E7%86%8A%E8%B2%93%E5%A4%96%E9%80%81%E5%B9%B3%E5%8F%B0%E6%90%9C%E5%B0%8B-%E6%A5%B5%E5%BA%A6%E9%A3%AF%E6%A1%B6%E5%9C%A8%E5%AE%B6%E7%9A%84/675566147928375/",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/482026354_1046655457486107_1293073950456171197_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1072&ctp=p600x600&_nc_cat=103&ccb=1-7&_nc_sid=b96d88&_nc_ohc=jLlbQMrTGMkQ7kNvwF8GO7a&_nc_oc=AdoKPv_N7oVB4dnmjn8F8wQhpJy6TqxHBPidyDKSVg8A6UE3cGjx3_uIedBBqwFRjXv9PvtIBxIxmfcJYQ_j18Ia&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=y_vbzjlXWUB_kp0Xm8WBfg&_nc_ss=7b20f&oh=00_AQPpNzfCM4KcTwf_LLejrxzkhSryWwbRFLnUeVS76BlbgQ&oe=6ADE50CD",
     "imageCheckedAt": "2026-10-28",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "radiusKm": 15
   },
   {
     "id": "cg-85",
@@ -12679,8 +12722,32 @@
     "deliverySummary": "滿 $1000 外送，運費依距離或行政區 $200 起",
     "deliveryNote": "官方 Oddle 外送：每張訂單滿 $1000 才外送；運費依距離（0~1 公里 $200、1~3 公里 $250、4~8 公里 $380）或依行政區（汐止 $450 起、三峽 $850、淡水／八里 $1000）",
     "range": "官方 Oddle 外送區：總公司（信義區莊敬路）周邊 8 公里內，以及新北、士林、北投等指定行政區",
-    "terms": "官方 Oddle 店面（Bonjour 朋廚烘焙坊 總公司）開啟外送，各外送區最低訂購金額 $1000，運費依外送區 $200–$1000。民生、莊敬直營店的 Oddle 門市未開外送。",
-    "checkedAt": "2026-10-22"
+    "terms": "官方 Oddle 店面（Bonjour 朋廚烘焙坊 總公司）開啟外送，各外送區最低訂購金額 $1000，運費依外送區 $200–$1000。民生、莊敬直營店的 Oddle 門市未開外送；官方 Oddle 總公司外送區明列：士林區、北投及新北多區，另依距離 0–8 公里分區；每單最低 $1000",
+    "checkedAt": "2026-10-22",
+    "deliverAreas": [
+      "台北市信義區",
+      "台北市士林區",
+      "台北市北投區",
+      "新北市汐止區",
+      "新北市新店區",
+      "新北市中和區",
+      "新北市土城區",
+      "新北市板橋區",
+      "新北市三重區",
+      "新北市蘆洲區",
+      "新北市新莊區",
+      "新北市五股區",
+      "新北市泰山區",
+      "新北市樹林區",
+      "新北市鶯歌區",
+      "新北市三峽區",
+      "新北市林口區",
+      "新北市八里區",
+      "新北市淡水區"
+    ],
+    "deliverAreasSource": "https://bonjour.oddle.me/zh_TW",
+    "deliverAreasCheckedAt": "2026-11-03",
+    "radiusKm": 8
   },
   {
     "id": "scout-b3-62",
@@ -39707,7 +39774,7 @@
     "orderUrl": "https://lecoucou.oddle.me",
     "hours": "週一至週五 12:30–13:30",
     "range": "由官方Oddle依送達地址判定",
-    "terms": "外送範圍：Oddle 官方訂餐頁依距離分區（大安分點）；起送：1 公里內 NT$200、2–5 公里 NT$300、6–7 公里及南港區／內湖區 NT$500；運費：NT$39–180（1 公里內 NT$39）",
+    "terms": "外送範圍：Oddle 官方訂餐頁依距離分區（大安分點）；起送：1 公里內 NT$200、2–5 公里 NT$300、6–7 公里及南港區／內湖區 NT$500；運費：NT$39–180（1 公里內 NT$39）；官方 Oddle 大安分點外送區明列：南港區、內湖區（最低 $500），另依距離 1–7 km 分區",
     "freeDeliveryThreshold": null,
     "deliveryFee": 39,
     "evidence": "Oddle 外送目錄與店家頁 https://tw-eats.oddle.me/menus/lecoucou 列出台北市地址並開放外送；官方店舖連結 https://lecoucou.oddle.me。",
@@ -39839,7 +39906,15 @@
     },
     "menuSource": "https://lecoucou.oddle.me",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "1 公里內滿 $200 外送；2–5 公里滿 $300；6–7 公里及南港、內湖滿 $500（運費 $39 起）"
+    "deliverySummary": "1 公里內滿 $200 外送；2–5 公里滿 $300；6–7 公里及南港、內湖滿 $500（運費 $39 起）",
+    "deliverAreas": [
+      "台北市大安區",
+      "台北市南港區",
+      "台北市內湖區"
+    ],
+    "deliverAreasSource": "https://lecoucou.oddle.me/zh_TW",
+    "deliverAreasCheckedAt": "2026-11-03",
+    "radiusKm": 7
   },
   {
     "id": "scout-b5-231",
@@ -212690,7 +212765,8 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "siammore-4",
@@ -213854,7 +213930,8 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "siammore-17",
@@ -214824,7 +214901,8 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "siammore-11",
@@ -216144,7 +216222,8 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "eatogether-3",
@@ -216335,7 +216414,8 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "eatogether-5",
@@ -220074,7 +220154,8 @@
     },
     "menuSource": "https://kaifun.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "kaifun-3",
@@ -220268,7 +220349,8 @@
     },
     "menuSource": "https://kaifun.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "kaifun-4",
@@ -220656,7 +220738,8 @@
     },
     "menuSource": "https://kaifun.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "kaifun-6",
@@ -225175,7 +225258,8 @@
     },
     "menuSource": "https://kaifun.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "kaifun-35",
@@ -226145,7 +226229,8 @@
     },
     "menuSource": "https://kaifun.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "kaifun-29",
@@ -227556,7 +227641,8 @@
     },
     "menuSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "fruitfulfood-13",
@@ -262500,7 +262586,8 @@
     "deliveryFee": 70,
     "freeDeliveryThreshold": 1500,
     "city": "台北市",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "radiusKm": 5
   },
   {
     "id": "pizzahut-346",

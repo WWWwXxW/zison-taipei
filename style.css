@@ -1035,3 +1035,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .cta-btns .cta-btn:last-child{background:var(--accent);color:#fffdf7}
 body.page-detail{padding-bottom:104px}
 }
+
+.badge.cross-district{background:#dff3e4;color:#1f6a35;border:0;font-weight:700}
+.cross-district-title{margin:28px 0 6px;font-size:18px}
+.cross-district-note{margin:0 0 12px;color:#7a6a5a;font-size:13px}
