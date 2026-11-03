@@ -8,12 +8,19 @@
    Clicks that happen earlier stay queued. pagehide flushes with sendBeacon
    (count.js's own transport, or the same POST if the CDN script never loads).
    GET /count is 405 on zisong.goatcounter.com, so this file never falls back
-   to an image beacon. Listeners do not cancel navigation. */
+   to an image beacon. Listeners do not cancel navigation.
+   2026-11-03: shop id is also read from extension-less URLs (/shop/<id>),
+   and if count.js fails to load (CDN error / not ready 2 s after window
+   load) clicks are POSTed straight away instead of waiting for pagehide.
+   Clicks inside the mobile sticky bar (nav.cta-bar[data-cta="sticky"]) keep
+   the same event name (tel-<id>/order-<id>/line-<id>) and add " #sticky" to
+   the title, so bar vs in-page buttons can be compared in GoatCounter. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
   var queue = [];
   var timer = null;
+  var gcFailed = false;
 
   function page() { return location.pathname.replace(/^\/+/, '/') || '/'; }
 
@@ -75,7 +82,9 @@
 
   function track(name, title) {
     if (!name) return;
-    queue.push([String(name).slice(0, 120), String(title || page()).slice(0, 200)]);
+    var ev = [String(name).slice(0, 120), String(title || page()).slice(0, 200)];
+    if (!countReady() && gcFailed) { sendDirect(ev); return; }
+    queue.push(ev);
     if (!flush()) arm();
   }
   window.zisongTrack = track;
@@ -88,13 +97,21 @@
   }
 
   var gcScript = document.querySelector('script[data-goatcounter]');
-  if (gcScript && !countReady()) gcScript.addEventListener('load', flush);
+  if (gcScript && !countReady()) {
+    gcScript.addEventListener('load', flush);
+    gcScript.addEventListener('error', function () { gcFailed = true; flushOnLeave(); });
+  }
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      if (!countReady()) { gcFailed = true; flushOnLeave(); }
+    }, 2000);
+  });
   window.addEventListener('pagehide', flushOnLeave);
 
   function shopId(el) {
     var c = el.closest && el.closest('[data-id]');
     if (c) return c.getAttribute('data-id');
-    var m = location.pathname.match(/\/shop\/([^\/]+)\.html$/);
+    var m = location.pathname.match(/\/shop\/([^\/]+?)(?:\.html)?\/?$/);
     if (m) { try { return decodeURIComponent(m[1]); } catch (e) { return m[1]; } }
     if (/\/detail\.html$/.test(location.pathname)) {
       var q = new URLSearchParams(location.search).get('id');
@@ -115,13 +132,14 @@
     if (a) {
       var href = a.getAttribute('href') || '';
       var id = shopId(a);
-      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page()); return; }
+      var where = a.closest('[data-cta]') ? ' #' + a.closest('[data-cta]').getAttribute('data-cta') : '';
+      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page() + where); return; }
       if (/^mailto:/i.test(href)) { track('mailto', page()); return; }
       var external = /^https?:/i.test(href) || /^\/\//.test(href);
       if (external && a.hostname && a.hostname !== location.hostname) {
         if (!id) { track('outbound', a.hostname + ' @ ' + page()); return; }
         var kind = lineHost(a.hostname) ? 'line' : 'order';
-        track(kind + '-' + id, a.hostname + ' @ ' + page());
+        track(kind + '-' + id, a.hostname + ' @ ' + page() + where);
         return;
       }
     }
