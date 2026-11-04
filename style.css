@@ -1042,3 +1042,5 @@ body.page-detail{padding-bottom:104px}
 
 /* 2026-11-04 沒有店家照片的店頁：Google 地圖看照片連結 */
 .detail-maps{margin:-8px 0 16px;font-size:15px;line-height:1.7;color:#725139}.detail-maps a{text-decoration:underline;text-underline-offset:3px;font-weight:700;color:#8a4b12}
+/* 2026-11-04 指南頁頂端「馬上訂」3 家 */
+.guide-quick{margin:14px 0;padding:12px 14px;background:#fff4dc;border:1px solid #f0d49a;border-radius:12px}.guide-quick .gq-title{margin:0 0 6px;font-weight:800;font-size:17px}.guide-quick ol{margin:0;padding-left:20px}.guide-quick li{margin:0 0 10px;line-height:1.6}.guide-quick .gq-cond{color:#8a4b12;font-weight:700}.guide-quick .gq-dish{font-size:14px;color:#725139}.guide-quick .guide-actions{display:flex;gap:8px;margin-top:4px;flex-wrap:wrap}.guide-quick .btn{min-height:40px;padding:8px 12px;font-size:14px}.guide-quick .gq-more{margin:0;font-size:13px;color:#725139}
