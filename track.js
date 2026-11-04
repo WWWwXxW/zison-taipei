@@ -14,7 +14,8 @@
    load) clicks are POSTed straight away instead of waiting for pagehide.
    Clicks inside the mobile sticky bar (nav.cta-bar[data-cta="sticky"]) keep
    the same event name (tel-<id>/order-<id>/line-<id>) and add " #sticky" to
-   the title, so bar vs in-page buttons can be compared in GoatCounter. */
+   the title, so bar vs in-page buttons can be compared in GoatCounter.
+   2026-11-04: Google Maps links ("看這家店的照片") are map-<shopid>, not order-. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
@@ -138,6 +139,9 @@
       var external = /^https?:/i.test(href) || /^\/\//.test(href);
       if (external && a.hostname && a.hostname !== location.hostname) {
         if (!id) { track('outbound', a.hostname + ' @ ' + page()); return; }
+        if (/(^|\.)google\.[a-z.]+$/i.test(a.hostname) && /^\/maps/.test(a.pathname)) {
+          track('map-' + id, page() + where); return;
+        }
         var kind = lineHost(a.hostname) ? 'line' : 'order';
         track(kind + '-' + id, a.hostname + ' @ ' + page() + where);
         return;
