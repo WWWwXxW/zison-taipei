@@ -801,6 +801,16 @@
 
   /** Shops removed on 2026-10-22 (no verifiable source, or closed) -> their district listing. */
   var HIDDEN_SHOPS = {
+    /* 2026-11-05 merged duplicates -> kept shop page */
+    'dbd-609509': 'shop/cg-84.html',
+    'scout-b10-209': 'shop/dbd-240190.html',
+    'nt-scout-lead-45': 'shop/nt-scout-lead-360.html',
+    'nt-scout-lead-295': 'shop/nt-scout-lead-358.html',
+    'dbd-206171': 'shop/dbd-584491.html',
+    'dbd-628164': 'shop/dbd-17096.html',
+    'dbd-422568': 'shop/scout-lead-487.html',
+    'scout-b5-237': 'shop/scout-b5-236.html',
+    'scout-b5-193': 'shop/scout-b5-194.html',
     'daan-new-029': 'district/daan.html',
     'scout-b11-232': 'district/daan.html',
     'scout-b12-246': 'district/daan.html',

@@ -15,7 +15,11 @@
    Clicks inside the mobile sticky bar (nav.cta-bar[data-cta="sticky"]) keep
    the same event name (tel-<id>/order-<id>/line-<id>) and add " #sticky" to
    the title, so bar vs in-page buttons can be compared in GoatCounter.
-   2026-11-04: Google Maps links ("看這家店的照片") are map-<shopid>, not order-. */
+   2026-11-04: Google Maps links ("看這家店的照片") are map-<shopid>, not order-.
+   2026-11-05: a repeat of the same event name within 2 s (double tap, click
+   + auxclick on one press) is dropped, so one tap = one event. The title keeps
+   the link host (e.g. www.dinbendon.net) so 訂便當網「看菜單／訂餐」 can be
+   told apart from other order- links in GoatCounter. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
@@ -81,8 +85,15 @@
     }, 250);
   }
 
+  var lastName = '';
+  var lastAt = 0;
+
   function track(name, title) {
     if (!name) return;
+    var now = Date.now();
+    if (name === lastName && now - lastAt < 2000) return;
+    lastName = name;
+    lastAt = now;
     var ev = [String(name).slice(0, 120), String(title || page()).slice(0, 200)];
     if (!countReady() && gcFailed) { sendDirect(ev); return; }
     queue.push(ev);
