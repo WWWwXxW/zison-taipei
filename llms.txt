@@ -73,6 +73,7 @@
 - 松山便當・外送（松山區店家自己外送・依門檻排序）：https://zisong.tw/guide/songshan-delivery.html
 - 台中西屯便當・外送（台中市西屯區店家自己外送・依門檻排序）：https://zisong.tw/guide/xitun-delivery.html
 - 汐止便當・外送（新北市汐止區店家自己外送・依門檻排序・汐科園區）：https://zisong.tw/guide/xizhi-delivery.html
+- 台中西區便當・外送（台中市西區店家自己外送・依門檻排序・勤美／草悟道一帶）：https://zisong.tw/guide/taichung-west-delivery.html
 - 竹北便當・外送（竹北市店家自己外送）：https://zisong.tw/guide/zhubei-bento-delivery.html
 
 這些指南只整理 restaurants.json 中的店家資料；起送、運費、配送範圍與接單狀態可能變動，請以下單時的官方頁面或電話為準。
