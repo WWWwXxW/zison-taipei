@@ -552147,5 +552147,78 @@
     "menuSource": "https://dinbendon.net/do/idine?shop=640537",
     "menuCheckedAt": "2026-11-02",
     "deliverySummary": "滿300外送"
+  },
+  {
+    "id": "dbd-652718",
+    "slug": "上林知高飯",
+    "name": "上林知高飯",
+    "district": "龜山區",
+    "address": "復興一路278號",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當",
+      "知高飯",
+      "豬腳飯"
+    ],
+    "phone": "03-211-4406",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=652718",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「10個送」；店家頁地址 桃園市龜山區復興一路278號、電話 03-211-4406；店家資料最後更新 2026/11/04。桃園市政府「桃食安心」食品業者平台登記為「美食外送」類、市招上林知高飯、同址同電話。另以店名、電話、地址、店名＋外送搜尋，Google 地圖／Yelp／foodpanda 同址同電話（外送平台不列為訂購管道）。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=652718；https://food-safety.tycg.gov.tw/TYFoodCompanyIntroduction.aspx?id=858e86c7-793c-ec11-a1fd-005056b7f485&n=1069&sms=0；Checked: 2026-11-05",
+    "checkedAt": "2026-11-05",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261105",
+    "confidence": "medium",
+    "deliveryMinType": "count",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "10個送",
+    "deliverySummary": "10 個便當就外送（訂便當網店家頁）",
+    "city": "桃園市",
+    "orderChannel": "dinbendon",
+    "menu": {
+      "items": [
+        {
+          "name": "豬腳飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "滷雞腿飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "炸雞腿飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "排骨飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "紅燒肉飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "蝦捲飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "菜飯",
+          "price": 80,
+          "category": "便當"
+        }
+      ],
+      "sourceUpdated": "2026-11-04",
+      "source": "https://dinbendon.net/do/idine?shop=652718",
+      "fetchedOn": "2026-11-05",
+      "total": 7
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=652718",
+    "menuCheckedAt": "2026-11-05"
   }
 ]
