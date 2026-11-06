@@ -300,7 +300,7 @@
     "terms": "外送範圍：配送範圍未公開；由官方訂餐頁依送達地址判定；起送：最低訂購金額與免運門檻未公開；請在官方結帳流程確認。",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "逐店開啟Google 地圖單店頁核對長安東路一段27號；商家官方Oddle頁標題為線上外帶外送官網，可直接瀏覽餐點並加入購物車，官方文案明列在家也能吃得到。配送範圍、低消、運費、免運門檻及固定預訂時段未公開。",
+    "evidence": "逐店開啟Google 地圖單店頁核對長安東路一段27號；商家官方Oddle頁標題為線上外帶外送官網，可直接瀏覽餐點並加入購物車，官方文案明列在家也能吃得到。配送範圍、低消、運費、免運門檻及固定預訂時段未公開。電話取自亞里士餐廳 Oddle 官方訂餐頁「電話」欄（單店），2026-11-06 核對。",
     "source": "https://alice.oddle.me/zh_TW；Checked: 2026-09-20；Batch: 20260920-0935",
     "checkedAt": "2026-09-20",
     "chain": false,
@@ -472,7 +472,8 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://alice.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/61a79a11-d56b-420c-a594-1d7cde7cfaec/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "phone": "02-2561-5730"
   },
   {
     "id": "cg-6",
@@ -6635,7 +6636,7 @@
       "義大利"
     ],
     "hours": "約 11:45–20:45／12:15–21:15",
-    "evidence": "官方 Oddle",
+    "evidence": "官方 Oddle。電話取自DA ANTONIO Oddle 官方訂餐頁「電話」欄（單店），2026-11-06 核對。",
     "source": "+886 2 5181 4999",
     "chain": false,
     "featured": false,
@@ -6769,7 +6770,8 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://daantonio.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-5181-4999"
   },
   {
     "id": "scout-b1-5",
@@ -8375,7 +8377,7 @@
       "酒店餐飲"
     ],
     "hours": "預訂制",
-    "evidence": "官方 Oddle",
+    "evidence": "官方 Oddle。電話取自台北老爺大酒店 Oddle 官方訂餐頁「電話」欄，2026-11-06 核對。",
     "source": "LINE OA 另有",
     "chain": false,
     "featured": false,
@@ -8545,7 +8547,8 @@
       "total": 55
     },
     "menuSource": "https://royal-taipei.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-2542-3266"
   },
   {
     "id": "scout-b1-21",
@@ -130268,12 +130271,7 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=326990",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $350 外送（依距離或地區不同，請先電話確認）",
-    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-207.webp",
-    "imageSource": "https://bendon-dao.com/shops/263049",
-    "imageOriginal": "http://bendon-dao.com/storage/shop/263049/thumbs/20230821205625.jpg",
-    "imageCheckedAt": "2026-10-28",
-    "imageKind": "brand"
+    "deliverySummary": "滿 $350 外送（依距離或地區不同，請先電話確認）"
   },
   {
     "id": "tc-scout-lead-28",
@@ -141937,12 +141935,7 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=550319",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "10 份以上就外送",
-    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-33.webp",
-    "imageSource": "https://www.facebook.com/PAKUPAKUYakinikuDon/posts/413576106750636/",
-    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t1.6435-9/186506441_413576063417307_2777599841248762345_n.jpg?stp=dst-jpg_tt6&cstp=mx1200x1200&ctp=s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cae128&_nc_ohc=90XeTpnWgl4Q7kNvwGjWqst&_nc_oc=AdoU6y8HQ_fLWivaqUW074ZAApj4RiTPsAI4TaaxkCZCNuRpp8tTUxa8aktU3OVT-kdPElcLVFcTxYnCfel7pZ2z&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=v_s_KvcpcCRvmYeFew7PJw&_nc_ss=7b20f&oh=00_AQNnlxGeaqKvZllfVsfLv-JYcor2Mrmpd3TNY-MUicDJGg&oe=6AFFFEC6",
-    "imageCheckedAt": "2026-10-28",
-    "imageKind": "brand"
+    "deliverySummary": "10 份以上就外送"
   },
   {
     "id": "tc-scout-lead-168",
@@ -176898,12 +176891,7 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=261437",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "10 個以上就外送",
-    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-005.webp",
-    "imageSource": "https://imenu.com.tw/SisterFanTong_WS/SFT_WunSing/menu",
-    "imageOriginal": "https://cdn.idelivery.com.tw/store/image/menu_item/8908/e3e716f06248c3dcb7109bf95b503db1.jpg",
-    "imageCheckedAt": "2026-10-28",
-    "imageKind": "brand"
+    "deliverySummary": "10 個以上就外送"
   },
   {
     "id": "hc-scout-lead-30",
@@ -177075,12 +177063,7 @@
       "sourceUpdated": "2026-08-13"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=598922",
-    "menuCheckedAt": "2026-10-26",
-    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-005.webp",
-    "imageSource": "https://imenu.com.tw/SisterFanTong_WS/SFT_WunSing/menu",
-    "imageOriginal": "https://cdn.idelivery.com.tw/store/image/menu_item/8908/e3e716f06248c3dcb7109bf95b503db1.jpg",
-    "imageCheckedAt": "2026-10-28",
-    "imageKind": "brand"
+    "menuCheckedAt": "2026-10-26"
   },
   {
     "id": "hc-scout-lead-31",
@@ -342607,10 +342590,6 @@
     "cuisineTags": [
       "海南雞"
     ],
-    "imageUrl": "https://zisong.tw/assets/shops/scout-b1-16.webp",
-    "imageSource": "https://ruikee.tw/",
-    "imageOriginal": "https://ruikee.tw/_assets/media/f97f9ef2fb78ba53e852cc6e27ffed54.jpg",
-    "imageCheckedAt": "2026-10-21",
     "featured": false,
     "confidence": "high",
     "checkedAt": "2026-10-22",
@@ -344879,10 +344858,6 @@
     "cuisineTags": [
       "便當"
     ],
-    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-10.webp",
-    "imageSource": "https://www.xn--wtq522abrt2t3a.tw/about-us.html",
-    "imageOriginal": "https://static.iyp.tw/23624/products/photooriginal-2091216-XDWX9.jpg?55399",
-    "imageCheckedAt": "2026-10-21",
     "featured": false,
     "confidence": "high",
     "checkedAt": "2026-10-22",
