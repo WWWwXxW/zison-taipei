@@ -552150,5 +552150,286 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=652718",
     "menuCheckedAt": "2026-11-05"
+  },
+  {
+    "id": "pangdad-shengang",
+    "slug": "胖老爹美式炸雞伸港店",
+    "name": "胖老爹美式炸雞（伸港店）",
+    "city": "彰化縣",
+    "district": "伸港鄉",
+    "address": "中山東路134號",
+    "cuisine": "炸雞／美式炸物",
+    "cuisineTags": [
+      "炸雞",
+      "美式",
+      "炸物"
+    ],
+    "phone": "04-799-8806",
+    "orderUrl": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
+    "evidence": "店家自己的 iCHEF 線上菜單頁（胖老爹美式炸雞 伸港店）公告：「假日與例假日無外送,其他訂單如需外送,請電洽唷04 7998806」——平日由店家自己外送、電話訂。地址 彰化縣伸港鄉中山東路134號（胖老爹分店頁、找優惠、fonfood 同址同電話）。Uber Eats 已於 2021 停業，不列為訂購管道。iCHEF 頁僅供瀏覽菜單，下單請電話。",
+    "source": "https://shop.ichefpos.com/store/tOD0NEQq/ordering；https://franchisefd.com/?page_id=436；Checked: 2026-11-06",
+    "checkedAt": "2026-11-06",
+    "chain": true,
+    "featured": false,
+    "origin": "official-ichef-20261106",
+    "confidence": "medium",
+    "deliveryMinLabel": "平日可外送（假日無外送），請電話問",
+    "deliverySummary": "假日與例假日無外送；平日如需外送請電話洽詢（店家 iCHEF 公告）",
+    "hours": "平日約 15:00–21:45；週末 11:00–21:45（請先電話確認）",
+    "orderChannel": "phone",
+    "menu": {
+      "items": [
+        {
+          "name": "紐奧良雞排餐",
+          "price": 130,
+          "category": "套餐組合"
+        },
+        {
+          "name": "無骨雞腿排餐",
+          "price": 140,
+          "category": "套餐組合"
+        },
+        {
+          "name": "1號餐",
+          "price": 100,
+          "category": "套餐組合"
+        },
+        {
+          "name": "2號餐",
+          "price": 115,
+          "category": "套餐組合"
+        },
+        {
+          "name": "3號餐",
+          "price": 145,
+          "category": "套餐組合"
+        },
+        {
+          "name": "4號餐",
+          "price": 150,
+          "category": "套餐組合"
+        },
+        {
+          "name": "兩人分享餐",
+          "price": 266,
+          "category": "套餐組合"
+        },
+        {
+          "name": "5號全家餐",
+          "price": 369,
+          "category": "套餐組合"
+        },
+        {
+          "name": "6號全家餐",
+          "price": 449,
+          "category": "套餐組合"
+        },
+        {
+          "name": "8翅餐",
+          "price": 270,
+          "category": "套餐組合"
+        },
+        {
+          "name": "8腿塊桶餐",
+          "price": 390,
+          "category": "套餐組合"
+        },
+        {
+          "name": "12全翅",
+          "price": 410,
+          "category": "套餐組合"
+        },
+        {
+          "name": "歡樂大四喜",
+          "price": 681,
+          "category": "套餐組合"
+        },
+        {
+          "name": "5號全家餐(3雞翅+3雞塊+2雞腿)",
+          "price": 339,
+          "category": "套餐組合"
+        },
+        {
+          "name": "煙腸配蒜片(花雕雞香腸二條+蒜片一包)",
+          "price": 85,
+          "category": "套餐組合"
+        },
+        {
+          "name": "糖醋小雞塊套餐(小雞塊10個+糖醋醬2個+飲料350ml1瓶)",
+          "price": 120,
+          "category": "套餐組合"
+        },
+        {
+          "name": "起啵雷點心套餐(小雞塊5個+小胖雞丁1份+薯餅3塊+起啵雷醬2包+原萃綠茶350ml*1瓶)",
+          "price": 175,
+          "category": "套餐組合"
+        },
+        {
+          "name": "紐奧良雞排",
+          "price": 75,
+          "category": "美式奶香"
+        },
+        {
+          "name": "無骨雞腿排",
+          "price": 85,
+          "category": "美式奶香"
+        },
+        {
+          "name": "雞翅",
+          "price": 38,
+          "category": "美式奶香"
+        },
+        {
+          "name": "雞腿",
+          "price": 54,
+          "category": "美式奶香"
+        },
+        {
+          "name": "大腿塊",
+          "price": 54,
+          "category": "美式奶香"
+        },
+        {
+          "name": "胖雞丁(小)",
+          "price": 42,
+          "category": "美式奶香"
+        },
+        {
+          "name": "胖雞丁(大)",
+          "price": 63,
+          "category": "美式奶香"
+        },
+        {
+          "name": "泰式胖雞丁(大份)",
+          "price": 70,
+          "category": "泰式風味"
+        },
+        {
+          "name": "泰式雞排",
+          "price": 80,
+          "category": "泰式風味"
+        },
+        {
+          "name": "泰式無骨雞腿排",
+          "price": 90,
+          "category": "泰式風味"
+        },
+        {
+          "name": "泰式雞翅",
+          "price": 160,
+          "category": "泰式風味"
+        },
+        {
+          "name": "泰式醬包",
+          "price": 10,
+          "category": "泰式風味"
+        },
+        {
+          "name": "蒜片",
+          "price": 20,
+          "category": "泰式風味"
+        },
+        {
+          "name": "糖醋醬",
+          "price": 10,
+          "category": "泰式風味"
+        },
+        {
+          "name": "花雕雞香腸",
+          "price": 35,
+          "category": "精選點心"
+        },
+        {
+          "name": "波霸脆薯",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "甜不辣",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "薯餅",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "香酥洋蔥圈",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "花枝丸",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "黃金魷米花",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "蔥仔餅",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "深海鱈魚條",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "小雞塊",
+          "price": 45,
+          "category": "精選點心"
+        },
+        {
+          "name": "香酥三角骨",
+          "price": 55,
+          "category": "精選點心"
+        },
+        {
+          "name": "地瓜球",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "小芋泥球",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "芝麻芋香球",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "黃金番薯條(梅粉)",
+          "price": 40,
+          "category": "精選點心"
+        },
+        {
+          "name": "起司披薩球(4個)",
+          "price": 45,
+          "category": "精選點心"
+        },
+        {
+          "name": "蘋果派(一個)",
+          "price": 35,
+          "category": "精選點心"
+        },
+        {
+          "name": "乳酪甜心酥(四個/裝盒)",
+          "price": 50,
+          "category": "精選點心"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
+      "fetchedOn": "2026-11-06",
+      "total": 49
+    },
+    "menuSource": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
+    "menuCheckedAt": "2026-11-06"
   }
 ]
