@@ -169052,7 +169052,131 @@
     "imageSource": "https://shop.ichefpos.com/store/kVz6TSDx/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5f56cd4a-51fc-4c5f-8dab-0c0fdff0cccc/25cbfc32-5340-11f0-9d27-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "10 個以上就外送"
+    "deliverySummary": "10 個以上就外送",
+    "menu": {
+      "items": [
+        {
+          "name": "炸豬排咖哩飯買一送一",
+          "price": 250,
+          "category": "活動"
+        },
+        {
+          "name": "日式烏龍麵第二份100",
+          "price": 280,
+          "category": "活動"
+        },
+        {
+          "name": "鹽烤雞腿排便當",
+          "price": 250,
+          "category": "便當"
+        },
+        {
+          "name": "日式炸豬排便當",
+          "price": 250,
+          "category": "便當"
+        },
+        {
+          "name": "雙主菜便當（香煎鯛魚+唐揚雞）",
+          "price": 300,
+          "category": "便當"
+        },
+        {
+          "name": "白飯單點",
+          "price": 10,
+          "category": "便當"
+        },
+        {
+          "name": "烤鯖魚便當",
+          "price": 280,
+          "category": "便當"
+        },
+        {
+          "name": "唐揚雞便當",
+          "price": 250,
+          "category": "便當"
+        },
+        {
+          "name": "海老雙拼便當",
+          "price": 380,
+          "category": "便當"
+        },
+        {
+          "name": "日式炒烏龍麵",
+          "price": 180,
+          "category": "便當"
+        },
+        {
+          "name": "白身魚雙拼",
+          "price": 330,
+          "category": "便當"
+        },
+        {
+          "name": "牛肉排雙拼",
+          "price": 350,
+          "category": "便當"
+        },
+        {
+          "name": "炸可樂餅",
+          "price": 120,
+          "category": "炸物"
+        },
+        {
+          "name": "唐揚炸雞",
+          "price": 140,
+          "category": "炸物"
+        },
+        {
+          "name": "炸豬排",
+          "price": 150,
+          "category": "炸物"
+        },
+        {
+          "name": "廣島炸牡蠣",
+          "price": 180,
+          "category": "炸物"
+        },
+        {
+          "name": "海老炸蝦",
+          "price": 120,
+          "category": "炸物"
+        },
+        {
+          "name": "烤雞腿排",
+          "price": 130,
+          "category": "烤物"
+        },
+        {
+          "name": "烤鯖魚",
+          "price": 160,
+          "category": "烤物"
+        },
+        {
+          "name": "炸蝦壽司",
+          "price": 200,
+          "category": "壽司"
+        },
+        {
+          "name": "炸豬排壽司",
+          "price": 200,
+          "category": "壽司"
+        },
+        {
+          "name": "虎式紅茶",
+          "price": 25,
+          "category": "飲品"
+        },
+        {
+          "name": "虎式鮮奶茶",
+          "price": 45,
+          "category": "飲品"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/kVz6TSDx/ordering",
+      "fetchedOn": "2026-11-06",
+      "total": 23
+    },
+    "menuSource": "https://shop.ichefpos.com/store/kVz6TSDx/ordering",
+    "menuCheckedAt": "2026-11-06"
   },
   {
     "id": "tn-scout-lead-48",
@@ -552430,6 +552554,10 @@
       "total": 49
     },
     "menuSource": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
-    "menuCheckedAt": "2026-11-06"
+    "menuCheckedAt": "2026-11-06",
+    "imageUrl": "https://zisong.tw/assets/shops/pangdad-shengang.webp",
+    "imageSource": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
+    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/177f0b3b-dc79-483b-b0c9-f7167dd41244/43e39660-7934-11ec-a5c8-0242ac110002.jpeg?channel=online-restaurant",
+    "imageCheckedAt": "2026-11-06"
   }
 ]
