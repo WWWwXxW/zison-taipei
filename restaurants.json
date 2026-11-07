@@ -6169,7 +6169,7 @@
       "上海"
     ],
     "hours": "分店略異",
-    "evidence": "官方 Oddle + 品牌官網 外送到府",
+    "evidence": "官方 Oddle + 品牌官網 外送到府。電話取自蘇杭餐廳 Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
     "source": "米其林餐盤",
     "chain": false,
     "featured": false,
@@ -6342,7 +6342,9 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://suhung.oddle.me/en_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/15e78b.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "phone": "02-2828-6828",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b1-2",
@@ -6354,7 +6356,7 @@
       "披薩"
     ],
     "hours": "師大店約 12:00–14:45, 17:00–20:15",
-    "evidence": "官方 Oddle",
+    "evidence": "官方 Oddle。電話取自瑪莉珍披薩 Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
     "source": "亦上平台但官網獨立通道",
     "chain": false,
     "featured": false,
@@ -6527,7 +6529,9 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://maryjanepizza.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/VegQuattroFormaggiacdcc5.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "phone": "02-2368-5222",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b1-3",
@@ -6540,7 +6544,7 @@
       "中式"
     ],
     "hours": "北投平日約 11:15–14:00, 15:45–20:00",
-    "evidence": "官方 Oddle",
+    "evidence": "官方 Oddle。電話取自京城烤鴨 Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
     "source": "phones on Oddle",
     "chain": false,
     "featured": false,
@@ -6624,7 +6628,9 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://pekingrostduck.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "0913-256-767",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b1-4",
@@ -9722,7 +9728,7 @@
     "confidence": "high",
     "hours": "大安約12:30–15:00 / 17:30–20:30",
     "orderUrl": "https://neighborsushi.oddle.me/zh_TW/stores",
-    "evidence": "渠道：Oddle",
+    "evidence": "渠道：Oddle。電話取自林居sushi Oddle 官方訂餐頁「電話」欄，2026-11-07 核對。",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -9886,7 +9892,9 @@
       "total": 48
     },
     "menuSource": "https://neighborsushi.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-2707-6167",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b2-40",
@@ -10501,7 +10509,7 @@
     "hours": "復興約12:00–21:30",
     "orderUrl": "https://japolikingsknow.oddle.me/en_TW/stores",
     "address": "忠孝東四段49巷2號B1",
-    "evidence": "渠道：Oddle",
+    "evidence": "渠道：Oddle。電話取自Japoli Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -10665,7 +10673,9 @@
       "total": 85
     },
     "menuSource": "https://japolikingsknow.oddle.me/en_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-2731-6633",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b2-45",
@@ -10869,7 +10879,7 @@
     "hours": "南京外送二–五午／一–五晚",
     "orderUrl": "https://toastcurry1.oddle.me/en_TW/stores",
     "address": "長春路318號等",
-    "evidence": "渠道：Oddle",
+    "evidence": "渠道：Oddle。電話取自三個傻瓜 Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -10937,7 +10947,9 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://toastcurry1.oddle.me/en_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-8770-5848",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b2-47",
@@ -15004,7 +15016,7 @@
     "hours": "客服一–五約 09:00–17:00；送達時段例 11:00–13:00 區間",
     "orderUrl": "https://shop.ichefpos.com/store/j3LVSING/ordering",
     "address": "光復北路85巷13號",
-    "evidence": "iCHEF：外送時段選項＋須先線上付款",
+    "evidence": "iCHEF：外送時段選項＋須先線上付款。電話取自知己知米 iCHEF GraphQL restaurant.phone；官方頁亦確認有外送時段，2026-11-07 核對。",
     "source": "iCHEF",
     "deliveryMinType": null,
     "deliveryMinValue": null,
@@ -15172,7 +15184,9 @@
       "total": 53
     },
     "menuSource": "https://shop.ichefpos.com/store/j3LVSING/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "phone": "02-2768-0003",
+    "checkedAt": "2026-11-07"
   },
   {
     "id": "scout-b3-75",
@@ -21677,7 +21691,7 @@
     "deliveryFee": 50,
     "evidence": "Oddle 外送目錄與店家頁 https://tw-eats.oddle.me/menus/yumeatrice 列出台北市地址並開放外送；官方店舖連結 https://yumeatrice.oddle.me。",
     "source": "https://yumeatrice.oddle.me；Discover: https://tw-eats.oddle.me/menus/yumeatrice；Checked: 2026-09-21；Batch: oddle-discover-20260921",
-    "checkedAt": "2026-09-21",
+    "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "scout",
@@ -21685,7 +21699,6 @@
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "city": "台北市",
-    "imageUrl": "https://ucarecdn.com/caf2c797-17e3-43fb-b432-8be58f4bd5b3/",
     "menu": {
       "items": [
         {
@@ -21845,11 +21858,7 @@
     },
     "menuSource": "https://yumeatrice.oddle.me",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $500 外送",
-    "imageSource": "https://yumeatrice.oddle.me/zh_TW",
-    "imageOriginal": "https://ucarecdn.com/caf2c797-17e3-43fb-b432-8be58f4bd5b3/",
-    "imageCheckedAt": "2026-11-03",
-    "imageKind": "brand"
+    "deliverySummary": "滿 $500 外送"
   },
   {
     "id": "scout-b5-121",
@@ -34568,7 +34577,7 @@
     "deliveryFee": 80,
     "evidence": "Oddle 外送目錄與店家頁 https://tw-eats.oddle.me/menus/soma 列出台北市地址並開放外送；官方店舖連結 https://somadrinks.oddle.me。",
     "source": "https://somadrinks.oddle.me；Discover: https://tw-eats.oddle.me/menus/soma；Checked: 2026-09-21；Batch: oddle-discover-20260921",
-    "checkedAt": "2026-09-21",
+    "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "scout",
@@ -34576,10 +34585,6 @@
     "deliveryMinValue": 800,
     "deliveryMinLabel": "滿 $800",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-203.webp",
-    "imageSource": "https://somadrinks.oddle.me/zh_TW",
-    "imageOriginal": "https://ucarecdn.com/4e97a7e3-09f9-4a72-b06c-889bae459204/-/crop/1688x1687/0,629/-/preview//-/resize/300x300/-/quality/lightest/-/format/webp/-/progressive/yes/",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -45426,7 +45431,7 @@
     "deliveryFee": 50,
     "evidence": "Oddle 外送目錄與店家頁 https://tw-eats.oddle.me/menus/icespring 列出台北市地址並開放外送；官方店舖連結 https://icespring.oddle.me。",
     "source": "https://icespring.oddle.me；Discover: https://tw-eats.oddle.me/menus/icespring；Checked: 2026-09-21；Batch: oddle-discover-20260921",
-    "checkedAt": "2026-09-21",
+    "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "scout",
@@ -45434,10 +45439,6 @@
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/scout-b5-269.webp",
-    "imageSource": "https://icespring.oddle.me/zh_TW",
-    "imageOriginal": "https://icespring.oddle.me/_next/image?url=https%3A%2F%2Fucarecdn.com%2Fb24d3912-0a02-4fd6-9403-fc9968f02df3%2F&w=640&q=75",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -102203,7 +102204,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
@@ -102215,10 +102216,6 @@
     "phone": "02-2601-0733",
     "address": "林口區中山路202之6號",
     "city": "新北市",
-    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-326.webp",
-    "imageSource": "https://iding.tw/store/9690b5c5",
-    "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_168376985293F9A1/166053827309F6E0_194d9a48-4523-4b76-be6e-e579a3779cf6_5_2_43.jpg",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -118404,7 +118401,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -118416,10 +118413,6 @@
     "phone": "02-2683-0010",
     "address": "保安街1段114號1樓",
     "city": "新北市",
-    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-436.webp",
-    "imageSource": "https://shop.ichefpos.com/store/k1iWzr0n/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/5234d4f3-8f8c-4ba4-ad20-b7bde30827b1/ec52b452-72db-11ec-aab8-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -136826,7 +136819,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
@@ -136952,11 +136945,7 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=567866",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $500 外送",
-    "imageUrl": null,
-    "imageSource": null,
-    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/476924423_614360258104900_8952967638871857836_n.jpg?stp=dst-jpg_tt6&cstp=mx1538x2048&ctp=p600x600&_nc_cat=109&ccb=1-7&_nc_sid=b96d88&_nc_ohc=bwEHoy_mnpEQ7kNvwFKSvfO&_nc_oc=AdqNeC1Y2wGziywsvS0FE5cZrcL5V-T0DM9oeINprPrenoAAiIF8A_CH2Kj2RNlDTqgrTuJzCYCigv7BvcdXZDF9&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&_nc_gid=4KHGUwfHdkoiUBBLbxPJRw&_nc_ss=7b20f&oh=00_AQMvciuUMTGH5hFm9v73G_Mm6lxPWv-Sh21LB06nOLz8Nw&oe=6ADE55C7",
-    "imageCheckedAt": "2026-10-28"
+    "deliverySummary": "滿 $500 外送"
   },
   {
     "id": "tc-scout-lead-90",
@@ -137325,7 +137314,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": "count",
     "deliveryMinValue": 30,
     "deliveryMinLabel": "滿 30 個",
@@ -137336,10 +137325,6 @@
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2452-8723",
     "address": "西屯區西屯路二段248-8號",
-    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-96.webp",
-    "imageSource": "https://order.quickclick.cc/en/food/P_W5jZN5Ew8/",
-    "imageOriginal": "https://lafreshcdn.blob.core.windows.net/product00/695851-1-1765715369.jpg",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "30 個以上就外送"
   },
   {
@@ -153145,7 +153130,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -153156,10 +153141,6 @@
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=411757",
     "phone": "07-8317316",
     "address": "自強二路113號",
-    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-62.webp",
-    "imageSource": "https://www.facebook.com/p/%E5%8A%89%E6%B1%9F%E4%BE%BF%E7%95%B6%E9%B3%B3%E5%B1%B1%E4%BA%94%E7%94%B2%E5%BA%97-100063744890513",
-    "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/300834985_466554342146058_291741358152520041_n.jpg?stp=dst-jpg_tt6&cstp=mx1190x1190&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=3ab345&_nc_ohc=1-EwfI3rddsQ7kNvwEAkr9U&_nc_oc=Adrz9DJzziJn7dD-7HhMvhGkixBF_CQtzK7S5SbNgZY5aKBeudhl8XGx6-CAVI9chPJxXvbLNe1u5RG72EOq3o2b&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=vQEyvFnX7-2xs7BrsML1bw&_nc_ss=7b20f&oh=00_AQOdMeCB1Wt9sUjnzu-OLYoZjkyAKBmYIJ-DvaeRp0v9JQ&oe=6ADE542D",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -161669,7 +161650,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -161681,10 +161662,6 @@
     "orderUrl": "https://inline.app/order/-MaYQWpXET3y8PBLDmaR:inline-live-2",
     "phone": "03-462-7899",
     "address": "中壢區環中東路567號",
-    "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-66.webp",
-    "imageSource": "https://shop.ichefpos.com/store/jSVXZfeE/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ce23fa7a-9d8c-4e7d-a827-8ecc5016592f/d11a3b6a-a2f8-11ef-a973-0242ac110004.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿 $500 外送（依距離或地區不同，請先電話確認）"
   },
   {
@@ -171588,7 +171565,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -171599,10 +171576,6 @@
     "source": "foodintainan",
     "phone": "06-267-3033",
     "address": "崇學路196號",
-    "imageUrl": "https://zisong.tw/assets/shops/tn-scout-lead-82.webp",
-    "imageSource": "https://shop.ichefpos.com/store/aLpDRa-k/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9db45a74-3de1-44ce-86f2-12f5d24e2a17/42d95658-91df-11ef-90eb-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "1公里滿150元、2公里滿300元，3公里以上來電詢問"
   },
   {
@@ -188414,35 +188387,6 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=527030",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "20 個以上就外送"
-  },
-  {
-    "id": "ch-scout-lead-10",
-    "slug": "清心緣蔬食坊",
-    "name": "清心緣蔬食坊（清心緣食坊）",
-    "city": "彰化縣",
-    "district": "彰化市",
-    "cuisine": "素食／蔬食便當",
-    "cuisineTags": [
-      "素食",
-      "蔬食便當"
-    ],
-    "chain": false,
-    "featured": false,
-    "origin": "scout",
-    "confidence": "medium",
-    "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
-    "deliveryFee": null,
-    "hours": "現行營業時間請電話問店家（2021 年公開資訊為 10:30～13:00）",
-    "evidence": "防疫外送懶人包明示：「彰化市區內滿500元免費外送」／「彰化市區內滿500元也可免費外送」；並有 iCHEF 訂餐",
-    "source": "yiwutrip.tw 2021-10",
-    "orderUrl": "https://shop.ichefpos.com/store/89TfTUch/ordering",
-    "phone": "04-762-2399",
-    "address": "彰化市中華西路165號",
-    "deliverySummary": "彰化市區滿 $500 免費外送"
   },
   {
     "id": "ch-scout-lead-11",
@@ -206090,7 +206034,7 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-23",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
@@ -206100,11 +206044,7 @@
     "evidence": "FB 摘句明示：「防疫期間…提供外送服務兩碗以上可送」",
     "source": "FB 九湯屋花蓮新城北埔店；cturamen.com.tw",
     "phone": "03-826-0909",
-    "address": "北埔路224號",
-    "imageUrl": "https://zisong.tw/assets/shops/hl-scout-lead-19.webp",
-    "imageSource": "https://www.cturamen.com.tw/index.html",
-    "imageOriginal": "https://static.iyp.tw/37864/files/3cc2ecc5-3fc5-4c89-a086-f886ed17ee31.jpg",
-    "imageCheckedAt": "2026-10-21"
+    "address": "北埔路224號"
   },
   {
     "id": "hl-scout-lead-21",
@@ -244214,7 +244154,11 @@
       "source": "https://www.dinbendon.net/do/idine?shop=640905"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=640905",
-    "deliverySummary": "3公里內滿700（3-5km滿1000／高鐵區1200）"
+    "deliverySummary": "3公里內滿700（3-5km滿1000／高鐵區1200）",
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-011.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=640905",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/9f39db20-5558-45ed-8721-32042378afa3.webp",
+    "imageCheckedAt": "2026-11-07"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-012",
@@ -246177,7 +246121,7 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": "amount",
     "deliveryMinValue": 1000,
     "deliveryMinLabel": "台元科技園區滿 1000",
@@ -246295,10 +246239,6 @@
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=394890"
     },
-    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-029.webp",
-    "imageSource": "https://shop.ichefpos.com/store/OMXd0y8k/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7b9acd9c-f347-443b-a9e6-61861c6060d5/a0610044-d5c3-11ec-a792-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "menuSource": "https://www.dinbendon.net/do/idine?shop=394890",
     "deliverySummary": "台元科技園區滿 1000"
   },
@@ -247367,7 +247307,7 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-07",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "5個以上才有外送",
@@ -247484,10 +247424,6 @@
       ],
       "source": "https://www.dinbendon.net/do/idine?shop=392297"
     },
-    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-039.webp",
-    "imageSource": "https://www.nicenine99.com/",
-    "imageOriginal": "https://www.nicenine99.com/wp-content/uploads/2024/06/60fe1e0db70ad.jpg",
-    "imageCheckedAt": "2026-10-21",
     "menuSource": "https://www.dinbendon.net/do/idine?shop=392297",
     "deliverySummary": "5個以上才有外送"
   },
@@ -458550,7 +458486,7 @@
     "orderUrl": "https://dinbendon.net/do/idine?shop=418718",
     "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「250元才外送」；店家頁地址 403台中市西區中美街296號、電話 04 2301 0080(中美店) , 04 2452 3365(逢甲店)；店家資料最後更新 2025/07/09。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=418718；Checked: 2026-10-29",
-    "checkedAt": "2026-10-29",
+    "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261029",
@@ -458880,12 +458816,7 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=418718",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "250元才外送",
-    "imageUrl": "https://zisong.tw/assets/shops/dbd-418718.webp",
-    "imageSource": "https://order.ocard.co/unochaadmin/mEJdGK?a&utm_source=bot&utm_medium=line",
-    "imageOriginal": "https://storage.googleapis.com/ocard-order/item/x2V5Ov.jpg",
-    "imageCheckedAt": "2026-10-30",
-    "imageKind": "brand"
+    "deliverySummary": "250元才外送"
   },
   {
     "id": "dbd-587249",
@@ -460700,7 +460631,7 @@
     "orderUrl": "https://dinbendon.net/do/idine?shop=415335",
     "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「消費滿500元即可外送」；店家頁地址 台中市西屯區中工三路42-1號、電話 04-2359-4868(10:00~21:00)；店家資料最後更新 2025/10/22。下單前請先來電確認。",
     "source": "https://dinbendon.net/do/idine?shop=415335；Checked: 2026-10-29",
-    "checkedAt": "2026-10-29",
+    "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261029",
@@ -460975,12 +460906,7 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=415335",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "消費滿500元即可外送",
-    "imageUrl": "https://zisong.tw/assets/shops/dbd-415335.webp",
-    "imageSource": "https://www.truedan.com.tw/product.php",
-    "imageOriginal": "https://www.truedan.com.tw/manager_admin/upload_file/459/16620104591.jpg",
-    "imageCheckedAt": "2026-10-30",
-    "imageKind": "brand"
+    "deliverySummary": "消費滿500元即可外送"
   },
   {
     "id": "dbd-651469",
@@ -552559,5 +552485,481 @@
     "imageSource": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/177f0b3b-dc79-483b-b0c9-f7167dd41244/43e39660-7934-11ec-a5c8-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-11-06"
+  },
+  {
+    "id": "dbd-589140",
+    "slug": "源作食堂",
+    "name": "源作食堂（弁當專門店）",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "重慶北路二段109號",
+    "cuisine": "便當／弁當",
+    "cuisineTags": [
+      "便當",
+      "台菜",
+      "排骨",
+      "雞腿"
+    ],
+    "phone": "02-2553-8876",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=589140",
+    "evidence": "訂便當網店家頁「源作食堂」地址 台北市大同區重慶北路二段109號、電話 02-2553-8876；外送範圍欄位含台北市大同區；店家頁說明「還沒訂過先更新可外送 會再聯繫看多少金額」。多篇食記亦寫三個便當可外送，但門檻以電話確認為準。店家資料最後更新 2024/11/13。",
+    "source": "https://www.dinbendon.net/do/idine?shop=589140；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "menu": {
+      "items": [
+        {
+          "name": "香酥雞腿便當",
+          "price": 130,
+          "category": "便當類"
+        },
+        {
+          "name": "薄皮翅小腿便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "蒲燒鯛魚便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "蝦捲便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "挪威鯖魚便當",
+          "price": 125,
+          "category": "便當類"
+        },
+        {
+          "name": "滷排骨便當",
+          "price": 125,
+          "category": "便當類"
+        },
+        {
+          "name": "辣炒豬肉便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "雙拼便當(半隻雞腿+隨機)",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "五穀米便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "排骨便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "滷雞腿便當",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "經典招牌便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "滷肉飯便當",
+          "price": 80,
+          "category": "便當類"
+        },
+        {
+          "name": "瓜仔肉便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "脆皮雞排便當",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "椒麻雞便當",
+          "price": 115,
+          "category": "便當類"
+        },
+        {
+          "name": "白飯",
+          "price": 15,
+          "category": "單點類"
+        },
+        {
+          "name": "五穀飯",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "豆干(三片)",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "滷蛋(一顆)",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "滷肉飯",
+          "price": 35,
+          "category": "單點類"
+        },
+        {
+          "name": "青菜(份)",
+          "price": 50,
+          "category": "單點類"
+        },
+        {
+          "name": "自製辣蘿蔔",
+          "price": 80,
+          "category": "單點類"
+        },
+        {
+          "name": "金G檸檬",
+          "price": 45,
+          "category": "單點類"
+        },
+        {
+          "name": "冬瓜檸檬",
+          "price": 35,
+          "category": "單點類"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=589140",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=589140",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-211149",
+    "slug": "雙胖子魯肉飯",
+    "name": "雙胖子魯肉飯",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "昌吉街106號",
+    "cuisine": "魯肉飯／便當",
+    "cuisineTags": [
+      "魯肉飯",
+      "便當",
+      "台菜"
+    ],
+    "phone": "02-2598-8691",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=211149",
+    "evidence": "訂便當網店家頁「雙胖子魯肉飯」地址 台北市大同區昌吉街106號、電話 02-2598-8691；外送範圍欄位為台北市大同區；提供魯肉飯、便當、麵、湯類菜單。",
+    "source": "https://www.dinbendon.net/do/idine?shop=211149；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "炸雞排便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "炸雞腿便當",
+          "price": 100,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "炸排骨便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯雞腿便當",
+          "price": 100,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯豬腳便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "腿庫便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "焢肉便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "紅燒肉便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯肉飯便當",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯肉飯",
+          "price": 45,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "乾 油麵 米粉 粿仔 冬粉",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇肉羹 油麵 米粉 粿仔 冬粉",
+          "price": 70,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "排骨酥 油麵 米粉 粿仔 冬粉",
+          "price": 75,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "苦瓜排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "金針排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "枸杞排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇肉羹湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "排骨酥湯",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇雞湯",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=211149",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=211149",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-596467",
+    "slug": "肉多廚房",
+    "name": "肉多廚房",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "太原路175巷30號1樓",
+    "cuisine": "健康餐盒／舒肥",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥",
+      "雞胸"
+    ],
+    "phone": "02-2550-8889",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=596467",
+    "evidence": "訂便當網店家頁「肉多廚房」地址 103台北市大同區太原路175巷30號1樓、電話 02-2550-8889；外送範圍欄位含台北市；菜單以舒肥雞胸餐盒為主。",
+    "source": "https://www.dinbendon.net/do/idine?shop=596467；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "元氣舒肥雞胸",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "義式青醬雞胸",
+          "price": 145,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "香麻舒肥雞胸",
+          "price": 150,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "氣炸嫩雞腿",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "香麻底雞肉片",
+          "price": 150,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒜香里肌肉片",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "台式打包豬(辣)",
+          "price": 135,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "熱量茹buy(五辛素)",
+          "price": 125,
+          "category": "健康餐盒"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=596467",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=596467",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-651138",
+    "slug": "吃貨家餐盒",
+    "name": "吃貨家餐盒",
+    "city": "新北市",
+    "district": "板橋區",
+    "address": "新海路58號",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥",
+      "雞胸"
+    ],
+    "phone": "02-8257-0285",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=651138",
+    "evidence": "訂便當網店家頁「吃貨家餐盒」地址 新北市板橋區新海路58號、電話 02-8257-0285；外送範圍欄位明列：新北市板橋區、新北市新莊區、新北市中和區、新北市三重區、新北市土城區、台北市中正區、台北市大同區、台北市中山區、台北市大安區、台北市萬華區。堅持原型食物／土雞蛋（店家頁說明）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=651138；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "可外送至新北市板橋區、新北市新莊區、新北市中和區、新北市三重區、新北市土城區、台北市中正區、台北市大同區、台北市中山區、台北市大安區、台北市萬華區（訂便當網店家頁外送範圍）",
+    "deliveryMinType": null,
+    "menu": {
+      "items": [
+        {
+          "name": "義式香草嫩雞胸",
+          "price": 165,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒙特婁雞胸",
+          "price": 165,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "橄欖油蔥雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "台式酒香醉雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "舒香辣味雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "日式照燒雞腿",
+          "price": 195,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "法式普羅旺斯雞腿",
+          "price": 205,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "炙燒舒肥豚菲力",
+          "price": 185,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "七味霜降松阪豬",
+          "price": 255,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "美國翼板牛",
+          "price": 280,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "鹽烤挪威鯖魚",
+          "price": 200,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "泰式檸檬鱸魚",
+          "price": 220,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒔蘿鮮選嫩鮭魚",
+          "price": 265,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "巴薩米克醋鴨胸",
+          "price": 320,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "艷煮海老鮮蝦",
+          "price": 200,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "奶蛋素食餐盒",
+          "price": 165,
+          "category": "健康餐盒"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=651138",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=651138",
+    "menuCheckedAt": "2026-11-07",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-651138.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=651138",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/86aae2b0-e81f-4e72-8f24-f70641e9447c.jpg",
+    "imageCheckedAt": "2026-11-07"
   }
 ]
