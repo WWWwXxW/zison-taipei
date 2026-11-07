@@ -244154,7 +244154,11 @@
       "source": "https://www.dinbendon.net/do/idine?shop=640905"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=640905",
-    "deliverySummary": "3公里內滿700（3-5km滿1000／高鐵區1200）"
+    "deliverySummary": "3公里內滿700（3-5km滿1000／高鐵區1200）",
+    "imageUrl": "https://zisong.tw/assets/shops/zhubei-freeze-batch2-20261002-011.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=640905",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/9f39db20-5558-45ed-8721-32042378afa3.webp",
+    "imageCheckedAt": "2026-11-07"
   },
   {
     "id": "zhubei-freeze-batch2-20261002-012",
@@ -552952,6 +552956,10 @@
       "fetchedOn": "2026-11-07"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=651138",
-    "menuCheckedAt": "2026-11-07"
+    "menuCheckedAt": "2026-11-07",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-651138.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=651138",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/86aae2b0-e81f-4e72-8f24-f70641e9447c.jpg",
+    "imageCheckedAt": "2026-11-07"
   }
 ]
