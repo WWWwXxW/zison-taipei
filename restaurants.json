@@ -552481,5 +552481,477 @@
     "imageSource": "https://shop.ichefpos.com/store/tOD0NEQq/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/177f0b3b-dc79-483b-b0c9-f7167dd41244/43e39660-7934-11ec-a5c8-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-11-06"
+  },
+  {
+    "id": "dbd-589140",
+    "slug": "源作食堂",
+    "name": "源作食堂（弁當專門店）",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "重慶北路二段109號",
+    "cuisine": "便當／弁當",
+    "cuisineTags": [
+      "便當",
+      "台菜",
+      "排骨",
+      "雞腿"
+    ],
+    "phone": "02-2553-8876",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=589140",
+    "evidence": "訂便當網店家頁「源作食堂」地址 台北市大同區重慶北路二段109號、電話 02-2553-8876；外送範圍欄位含台北市大同區；店家頁說明「還沒訂過先更新可外送 會再聯繫看多少金額」。多篇食記亦寫三個便當可外送，但門檻以電話確認為準。店家資料最後更新 2024/11/13。",
+    "source": "https://www.dinbendon.net/do/idine?shop=589140；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "menu": {
+      "items": [
+        {
+          "name": "香酥雞腿便當",
+          "price": 130,
+          "category": "便當類"
+        },
+        {
+          "name": "薄皮翅小腿便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "蒲燒鯛魚便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "蝦捲便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "挪威鯖魚便當",
+          "price": 125,
+          "category": "便當類"
+        },
+        {
+          "name": "滷排骨便當",
+          "price": 125,
+          "category": "便當類"
+        },
+        {
+          "name": "辣炒豬肉便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "雙拼便當(半隻雞腿+隨機)",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "五穀米便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "排骨便當",
+          "price": 100,
+          "category": "便當類"
+        },
+        {
+          "name": "滷雞腿便當",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "經典招牌便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "滷肉飯便當",
+          "price": 80,
+          "category": "便當類"
+        },
+        {
+          "name": "瓜仔肉便當",
+          "price": 90,
+          "category": "便當類"
+        },
+        {
+          "name": "脆皮雞排便當",
+          "price": 120,
+          "category": "便當類"
+        },
+        {
+          "name": "椒麻雞便當",
+          "price": 115,
+          "category": "便當類"
+        },
+        {
+          "name": "白飯",
+          "price": 15,
+          "category": "單點類"
+        },
+        {
+          "name": "五穀飯",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "豆干(三片)",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "滷蛋(一顆)",
+          "price": 20,
+          "category": "單點類"
+        },
+        {
+          "name": "滷肉飯",
+          "price": 35,
+          "category": "單點類"
+        },
+        {
+          "name": "青菜(份)",
+          "price": 50,
+          "category": "單點類"
+        },
+        {
+          "name": "自製辣蘿蔔",
+          "price": 80,
+          "category": "單點類"
+        },
+        {
+          "name": "金G檸檬",
+          "price": 45,
+          "category": "單點類"
+        },
+        {
+          "name": "冬瓜檸檬",
+          "price": 35,
+          "category": "單點類"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=589140",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=589140",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-211149",
+    "slug": "雙胖子魯肉飯",
+    "name": "雙胖子魯肉飯",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "昌吉街106號",
+    "cuisine": "魯肉飯／便當",
+    "cuisineTags": [
+      "魯肉飯",
+      "便當",
+      "台菜"
+    ],
+    "phone": "02-2598-8691",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=211149",
+    "evidence": "訂便當網店家頁「雙胖子魯肉飯」地址 台北市大同區昌吉街106號、電話 02-2598-8691；外送範圍欄位為台北市大同區；提供魯肉飯、便當、麵、湯類菜單。",
+    "source": "https://www.dinbendon.net/do/idine?shop=211149；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "炸雞排便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "炸雞腿便當",
+          "price": 100,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "炸排骨便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯雞腿便當",
+          "price": 100,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯豬腳便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "腿庫便當",
+          "price": 95,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "焢肉便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "紅燒肉便當",
+          "price": 90,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯肉飯便當",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "魯肉飯",
+          "price": 45,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "乾 油麵 米粉 粿仔 冬粉",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇肉羹 油麵 米粉 粿仔 冬粉",
+          "price": 70,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "排骨酥 油麵 米粉 粿仔 冬粉",
+          "price": 75,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "苦瓜排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "金針排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "枸杞排骨湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇肉羹湯",
+          "price": 55,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "排骨酥湯",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        },
+        {
+          "name": "香菇雞湯",
+          "price": 60,
+          "category": "便當／魯肉飯"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=211149",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=211149",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-596467",
+    "slug": "肉多廚房",
+    "name": "肉多廚房",
+    "city": "台北市",
+    "district": "大同區",
+    "address": "太原路175巷30號1樓",
+    "cuisine": "健康餐盒／舒肥",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥",
+      "雞胸"
+    ],
+    "phone": "02-2550-8889",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=596467",
+    "evidence": "訂便當網店家頁「肉多廚房」地址 103台北市大同區太原路175巷30號1樓、電話 02-2550-8889；外送範圍欄位含台北市；菜單以舒肥雞胸餐盒為主。",
+    "source": "https://www.dinbendon.net/do/idine?shop=596467；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "元氣舒肥雞胸",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "義式青醬雞胸",
+          "price": 145,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "香麻舒肥雞胸",
+          "price": 150,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "氣炸嫩雞腿",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "香麻底雞肉片",
+          "price": 150,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒜香里肌肉片",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "台式打包豬(辣)",
+          "price": 135,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "熱量茹buy(五辛素)",
+          "price": 125,
+          "category": "健康餐盒"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=596467",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=596467",
+    "menuCheckedAt": "2026-11-07"
+  },
+  {
+    "id": "dbd-651138",
+    "slug": "吃貨家餐盒",
+    "name": "吃貨家餐盒",
+    "city": "新北市",
+    "district": "板橋區",
+    "address": "新海路58號",
+    "cuisine": "健康餐盒",
+    "cuisineTags": [
+      "健康餐盒",
+      "舒肥",
+      "雞胸"
+    ],
+    "phone": "02-8257-0285",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=651138",
+    "evidence": "訂便當網店家頁「吃貨家餐盒」地址 新北市板橋區新海路58號、電話 02-8257-0285；外送範圍欄位明列：新北市板橋區、新北市新莊區、新北市中和區、新北市三重區、新北市土城區、台北市中正區、台北市大同區、台北市中山區、台北市大安區、台北市萬華區。堅持原型食物／土雞蛋（店家頁說明）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=651138；Checked: 2026-11-07",
+    "checkedAt": "2026-11-07",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261107",
+    "confidence": "medium",
+    "deliverySummary": "可外送至新北市板橋區、新北市新莊區、新北市中和區、新北市三重區、新北市土城區、台北市中正區、台北市大同區、台北市中山區、台北市大安區、台北市萬華區（訂便當網店家頁外送範圍）",
+    "deliveryMinType": null,
+    "menu": {
+      "items": [
+        {
+          "name": "義式香草嫩雞胸",
+          "price": 165,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒙特婁雞胸",
+          "price": 165,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "橄欖油蔥雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "台式酒香醉雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "舒香辣味雞胸",
+          "price": 175,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "日式照燒雞腿",
+          "price": 195,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "法式普羅旺斯雞腿",
+          "price": 205,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "炙燒舒肥豚菲力",
+          "price": 185,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "七味霜降松阪豬",
+          "price": 255,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "美國翼板牛",
+          "price": 280,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "鹽烤挪威鯖魚",
+          "price": 200,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "泰式檸檬鱸魚",
+          "price": 220,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒔蘿鮮選嫩鮭魚",
+          "price": 265,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "巴薩米克醋鴨胸",
+          "price": 320,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "艷煮海老鮮蝦",
+          "price": 200,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "奶蛋素食餐盒",
+          "price": 165,
+          "category": "健康餐盒"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=651138",
+      "fetchedOn": "2026-11-07"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=651138",
+    "menuCheckedAt": "2026-11-07"
   }
 ]
