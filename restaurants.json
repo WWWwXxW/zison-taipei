@@ -102443,7 +102443,11 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=495260",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "5 個以上就外送"
+    "deliverySummary": "5 個以上就外送",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-326.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=495260",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/5b4c8cc9-ea0d-486f-9a60-458001cbd942.jpg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-327",
@@ -345154,7 +345158,11 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=228127",
     "menuCheckedAt": "2026-10-26",
     "deliverySource": "https://www.dinbendon.net/do/idine?shop=228127",
-    "deliveryCheckedAt": "2026-11-08"
+    "deliveryCheckedAt": "2026-11-08",
+    "imageUrl": "https://zisong.tw/assets/shops/guanshan-xindian-minzu.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=228127",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/606978f3-738f-4470-812d-83d20b4bfe9f.jpg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "guanshan-yonghe-zhongzheng",
@@ -481929,7 +481937,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=271725",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "鼎盛400元外送；鉅眾300元外送"
+    "deliverySummary": "鼎盛400元外送；鉅眾300元外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-271725.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=271725",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/2a51599f-4911-40c7-abde-781d6bb940aa.jpg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-608096",
@@ -495945,7 +495957,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=649845",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "3公里內5個以上即可外送；3-5公里10個以上即可外送（以Google地圖為準）"
+    "deliverySummary": "3公里內5個以上即可外送；3-5公里10個以上即可外送（以Google地圖為準）",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-649845.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=649845",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/a3c34206-f308-47e9-977e-2087b199cad0.jpg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-645446",
@@ -503235,7 +503251,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=340172",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "外送數量：5個以上（也可電話訂購再到定點領取）"
+    "deliverySummary": "外送數量：5個以上（也可電話訂購再到定點領取）",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-340172.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=340172",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/9d5b79e2-0481-4b33-a7c5-940928897741.jpg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-270697",
@@ -541174,7 +541194,11 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=84375",
     "menuCheckedAt": "2026-11-01",
-    "deliverySummary": "本店提供-竹北10個外送服務"
+    "deliverySummary": "本店提供-竹北10個外送服務",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-84375.webp",
+    "imageSource": "https://www.dinbendon.net/do/idine?shop=84375",
+    "imageOriginal": "https://www.dinbendon.net/localstorage/shop/2bda1367-d9e7-438d-b6ba-05dd49f37d8c.jpeg",
+    "imageCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-630391",
