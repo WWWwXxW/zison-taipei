@@ -4574,7 +4574,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=450737",
     "menuCheckedAt": "2026-10-26",
-    "imageSource": "https://static.iyp.tw/38988/files/c36de775-e3bb-4a90-85b5-ccf43e2f832c.jpg"
+    "imageSource": "https://static.iyp.tw/38988/files/c36de775-e3bb-4a90-85b5-ccf43e2f832c.jpg",
+    "deliverySummary": "如需外送請提前一~二日前晚上6點以前完成訂購，信義區滿2000元免運費",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=450737",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "cg-65",
@@ -46007,7 +46010,10 @@
       "sourceUpdated": "2026-03-02"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=533391",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySummary": "前一天打電話，5個外送, 10:00前預訂-週六公休",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=533391",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-115",
@@ -47496,7 +47502,10 @@
       "sourceUpdated": "2026-04-15"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=633116",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "5個起外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=633116",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-b6-140",
@@ -48865,7 +48874,10 @@
       "sourceUpdated": "2026-10-19"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=425111",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "市政府捷運1000元外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=425111",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-b7-151",
@@ -49307,7 +49319,10 @@
       "sourceUpdated": "2026-06-01"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=495127",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "外送：工業局10個便當以上",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=495127",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-b7-157",
@@ -52069,7 +52084,7 @@
     "imageSource": "https://imenu.com.tw/porkribs/porkribs1/menu",
     "imageOriginal": "https://cdn.idelivery.com.tw/store/image/menu_item/5458/6c6a9a60e96d0102bc1fc64b00c72156.jpg",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliverySummary": "內湖地區需滿$1500可外送 請來電確認",
     "menu": {
       "items": [
         {
@@ -52154,7 +52169,9 @@
       "sourceUpdated": "2023-09-15"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=143262",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=143262",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-b11-229",
@@ -55736,7 +55753,10 @@
       "sourceUpdated": "2026-08-03"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=560296",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "外送規定：建議10:30前訂餐，指定送餐時間以三十分鐘為一區間",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=560296",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-290",
@@ -58746,7 +58766,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=412948",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://zh-tw.facebook.com/pages/category/Restaurant/%E4%BE%86%E5%96%AB%E9%A3%AF%E5%81%A5%E5%BA%B7%E4%BD%8E%E5%8D%A1%E9%A4%90%E7%9B%92-819058835102642/"
+    "officialUrl": "https://zh-tw.facebook.com/pages/category/Restaurant/%E4%BE%86%E5%96%AB%E9%A3%AF%E5%81%A5%E5%BA%B7%E4%BD%8E%E5%8D%A1%E9%A4%90%E7%9B%92-819058835102642/",
+    "deliverySummary": "免運外送數量： 1km: 5個 1.5~2.5km: 10~15個 2.5~3.5km: 20~25",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=412948",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-314",
@@ -59862,7 +59885,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=490783",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=490783"
+    "officialUrl": "https://www.dinbendon.net/do/idine?shop=490783",
+    "deliverySummary": "2至3公里外送門檻2444元，1至2公里外送門檻1444元。",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=490783",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-322",
@@ -61756,7 +61782,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=346289",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=346289"
+    "officialUrl": "https://www.dinbendon.net/do/idine?shop=346289",
+    "deliverySummary": "南京東路5段外送，需訂購金額達 1600 以上",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=346289",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-338",
@@ -62027,7 +62056,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=559923",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=559923"
+    "officialUrl": "https://www.dinbendon.net/do/idine?shop=559923",
+    "deliverySummary": "6個有主菜的便當以上外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=559923",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-340",
@@ -66505,7 +66537,7 @@
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "city": "台北市",
-    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliverySummary": "5個起外送",
     "menu": {
       "items": [
         {
@@ -66665,7 +66697,9 @@
       "sourceUpdated": "2026-03-26"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=633006",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=633006",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-473",
@@ -68198,7 +68232,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=455776",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=455776"
+    "officialUrl": "https://www.dinbendon.net/do/idine?shop=455776",
+    "deliverySummary": "滿千外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=455776",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "scout-lead-493",
@@ -69891,7 +69928,10 @@
       "sourceUpdated": "2023-04-21"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=218543",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySummary": "滿1500元外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=218543",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-2",
@@ -71919,7 +71959,10 @@
       "sourceUpdated": "2024-12-27"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=56322",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "200外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=56322",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-27",
@@ -76987,7 +77030,10 @@
       "sourceUpdated": "2025-05-11"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=378069",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "5個以上外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=378069",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-123",
@@ -79120,7 +79166,10 @@
       "sourceUpdated": "2025-09-28"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=618305",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "附近五個以上就可外送。",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=618305",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-150",
@@ -82837,7 +82886,10 @@
       "sourceUpdated": "2025-04-11"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=600470",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "500起外送，10點就可以打電話訂購",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=600470",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-182",
@@ -83260,7 +83312,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=648681",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.facebook.com/p/%E9%A3%AF%E7%A0%94%E6%89%80-%E6%AF%8F%E4%B8%80%E5%8F%A3%E9%83%BD%E6%98%AF%E8%AC%9B%E7%A9%B6-61592136981249/"
+    "officialUrl": "https://www.facebook.com/p/%E9%A3%AF%E7%A0%94%E6%89%80-%E6%AF%8F%E4%B8%80%E5%8F%A3%E9%83%BD%E6%98%AF%E8%AC%9B%E7%A9%B6-61592136981249/",
+    "deliverySummary": "5個可以外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=648681",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-185",
@@ -83423,7 +83478,10 @@
       "sourceUpdated": "2024-06-18"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=576281",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿千外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=576281",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-187",
@@ -90177,7 +90235,10 @@
       "sourceUpdated": "2022-12-15"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=24794",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "五個以上,就可外送!!",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=24794",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-233",
@@ -92259,7 +92320,10 @@
       "sourceUpdated": "2026-02-23"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=521331",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "台北市信義區滿一千五百元即可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=521331",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-250",
@@ -101154,7 +101218,10 @@
       "sourceUpdated": "2021-12-07"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=420240",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "十片外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=420240",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-320",
@@ -117614,7 +117681,10 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=293089",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.facebook.com/tanraku.First.store/"
+    "officialUrl": "https://www.facebook.com/tanraku.First.store/",
+    "deliverySummary": "訂購10個(含)以上即可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=293089",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-431",
@@ -120077,7 +120147,10 @@
       "sourceUpdated": "2023-03-30"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=329264",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿三百元外送，外送範圍請來電洽詢",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=329264",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "nt-scout-lead-449",
@@ -143062,7 +143135,10 @@
       "sourceUpdated": "2023-06-12"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=46966",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "請前一天先訂購好，否則當天訂不一定能外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=46966",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tc-scout-lead-176",
@@ -148820,7 +148896,10 @@
       "sourceUpdated": "2025-08-26"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=39718",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySummary": "15個以上外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=39718",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "kh-scout-lead-11",
@@ -158305,7 +158384,10 @@
     "imageSource": "https://www.8way.com.tw/",
     "imageOriginal": "https://www.8way.com.tw/8WayApi/document/33517e23-0814-4d54-8a2c-faacbd2d6e30.png",
     "imageCheckedAt": "2026-11-05",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverySummary": "$300可送 9:30可訂購",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=546706",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "ty-scout-lead-17",
@@ -168175,7 +168257,10 @@
       "sourceUpdated": "2025-05-14"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=579238",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "不限數量 科工區外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=579238",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tn-scout-lead-42",
@@ -168710,7 +168795,10 @@
       "sourceUpdated": "2026-03-06"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=223682",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "安平工業區滿三百元外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=223682",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tn-scout-lead-45",
@@ -168995,7 +169083,10 @@
       "sourceUpdated": "2026-08-04"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=515830",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "外送接單10:00截止",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=515830",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tn-scout-lead-47",
@@ -171968,7 +172059,10 @@
       "sourceUpdated": "2025-08-21"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=581584",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "南科約500可外送，南科七路後約800-1000可送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=581584",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tn-scout-lead-91",
@@ -172878,7 +172972,10 @@
       "sourceUpdated": "2025-06-30"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=208884",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿三個即外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=208884",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "tn-scout-lead-114",
@@ -176278,7 +176375,10 @@
       "sourceUpdated": "2026-05-04"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=500180",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿千可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=500180",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "hc-scout-lead-23",
@@ -180641,7 +180741,10 @@
       "sourceUpdated": "2021-09-29"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=240830",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿五百",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=240830",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "hc-scout-lead-67",
@@ -182543,7 +182646,10 @@
       "sourceUpdated": "2024-06-06"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=527333",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿千可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=527333",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "hc-scout-lead-80",
@@ -183658,7 +183764,10 @@
       "sourceUpdated": "2024-03-07"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=476639",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿八百才有外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=476639",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "hc-scout-lead-89",
@@ -189395,7 +189504,10 @@
       "sourceUpdated": "2026-07-08"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=465670",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿三百外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=465670",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "ch-scout-lead-24",
@@ -197403,7 +197515,10 @@
       "sourceUpdated": "2024-03-20"
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=444318",
-    "menuCheckedAt": "2026-10-29"
+    "menuCheckedAt": "2026-10-29",
+    "deliverySummary": "滿1000外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=444318",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "ml-scout-lead-27",
@@ -258603,7 +258718,10 @@
       "sourceUpdated": "2026-09-22"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=649407",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "外送滿千免外送費",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=649407",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-290928",
@@ -344929,7 +345047,7 @@
     "deliveryFee": null,
     "chain": false,
     "slug": "guanshan-xindian-minzu",
-    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliverySummary": "4盒以上外送 請於11:00前訂購",
     "menu": {
       "items": [
         {
@@ -345034,7 +345152,9 @@
       "sourceUpdated": "2026-10-02"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=228127",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=228127",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "guanshan-yonghe-zhongzheng",
@@ -345102,7 +345222,7 @@
     "deliveryFee": null,
     "chain": false,
     "slug": "guanshan-zhonghe-liancheng",
-    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliverySummary": "訂購四個便當以上或消費金額滿300元，即可外送！",
     "menu": {
       "items": [
         {
@@ -345256,7 +345376,9 @@
       "sourceUpdated": "2025-06-22"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=319299",
-    "menuCheckedAt": "2026-10-27"
+    "menuCheckedAt": "2026-10-27",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=319299",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "guanshan-zhonghe-xinsheng",
@@ -449197,7 +449319,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=645581",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "訂中午的外送12點送到，在10：00~10：30打電話訂餐較能安排在12點之前送到!",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=645581",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-91485",
@@ -450847,7 +450971,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=604343",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "寶橋路外送,但只送到1樓",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=604343",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-92302",
@@ -470488,7 +470614,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=486125",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "手路菜便當，中午有外送服務，早上10點即可電話預約（外送條件請電話問店家）"
+    "deliverySummary": "滿150元 － 1公里內 滿300元 － 2公里內 滿500元 － 3公里內",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=486125",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-356000",
@@ -471059,7 +471187,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=432618",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "本店提供外送服務（外送條件請電話問店家）"
+    "deliverySummary": "2公里內→100元以上 2-3公里→200元以上 3-5公里→300元以上 5-10公里→500元以上",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=432618",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-606555",
@@ -471570,7 +471700,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=232103",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "晚上外送到18:30（外送條件請電話問店家）"
+    "deliverySummary": "大的便當要5個才送 晚上外送到18:30",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=232103",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-547131",
@@ -477362,7 +477494,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=528160",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "至少外送前 1 小時訂購（外送條件請電話問店家）"
+    "deliverySummary": "至少外送前 1 小時訂購 - 大墩十街滿 500 送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=528160",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-640903",
@@ -479698,7 +479832,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=447608",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "當日外送需於上午11點前訂餐（外送條件請電話問店家）"
+    "deliverySummary": "1公里內滿3個餐盒 3公里內滿5個或滿600元",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=447608",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-569127",
@@ -488801,7 +488937,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=603927",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "外送訂單提前一天訂購，訂單消費滿500可享每個餐盒折5元（外送條件請電話問店家）"
+    "deliverySummary": "市政府300送 0900可打電話 外送訂單提前一天訂購",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=603927",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-603148",
@@ -490581,7 +490719,9 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=420848",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "週一公休、週二至週五 11:00-18:30可外送（外送條件請電話問店家）"
+    "deliverySummary": "週二至週五 11:00-18:30可外送 ★新光附近區域500送、豐邑1000送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=420848",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-535901",
@@ -552661,14 +552801,14 @@
     ],
     "phone": "02-2598-8691",
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=211149",
-    "evidence": "訂便當網店家頁「雙胖子魯肉飯」地址 台北市大同區昌吉街106號、電話 02-2598-8691；外送範圍欄位為台北市大同區；提供魯肉飯、便當、麵、湯類菜單。",
+    "evidence": "訂便當網店家頁「雙胖子魯肉飯」地址 台北市大同區昌吉街106號、電話 02-2598-8691；外送範圍欄位為台北市大同區；提供魯肉飯、便當、麵、湯類菜單。；訂便當網店家說明：滿400元即可外送",
     "source": "https://www.dinbendon.net/do/idine?shop=211149；Checked: 2026-11-07",
     "checkedAt": "2026-11-07",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261107",
     "confidence": "medium",
-    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "deliverySummary": "滿400元即可外送，訂購前請電詢所在位置是否有外送",
     "menu": {
       "items": [
         {
@@ -552771,7 +552911,9 @@
       "fetchedOn": "2026-11-07"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=211149",
-    "menuCheckedAt": "2026-11-07"
+    "menuCheckedAt": "2026-11-07",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=211149",
+    "deliveryCheckedAt": "2026-11-08"
   },
   {
     "id": "dbd-596467",
