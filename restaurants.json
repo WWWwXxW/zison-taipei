@@ -554387,5 +554387,371 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=420831",
     "menuCheckedAt": "2026-11-08"
+  },
+  {
+    "id": "dbd-460132",
+    "slug": "見橙拉仔麵",
+    "name": "見橙拉仔麵",
+    "city": "台中市",
+    "district": "北區",
+    "address": "博館東街16號",
+    "cuisine": "拌飯／便當／麵",
+    "cuisineTags": [
+      "便當",
+      "麵食"
+    ],
+    "phone": "04-2321-1987",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=460132",
+    "evidence": "訂便當網店家頁「見橙拉仔麵」地址 台中市北區博館東街16號、電話 04-2321-1987；外送範圍欄位 台中市、台中市北區；店家說明寫「*套餐含3種配菜 滿800送(10:00可打電話) 廣三附近600送」（2026/07/09 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=460132；Checked: 2026-11-09",
+    "checkedAt": "2026-11-09",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261109",
+    "confidence": "medium",
+    "deliverySummary": "滿800送(10:00可打電話)；廣三附近600送",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=460132",
+    "deliveryCheckedAt": "2026-11-09",
+    "menu": {
+      "items": [
+        {
+          "name": "古早味豬油拌飯（單點／便當）",
+          "price": "40／75",
+          "category": "飯類"
+        },
+        {
+          "name": "月見豬油拌飯（單點／便當）",
+          "price": "60／90",
+          "category": "飯類"
+        },
+        {
+          "name": "二哥滷肉飯（單點／便當）",
+          "price": "55／90",
+          "category": "飯類"
+        },
+        {
+          "name": "二哥爌肉飯（單點／便當）",
+          "price": "75／110",
+          "category": "飯類"
+        },
+        {
+          "name": "老酒香腸飯（單點／便當）",
+          "price": "75／105",
+          "category": "飯類"
+        },
+        {
+          "name": "美椒姨瓜仔肉飯（單點／便當）",
+          "price": "75／110",
+          "category": "飯類"
+        },
+        {
+          "name": "塔塔香打拋豬肉飯（單點／便當）",
+          "price": "75／110",
+          "category": "飯類"
+        },
+        {
+          "name": "醬燒大排(炸)便當",
+          "price": 110,
+          "category": "飯類"
+        },
+        {
+          "name": "蒲燒鯛魚便當",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "府城蝦捲便當",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "蒜泥白肉便當",
+          "price": 120,
+          "category": "飯類"
+        },
+        {
+          "name": "招牌酥炸大雞腿便當",
+          "price": 140,
+          "category": "飯類"
+        },
+        {
+          "name": "台式無骨鹹酥雞便當",
+          "price": 125,
+          "category": "飯類"
+        },
+        {
+          "name": "韓式泡菜豬五花便當",
+          "price": 130,
+          "category": "飯類"
+        },
+        {
+          "name": "無敵唐揚雞便當",
+          "price": 150,
+          "category": "飯類"
+        },
+        {
+          "name": "無刺虱目魚肚便當",
+          "price": 135,
+          "category": "飯類"
+        },
+        {
+          "name": "美椒燉瓜仔飯便當套餐(含荷包蛋+綜合湯)",
+          "price": 150,
+          "category": "飯類"
+        },
+        {
+          "name": "招牌拉仔乾麵（／加大）",
+          "price": "45／65",
+          "category": "麵類"
+        },
+        {
+          "name": "招牌拉仔乾麵便當（／加大）",
+          "price": "85／105",
+          "category": "麵類"
+        },
+        {
+          "name": "招牌拉仔乾麵套餐(含拉仔麵便當、醬燒大排骨、蘿蔔湯)",
+          "price": 140,
+          "category": "麵類"
+        },
+        {
+          "name": "無敵唐揚雞",
+          "price": 105,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "無刺虱目魚肚",
+          "price": 85,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "香酥炸雞腿",
+          "price": 100,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "醬燒大排(炸)",
+          "price": 65,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "無骨鹹酥雞",
+          "price": 75,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "二哥爌肉/塊",
+          "price": 60,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "蒜泥白肉",
+          "price": 60,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "甘梅地瓜",
+          "price": 60,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "手作府城蝦捲(3捲)",
+          "price": 55,
+          "category": "手路菜主食"
+        },
+        {
+          "name": "招牌米血(蒜泥醬+花生粉)",
+          "price": 50,
+          "category": "小菜"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=460132",
+      "fetchedOn": "2026-11-09",
+      "total": 44
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=460132",
+    "menuCheckedAt": "2026-11-09"
+  },
+  {
+    "id": "dbd-474442",
+    "slug": "晨光便當",
+    "name": "晨光便當",
+    "city": "台中市",
+    "district": "北區",
+    "address": "博館路79號",
+    "cuisine": "便當",
+    "cuisineTags": [
+      "便當"
+    ],
+    "phone": "04-2329-5967",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=474442",
+    "evidence": "訂便當網店家頁「晨光便當」地址 台中北區博館路79號、電話 04-23295967；外送範圍欄位 台中市北區；店家說明寫「晚上4個送」（2026/04/15 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=474442；Checked: 2026-11-09",
+    "checkedAt": "2026-11-09",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261109",
+    "confidence": "medium",
+    "deliverySummary": "晚上4個送",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=474442",
+    "deliveryCheckedAt": "2026-11-09",
+    "menu": {
+      "items": [
+        {
+          "name": "煎豬排便當",
+          "price": 95
+        },
+        {
+          "name": "炸排骨便當",
+          "price": 95
+        },
+        {
+          "name": "滷雞腿便當",
+          "price": 95
+        },
+        {
+          "name": "瓜仔肉丸便當",
+          "price": 95
+        },
+        {
+          "name": "雞排便當",
+          "price": 95
+        },
+        {
+          "name": "巴沙魚便當",
+          "price": 100
+        },
+        {
+          "name": "鯖魚便當",
+          "price": 100
+        },
+        {
+          "name": "鱈魚便當",
+          "price": 100
+        },
+        {
+          "name": "紅燒旗魚便當",
+          "price": 100
+        },
+        {
+          "name": "三杯雞便當",
+          "price": 100
+        },
+        {
+          "name": "蝦捲便當",
+          "price": 105
+        },
+        {
+          "name": "炸雞腿便當",
+          "price": 110
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=474442",
+      "fetchedOn": "2026-11-09"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=474442",
+    "menuCheckedAt": "2026-11-09"
+  },
+  {
+    "id": "dbd-628787",
+    "slug": "醬醬熱潮",
+    "name": "醬醬熱潮",
+    "city": "台中市",
+    "district": "北區",
+    "address": "永興街213號",
+    "cuisine": "熱炒餐盒／炒飯",
+    "cuisineTags": [
+      "便當",
+      "餐盒"
+    ],
+    "phone": "04-2236-8881",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=628787",
+    "evidence": "訂便當網店家頁「醬醬熱潮」地址 台中市北區永興街213號、電話 04-22368881；外送範圍欄位 台中市、台中市北區；店家說明寫「台新10個送 歌劇院10個送」（2026/03/19 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=628787；Checked: 2026-11-09",
+    "checkedAt": "2026-11-09",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261109",
+    "confidence": "medium",
+    "deliverySummary": "台新10個送；歌劇院10個送",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=628787",
+    "deliveryCheckedAt": "2026-11-09",
+    "menu": {
+      "items": [
+        {
+          "name": "蔥爆牛肉餐盒",
+          "price": 150,
+          "category": "餐盒"
+        },
+        {
+          "name": "蔥爆豬肉餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "蒜香豬肉餐盒",
+          "price": 140,
+          "category": "餐盒"
+        },
+        {
+          "name": "京醬肉絲餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "宮保雞丁餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "三杯雞丁餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "麻婆豆腐餐盒",
+          "price": 100,
+          "category": "餐盒"
+        },
+        {
+          "name": "蝦仁炒飯",
+          "price": 110,
+          "category": "炒飯"
+        },
+        {
+          "name": "肉絲炒飯",
+          "price": 100,
+          "category": "炒飯"
+        },
+        {
+          "name": "蒜香牛肉炒飯",
+          "price": 130,
+          "category": "炒飯"
+        },
+        {
+          "name": "蛤蜊湯",
+          "price": 60,
+          "category": "湯品"
+        },
+        {
+          "name": "紫菜蛋花湯",
+          "price": 40,
+          "category": "湯品"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=628787",
+      "fetchedOn": "2026-11-09"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=628787",
+    "menuCheckedAt": "2026-11-09"
   }
 ]

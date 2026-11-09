@@ -84,5 +84,56 @@
   "scout-lead-501",
   "scout-lead-502",
   "scout-lead-503"
+ ],
+ "tel_mismatch": [
+  [
+   "dbd-460132",
+   "0225565788",
+   [
+    "0423211987"
+   ]
+  ],
+  [
+   "dbd-474442",
+   "0225565788",
+   [
+    "0423295967"
+   ]
+  ],
+  [
+   "dbd-628787",
+   "0225565788",
+   [
+    "0422368881"
+   ]
+  ]
+ ],
+ "order_host_mismatch": [
+  [
+   "dbd-460132",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ],
+  [
+   "dbd-474442",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ],
+  [
+   "dbd-628787",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ]
+ ],
+ "order_url_not_in_body": [
+  [
+   "dbd-460132",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ],
+  [
+   "dbd-474442",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ],
+  [
+   "dbd-628787",
+   "https://kaifun.eatogo.com.tw/zh-TW"
+  ]
  ]
 }
