@@ -298,7 +298,7 @@
     "hours": "時段請看官方訂餐頁",
     "range": "配送範圍未公開",
     "terms": "外送範圍：配送範圍未公開；由官方訂餐頁依送達地址判定；起送：最低訂購金額與免運門檻未公開；請在官方結帳流程確認。",
-    "freeDeliveryThreshold": null,
+    "freeDeliveryThreshold": 2500.0,
     "deliveryFee": null,
     "evidence": "逐店開啟Google 地圖單店頁核對長安東路一段27號；商家官方Oddle頁標題為線上外帶外送官網，可直接瀏覽餐點並加入購物車，官方文案明列在家也能吃得到。配送範圍、低消、運費、免運門檻及固定預訂時段未公開。電話取自亞里士餐廳 Oddle 官方訂餐頁「電話」欄（單店），2026-11-06 核對。",
     "source": "https://alice.oddle.me/zh_TW；Checked: 2026-09-20；Batch: 20260920-0935",
@@ -306,9 +306,9 @@
     "chain": false,
     "featured": false,
     "origin": "chatgpt",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/cg-5.webp",
     "menu": {
@@ -473,7 +473,10 @@
     "imageSource": "https://alice.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/61a79a11-d56b-420c-a594-1d7cde7cfaec/",
     "imageCheckedAt": "2026-10-29",
-    "phone": "02-2561-5730"
+    "phone": "02-2561-5730",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $50、滿 $2,500 免運；最遠 8KM 最低消費 $500、運費 $60、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://alice.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "cg-6",
@@ -4601,9 +4604,9 @@
     "chain": false,
     "featured": false,
     "origin": "chatgpt",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/fff16f.jpg",
     "menu": {
@@ -4764,7 +4767,10 @@
       "total": 123
     },
     "menuSource": "https://greathuda.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：6KM 最低消費 $500、運費 $59；最遠 8km 最低消費 $500、運費 $89（輸入地址判定能否送達）",
+    "deliverySource": "https://greathuda.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "cg-66",
@@ -6179,9 +6185,9 @@
     "origin": "scout",
     "confidence": "suhung",
     "orderUrl": "https://suhung.oddle.me/en_TW",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "近距離不限金額",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-1.webp",
     "menu": {
@@ -6347,7 +6353,10 @@
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/15e78b.jpg",
     "imageCheckedAt": "2026-10-29",
     "phone": "02-2828-6828",
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-07",
+    "deliverySummary": "官方 Oddle 訂餐頁：1公里 不限金額、運費 $85、滿 $1,000 免運；最遠 5公里 最低消費 $999、運費 $135、滿 $1,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://suhung.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-2",
@@ -6366,9 +6375,9 @@
     "origin": "scout",
     "confidence": "maryjanepizza.oddle.me",
     "orderUrl": "https://maryjanepizza.oddle.me/zh_TW",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-2.webp",
     "menu": {
@@ -6534,7 +6543,10 @@
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/VegQuattroFormaggiacdcc5.jpg",
     "imageCheckedAt": "2026-10-29",
     "phone": "02-2368-5222",
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-07",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $55、滿 $900 免運；最遠 5km 最低消費 $800、運費 $80、滿 $1,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://maryjanepizza.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-3",
@@ -6554,9 +6566,9 @@
     "origin": "scout",
     "confidence": "pekingrostduck.oddle.me",
     "orderUrl": "https://pekingrostduck.oddle.me/zh_TW",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 420,
+    "deliveryMinLabel": "滿 $420 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/08e140_1572498623005.jpg",
     "menu": {
@@ -6633,7 +6645,10 @@
     "menuSource": "https://pekingrostduck.oddle.me/zh_TW",
     "menuCheckedAt": "2026-10-22",
     "phone": "0913-256-767",
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-07",
+    "deliverySummary": "官方 Oddle 訂餐頁：3km 最低消費 $420、運費 $80、滿 $1,700 免運；最遠 11KM 最低消費 $780、運費 $200、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://pekingrostduck.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-4",
@@ -6652,9 +6667,9 @@
     "origin": "scout",
     "confidence": "daantonio.oddle.me",
     "orderUrl": "https://daantonio.oddle.me/zh_TW/stores",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/98c0b2.jpg",
     "menu": {
@@ -6780,7 +6795,10 @@
     },
     "menuSource": "https://daantonio.oddle.me/zh_TW/stores",
     "menuCheckedAt": "2026-10-22",
-    "phone": "02-5181-4999"
+    "phone": "02-5181-4999",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $90、滿 $3,000 免運；最遠 8km 最低消費 $500、運費 $170、滿 $5,800 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://daantonio.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-5",
@@ -6986,9 +7004,9 @@
     "confidence": "chiaohsinyuan.oddle.me",
     "orderUrl": "https://chiaohsinyuan.oddle.me/zh_TW/stores",
     "phone": "02-2501-9955",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-6.webp",
     "menu": {
@@ -7026,7 +7044,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://chiaohsinyuan.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/456bfc72.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $800、運費 $50、滿 $1,500 免運；最遠 20km 最低消費 $1,500、運費 $290、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://chiaohsinyuan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-7",
@@ -7047,9 +7068,9 @@
     "confidence": "edsdinertaipei.oddle.me",
     "orderUrl": "https://edsdinertaipei.oddle.me/zh_TW",
     "phone": "02-8502-6969",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BBQ15KGBeefRibs4a8492.jpg",
     "menu": {
@@ -7210,7 +7231,10 @@
       "total": 57
     },
     "menuSource": "https://edsdinertaipei.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $60、滿 $1,000 免運；最遠 10km 最低消費 $500、運費 $150、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://edsdinertaipei.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-8",
@@ -7230,9 +7254,9 @@
     "confidence": "jimspizza.oddle.me",
     "orderUrl": "https://jimspizza.oddle.me/zh_TW/stores",
     "phone": "02-2788-6670",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 380,
+    "deliveryMinLabel": "滿 $380 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/2cac7a.jpg",
     "menu": {
@@ -7393,7 +7417,10 @@
       "total": 83
     },
     "menuSource": "https://jimspizza.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：3KM 最低消費 $380、運費 $50、滿 $1,400 免運；最遠 8KM(2026/11/10起優化) 最低消費 $600、運費 $50、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://jimspizza.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-9",
@@ -7413,9 +7440,9 @@
     "confidence": "seafoodtaipei.oddle.me",
     "orderUrl": "https://seafoodtaipei.oddle.me/en_TW/stores",
     "phone": "02-2308-1123",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 8000,
+    "deliveryMinLabel": "滿 $8000 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-9.webp",
     "menu": {
@@ -7579,7 +7606,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://seafoodtaipei.oddle.me/en_TW/stores",
     "imageOriginal": "https://ucarecdn.com/9a5ac68d-c5c3-4805-af9f-0caf19f7a221/-/crop/3389x3392/0,0/-/preview/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $8,000、運費 $100、滿 $10,000 免運；最遠 10KM 最低消費 $10,000、運費 $150、滿 $15,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://seafoodtaipei.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-10",
@@ -7668,9 +7698,9 @@
     "origin": "scout",
     "confidence": "pangtaco.oddle.me",
     "orderUrl": "https://pangtaco.oddle.me/zh_TW",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "address": "文昌街181號1樓",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-11.webp",
@@ -7820,7 +7850,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://pangtaco.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/eeb05752-07aa-4f9b-a09e-e9a4ef4bfc5d/-/crop/3648x3774/0,769/-/preview/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：4KM 最低消費 $300、運費 $40；最遠 12KM 最低消費 $300、運費 $180（輸入地址判定能否送達）",
+    "deliverySource": "https://pangtaco.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-12",
@@ -7840,9 +7873,9 @@
     "confidence": "shinyeh",
     "orderUrl": "https://shinyehtw2.oddle.me/zh_TW/stores",
     "phone": "02-2752-9299",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b1-12.webp",
     "menu": {
@@ -8007,7 +8040,10 @@
     "imageSource": "https://shinyehtw2.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/0c890872-6cf2-403c-a3fc-e89ec16b2935/",
     "imageCheckedAt": "2026-10-29",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $100、滿 $5,000 免運；最遠 7km 最低消費 $800、運費 $250（輸入地址判定能否送達）",
+    "deliverySource": "https://shinyehtw2.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-13",
@@ -8027,9 +8063,9 @@
     "confidence": "shinyeh",
     "orderUrl": "https://shinyehtw1.oddle.me/zh_TW",
     "phone": "02-2596-3255",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/7e61e7.jpg",
     "menu": {
@@ -8190,7 +8226,10 @@
       "total": 64
     },
     "menuSource": "https://shinyehtw1.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $60、滿 $3,000 免運；最遠 7km 最低消費 $800、運費 $100（輸入地址判定能否送達）",
+    "deliverySource": "https://shinyehtw1.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-14",
@@ -8211,9 +8250,9 @@
     "confidence": "kopitiamdaan.oddle.me",
     "orderUrl": "https://kopitiamdaan.oddle.me/zh_TW/stores",
     "phone": "02-2738-9255",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BakKutTehwithRice1d0f18.jpg",
     "menu": {
@@ -8374,7 +8413,10 @@
       "total": 45
     },
     "menuSource": "https://kopitiamdaan.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $30、滿 $1,500 免運；最遠 10km 最低消費 $1,000、運費 $60、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://kopitiamdaan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b1-15",
@@ -8393,9 +8435,9 @@
     "origin": "scout",
     "confidence": "royal-taipei.oddle.me",
     "orderUrl": "https://royal-taipei.oddle.me/zh_TW",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/3963cd.jpg",
     "menu": {
@@ -8557,7 +8599,11 @@
     },
     "menuSource": "https://royal-taipei.oddle.me/zh_TW",
     "menuCheckedAt": "2026-10-22",
-    "phone": "02-2542-3266"
+    "phone": "02-2542-3266",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $70、滿 $4,500 免運；最遠 15KM 最低消費 $500、運費 $330、滿 $4,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://royal-taipei.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 4500.0
   },
   {
     "id": "scout-b1-21",
@@ -9111,9 +9157,9 @@
     "phone": "02-2732-6682",
     "address": "安和路二段69巷18號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/20Cheeseef4e6f.jpg",
     "menu": {
@@ -9193,7 +9239,10 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://thesliceshop.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $124；最遠 6KM 不限金額、運費 $202（輸入地址判定能否送達）",
+    "deliverySource": "https://thesliceshop.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-36",
@@ -9213,9 +9262,9 @@
     "phone": "02-2722-0388",
     "address": "松壽路12號6樓",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b2-36.webp",
     "menu": {
@@ -9379,7 +9428,11 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://kiki1991.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/20d48c.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：0~3KM 最低消費 $500、運費 $60（輸入地址判定能否送達）",
+    "deliverySource": "https://kiki1991.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0
   },
   {
     "id": "scout-b2-37",
@@ -9399,9 +9452,9 @@
     "phone": "02-2712-7797",
     "address": "民生東路四段55巷1號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/459958c1-c412-4b89-9231-5364723ac5fd/",
     "menu": {
@@ -9531,7 +9584,11 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://road.oddle.me/en_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $125、滿 $1,000 免運；最遠 10KM 不限金額、運費 $275、滿 $1,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://road.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 1000.0
   },
   {
     "id": "scout-b2-38",
@@ -9551,9 +9608,9 @@
     "phone": "02-2578-8856",
     "address": "八德路四段512-1號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/83601c01-2c42-441e-835e-7d5ae165345b/",
     "menu": {
@@ -9714,7 +9771,12 @@
       "total": 52
     },
     "menuSource": "https://chinglou.oddle.me/en_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：8KM 最低消費 $800、運費 $60、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://chinglou.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0,
+    "freeDeliveryThreshold": 2000.0
   },
   {
     "id": "scout-b2-39",
@@ -9732,9 +9794,9 @@
     "hours": "大安約12:30–15:00 / 17:30–20:30",
     "orderUrl": "https://neighborsushi.oddle.me/zh_TW/stores",
     "evidence": "渠道：Oddle。電話取自林居sushi Oddle 官方訂餐頁「電話」欄，2026-11-07 核對。",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 100,
+    "deliveryMinLabel": "滿 $100 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/46c35010.jpg",
     "menu": {
@@ -9897,7 +9959,10 @@
     "menuSource": "https://neighborsushi.oddle.me/zh_TW/stores",
     "menuCheckedAt": "2026-10-22",
     "phone": "02-2707-6167",
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-07",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $100、運費 $45、滿 $1,000 免運；最遠 10km 最低消費 $500、運費 $200、滿 $3,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://neighborsushi.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-40",
@@ -9916,9 +9981,9 @@
     "orderUrl": "https://lacuz.oddle.me/zh_TW/stores",
     "address": "羅斯福路四段85號2樓",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/e78fdc.jpg",
     "phone": "02-2366-1098",
@@ -9979,7 +10044,10 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://lacuz.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $60、滿 $800 免運；最遠 6km 最低消費 $500、運費 $100、滿 $1,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://lacuz.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-41",
@@ -10145,9 +10213,9 @@
     "phone": "02-2388-9660",
     "address": "衡陽路60號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b2-42.webp",
     "menu": {
@@ -10311,7 +10379,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://jolly-breweryrestaurant.oddle.me/en_TW/stores",
     "imageOriginal": "https://ucarecdn.com/dd7e159f-7a90-4fa3-a946-8972464922df/-/crop/1150x1083/181,3/-/preview/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $100；最遠 15KM 不限金額、運費 $340（輸入地址判定能否送達）",
+    "deliverySource": "https://jolly-breweryrestaurant.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-43",
@@ -10331,9 +10402,9 @@
     "phone": "02-2388-2968",
     "address": "北平西路3號2樓",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/3ef340.jpg",
     "menu": {
@@ -10494,7 +10565,10 @@
       "total": 87
     },
     "menuSource": "https://somtumdertaiwan.oddle.me/en_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $90、滿 $2,000 免運；最遠 15KM 不限金額、運費 $330、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://somtumdertaiwan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-44",
@@ -10513,9 +10587,9 @@
     "orderUrl": "https://japolikingsknow.oddle.me/en_TW/stores",
     "address": "忠孝東四段49巷2號B1",
     "evidence": "渠道：Oddle。電話取自Japoli Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 240,
+    "deliveryMinLabel": "滿 $240 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/70335a.jpg",
     "menu": {
@@ -10678,7 +10752,11 @@
     "menuSource": "https://japolikingsknow.oddle.me/en_TW/stores",
     "menuCheckedAt": "2026-10-22",
     "phone": "02-2731-6633",
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-07",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $240、運費 $60、滿 $800 免運；最遠 9km 最低消費 $500、運費 $60、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://japolikingsknow.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0
   },
   {
     "id": "scout-b2-45",
@@ -10698,9 +10776,9 @@
     "phone": "02-2708-0117",
     "address": "大安路一段223號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b2-45.webp",
     "menu": {
@@ -10864,7 +10942,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://lovssburger.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/d3114a1b-7d89-4b97-89f9-73116b1df77a/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $60、滿 $1,200 免運；最遠 8KM 最低消費 $500、運費 $120（輸入地址判定能否送達）",
+    "deliverySource": "https://lovssburger.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-46",
@@ -10972,9 +11053,9 @@
     "phone": "02-2570-7265",
     "address": "光復北路12號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Thesetfortwocb41de.jpg",
     "menu": {
@@ -11135,7 +11216,10 @@
       "total": 74
     },
     "menuSource": "https://balleballeindian.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：Zone 1 最低消費 $800、運費 $45、滿 $1,500 免運；最遠 Zone 3 最低消費 $1,200、運費 $80、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://balleballeindian.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-48",
@@ -11339,9 +11423,9 @@
     "hours": "約12:00–14:00 / 17:30–20:00",
     "orderUrl": "https://kokurayataiwan.oddle.me/zh_TW/stores",
     "evidence": "渠道：Oddle。2026-11-05 依官方 Oddle 訂餐頁門市資料補上大直店地址與電話（台北市中山區樂群三路303號1樓、+886 2 8501 2277）。",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/fd74bf79-0096-420e-97c6-c69be09169a4/-/crop/1235x1236/0,0/-/preview/",
     "menu": {
@@ -11481,7 +11565,11 @@
     "phone": "02-8501-2277",
     "lat": 25.082796,
     "lng": 121.560326,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-05",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $100、滿 $6,000 免運；最遠 6km 不限金額、運費 $178、滿 $6,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://kokurayataiwan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 6000.0
   },
   {
     "id": "scout-b2-50",
@@ -11687,9 +11775,9 @@
     "phone": "02-2703-5598",
     "address": "信義路四段186巷17號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b2-51.webp",
     "menu": {
@@ -11817,7 +11905,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://umai-onigiri.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/23d264.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $40、滿 $1,000 免運；最遠 12KM 最低消費 $800、運費 $120、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://umai-onigiri.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-52",
@@ -11838,9 +11929,9 @@
     "phone": "0968-888-258",
     "address": "敦化南一段160巷48號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/433d8c04-5501-45e5-871b-d33c11e0fb66/",
     "menu": {
@@ -12001,7 +12092,11 @@
       "total": 73
     },
     "menuSource": "https://uncleray.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：2KM 最低消費 $600、運費 $59、滿 $1,000 免運；最遠 8KM 最低消費 $800、運費 $89、滿 $1,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://uncleray.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 1000.0
   },
   {
     "id": "scout-b2-53",
@@ -12021,9 +12116,9 @@
     "phone": "02-2571-3859",
     "address": "中山北一段105巷10號",
     "evidence": "渠道：Oddle",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/4b8131.jpg",
     "menu": {
@@ -12184,7 +12279,10 @@
       "total": 115
     },
     "menuSource": "https://aoba.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $50、滿 $1,000 免運；最遠 10km 最低消費 $500、運費 $170、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://aoba.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b2-54",
@@ -12279,9 +12377,9 @@
     "address": "和平東路三段173號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "linsburger-sy.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-59.webp",
     "menu": {
@@ -12446,7 +12544,10 @@
     "imageSource": "https://linsburger-sy.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/61511445-32cb-4820-b3ed-d08ab18853cb/",
     "imageCheckedAt": "2026-10-29",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverySummary": "官方 Oddle 訂餐頁：6KM 最低消費 $500、運費 $60；最遠 10KM 最低消費 $500、運費 $150（輸入地址判定能否送達）",
+    "deliverySource": "https://linsburger-sy.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-60",
@@ -12469,9 +12570,9 @@
     "address": "八德路二段366巷39號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "bibimbap.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-60.webp",
     "menu": {
@@ -12635,7 +12736,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://bibimbap.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/283e5f67-713c-4100-b4f4-244fcf72eef1/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：2KM 最低消費 $500、運費 $50、滿 $2,000 免運；最遠 8KM 最低消費 $500、運費 $120、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://bibimbap.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-61",
@@ -13058,9 +13162,9 @@
     "address": "連雲街74號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "gustopizzatw.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/POPEYE5eeb8a.jpg",
     "menu": {
@@ -13221,7 +13325,10 @@
       "total": 53
     },
     "menuSource": "https://gustopizzatw.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：Within 3KM 最低消費 $500、運費 $50、滿 $1,000 免運；最遠 6-8km 最低消費 $500、運費 $60、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://gustopizzatw.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-64",
@@ -13244,9 +13351,9 @@
     "address": "光復南路308巷18號1F",
     "evidence": "官方 Oddle 外帶外送",
     "source": "ouvertseoultw.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/7d18852b-4e51-42b3-85f3-23607af5d865/",
     "menu": {
@@ -13407,7 +13514,10 @@
       "total": 61
     },
     "menuSource": "https://ouvertseoultw.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：0-1km 最低消費 $500、運費 $50、滿 $1,200 免運；最遠 7~8KM 最低消費 $700、運費 $130（輸入地址判定能否送達）",
+    "deliverySource": "https://ouvertseoultw.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-65",
@@ -13428,9 +13538,9 @@
     "address": "基隆路一段350-7號",
     "evidence": "官方 Oddle delivery & pickup",
     "source": "mayurindiankitchen.oddle.me",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/926246da-3de2-4b2c-b712-c6ae6402172c/",
     "menu": {
@@ -13591,7 +13701,11 @@
       "total": 143
     },
     "menuSource": "https://mayurindiankitchen.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：Within 0.8km 不限金額、運費 $124、滿 $2,000 免運；最遠 Within 6.4km 不限金額、運費 $238、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://mayurindiankitchen.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 2000.0
   },
   {
     "id": "scout-b3-66",
@@ -13612,9 +13726,9 @@
     "address": "辛亥路一段1號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "wayway.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ef5768.jpg",
     "menu": {
@@ -13770,7 +13884,10 @@
       "total": 38
     },
     "menuSource": "https://wayway.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $75、滿 $3,000 免運；最遠 9km 最低消費 $300、運費 $185、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://wayway.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-67",
@@ -13791,9 +13908,9 @@
     "address": "南京東路五段250巷2弄5號",
     "evidence": "官方 Oddle 外帶外送；最低訂購約 NT$1,000",
     "source": "jinshanhakkarestaurant.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-67.webp",
     "menu": {
@@ -13957,7 +14074,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://jinshanhakkarestaurant.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/3c41a2.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $60、滿 $2,000 免運；最遠 13km 最低消費 $500、運費 $250、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://jinshanhakkarestaurant.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-68",
@@ -13979,9 +14099,9 @@
     "address": "羅斯福路三段284巷10號",
     "evidence": "官方 Oddle 外帶外送（與大安店分站）",
     "source": "kopitiamgongguan.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/B230c1bb.jpg",
     "menu": {
@@ -14142,7 +14262,10 @@
       "total": 45
     },
     "menuSource": "https://kopitiamgongguan.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $30、滿 $1,500 免運；最遠 10km 最低消費 $1,000、運費 $60、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://kopitiamgongguan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-69",
@@ -14164,9 +14287,9 @@
     "address": "松江路90巷19號1F",
     "evidence": "官方 Oddle 外帶外送",
     "source": "liangji.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 125,
+    "deliveryMinLabel": "滿 $125 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-69.webp",
     "menu": {
@@ -14315,7 +14438,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://liangji.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/2d1833.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1公里 最低消費 $125、運費 $124；最遠 10公里 最低消費 $125、運費 $274（輸入地址判定能否送達）",
+    "deliverySource": "https://liangji.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-70",
@@ -14337,9 +14463,9 @@
     "address": "八德路二段174巷5號",
     "evidence": "官方 Oddle 線上訂餐外帶外送",
     "source": "tianyuan.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-70.webp",
     "menu": {
@@ -14488,7 +14614,11 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://tianyuan.oddle.me/zh_TW/stores",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/e3d1d9.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $60、滿 $2,000 免運；最遠 8km 最低消費 $500、運費 $60、滿 $3,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://tianyuan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0
   },
   {
     "id": "scout-b3-71",
@@ -14509,9 +14639,9 @@
     "address": "光復南路180巷11號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "theshrimpdaddy.oddle.me",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ADateNighte30528.jpg",
     "menu": {
@@ -14672,7 +14802,10 @@
       "total": 47
     },
     "menuSource": "https://theshrimpdaddy.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1 KM (115/1/23更新) 不限金額、運費 $148；最遠 10km(115/1/23更新) 不限金額、運費 $310（輸入地址判定能否送達）",
+    "deliverySource": "https://theshrimpdaddy.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b3-72",
@@ -16165,9 +16298,9 @@
     "address": "天母東路8巷21-6號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "snuggles.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 90,
+    "deliveryMinLabel": "滿 $90 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b4-83.webp",
     "menu": {
@@ -16331,7 +16464,11 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://snuggles.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/0c16ddd3-aacc-422b-8b34-8ea6f758663c/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：2KM 最低消費 $90、運費 $140、滿 $5,000 免運；最遠 15KM 最低消費 $90、運費 $365、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://snuggles.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 5000.0
   },
   {
     "id": "scout-b4-84",
@@ -16353,9 +16490,9 @@
     "address": "天母西路41巷1弄2號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "yatoka.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b4-84.webp",
     "menu": {
@@ -16519,7 +16656,11 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://yatoka.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/d7a17527-6712-469e-83e9-04e70225ed27/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：8KM 最低消費 $600、運費 $60（輸入地址判定能否送達）",
+    "deliverySource": "https://yatoka.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0
   },
   {
     "id": "scout-b4-85",
@@ -16540,9 +16681,9 @@
     "address": "德行西路21號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "hanxiangting.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/99807245-4dae-4715-a9c8-74bebebefd1e/-/crop/409x409/0,0/-/preview/",
     "menu": {
@@ -16703,7 +16844,11 @@
       "total": 52
     },
     "menuSource": "https://hanxiangting.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：8KM 最低消費 $600、運費 $60（輸入地址判定能否送達）",
+    "deliverySource": "https://hanxiangting.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 60.0
   },
   {
     "id": "scout-b4-86",
@@ -16725,9 +16870,9 @@
     "address": "德行西路25號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "honglou.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b4-86.webp",
     "menu": {
@@ -16891,7 +17036,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://honglou.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/32fcac9d-fb67-4b64-9772-8a3319839319/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：4KM 最低消費 $500、運費 $60；最遠 8KM 最低消費 $800、運費 $120（輸入地址判定能否送達）",
+    "deliverySource": "https://honglou.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b4-87",
@@ -16912,9 +17060,9 @@
     "address": "中正路296號",
     "evidence": "官方 Oddle 外帶外送（多門市）",
     "source": "taroonigiri.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b4-87.webp",
     "menu": {
@@ -17078,7 +17226,11 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://taroonigiri.oddle.me/zh_TW/stores",
     "imageOriginal": "https://ucarecdn.com/74355a9a-f239-4feb-8afc-f15b9b6e4351/",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：4KM 最低消費 $500、運費 $40、滿 $2,000 免運；最遠 8KM 最低消費 $600、運費 $120、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://taroonigiri.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 2000.0
   },
   {
     "id": "scout-b4-88",
@@ -17100,9 +17252,9 @@
     "address": "樟新街11號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "mrchillchill.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/e01670.jpg",
     "menu": {
@@ -17263,7 +17415,10 @@
       "total": 60
     },
     "menuSource": "https://mrchillchill.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1公里 最低消費 $500、運費 $40、滿 $2,500 免運；最遠 7公里 最低消費 $800、運費 $100、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://mrchillchill.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b4-89",
@@ -17472,9 +17627,9 @@
     "address": "港墘路159號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "trueviet.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/57d4f41b-1df1-4048-9dcc-9e35ac2a436a/",
     "menu": {
@@ -17635,7 +17790,10 @@
       "total": 50
     },
     "menuSource": "https://trueviet.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km(11/1優化) 最低消費 $500、運費 $30、滿 $1,000 免運；最遠 15km 不限金額、運費 $340、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://trueviet.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b4-91",
@@ -17657,9 +17815,9 @@
     "address": "瑞光路513巷37號",
     "evidence": "官方 Oddle 外帶外送",
     "source": "rollspresso.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 399,
+    "deliveryMinLabel": "滿 $399 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/493b3876-11ec-4ab5-9702-5ae3194ffc83/",
     "menu": {
@@ -17820,7 +17978,11 @@
       "total": 43
     },
     "menuSource": "https://rollspresso.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：5KM 最低消費 $399、運費 $80、滿 $599 免運；最遠 8KM 最低消費 $399、運費 $120、滿 $599 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://rollspresso.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 599.0
   },
   {
     "id": "scout-b4-92",
@@ -17842,9 +18004,9 @@
     "address": "瑞光路513巷37號（與喀義屋同址分品牌店面）",
     "evidence": "官方 Oddle 外帶外送",
     "source": "pizzacreafe.oddle.me",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/TruffleSauceMushroomBaconPizza2261c5.jpg",
     "menu": {
@@ -18005,7 +18167,12 @@
       "total": 100
     },
     "menuSource": "https://pizzacreafe.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $600、運費 $85、滿 $899 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://pizzacreafe.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "deliveryFee": 85.0,
+    "freeDeliveryThreshold": 899.0
   },
   {
     "id": "scout-b4-93",
@@ -18131,9 +18298,9 @@
     "address": "內湖路二段392號",
     "evidence": "官方 Oddle「雙北外帶外送官網」",
     "source": "sugarmiss.oddle.me; sugar-miss.com",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 250,
+    "deliveryMinLabel": "滿 $250 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/36043e.jpg",
     "menu": {
@@ -18294,7 +18461,10 @@
       "total": 61
     },
     "menuSource": "https://sugarmiss.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $250、運費 $90、滿 $1,500 免運；最遠 24KM 最低消費 $1,000、運費 $550、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://sugarmiss.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b4-95",
@@ -47154,9 +47324,9 @@
     "orderUrl": "https://currystore.oddle.me/zh_TW",
     "phone": "02-2396-5252",
     "address": "八德路一段82巷9弄13號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/0cff09c4-f0bb-4d70-95de-3c5331142c34/",
     "menu": {
@@ -47317,7 +47487,10 @@
       "total": 85
     },
     "menuSource": "https://currystore.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：2KM 最低消費 $500、運費 $60、滿 $1,500 免運；最遠 15KM 最低消費 $800、運費 $250、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://currystore.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b6-139",
@@ -48345,9 +48518,9 @@
     "orderUrl": "https://mijiazhuang.oddle.me/zh_TW",
     "phone": "02-2541-7366",
     "address": "吉林路226號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 650,
+    "deliveryMinLabel": "滿 $650 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/b2045c.jpg",
     "menu": {
@@ -48508,7 +48681,10 @@
       "total": 87
     },
     "menuSource": "https://mijiazhuang.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $650、運費 $50、滿 $2,000 免運；最遠 10KM 最低消費 $1,450、運費 $120、滿 $3,600 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://mijiazhuang.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b7-149",
@@ -48531,9 +48707,9 @@
     "orderUrl": "https://fkj.oddle.me/zh_TW/stores",
     "phone": "02-2747-6261",
     "address": "八德路四段229號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/a8dfaa13-9436-4344-889d-5e15bab4235f/",
     "menu": {
@@ -48694,7 +48870,10 @@
       "total": 114
     },
     "menuSource": "https://fkj.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：6KM 最低消費 $500、運費 $59；最遠 8KM 最低消費 $500、運費 $89（輸入地址判定能否送達）",
+    "deliverySource": "https://fkj.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-b7-150",
@@ -62759,9 +62938,9 @@
     "orderUrl": "https://cheekei.oddle.me/zh_TW/stores",
     "phone": "02-2367-5111",
     "address": "羅斯福路三段286巷10號1樓",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/a47922e7-d801-4663-aaea-2a44856b31c7/",
     "menu": {
@@ -62882,7 +63061,10 @@
       "sourceUpdated": "2026-07-17"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=617260",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "deliverySummary": "官方 Oddle 訂餐頁：0-1km 最低消費 $500、運費 $30、滿 $1,200 免運；最遠 7-8km 最低消費 $500、運費 $60、滿 $3,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://cheekei.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "scout-lead-345",
@@ -69947,9 +70129,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "平日約 12:15–19:45；週末約至 20:15",
@@ -70118,7 +70300,10 @@
       "total": 47
     },
     "menuSource": "https://startinghouse.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $50、滿 $2,000 免運；最遠 10公里 最低消費 $1,000、運費 $170、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://startinghouse.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "nt-scout-lead-3",
@@ -70358,9 +70543,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "平日 12:30–14:30 / 18:30–21:30；六日 12:30–21:30",
@@ -70529,7 +70714,10 @@
       "total": 36
     },
     "menuSource": "https://tntsteakhouse.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：中和區 最低消費 $500、運費 $50、滿 $2,000 免運；最遠 板橋區 最低消費 $1,000、運費 $100、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://tntsteakhouse.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "nt-scout-lead-8",
@@ -70545,11 +70733,11 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
-    "deliveryFee": null,
+    "deliveryFee": 60.0,
     "hours": "二／四／五 約 12:30–14:00 / 18:30–20:00；六日略異；週一三休（以頁為準）",
     "evidence": "官方 Oddle；開放外送",
     "source": "weilipizza.oddle.me",
@@ -70719,7 +70907,10 @@
     "menuCheckedAt": "2026-10-22",
     "imageSource": "https://weilipizza.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/2e8b03.jpg",
-    "imageCheckedAt": "2026-10-29"
+    "imageCheckedAt": "2026-10-29",
+    "deliverySummary": "官方 Oddle 訂餐頁：0-1km 最低消費 $500、運費 $60、滿 $1,500 免運；最遠 8-9km 最低消費 $500、運費 $60、滿 $3,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://weilipizza.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "nt-scout-lead-9",
@@ -72160,9 +72351,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "官方 Oddle；開放外送",
@@ -72330,7 +72521,10 @@
       "total": 41
     },
     "menuSource": "https://hengigi.oddle.me/zh_TW",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $500、運費 $50、滿 $1,000 免運；最遠 15km 最低消費 $500、運費 $150、滿 $2,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://hengigi.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "nt-scout-lead-32",
@@ -125427,10 +125621,10 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
+    "deliveryMinLabel": "不限金額",
+    "freeDeliveryThreshold": 1500.0,
     "deliveryFee": null,
     "hours": "未公開（以官方訂餐頁或專線為準）",
     "evidence": "官方 Oddle；開放外送",
@@ -125598,7 +125792,10 @@
       "total": 72
     },
     "menuSource": "https://tinopizzacafe.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1公里 不限金額、運費 $30、滿 $1,500 免運；最遠 8km 不限金額、運費 $150、滿 $1,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://tinopizzacafe.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "nt-scout-lead-587",
@@ -159920,9 +160117,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "11:45–14:00、17:45–20:45",
@@ -160058,7 +160255,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-35.webp",
     "imageSource": "https://jiabena.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/9a0904d1-276e-421a-839c-c14ff608db93/-/preview/",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $50、滿 $2,000 免運；最遠 10KM 最低消費 $500、運費 $170、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://jiabena.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-36",
@@ -160076,9 +160276,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "12:00–20:00",
@@ -160246,7 +160446,10 @@
       "total": 97
     },
     "menuSource": "https://tangmingchalou.oddle.me/zh_TW?el=true",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $50、滿 $2,000 免運；最遠 8KM 最低消費 $500、運費 $100、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://tangmingchalou.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-37",
@@ -161358,9 +161561,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 499,
+    "deliveryMinLabel": "滿 $499 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "Oddle el=true 配送區 ：1–3km 499；4–6km 799；7–8／10km 1000；11公里 3000（另見 deliveryFreeAfter）",
@@ -161444,7 +161647,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-58.webp",
     "imageSource": "https://unagi8080.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/52b946c6-1538-4e7c-8fea-976e79ada79c/",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $499、運費 $60、滿 $999 免運；最遠 11公里 最低消費 $3,000、運費 $550、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://unagi8080.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-59",
@@ -161462,9 +161668,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "Oddle 店家頁：1公里 min 300；3公里 600；6公里 800",
@@ -161634,7 +161840,10 @@
       "total": 37
     },
     "menuSource": "https://fengji.oddle.me/zh_TW/stores?el=true",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1公里 最低消費 $300、運費 $30、滿 $320 免運；最遠 6公里 最低消費 $800、運費 $80、滿 $1,200 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://fengji.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-60",
@@ -162695,10 +162904,10 @@
     "origin": "scout",
     "confidence": "medium",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000 外送",
+    "freeDeliveryThreshold": 2000.0,
     "deliveryFee": null,
     "evidence": "Oddle 店家頁：開放外送；配送區示例 3KM／6KM : 1000（cost 60／120）",
     "source": "Oddle dump 2026-09-22",
@@ -162867,7 +163076,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-74.webp",
     "imageSource": "https://lemongrass.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/295b0e.jpg",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：3KM 最低消費 $1,000、運費 $60、滿 $2,000 免運；最遠 6KM 最低消費 $1,000、運費 $120、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://lemongrass.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-75",
@@ -163075,10 +163287,10 @@
     "origin": "scout",
     "confidence": "medium",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400 外送",
+    "freeDeliveryThreshold": 900.0,
     "deliveryFee": null,
     "evidence": "Oddle 店家頁：開放外送；1–4KM min 400；5–6KM min 800",
     "source": "Oddle dump 2026-09-22",
@@ -163247,7 +163459,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-76.webp",
     "imageSource": "https://takeme.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/cc1831.jpg",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $400、運費 $50、滿 $900 免運；最遠 6KM 最低消費 $800、運費 $90、滿 $900 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://takeme.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-77",
@@ -163634,9 +163849,9 @@
     "origin": "scout",
     "confidence": "medium",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 580,
+    "deliveryMinLabel": "滿 $580 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "Oddle 店家頁：開放外送；1／4KM min 580；5–6km 600；7km 650；10km 700；11–12km 750；13–14km 800 等",
@@ -163806,7 +164021,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-79.webp",
     "imageSource": "https://potdance.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/A5159af5.jpg",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $580、運費 $50、滿 $1,500 免運；最遠 15KM 最低消費 $850、運費 $260、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://potdance.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "ty-scout-lead-81",
@@ -163824,9 +164042,9 @@
     "origin": "scout",
     "confidence": "medium",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "Oddle 店家頁：開放外送；各 zone（1–4KM／林口8KM／蘆竹9KM／桃園+龜山+部分鶯歌15KM）: 500",
@@ -163996,7 +164214,10 @@
     "imageUrl": "https://zisong.tw/assets/shops/ty-scout-lead-81.webp",
     "imageSource": "https://meilicafe.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ad1f4b.jpg",
-    "imageCheckedAt": "2026-10-24"
+    "imageCheckedAt": "2026-10-24",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 最低消費 $500、運費 $30、滿 $1,500 免運；最遠 桃園市+龜山區+部分鶯歌區(15KM) 最低消費 $500、運費 $60、滿 $4,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://meilicafe.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "tn-scout-lead-1",
@@ -208466,9 +208687,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Aloha25ec5b.jpg",
     "menu": {
@@ -208633,7 +208854,10 @@
     "imageSource": "https://maryjanepizza.oddle.me/zh_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/Aloha25ec5b.jpg",
     "imageCheckedAt": "2026-11-03",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $55、滿 $900 免運；最遠 5km 最低消費 $800、運費 $80、滿 $1,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://maryjanepizza.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "daan-new-004",
@@ -208654,9 +208878,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/VegNYCheesePizza0026b4.jpg",
     "menu": {
@@ -208817,7 +209041,10 @@
       "total": 50
     },
     "menuSource": "https://maryjanepizza.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $300、運費 $55、滿 $900 免運；最遠 5km 最低消費 $800、運費 $60、滿 $1,500 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://maryjanepizza.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "daan-new-005",
@@ -209213,9 +209440,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/59c468.jpg",
     "menu": {
@@ -209350,7 +209577,11 @@
       "fetchedOn": "2026-10-22"
     },
     "menuSource": "https://kokurayataiwan.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1 km 不限金額、運費 $100、滿 $6,000 免運；最遠 6 km 不限金額、運費 $178、滿 $6,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://kokurayataiwan.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 6000.0
   },
   {
     "id": "daan-new-008",
@@ -209371,9 +209602,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/12a76950-9589-497a-adaa-a7446a7b8fd3/",
     "menu": {
@@ -209534,7 +209765,11 @@
       "total": 41
     },
     "menuSource": "https://taroonigiri.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：4KM 最低消費 $500、運費 $40、滿 $2,000 免運；最遠 8KM 最低消費 $600、運費 $120、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://taroonigiri.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 2000.0
   },
   {
     "id": "daan-new-009",
@@ -209555,9 +209790,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/be7baf7e-06cf-4fff-8f46-bbf80a67e655/-/preview/",
     "menu": {
@@ -209722,7 +209957,11 @@
     "imageSource": "https://mayurindiankitchen.oddle.me/zh_TW",
     "imageOriginal": "https://ucarecdn.com/be7baf7e-06cf-4fff-8f46-bbf80a67e655/-/preview/",
     "imageCheckedAt": "2026-11-03",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "deliverySummary": "官方 Oddle 訂餐頁：Within 0.8km 不限金額、運費 $124、滿 $2,000 免運；最遠 Within 6.4km 不限金額、運費 $238、滿 $2,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://mayurindiankitchen.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 2000.0
   },
   {
     "id": "daan-new-011",
@@ -209744,9 +209983,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "high",
-    "deliveryMinType": null,
+    "deliveryMinType": "other",
     "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinLabel": "不限金額",
     "city": "台北市",
     "imageUrl": "https://ucarecdn.com/f870e7a7-acf6-48d1-8e04-f4a28dd143a2/",
     "menu": {
@@ -209907,7 +210146,11 @@
       "total": 89
     },
     "menuSource": "https://yichi.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1KM 不限金額、運費 $125、滿 $1,000 免運；最遠 10KM 不限金額、運費 $275、滿 $1,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://yichi.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09",
+    "freeDeliveryThreshold": 1000.0
   },
   {
     "id": "daan-new-012",
@@ -211375,9 +211618,9 @@
     "featured": false,
     "origin": "daan-deep-inventory-20260924",
     "confidence": "medium",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿 $1000 外送",
     "city": "台北市",
     "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/66InchDicedBeefSub72a91f.jpg",
     "menu": {
@@ -211533,7 +211776,10 @@
       "total": 34
     },
     "menuSource": "https://subway-tw.oddle.me/zh_TW/stores",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "官方 Oddle 訂餐頁：1km 最低消費 $1,000、運費 $40、滿 $2,000 免運；最遠 10KM 最低消費 $4,000、運費 $160、滿 $5,000 免運（輸入地址判定能否送達）",
+    "deliverySource": "https://subway-tw.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-09"
   },
   {
     "id": "daan-new-030",
