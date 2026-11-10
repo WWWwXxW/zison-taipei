@@ -3943,7 +3943,166 @@
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/04054216-6675-4b5c-a97b-4f172105134f/b46772e4-da38-11eb-b09d-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
     "officialUrl": "https://www.facebook.com/souffleTaipei/",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "楊枝甘露舒芙蕾",
+          "price": 170,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "愛戀草莓舒芙蕾",
+          "price": 170,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "提拉米蘇舒芙蕾",
+          "price": 150,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "火山芋泥舒芙蕾",
+          "price": 140,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "法芙娜Oreo巧克力舒芙蕾",
+          "price": 150,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "榛果鐵觀音舒芙蕾",
+          "price": 160,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "原味焦糖舒芙蕾",
+          "price": 130,
+          "category": "舒芙蕾"
+        },
+        {
+          "name": "焱夏芒芒泡芙",
+          "price": 70,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "草莓甜心泡芙",
+          "price": 70,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "好芋當頭泡芙",
+          "price": 65,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "抹茶紅豆泡芙",
+          "price": 70,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "巧克力泡芙",
+          "price": 60,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "檸檬藍莓泡芙",
+          "price": 70,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "香草泡芙",
+          "price": 55,
+          "category": "日式菠蘿泡芙"
+        },
+        {
+          "name": "草莓毛巾卷",
+          "price": 300,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "芒果毛巾卷",
+          "price": 300,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "巧克力香蕉毛巾卷",
+          "price": 300,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "芋頭毛巾卷",
+          "price": 250,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "鐵觀音茶毛巾卷",
+          "price": 250,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "原味毛巾卷",
+          "price": 200,
+          "category": "千層毛巾卷"
+        },
+        {
+          "name": "珍珠奶酪",
+          "price": 60,
+          "category": "手工奶酪"
+        },
+        {
+          "name": "芋泥奶酪",
+          "price": 70,
+          "category": "手工奶酪"
+        },
+        {
+          "name": "芒果奶酪",
+          "price": 70,
+          "category": "手工奶酪"
+        },
+        {
+          "name": "草莓奶酪",
+          "price": 70,
+          "category": "手工奶酪"
+        },
+        {
+          "name": "五入優惠",
+          "price": 250,
+          "category": "手工奶酪"
+        },
+        {
+          "name": "日式布丁燒",
+          "price": 60,
+          "category": "日式布丁燒"
+        },
+        {
+          "name": "布丁燒禮盒組",
+          "price": 300,
+          "category": "日式布丁燒"
+        },
+        {
+          "name": "半熟乳酪蛋糕 (5顆入/盒)",
+          "price": 300,
+          "category": "經典伴手禮"
+        },
+        {
+          "name": "半熟乳酪蛋糕（一顆）",
+          "price": 70,
+          "category": "經典伴手禮"
+        },
+        {
+          "name": "人氣禮盒腰果塔5入",
+          "price": 220,
+          "category": "經典伴手禮"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/AO9-Ff5j/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 50
+    },
+    "menuSource": "https://shop.ichefpos.com/store/AO9-Ff5j/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "cg-57",
@@ -15869,7 +16028,166 @@
     "imageUrl": "https://zisong.tw/assets/shops/scout-b3-80.webp",
     "imageSource": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2539af50-63a9-4acd-8e6e-d104b2c34822/98a3464e-ca9a-11eb-a7da-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21"
+    "imageCheckedAt": "2026-10-21",
+    "menu": {
+      "items": [
+        {
+          "name": "七折雙人牛豬套餐(套餐附白飯、小菜、生菜及醬料)",
+          "price": 1200,
+          "category": "活動專區(此區不與折扣優惠並用)"
+        },
+        {
+          "name": "七折優惠四人牛豬分享餐(套餐附白飯、小菜、生菜及醬料)",
+          "price": 2605,
+          "category": "活動專區(此區不與折扣優惠並用)"
+        },
+        {
+          "name": "秘醬牛Bulgogi買一送一",
+          "price": 700,
+          "category": "活動專區(此區不與折扣優惠並用)"
+        },
+        {
+          "name": "Cass *3 (640ml)",
+          "price": 479,
+          "category": "活動專區(此區不與折扣優惠並用)"
+        },
+        {
+          "name": "厚厚的五花肉",
+          "price": 420,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "15.梅花肉",
+          "price": 420,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "17.霜降松阪豬",
+          "price": 600,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "20.秘辣豬BULGOGI",
+          "price": 450,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "5.肋眼",
+          "price": 1050,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "4.牛菲力",
+          "price": 1150,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "9.牛肋條",
+          "price": 850,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "6.秘醬肋眼",
+          "price": 950,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "秘醬牛Bulgogi(買一送一活動品項可至促銷區點選)",
+          "price": 700,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "7.L.A 牛小排",
+          "price": 950,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "3.牛板腱肉",
+          "price": 1300,
+          "category": "熱門韓式烤肉-附小菜、白飯、生菜一組及醬料(大醬、蒜片、海鹽) #醬料需多可備註"
+        },
+        {
+          "name": "極上牛肋排湯",
+          "price": 550,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "牛胸肉大醬鍋",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "牛肉部隊鍋",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "豬肉部隊鍋",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "泡菜豬肉鍋",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "海鮮豆腐鍋",
+          "price": 380,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "辣味海鮮豆腐鍋",
+          "price": 380,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "35.白飯",
+          "price": 20,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "炸醬麵",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "31.鮮蝦櫛瓜煎餅",
+          "price": 350,
+          "category": "主食及湯品(湯品附白飯及兩樣小菜)"
+        },
+        {
+          "name": "(便當)五花肉",
+          "price": 220,
+          "category": "韓式燒肉便當及沙拉"
+        },
+        {
+          "name": "(便當)松阪豬",
+          "price": 220,
+          "category": "韓式燒肉便當及沙拉"
+        },
+        {
+          "name": "(便當)秘醬梅花肉",
+          "price": 220,
+          "category": "韓式燒肉便當及沙拉"
+        },
+        {
+          "name": "(便當)秘辣豬",
+          "price": 200,
+          "category": "韓式燒肉便當及沙拉"
+        },
+        {
+          "name": "(便當)韓式L.A",
+          "price": 250,
+          "category": "韓式燒肉便當及沙拉"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 65
+    },
+    "menuSource": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "scout-b4-81",
@@ -49481,7 +49799,140 @@
     "imageUrl": "https://zisong.tw/assets/shops/scout-b8-177.webp",
     "imageSource": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/138cb2b3-08eb-45ae-9f90-641dc796bbf9/c60263dc-ba0b-11ee-82ad-0242ac110004.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21"
+    "imageCheckedAt": "2026-10-21",
+    "menu": {
+      "items": [
+        {
+          "name": "照燒雞腿丁",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "糖醋雞腿丁",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "牛肉壽喜燒",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "蒜泥白肉",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "薑燒豬肉",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "泰式打拋豬",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "水煮低脂雞胸",
+          "price": 100,
+          "category": "一般主餐"
+        },
+        {
+          "name": "清蒸鱸魚",
+          "price": 130,
+          "category": "一般主餐"
+        },
+        {
+          "name": "蒲燒鯛魚",
+          "price": 110,
+          "category": "一般主餐"
+        },
+        {
+          "name": "香酥雞排",
+          "price": 100,
+          "category": "一般主餐"
+        },
+        {
+          "name": "日式炸豬排",
+          "price": 100,
+          "category": "一般主餐"
+        },
+        {
+          "name": "辣味卡拉雞",
+          "price": 100,
+          "category": "一般主餐"
+        },
+        {
+          "name": "薄鹽烤鮭魚",
+          "price": 140,
+          "category": "一般主餐"
+        },
+        {
+          "name": "雞湯",
+          "price": 60,
+          "category": "飲品"
+        },
+        {
+          "name": "照燒腿丁(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "糖醋腿丁(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "牛肉壽喜燒(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "蒜泥白肉(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "泰式打拋豬(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "薑燒豬肉(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "蒲燒鯛魚(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "清蒸鱸魚(單)",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "香酥雞排(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "日式炸豬排(單)",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "辣味卡拉雞(單)",
+          "price": 60,
+          "category": "單點"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "scout-b8-178",
@@ -71550,7 +72001,166 @@
     "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-20.webp",
     "imageSource": "https://shop.ichefpos.com/store/-JH3PAqc/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/6db4ba9a-267d-4572-93ce-20ed3d9cf6b8/e7f33a90-e500-11ea-8328-0242ac110006.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21"
+    "imageCheckedAt": "2026-10-21",
+    "menu": {
+      "items": [
+        {
+          "name": "個人880",
+          "price": 880,
+          "category": "大月套餐"
+        },
+        {
+          "name": "個人1180",
+          "price": 1180,
+          "category": "大月套餐"
+        },
+        {
+          "name": "4人鍋物套餐",
+          "price": 2800,
+          "category": "大月套餐"
+        },
+        {
+          "name": "2人套餐",
+          "price": 1200,
+          "category": "大月套餐"
+        },
+        {
+          "name": "照燒雞腿定食",
+          "price": 300,
+          "category": "商業定食"
+        },
+        {
+          "name": "炸豬排定食",
+          "price": 280,
+          "category": "商業定食"
+        },
+        {
+          "name": "炸蝦天定食",
+          "price": 320,
+          "category": "商業定食"
+        },
+        {
+          "name": "鹽烤鮭魚定食",
+          "price": 300,
+          "category": "商業定食"
+        },
+        {
+          "name": "盬烤鯖魚定食",
+          "price": 300,
+          "category": "商業定食"
+        },
+        {
+          "name": "炸雞唐揚定食",
+          "price": 300,
+          "category": "商業定食"
+        },
+        {
+          "name": "生魚片定食",
+          "price": 320,
+          "category": "商業定食"
+        },
+        {
+          "name": "照燒牛排定食",
+          "price": 320,
+          "category": "商業定食"
+        },
+        {
+          "name": "厚切生魚握定食",
+          "price": 340,
+          "category": "商業定食"
+        },
+        {
+          "name": "蒲燒鰻魚定食",
+          "price": 480,
+          "category": "商業定食"
+        },
+        {
+          "name": "雞肉親子丼",
+          "price": 200,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "照燒雞腿丼",
+          "price": 200,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "炸蝦天丼",
+          "price": 220,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "炸豬排丼",
+          "price": 200,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "薑燒豚肉丼",
+          "price": 200,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "牛丼",
+          "price": 200,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "蒲燒鰻魚丼",
+          "price": 380,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "櫻花蝦炒飯",
+          "price": 170,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "鮭魚炒飯",
+          "price": 170,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "烏魚子炒飯",
+          "price": 300,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "鮭魚茶泡飯",
+          "price": 150,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "雞肉炒麵",
+          "price": 140,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "海鮮湯麵",
+          "price": 180,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "香鬆白飯",
+          "price": 15,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "海鮮炒麵",
+          "price": 180,
+          "category": "丼/飯/麵"
+        },
+        {
+          "name": "生魚片丼",
+          "price": 320,
+          "category": "海鮮丼"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/-JH3PAqc/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 286
+    },
+    "menuSource": "https://shop.ichefpos.com/store/-JH3PAqc/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "nt-scout-lead-21",
@@ -74870,7 +75480,166 @@
     "imageSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ae9be01-5d25-4a18-aa3d-21f0acddcd3b/7bf2dd7c-5d7d-11ec-bd05-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "最低外送數量 5～10 個"
+    "deliverySummary": "最低外送數量 5～10 個",
+    "menu": {
+      "items": [
+        {
+          "name": "A烤雞腿飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "A烤雞腿(麵)★",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "B烤肉飯",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "B烤肉(麵)★",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "C烤旗魚飯",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "C烤旗魚(麵)★",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "W烤雞翅飯",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "W烤雞翅(麵)★",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "F炸蝦捲飯",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "F炸蝦捲(麵)★",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "G炸肉排飯",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "G炸肉排(麵)★",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "P糖醋豬排飯",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "P糖醋豬排(麵)★",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "H綜合飯",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "H綜合(麵)★",
+          "price": 90,
+          "category": "便當"
+        },
+        {
+          "name": "單點-A雞腿",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單點-B烤肉",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單點-C旗魚",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "單點-W雞翅",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單點-F蝦捲",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單點-G肉排",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "肉燥飯",
+          "price": 20,
+          "category": "單點"
+        },
+        {
+          "name": "肉燥(麵)★",
+          "price": 30,
+          "category": "單點"
+        },
+        {
+          "name": "白飯",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "菜飯",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "菜(麵)★",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單點-P糖醋豬排",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單-翅一隻",
+          "price": 30,
+          "category": "單點"
+        },
+        {
+          "name": "單-烤肉一片",
+          "price": 30,
+          "category": "單點"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 32
+    },
+    "menuSource": "https://shop.ichefpos.com/store/GmfiJSlR/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "nt-scout-lead-73",
@@ -140661,7 +141430,155 @@
     "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-148.webp",
     "imageSource": "https://shop.ichefpos.com/store/XRQxveUl/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f20d6582-cd6d-4867-9b8c-cb09233fb3a5/63f3796c-22e4-11f1-8b78-0242ac110004.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21"
+    "imageCheckedAt": "2026-10-21",
+    "menu": {
+      "items": [
+        {
+          "name": "明太子雞腿飯",
+          "price": 199,
+          "category": "F/M精緻系列"
+        },
+        {
+          "name": "骰子牛飯",
+          "price": 199,
+          "category": "F/M精緻系列"
+        },
+        {
+          "name": "初沐咖哩飯（微辣）",
+          "price": 150,
+          "category": "F/M咖哩系列"
+        },
+        {
+          "name": "（牛）初沐咖哩牛肉飯（微辣）",
+          "price": 180,
+          "category": "F/M咖哩系列"
+        },
+        {
+          "name": "（雞）初沐咖哩雞飯（微辣）",
+          "price": 170,
+          "category": "F/M咖哩系列"
+        },
+        {
+          "name": "初沐嫩煎雞腿飯",
+          "price": 140,
+          "category": "F/M經典系列"
+        },
+        {
+          "name": "鹽烤鯖魚飯",
+          "price": 130,
+          "category": "F/M經典系列"
+        },
+        {
+          "name": "蔥鹽油雞飯",
+          "price": 140,
+          "category": "F/M經典系列"
+        },
+        {
+          "name": "鹽烤鮭魚飯",
+          "price": 150,
+          "category": "F/M經典系列"
+        },
+        {
+          "name": "泰式打拋豬飯",
+          "price": 130,
+          "category": "F/M現代料理系列"
+        },
+        {
+          "name": "薑汁燒肉飯",
+          "price": 130,
+          "category": "F/M現代料理系列"
+        },
+        {
+          "name": "蔬食餐盒",
+          "price": 120,
+          "category": "F/M現代料理系列"
+        },
+        {
+          "name": "川味水煮牛飯（麻辣）",
+          "price": 140,
+          "category": "F/M現代料理系列"
+        },
+        {
+          "name": "（單）明太子雞腿",
+          "price": 140,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）骰子牛",
+          "price": 140,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）初沐咖哩（微辣）",
+          "price": 100,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單雞）初沐咖哩雞（微辣）",
+          "price": 110,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "(單牛）初沐咖哩牛肉（微辣）",
+          "price": 120,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）初沐嫩煎雞腿",
+          "price": 90,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）蔥鹽油雞",
+          "price": 90,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）鹽烤鯖魚",
+          "price": 85,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）鹽烤鮭魚",
+          "price": 95,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）川味水煮牛（麻辣）",
+          "price": 90,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）薑汁燒肉（微辣）",
+          "price": 80,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "（單）泰式打拋豬（微辣）",
+          "price": 80,
+          "category": "F/M主餐單點"
+        },
+        {
+          "name": "紅藜麥飯",
+          "price": 20,
+          "category": "F/M小品"
+        },
+        {
+          "name": "初沐香香馬鈴薯優格",
+          "price": 80,
+          "category": "F/M小品"
+        },
+        {
+          "name": "商業午餐（不附湯）",
+          "price": 120,
+          "category": "當日特餐"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/XRQxveUl/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/XRQxveUl/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tc-scout-lead-149",
@@ -151071,7 +151988,166 @@
     "imageSource": "https://shop.ichefpos.com/store/-UgIBzVA/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3a1bd27d-5dd0-427d-a18d-8efaa5394344/a4284e48-0546-11f0-b7c2-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "只要訂購5個以上，3公里內店家外送"
+    "deliverySummary": "只要訂購5個以上，3公里內店家外送",
+    "menu": {
+      "items": [
+        {
+          "name": "香草舒肥雞",
+          "price": 110,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "蒜香舒肥雞",
+          "price": 110,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "老媽滷棒腿",
+          "price": 95,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "鹽麴半月鮭",
+          "price": 180,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "椒鹽烤鯖魚",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "泰式打拋豬",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "鹽蔥花腰內肉",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "水煎牛肋條",
+          "price": 160,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "今仔日呷菜",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "團體餐盒",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "特餐",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "蕃茄鮪魚肚",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "泰式洋蔥肉片",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "每日例湯（不固定）",
+          "price": 50,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "麻油香腿排",
+          "price": 140,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "韓式乾燒雞腿排",
+          "price": 140,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "十三香腿排",
+          "price": 140,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "單-香草舒肥雞",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-蒜香舒肥雞",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-椒麻雞腿排",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單-老媽滷棒腿",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "單-椒鹽烤鯖魚",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "單-鹽麴半月鮭",
+          "price": 130,
+          "category": "單點"
+        },
+        {
+          "name": "單-打拋豬",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-鹽蔥花腰內肉",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單-牛肋條",
+          "price": 100,
+          "category": "單點"
+        },
+        {
+          "name": "單-田園蔬菜(雙拼)",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-米飯15",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "單-水煮蛋",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "單-蕃茄鮪魚肚",
+          "price": 90,
+          "category": "單點"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/-UgIBzVA/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 42
+    },
+    "menuSource": "https://shop.ichefpos.com/store/-UgIBzVA/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "kh-scout-lead-35",
@@ -154303,7 +155379,130 @@
     "imageSource": "https://shop.ichefpos.com/store/W61oYFcS/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ef7e0804-8fb5-4906-ae45-c6b9dee078b8/f87c999c-04b8-11f0-ba45-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "5 個以上就外送（依距離或地區不同，請先電話確認）"
+    "deliverySummary": "5 個以上就外送（依距離或地區不同，請先電話確認）",
+    "menu": {
+      "items": [
+        {
+          "name": "香草舒肥雞",
+          "price": 110,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "蒜香舒肥雞",
+          "price": 110,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "泰式打拋豬",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "椒鹽烤鯖魚",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "今仔日呷菜",
+          "price": 100,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "老媽滷棒腿",
+          "price": 95,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "蔥鹽腰內肉",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "鹽麴半月鮭",
+          "price": 180,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "水煎牛肋條",
+          "price": 160,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "番茄鮪魚肚",
+          "price": 130,
+          "category": "低卡餐盒"
+        },
+        {
+          "name": "單-蒜香舒肥雞",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-椒麻雞腿排",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單-椒鹽烤鯖魚",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "單-打拋豬",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-飯15",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "單-水煮蛋",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "單-田園蔬菜(雙拼)",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-老媽滷棒腿",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "單-香草舒肥雞",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單-鹽麴半月鮭",
+          "price": 130,
+          "category": "單點"
+        },
+        {
+          "name": "單-鹽蔥花腰內肉",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "單-水煎牛肋條",
+          "price": 100,
+          "category": "單點"
+        },
+        {
+          "name": "單-泰式洋蔥肉片",
+          "price": 60,
+          "category": "單點"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/W61oYFcS/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/W61oYFcS/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "kh-scout-lead-85",
@@ -167849,7 +169048,166 @@
     "imageSource": "https://shop.ichefpos.com/store/S1jIYeK-/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9f1ce417-d9e0-449e-a650-7bb0d50f0a9d/b77ee93a-d98e-11eb-a53b-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "日式炸雞飯盒",
+          "price": 107,
+          "category": "限定每週特價商品"
+        },
+        {
+          "name": "醬燒炸排骨飯盒",
+          "price": 89,
+          "category": "限定每週特價商品"
+        },
+        {
+          "name": "泰式咔啦雞飯盒",
+          "price": 107,
+          "category": "限定每週特價商品"
+        },
+        {
+          "name": "688四人火鍋生鮮套餐豬肉組合",
+          "price": 688,
+          "category": "生鮮套餐"
+        },
+        {
+          "name": "688四人火鍋生鮮套餐牛肉組合",
+          "price": 688,
+          "category": "生鮮套餐"
+        },
+        {
+          "name": "壽喜鍋",
+          "price": 120,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "鴨血鍋",
+          "price": 130,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "椰香咖哩鍋",
+          "price": 130,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "韓式泡菜鍋",
+          "price": 130,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "招牌麻辣鍋",
+          "price": 130,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "大腸臭臭鍋",
+          "price": 130,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "香草牛奶鍋",
+          "price": 140,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "番茄營養鍋",
+          "price": 150,
+          "category": "人氣鍋品"
+        },
+        {
+          "name": "沙茶鍋",
+          "price": 120,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "味噌胡麻鍋",
+          "price": 130,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "酸菜白肉鍋",
+          "price": 130,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "龍骨養生鍋",
+          "price": 150,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "起士牛奶鍋",
+          "price": 150,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "南瓜牛奶鍋",
+          "price": 150,
+          "category": "特調鍋品"
+        },
+        {
+          "name": "原味鍋",
+          "price": 120,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "鮮蚵鍋",
+          "price": 160,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "小卷海鮮鍋",
+          "price": 160,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "海鮮牛奶鍋",
+          "price": 160,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "西瓜綿海鮮魚肉鍋",
+          "price": 180,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "海鮮總匯鍋",
+          "price": 200,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "仆仆蛤蠣鍋",
+          "price": 180,
+          "category": "海鮮鍋品"
+        },
+        {
+          "name": "蒜香鍋",
+          "price": 130,
+          "category": "元氣鍋品"
+        },
+        {
+          "name": "剝皮辣椒鍋",
+          "price": 150,
+          "category": "元氣鍋品"
+        },
+        {
+          "name": "藥膳養生鍋",
+          "price": 150,
+          "category": "元氣鍋品"
+        },
+        {
+          "name": "醬燒烤x豬肉心蛋飯",
+          "price": 80,
+          "category": "醬燒飯/鍋燒麵系列"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/S1jIYeK-/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 121
+    },
+    "menuSource": "https://shop.ichefpos.com/store/S1jIYeK-/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tn-scout-lead-34",
@@ -168181,7 +169539,166 @@
     "imageSource": "https://shop.ichefpos.com/store/ITIdiQYO/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/2696c8fc-4ade-4f22-acd5-38acde525c2d/3d06245e-dd5b-11eb-9601-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 免運"
+    "deliverySummary": "滿 $500 免運",
+    "menu": {
+      "items": [
+        {
+          "name": "雞肉三明治＋單品美式",
+          "price": 150,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "雞肉三明治＋單品拿鐵",
+          "price": 160,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "原味布丁組合6入",
+          "price": 390,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "原味3入威士忌3入組合",
+          "price": 450,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "威士忌布丁組合6入",
+          "price": 510,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "肉桂捲4入組合",
+          "price": 380,
+          "category": "外帶-飲品甜點優惠組合"
+        },
+        {
+          "name": "美式(外帶)",
+          "price": 70,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "單品美式（外帶）",
+          "price": 90,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "拿鐵(外帶)",
+          "price": 90,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "單品拿鐵（外帶）",
+          "price": 110,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "濃縮液 180ml（自帶瓶裝）",
+          "price": 250,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "濃縮液180ml（含瓶子）",
+          "price": 280,
+          "category": "外帶-義式咖啡"
+        },
+        {
+          "name": "黑糖拿鐵(外帶)",
+          "price": 100,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "伯爵紅茶拿鐵(外帶)",
+          "price": 100,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "摩卡（外帶）",
+          "price": 100,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "貝禮詩奶酒拿鐵(外帶)",
+          "price": 100,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "冰滴歐蕾",
+          "price": 130,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "西西里咖啡",
+          "price": 130,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "琴西里（西西里＋ROKU琴酒）",
+          "price": 150,
+          "category": "外帶-特調咖啡"
+        },
+        {
+          "name": "冰釀(外帶)",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 衣索比亞 蕾格處理廠 日曬",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 衣索比亞 西達瑪 班莎 水洗",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 衣索比亞 伊迪朵 水洗",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 哥倫比亞 路易斯莊園 厭氧水洗",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 瓜地馬拉 莫里托莊園 日曬",
+          "price": 100,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "手沖 蘇門答臘 黃金曼特寧 濕剝法",
+          "price": 110,
+          "category": "外帶-手沖/黑咖啡"
+        },
+        {
+          "name": "雞肉核桃三明治",
+          "price": 90,
+          "category": "外帶-甜點/三明治"
+        },
+        {
+          "name": "泥煤威士忌巴斯克",
+          "price": 160,
+          "category": "外帶-甜點/三明治"
+        },
+        {
+          "name": "伯爵茶巴斯克",
+          "price": 160,
+          "category": "外帶-甜點/三明治"
+        },
+        {
+          "name": "巴斯克乳酪蛋糕（外帶）",
+          "price": 110,
+          "category": "外帶-甜點/三明治"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/ITIdiQYO/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 60
+    },
+    "menuSource": "https://shop.ichefpos.com/store/ITIdiQYO/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tn-scout-lead-41",
@@ -169713,7 +171230,166 @@
     "imageSource": "https://shop.ichefpos.com/store/ZWdoCHt9/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c43850f0-1879-4a41-9cb0-e723c83042e3/33b77172-e851-11eb-8d35-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "外帶-原味鍋",
+          "price": 140,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-沙茶鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-大腸臭臭鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-泡菜臭臭鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-腸旺鴨血鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-咖哩鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-泡菜鍋(附蛋)",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-海鮮鍋(附蛋)",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-養生菇菇鍋",
+          "price": 150,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-酸白菜鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-泡菜麻辣鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-泰式酸辣鍋(附蛋)",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-川味麻辣鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-養生藥膳鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-養生蒙古鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-黄金南瓜鍋",
+          "price": 160,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-沙茶鱿魚鍋",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-南洋叻沙鍋(附蛋)",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-絲瓜蛤蜊鍋",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-藥膳海鮮鍋",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-香濃牛奶鍋(附蛋)",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-麻辣牛奶鍋(附蛋)",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-咖哩起司鍋",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-咖哩牛奶鍋(豬肉)",
+          "price": 170,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-芋頭牛奶鍋",
+          "price": 180,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-黃金南瓜牛奶鍋",
+          "price": 180,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-香濃牛奶起司鍋(附蛋)",
+          "price": 180,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-泰式酸辣奶香鍋(附蛋)",
+          "price": 180,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-剝皮辣椒雞腿鍋",
+          "price": 180,
+          "category": "饗鍋物"
+        },
+        {
+          "name": "外帶-蒜頭蛤蜊雞腿鍋",
+          "price": 180,
+          "category": "饗鍋物"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/ZWdoCHt9/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 119
+    },
+    "menuSource": "https://shop.ichefpos.com/store/ZWdoCHt9/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tn-scout-lead-54",
@@ -172493,7 +174169,130 @@
     "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "2 份以上就外送"
+    "deliverySummary": "2 份以上就外送",
+    "menu": {
+      "items": [
+        {
+          "name": "雞腿餐盒",
+          "price": 130,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "牛肉餐盒",
+          "price": 165,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "嫩煎豬菲力餐盒",
+          "price": 130,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "鮭魚餐盒",
+          "price": 170,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "原味雞胸餐盒",
+          "price": 120,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "玫瑰鹽雞胸餐盒",
+          "price": 120,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "油蔥雞胸餐盒",
+          "price": 120,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "胡麻雞胸餐盒",
+          "price": 120,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "玫瑰鹽炙挪威鯖魚餐盒",
+          "price": 140,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "日式雞丼餐盒",
+          "price": 168,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "干貝餐盒",
+          "price": 185,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蔬菜餐盒(蛋奶素)",
+          "price": 70,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "紐奧良無骨雞腿餐盒",
+          "price": 130,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "好棒棒雞腿餐盒",
+          "price": 99,
+          "category": "健康餐盒"
+        },
+        {
+          "name": "堅果活舒沙拉",
+          "price": 120,
+          "category": "活舒沙拉"
+        },
+        {
+          "name": "雞胸活舒沙拉",
+          "price": 160,
+          "category": "活舒沙拉"
+        },
+        {
+          "name": "鮭魚活舒沙拉",
+          "price": 205,
+          "category": "活舒沙拉"
+        },
+        {
+          "name": "四季春烏龍",
+          "price": 50,
+          "category": "沁涼冷飲"
+        },
+        {
+          "name": "青梅汽泡水",
+          "price": 50,
+          "category": "沁涼冷飲"
+        },
+        {
+          "name": "養生-枸杞玉米鬚茶",
+          "price": 30,
+          "category": "沁涼冷飲"
+        },
+        {
+          "name": "海陸雙拼-雞胸vs干貝",
+          "price": 145,
+          "category": "@@快閃餐盒"
+        },
+        {
+          "name": "海陸雙拼-雞腿vs干貝",
+          "price": 155,
+          "category": "@@快閃餐盒"
+        },
+        {
+          "name": "海陸雙拼-牛肉vs干貝",
+          "price": 190,
+          "category": "@@快閃餐盒"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tn-scout-lead-98",
@@ -172847,7 +174646,166 @@
     "imageSource": "https://shop.ichefpos.com/store/i_xs915Z/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0a07409d-55d2-4eb8-b14d-809d71902e0c/dda2552c-b1f6-11ea-b183-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "3 公里內本店親送"
+    "deliverySummary": "3 公里內本店親送",
+    "menu": {
+      "items": [
+        {
+          "name": "經典美式",
+          "price": 60,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "卡布奇諾",
+          "price": 80,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "經典拿鐵",
+          "price": 80,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "海鹽焦糖拿鐵",
+          "price": 90,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "炭燒榛果拿鐵",
+          "price": 90,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "竹炭拿鐵",
+          "price": 90,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "焦糖瑪奇朵",
+          "price": 100,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "提拉米蘇拿鐵",
+          "price": 110,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "貝禮詩奶酒拿鐵",
+          "price": 110,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "摩卡",
+          "price": 110,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "麵茶拿鐵",
+          "price": 110,
+          "category": "想來杯咖啡"
+        },
+        {
+          "name": "可可拿鐵",
+          "price": 90,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "黑糖拿鐵",
+          "price": 90,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "抹茶拿鐵",
+          "price": 100,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "特選錫蘭紅茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "格雷伯爵紅茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "凍頂烏龍綠茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "特選錫蘭鮮奶茶",
+          "price": 80,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "格雷伯爵鮮奶茶",
+          "price": 80,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "玄米綠茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "洋甘菊綠茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "蜜桃青茶",
+          "price": 60,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "季節限定-草莓拿鐵",
+          "price": 120,
+          "category": "我不喝咖啡"
+        },
+        {
+          "name": "德式紓壓茶",
+          "price": 100,
+          "category": "無咖啡因花草茶"
+        },
+        {
+          "name": "阿爾卑斯香草茶",
+          "price": 100,
+          "category": "無咖啡因花草茶"
+        },
+        {
+          "name": "愛琴海果粒茶",
+          "price": 100,
+          "category": "無咖啡因花草茶"
+        },
+        {
+          "name": "初戀佳人果粒茶",
+          "price": 100,
+          "category": "無咖啡因花草茶"
+        },
+        {
+          "name": "綜合莓果氣泡飲",
+          "price": 100,
+          "category": "BoBo氣泡飲"
+        },
+        {
+          "name": "薄荷檸檬氣泡飲",
+          "price": 100,
+          "category": "BoBo氣泡飲"
+        },
+        {
+          "name": "衣索比亞 耶加雪菲 果丁丁",
+          "price": 130,
+          "category": "手沖單品咖啡"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/i_xs915Z/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 65
+    },
+    "menuSource": "https://shop.ichefpos.com/store/i_xs915Z/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tn-scout-lead-111",
@@ -179367,7 +181325,166 @@
     "imageSource": "https://shop.ichefpos.com/store/2J81T7aU/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/02c08a19-28fc-4bf4-857c-ff26d69a5446/6c992d06-c853-11ef-8b05-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "3 碗以上就外送（依距離或地區不同，請先電話確認）"
+    "deliverySummary": "3 碗以上就外送（依距離或地區不同，請先電話確認）",
+    "menu": {
+      "items": [
+        {
+          "name": "原味鍋燒",
+          "price": 100,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "沙茶鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "味增鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "辛辣鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "麻辣鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "豚骨鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "排骨鍋燒",
+          "price": 115,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "輕蔬菇菇鍋",
+          "price": 110,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "藥膳菇菇鍋",
+          "price": 110,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "咖哩鍋燒",
+          "price": 135,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "泡菜鍋燒",
+          "price": 120,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "番茄鍋燒",
+          "price": 135,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "牛奶鍋燒",
+          "price": 135,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "海鮮鍋燒",
+          "price": 135,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "泰式酸辣鍋燒",
+          "price": 120,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "奶奶好辣鍋",
+          "price": 150,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "麻辣大腸鍋",
+          "price": 165,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "豪華海鮮鍋",
+          "price": 200,
+          "category": "鍋燒系列"
+        },
+        {
+          "name": "翡翠吻仔魚片粥",
+          "price": 100,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "皮蛋肉片粥",
+          "price": 105,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "滑蛋牛肉粥",
+          "price": 115,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "玉米牛肉粥",
+          "price": 115,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "咖哩飯",
+          "price": 125,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "海產粥",
+          "price": 135,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "蚵仔粥",
+          "price": 125,
+          "category": "飯粥系列"
+        },
+        {
+          "name": "紅茶",
+          "price": 25,
+          "category": "甜點飲品"
+        },
+        {
+          "name": "冬瓜茶",
+          "price": 25,
+          "category": "甜點飲品"
+        },
+        {
+          "name": "可口可樂",
+          "price": 25,
+          "category": "甜點飲品"
+        },
+        {
+          "name": "雪碧",
+          "price": 25,
+          "category": "甜點飲品"
+        },
+        {
+          "name": "原萃日式綠茶",
+          "price": 25,
+          "category": "甜點飲品"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/2J81T7aU/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 41
+    },
+    "menuSource": "https://shop.ichefpos.com/store/2J81T7aU/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "hc-scout-lead-56",
@@ -187809,7 +189926,166 @@
     "imageSource": "https://shop.ichefpos.com/store/LBEamTUd/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ac356b97-6a42-4891-bb5a-ed2231eb8067/3cca2f18-62fd-11f0-849c-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "西班牙辣炒海鮮",
+          "price": 380,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "台式醬燒虱目魚肚",
+          "price": 290,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "經典紅燒牛肉",
+          "price": 270,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "手作豬肉漢堡排",
+          "price": 220,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "鹽麴厚切炸豬排",
+          "price": 220,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "日式味增松阪豬",
+          "price": 270,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "奶油咖哩唐揚雞",
+          "price": 240,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "奶油蒜香烤雞腿排",
+          "price": 220,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "韓式炸雞炒年糕",
+          "price": 230,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "梅子苦瓜燉雞湯",
+          "price": 290,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "蔬喜燒(蛋奶素)",
+          "price": 260,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "時蔬白醬奶油菇菇(蔬食)",
+          "price": 180,
+          "category": "禾火餐盒"
+        },
+        {
+          "name": "單-西班牙風辣炒海鮮",
+          "price": 330,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-台式醬燒虱目魚肚",
+          "price": 250,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-經典紅燒牛",
+          "price": 220,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-主廚特製豬肉漢堡排",
+          "price": 160,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-鹽麴厚切炸豬排",
+          "price": 170,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-日式味增松阪豬",
+          "price": 220,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-秘製奶油咖哩唐揚雞",
+          "price": 190,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-奶油蒜香烤雞腿排",
+          "price": 170,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-韓式炸雞炒年糕",
+          "price": 180,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-梅子苦瓜燉雞湯",
+          "price": 250,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-蔬喜燒",
+          "price": 210,
+          "category": "禾火單點"
+        },
+        {
+          "name": "單-白醬奶油菇菇",
+          "price": 130,
+          "category": "禾火單點"
+        },
+        {
+          "name": "炸物拼盤",
+          "price": 200,
+          "category": "禾火推薦點心"
+        },
+        {
+          "name": "豆腐乳燒肉捲",
+          "price": 180,
+          "category": "禾火推薦點心"
+        },
+        {
+          "name": "奶油蒜香烤雞翅(5隻)",
+          "price": 130,
+          "category": "禾火推薦點心"
+        },
+        {
+          "name": "綜合薯條",
+          "price": 80,
+          "category": "禾火推薦點心"
+        },
+        {
+          "name": "唐揚雞",
+          "price": 150,
+          "category": "禾火推薦點心"
+        },
+        {
+          "name": "蔬菜豆腐丸",
+          "price": 120,
+          "category": "禾火推薦點心"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/LBEamTUd/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 55
+    },
+    "menuSource": "https://shop.ichefpos.com/store/LBEamTUd/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "ch-scout-lead-3",
@@ -190659,7 +192935,166 @@
     "imageSource": "https://shop.ichefpos.com/store/5sSRaI3F/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8ecbae18-87f2-4be7-904d-6f4a64f03c91/8936adc6-6db4-11ee-98cb-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "味噌煮牛舌",
+          "price": 220,
+          "category": "牛肉燒物"
+        },
+        {
+          "name": "厚切牛舌（月見/蔥鹽）（限量）",
+          "price": 220,
+          "category": "牛肉燒物"
+        },
+        {
+          "name": "塩烤 安格斯翼板牛",
+          "price": 230,
+          "category": "牛肉燒物"
+        },
+        {
+          "name": "醬烤 牛肋條",
+          "price": 180,
+          "category": "牛肉燒物"
+        },
+        {
+          "name": "雞白子串（雞胇）",
+          "price": 190,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "紅玉雞提燈串（限量）",
+          "price": 140,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "明太子 雞肉串",
+          "price": 130,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "醬烤 雞肉串",
+          "price": 130,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "塩●烤 雞肉串燒",
+          "price": 120,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "鹽烤雞三角軟骨",
+          "price": 120,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "塩烤 七里香串",
+          "price": 110,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "醬烤雞皮串",
+          "price": 110,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "月見雞肉丸(限量)",
+          "price": 90,
+          "category": "雞肉燒物"
+        },
+        {
+          "name": "松阪豬西京醃漬燒",
+          "price": 180,
+          "category": "豬肉燒物"
+        },
+        {
+          "name": "塩烤豬五花",
+          "price": 140,
+          "category": "豬肉燒物"
+        },
+        {
+          "name": "喜知次一夜干(限量)",
+          "price": 650,
+          "category": "海鮮燒物"
+        },
+        {
+          "name": "鹽烤青甘下巴",
+          "price": 280,
+          "category": "海鮮燒物"
+        },
+        {
+          "name": "赤魚一夜干",
+          "price": 220,
+          "category": "海鮮燒物"
+        },
+        {
+          "name": "酒燒蛤蜊",
+          "price": 160,
+          "category": "海鮮燒物"
+        },
+        {
+          "name": "鹽烤特級秋刀魚",
+          "price": 80,
+          "category": "海鮮燒物"
+        },
+        {
+          "name": "明太子山藥燒",
+          "price": 140,
+          "category": "時蔬燒物"
+        },
+        {
+          "name": "櫛 瓜 串燒",
+          "price": 80,
+          "category": "時蔬燒物"
+        },
+        {
+          "name": "杏鮑菇 串燒",
+          "price": 80,
+          "category": "時蔬燒物"
+        },
+        {
+          "name": "居酒屋風 唐揚雞",
+          "price": 150,
+          "category": "炸物"
+        },
+        {
+          "name": "大阪燒風格炸豬排",
+          "price": 140,
+          "category": "炸物"
+        },
+        {
+          "name": "牡蠣揚佐蛋黃醬(四粒)",
+          "price": 140,
+          "category": "炸物"
+        },
+        {
+          "name": "黃金炸蝦（兩尾）",
+          "price": 90,
+          "category": "炸物"
+        },
+        {
+          "name": "揚出豆腐（限量）",
+          "price": 60,
+          "category": "炸物"
+        },
+        {
+          "name": "烏魚子鮭魚鬆 炒飯",
+          "price": 130,
+          "category": "炒飯麵"
+        },
+        {
+          "name": "松阪豬炒飯",
+          "price": 130,
+          "category": "炒飯麵"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/5sSRaI3F/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 81
+    },
+    "menuSource": "https://shop.ichefpos.com/store/5sSRaI3F/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "ch-scout-lead-55",
@@ -194765,7 +197200,40 @@
     "imageSource": "https://shop.ichefpos.com/store/c_6heH-h/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/e9e59b75-355b-4886-9d5b-f74a7c59f465/12850320-d1e5-11eb-94bf-0242ac110005.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $1000 外送"
+    "deliverySummary": "滿 $1000 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "壽司餐盒",
+          "price": 180,
+          "category": "防疫餐盒"
+        },
+        {
+          "name": "咖哩餐盒",
+          "price": 180,
+          "category": "防疫餐盒"
+        },
+        {
+          "name": "牛丼",
+          "price": 180,
+          "category": "防疫餐盒"
+        },
+        {
+          "name": "豚井",
+          "price": 180,
+          "category": "防疫餐盒"
+        },
+        {
+          "name": "鰻魚飯",
+          "price": 580,
+          "category": "防疫餐盒"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/c_6heH-h/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/c_6heH-h/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "nto-scout-lead-10",
@@ -196434,7 +198902,150 @@
     "imageSource": "https://shop.ichefpos.com/store/Uv-k7fkU/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/ae8eec08-ff3b-42ed-8732-d6a4db8927d2/c4771fac-bbcf-11ed-9fda-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "5 份以上就外送"
+    "deliverySummary": "5 份以上就外送",
+    "menu": {
+      "items": [
+        {
+          "name": "季節蔬食",
+          "price": 130,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "舒肥嫩煮氣冷雞",
+          "price": 160,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "泰式椒麻雞",
+          "price": 170,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "法式嫩煮牛",
+          "price": 150,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "日式照燒霜降牛丼",
+          "price": 160,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "香烤舒肥松阪豬",
+          "price": 185,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "金目鱸魚排",
+          "price": 170,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "挪威鮭魚",
+          "price": 199,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "照燒金磚魚",
+          "price": 160,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "宮保雞丁",
+          "price": 170,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "日式唐揚雞",
+          "price": 155,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "零澱粉彩虹花椰菜米",
+          "price": 140,
+          "category": "經典餐盒"
+        },
+        {
+          "name": "舒肥雞堅果沙拉",
+          "price": 140,
+          "category": "沙拉系列"
+        },
+        {
+          "name": "鮮蝦堅果沙拉",
+          "price": 150,
+          "category": "沙拉系列"
+        },
+        {
+          "name": "(單)舒肥氣冷雞",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "(單)奶香松阪猪",
+          "price": 115,
+          "category": "單點"
+        },
+        {
+          "name": "(單)香烤松阪豬",
+          "price": 105,
+          "category": "單點"
+        },
+        {
+          "name": "(單)日式照燒牛",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "(單)挪威鮭魚",
+          "price": 120,
+          "category": "單點"
+        },
+        {
+          "name": "(單-素食)季節時蔬",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "(單)半顆蛋",
+          "price": 5,
+          "category": "單點"
+        },
+        {
+          "name": "(單)無糖茶",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "沙拉醬",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "(單)金目鱸魚排",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "(單)宮保雞丁",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "(單)照燒金磚魚",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "(單-素食)豆包鮮蔬捲",
+          "price": 85,
+          "category": "單點"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/Uv-k7fkU/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/Uv-k7fkU/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "ml-scout-lead-6",
@@ -196770,7 +199381,166 @@
     "imageSource": "https://shop.ichefpos.com/store/KAQnWWyc/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0ec5279f-21fd-436f-bbf7-49ef06291612/4437788a-b705-11eb-bc77-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $50 外送（依距離或地區不同，請先電話確認）"
+    "deliverySummary": "滿 $50 外送（依距離或地區不同，請先電話確認）",
+    "menu": {
+      "items": [
+        {
+          "name": "山豬肉串",
+          "price": 30,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "雞翅",
+          "price": 35,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "肥腸串",
+          "price": 45,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "牛肉串",
+          "price": 35,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "羊肉串",
+          "price": 40,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "秋刀魚",
+          "price": 60,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "豬肉蔥串",
+          "price": 40,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "松阪豬",
+          "price": 40,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "白蝦",
+          "price": 60,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "雞肉丁串",
+          "price": 35,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "雞腿",
+          "price": 80,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "魷魚串",
+          "price": 109,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "阿婆秘滷粉腸",
+          "price": 80,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "午仔一夜干",
+          "price": 300,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "鯖魚",
+          "price": 120,
+          "category": "大口吃肉"
+        },
+        {
+          "name": "四季豆",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "香菇",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "杏鮑菇",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "青椒",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "小黃瓜",
+          "price": 15,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "帶皮玉米筍",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "櫛瓜",
+          "price": 30,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "帶皮玉米筍(6隻)",
+          "price": 150,
+          "category": "吃菜吃健康"
+        },
+        {
+          "name": "雞皮",
+          "price": 26,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "雞心",
+          "price": 28,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "雞屁股",
+          "price": 30,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "雞胗",
+          "price": 23,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "黑輪片",
+          "price": 23,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "米血",
+          "price": 18,
+          "category": "沒了我就少一味"
+        },
+        {
+          "name": "豆干",
+          "price": 23,
+          "category": "沒了我就少一味"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/KAQnWWyc/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 48
+    },
+    "menuSource": "https://shop.ichefpos.com/store/KAQnWWyc/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "ml-scout-lead-12",
@@ -200715,7 +203485,166 @@
     "imageSource": "https://shop.ichefpos.com/store/Zkvl8sNA/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c6531e47-c66b-4ded-b3bf-3bd223e7850a/9942096a-1f54-11f0-b62c-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "3 個以上就外送"
+    "deliverySummary": "3 個以上就外送",
+    "menu": {
+      "items": [
+        {
+          "name": "滷肉飯Braised Pork Rice",
+          "price": 30,
+          "category": "主食"
+        },
+        {
+          "name": "瓜仔肉飯Minced Pork with Pickled Cucumber Rice",
+          "price": 35,
+          "category": "主食"
+        },
+        {
+          "name": "白飯White Rice",
+          "price": 20,
+          "category": "主食"
+        },
+        {
+          "name": "滷肉乾麵Braised Pork Dry Noodles",
+          "price": 45,
+          "category": "主食"
+        },
+        {
+          "name": "滷鴨蛋Braised Duck Egg",
+          "price": 20,
+          "category": "單點"
+        },
+        {
+          "name": "滷筍絲Braised Bamboo Shoots",
+          "price": 25,
+          "category": "單點"
+        },
+        {
+          "name": "油豆腐Stew Tofu (Slightly Spicy)",
+          "price": 25,
+          "category": "單點"
+        },
+        {
+          "name": "滷白豆腐Braised White Tofu",
+          "price": 30,
+          "category": "單點"
+        },
+        {
+          "name": "燙青菜Blanched Vegetables",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "滷白菜Braised Cabbage(Blanched)",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "滷排骨Braised Pork Chop",
+          "price": 65,
+          "category": "單點"
+        },
+        {
+          "name": "滷雞腿Braised Chicken Leg",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "滷腿肉Braised Pork Leg",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "炸排骨Fried Pork Chop",
+          "price": 65,
+          "category": "單點"
+        },
+        {
+          "name": "香腸Taiwanese Sausage",
+          "price": 55,
+          "category": "單點"
+        },
+        {
+          "name": "無骨雞排Boneless Fried Chicken Cutlet",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "炸蝦捲(兩條)Fried Shrimp Rolls (2 pieces)",
+          "price": 35,
+          "category": "單點"
+        },
+        {
+          "name": "炸雞翅Fried Chicken Wing",
+          "price": 35,
+          "category": "單點"
+        },
+        {
+          "name": "炸雞腿Fried Chicken Leg",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "炸雞腿飯Fried Chicken Leg Bento",
+          "price": 130,
+          "category": "外帶便當"
+        },
+        {
+          "name": "滷雞腿飯 Braised Chicken Leg Bento",
+          "price": 130,
+          "category": "外帶便當"
+        },
+        {
+          "name": "綜合飯Mixed Combo Rice",
+          "price": 125,
+          "category": "外帶便當"
+        },
+        {
+          "name": "無骨雞排飯Boneless Fried Chicken Cutlet Bento",
+          "price": 100,
+          "category": "外帶便當"
+        },
+        {
+          "name": "炸蝦捲飯Fried Shrimp Roll Bento",
+          "price": 120,
+          "category": "外帶便當"
+        },
+        {
+          "name": "滷排骨飯Braised Pork Chop Rice",
+          "price": 120,
+          "category": "外帶便當"
+        },
+        {
+          "name": "控肉飯Braised Pork Belly Rice",
+          "price": 110,
+          "category": "外帶便當"
+        },
+        {
+          "name": "滷肉菜飯Braised Minced Pork with Vegetables Rice",
+          "price": 60,
+          "category": "外帶便當"
+        },
+        {
+          "name": "香腸飯Taiwanese Sausage Rice",
+          "price": 115,
+          "category": "外帶便當"
+        },
+        {
+          "name": "炸排骨飯Fried Pork Chop Bento(1 shrimp,1 pork chop)",
+          "price": 120,
+          "category": "外帶便當"
+        },
+        {
+          "name": "A餐",
+          "price": 120,
+          "category": "套餐組合"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/Zkvl8sNA/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 49
+    },
+    "menuSource": "https://shop.ichefpos.com/store/Zkvl8sNA/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "kl-scout-lead-40",
@@ -201842,7 +204771,166 @@
     "imageSource": "https://shop.ichefpos.com/store/8zjvNnyr/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/8aebd181-5b7c-4158-b15e-174519900fbb/f56df6ba-47ac-11f0-940d-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $150 外送"
+    "deliverySummary": "滿 $150 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "當歸鴨肉麵線",
+          "price": 100,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸鴨肉冬粉",
+          "price": 100,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸鴨肉湯",
+          "price": 90,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸湯麵線",
+          "price": 45,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸湯冬粉",
+          "price": 45,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸脆腸湯",
+          "price": 60,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸米血湯",
+          "price": 55,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸清湯",
+          "price": 20,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "鴨肉冬粉",
+          "price": 75,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "清冬粉湯",
+          "price": 40,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "薑絲脆腸湯",
+          "price": 60,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "鴨肉丸湯",
+          "price": 55,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸羊肉麵線",
+          "price": 100,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸羊肉冬粉",
+          "price": 100,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸羊肉湯",
+          "price": 90,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "當歸羊肉排骨湯",
+          "price": 100,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "無刺虱目魚肚湯",
+          "price": 125,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "薑絲魚皮湯",
+          "price": 55,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "燙韭菜脆腸",
+          "price": 70,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "蒜泥白肉",
+          "price": 70,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "燙青菜",
+          "price": 40,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "燙米血",
+          "price": 40,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "乾麵線",
+          "price": 35,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "乾麵",
+          "price": 40,
+          "category": "麵類、湯類"
+        },
+        {
+          "name": "鴨肉片飯",
+          "price": 65,
+          "category": "飯類、小菜"
+        },
+        {
+          "name": "焢肉飯",
+          "price": 65,
+          "category": "飯類、小菜"
+        },
+        {
+          "name": "滷肉飯",
+          "price": 35,
+          "category": "飯類、小菜"
+        },
+        {
+          "name": "鴨油拌飯",
+          "price": 20,
+          "category": "飯類、小菜"
+        },
+        {
+          "name": "白飯",
+          "price": 15,
+          "category": "飯類、小菜"
+        },
+        {
+          "name": "鴨蛋",
+          "price": 15,
+          "category": "飯類、小菜"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/8zjvNnyr/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 47
+    },
+    "menuSource": "https://shop.ichefpos.com/store/8zjvNnyr/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "yln-scout-lead-13",
@@ -204844,7 +207932,166 @@
     "imageSource": "https://shop.ichefpos.com/store/oXeXgzFQ/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/38c75a38-87e5-418a-9fe8-5ede71018423/70e62e4a-aeda-11eb-acda-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "GO敲敲美式(熱)",
+          "price": 50,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲美式(冰)",
+          "price": 50,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲拿鐵(熱)",
+          "price": 70,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲拿鐵(冰)",
+          "price": 70,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲卡布奇諾(熱)",
+          "price": 75,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲卡布奇諾(冰)",
+          "price": 75,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲摩卡(熱)",
+          "price": 75,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲摩卡(冰)",
+          "price": 75,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲太妃朵朵(熱)",
+          "price": 90,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲敲太妃朵朵(冰)",
+          "price": 90,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲咖啡濃特調",
+          "price": 65,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲起司奶蓋嘎逼(限冰飲)",
+          "price": 70,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO西里西里敲嘎逼(限冰飲)",
+          "price": 65,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO中烘培曼特寧",
+          "price": 100,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO中烘培哥倫比亞",
+          "price": 100,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO中淺烘培喜拉朵",
+          "price": 100,
+          "category": "敲咖啡品項"
+        },
+        {
+          "name": "GO敲冬瓜",
+          "price": 40,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO冬瓜敲檸檬",
+          "price": 45,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO冬瓜敲鮮奶(熱)",
+          "price": 55,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO冬瓜敲鮮奶(冰)",
+          "price": 55,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲醇現泡錫蘭紅茶",
+          "price": 40,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲醇現泡茉香綠茶",
+          "price": 40,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲醇現泡凍頂烏龍茶",
+          "price": 40,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲醇現泡高山青茶",
+          "price": 40,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲濃醇鮮奶茶(熱)",
+          "price": 55,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO敲濃醇鮮奶茶(冰)",
+          "price": 55,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO太妃敲鮮奶茶(熱)",
+          "price": 70,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO太妃敲鮮奶茶(冰)",
+          "price": 70,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO烏龍敲鮮奶(熱)",
+          "price": 55,
+          "category": "敲特調品項"
+        },
+        {
+          "name": "GO烏龍敲鮮奶(冰)",
+          "price": 55,
+          "category": "敲特調品項"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/oXeXgzFQ/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 57
+    },
+    "menuSource": "https://shop.ichefpos.com/store/oXeXgzFQ/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "pt-scout-lead-27",
@@ -204934,7 +208181,166 @@
     "imageSource": "https://shop.ichefpos.com/store/2cp2u-cG/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/4bbe4353-219a-4c94-8617-6dc8870ce491/bb3659f2-0ffb-11f1-9c9d-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $350 外送（依距離或地區不同，請先電話確認）"
+    "deliverySummary": "滿 $350 外送（依距離或地區不同，請先電話確認）",
+    "menu": {
+      "items": [
+        {
+          "name": "6入迷你甜甜圈歡樂盒",
+          "price": 330,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "12入迷你甜甜圈派對盒",
+          "price": 650,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "藍莓香緹",
+          "price": 100,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "小山園抹茶",
+          "price": 85,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "濃韻開心果",
+          "price": 110,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "焦糖肉桂",
+          "price": 80,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "北海道煉乳肉鬆",
+          "price": 80,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "英式伯爵茶",
+          "price": 75,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "蘋果乳酪",
+          "price": 80,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "奶香芋泥",
+          "price": 75,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "洋蔥咖哩豬",
+          "price": 75,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "經典香草",
+          "price": 75,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "黑岩巧克力",
+          "price": 80,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "濃郁巧克力",
+          "price": 75,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "巧克力脆脆 new",
+          "price": 55,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "檸檬甜甜",
+          "price": 45,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "香香肉桂糖",
+          "price": 40,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "原味糖",
+          "price": 40,
+          "category": "當週甜甜圈口味"
+        },
+        {
+          "name": "奶香牛角麵包",
+          "price": 50,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "巧克力牛角麵包",
+          "price": 65,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "奶酥菠蘿牛角麵包",
+          "price": 70,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "黃金起司牛角",
+          "price": 70,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "酥烤杏仁牛角",
+          "price": 70,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "明太子牛角",
+          "price": 65,
+          "category": "本週出爐麵包"
+        },
+        {
+          "name": "蘭姆葡萄冰心餅乾",
+          "price": 45,
+          "category": "好心情甜點"
+        },
+        {
+          "name": "開心果焦糖布丁 New",
+          "price": 115,
+          "category": "好心情甜點"
+        },
+        {
+          "name": "焦糖雞蛋布丁",
+          "price": 85,
+          "category": "好心情甜點"
+        },
+        {
+          "name": "奶油甜甜圈酥餅",
+          "price": 75,
+          "category": "好心情甜點"
+        },
+        {
+          "name": "手工餅乾",
+          "price": 90,
+          "category": "好心情甜點"
+        },
+        {
+          "name": "桑葚氣泡美式 New",
+          "price": 120,
+          "category": "咖啡愛好者"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/2cp2u-cG/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 53
+    },
+    "menuSource": "https://shop.ichefpos.com/store/2cp2u-cG/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "pt-scout-lead-30",
@@ -206418,7 +209824,166 @@
     "imageSource": "https://shop.ichefpos.com/store/ZOJ3ftYn/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/0dc4363b-af05-4b57-ae37-b5be3d3b6d5b/f7602974-d7f9-11eb-b6af-0242ac110003.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 免運"
+    "deliverySummary": "滿 $500 免運",
+    "menu": {
+      "items": [
+        {
+          "name": "炙燒雪花牛丼",
+          "price": 130,
+          "category": "丼飯"
+        },
+        {
+          "name": "炙燒大盛牛丼",
+          "price": 170,
+          "category": "丼飯"
+        },
+        {
+          "name": "炙燒雪花豚丼",
+          "price": 130,
+          "category": "丼飯"
+        },
+        {
+          "name": "炙燒大盛豚肉丼",
+          "price": 170,
+          "category": "丼飯"
+        },
+        {
+          "name": "雙層炸豬排丼",
+          "price": 170,
+          "category": "丼飯"
+        },
+        {
+          "name": "黃金松阪豬丼",
+          "price": 190,
+          "category": "丼飯"
+        },
+        {
+          "name": "六盎霜降沙朗牛排丼",
+          "price": 290,
+          "category": "丼飯"
+        },
+        {
+          "name": "炙燒厚切牛排丼",
+          "price": 290,
+          "category": "丼飯"
+        },
+        {
+          "name": "特製炙燒味噌雞腿丼飯",
+          "price": 170,
+          "category": "丼飯"
+        },
+        {
+          "name": "原味博多極細乾拉麵",
+          "price": 130,
+          "category": "拉麵"
+        },
+        {
+          "name": "原味雪濃雞湯味噌拉麵",
+          "price": 130,
+          "category": "拉麵"
+        },
+        {
+          "name": "激辛博多極細乾拉麵",
+          "price": 130,
+          "category": "拉麵"
+        },
+        {
+          "name": "激辛雪濃雞湯味噌拉麵",
+          "price": 130,
+          "category": "拉麵"
+        },
+        {
+          "name": "椒鹽日式唐揚炸雞",
+          "price": 110,
+          "category": "炸物"
+        },
+        {
+          "name": "激辛日式唐揚炸雞",
+          "price": 110,
+          "category": "炸物"
+        },
+        {
+          "name": "和風芥末日是唐揚炸雞",
+          "price": 110,
+          "category": "炸物"
+        },
+        {
+          "name": "日式炸豆腐",
+          "price": 65,
+          "category": "炸物"
+        },
+        {
+          "name": "唐揚餃子",
+          "price": 45,
+          "category": "炸物"
+        },
+        {
+          "name": "蔬菜可樂餅",
+          "price": 45,
+          "category": "炸物"
+        },
+        {
+          "name": "日式炸豬排",
+          "price": 130,
+          "category": "炸物"
+        },
+        {
+          "name": "雪花牛",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "雪花豬",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "松阪豬",
+          "price": 150,
+          "category": "單點"
+        },
+        {
+          "name": "厚切牛排",
+          "price": 250,
+          "category": "單點"
+        },
+        {
+          "name": "沙朗牛排",
+          "price": 250,
+          "category": "單點"
+        },
+        {
+          "name": "味噌雞腿排",
+          "price": 130,
+          "category": "單點"
+        },
+        {
+          "name": "牛匠黃金泡菜",
+          "price": 55,
+          "category": "小品"
+        },
+        {
+          "name": "柚香白玉蘿蔔",
+          "price": 55,
+          "category": "小品"
+        },
+        {
+          "name": "胡麻冷豆腐",
+          "price": 65,
+          "category": "小品"
+        },
+        {
+          "name": "胡麻時蔬",
+          "price": 40,
+          "category": "小品"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/ZOJ3ftYn/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 33
+    },
+    "menuSource": "https://shop.ichefpos.com/store/ZOJ3ftYn/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "hl-scout-lead-26",
@@ -206717,7 +210282,30 @@
     "imageSource": "https://shop.ichefpos.com/store/ejyYRtTs/reserve",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/4bd029c5-cada-4bb2-aa1c-10d54611300f/b03c743a-f33e-11ef-99ef-0242ac110002.jpeg?channel=reservation",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $1,000 免費配送（花蓮市／吉安鄉／北埔村）"
+    "deliverySummary": "滿 $1,000 免費配送（花蓮市／吉安鄉／北埔村）",
+    "menu": {
+      "items": [
+        {
+          "name": "小山丘青醬義大利麵 Basil Pesto Pasta(全素)",
+          "price": 436,
+          "category": "套餐"
+        },
+        {
+          "name": "紅心皇后馬扎瑞拉芝麻葉披薩 Arugula Tomato Cheese Pizza(奶素)",
+          "price": 436,
+          "category": "套餐"
+        },
+        {
+          "name": "糰糰日式咖哩 Japanese Vegetable Curry with Quinoa Rice Balls(五辛素)",
+          "price": 436,
+          "category": "套餐"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/ejyYRtTs/ordering",
+      "fetchedOn": "2026-11-10"
+    },
+    "menuSource": "https://shop.ichefpos.com/store/ejyYRtTs/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "hl-scout-lead-36",
@@ -206928,7 +210516,166 @@
     "imageSource": "https://shop.ichefpos.com/store/0WMHmXGE/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9e3cc517-130d-4b78-9fc7-2741278840c7/bb1a68ae-d302-11eb-a441-0242ac110004.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $500 外送"
+    "deliverySummary": "滿 $500 外送",
+    "menu": {
+      "items": [
+        {
+          "name": "醬香古法蛋",
+          "price": 180,
+          "category": "蛋/豆腐類"
+        },
+        {
+          "name": "鐵板嫩豆腐",
+          "price": 230,
+          "category": "蛋/豆腐類"
+        },
+        {
+          "name": "金莎酥豆腐",
+          "price": 220,
+          "category": "蛋/豆腐類"
+        },
+        {
+          "name": "滑蛋鮮蝦仁",
+          "price": 280,
+          "category": "蛋/豆腐類"
+        },
+        {
+          "name": "麻婆辣豆腐",
+          "price": 180,
+          "category": "蛋/豆腐類"
+        },
+        {
+          "name": "宮保雞丁兒",
+          "price": 280,
+          "category": "雞肉類"
+        },
+        {
+          "name": "泰式椒麻雞",
+          "price": 300,
+          "category": "雞肉類"
+        },
+        {
+          "name": "三杯雞腿肉",
+          "price": 360,
+          "category": "雞肉類"
+        },
+        {
+          "name": "鐵板雞腿排",
+          "price": 320,
+          "category": "雞肉類"
+        },
+        {
+          "name": "糖醋雞丁兒",
+          "price": 260,
+          "category": "雞肉類"
+        },
+        {
+          "name": "蒜泥白豬肉",
+          "price": 220,
+          "category": "豬肉類"
+        },
+        {
+          "name": "五更辣腸旺",
+          "price": 280,
+          "category": "豬肉類"
+        },
+        {
+          "name": "客家手路菜",
+          "price": 280,
+          "category": "豬肉類"
+        },
+        {
+          "name": "香酥炸肥腸",
+          "price": 280,
+          "category": "豬肉類"
+        },
+        {
+          "name": "糖醋香子排",
+          "price": 300,
+          "category": "豬肉類"
+        },
+        {
+          "name": "椒鹽炸子排",
+          "price": 280,
+          "category": "豬肉類"
+        },
+        {
+          "name": "沙茶蒜牛肉",
+          "price": 300,
+          "category": "牛肉類"
+        },
+        {
+          "name": "蔥蒜爆牛肉",
+          "price": 300,
+          "category": "牛肉類"
+        },
+        {
+          "name": "薑絲炒牛肉",
+          "price": 320,
+          "category": "牛肉類"
+        },
+        {
+          "name": "鐵板嫩牛肉",
+          "price": 320,
+          "category": "牛肉類"
+        },
+        {
+          "name": "愛上沙茶羊",
+          "price": 280,
+          "category": "羊肉類"
+        },
+        {
+          "name": "薑絲炒羊肉",
+          "price": 280,
+          "category": "羊肉類"
+        },
+        {
+          "name": "蔥爆香羊肉",
+          "price": 280,
+          "category": "羊肉類"
+        },
+        {
+          "name": "糖醋溜魚片",
+          "price": 300,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "香酥炸鱈魚",
+          "price": 450,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "清蒸鱈魚兒",
+          "price": 420,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "糖醋鱈魚排",
+          "price": 460,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "椒麻香鱸魚",
+          "price": 500,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "泰式香鱸魚",
+          "price": 500,
+          "category": "鮮魚類"
+        },
+        {
+          "name": "香酥炸魚片",
+          "price": 280,
+          "category": "鮮魚類"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/0WMHmXGE/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 67
+    },
+    "menuSource": "https://shop.ichefpos.com/store/0WMHmXGE/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "hl-scout-lead-43",
@@ -207020,7 +210767,166 @@
     "imageSource": "https://shop.ichefpos.com/store/OfLOaGo0/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/d62afd59-8bb8-4baf-a7c8-42993c20aae9/bdc4a086-c0e2-11ed-b996-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $300 免運"
+    "deliverySummary": "滿 $300 免運",
+    "menu": {
+      "items": [
+        {
+          "name": "魔爪能量飲料 Monster（355ml）",
+          "price": 55,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "原萃 日式綠茶（無糖）580ml",
+          "price": 25,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "可口可樂 Coke（罐裝330ml）",
+          "price": 25,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "雪碧 Sprite（罐裝330ml）",
+          "price": 25,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "美粒果－蘋果汁320ml",
+          "price": 20,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "飛想茶-檸檬紅茶 Lemon Tea 300ml",
+          "price": 20,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "洛神花果醬奶酪 Roselle panna cotta",
+          "price": 50,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "特製辣椒醬80g（含大蒜,時價)",
+          "price": 60,
+          "category": "飲料、甜點、其他｜Drinks, Dessert"
+        },
+        {
+          "name": "本日濃湯 Daily soup",
+          "price": 30,
+          "category": "濃湯 Soup"
+        },
+        {
+          "name": "半斤蛤蠣火辣米酒義大利麵(辣度不能調整) white wine with 300g clams and ghost chili pepper pasta",
+          "price": 215,
+          "category": "亞糜特餐 Daily Special"
+        },
+        {
+          "name": "奶油檸檬鮮蝦義大利麵 Creamy Lemon Shrimp Pasta",
+          "price": 200,
+          "category": "亞糜特餐 Daily Special"
+        },
+        {
+          "name": "蒜香健人獨享麵(200g雞柳)lot of chicken pasta(200g chicken tenderloin)",
+          "price": 210,
+          "category": "亞糜特餐 Daily Special"
+        },
+        {
+          "name": "蒜香清炒鮮蔬麵 Garlic Sautéed Vegetable Pasta",
+          "price": 120,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "蒜香清炒嫩雞麵 Garlic Sautéed Chicken Pasta",
+          "price": 140,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "蒜香清炒培根麵 Garlic Sautéed Bacon Pasta",
+          "price": 140,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "蒜香清炒蛤蜊麵 Garlic Sautéed Clams Pasta",
+          "price": 150,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "蒜香清炒鮮蝦麵 Garlic Sautéed Shirmp Pasta",
+          "price": 175,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "蒜香清炒牛柳義大利麵 Garlic Sautéed Beef Pasta",
+          "price": 160,
+          "category": "蒜香清炒 Garlic Sautéed Pasta"
+        },
+        {
+          "name": "白醬鮮蔬義大利麵",
+          "price": 125,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬鮮蔬燉飯",
+          "price": 125,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬培根義大利麵",
+          "price": 145,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬培根燉飯",
+          "price": 145,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬嫩雞義大利麵",
+          "price": 145,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬嫩雞燉飯",
+          "price": 145,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬蛤蠣義大利麵",
+          "price": 155,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬蛤蠣燉飯",
+          "price": 155,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬牛柳義大利麵(含黑胡椒)",
+          "price": 165,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬牛柳燉飯(含黑胡椒)",
+          "price": 165,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬鮮蝦義大利麵",
+          "price": 180,
+          "category": "奶油白醬"
+        },
+        {
+          "name": "白醬鮮蝦燉飯",
+          "price": 180,
+          "category": "奶油白醬"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/OfLOaGo0/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 92
+    },
+    "menuSource": "https://shop.ichefpos.com/store/OfLOaGo0/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "hl-scout-lead-46",
@@ -207540,7 +211446,166 @@
     "imageSource": "https://shop.ichefpos.com/store/wycUH1_S/ordering",
     "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/3f528413-3d1a-4e95-8d5f-917ca23ad68d/66ea177e-ccc3-11eb-9ccc-0242ac110002.jpeg?channel=online-restaurant",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "滿 $150 外送（依距離或地區不同，請先電話確認）"
+    "deliverySummary": "滿 $150 外送（依距離或地區不同，請先電話確認）",
+    "menu": {
+      "items": [
+        {
+          "name": "A.日式小清新餐(蛋奶素)",
+          "price": 105,
+          "category": "蔬食超級套餐"
+        },
+        {
+          "name": "B. 未來重磅漢堡餐",
+          "price": 195,
+          "category": "蔬食超級套餐"
+        },
+        {
+          "name": "蔬-夾蛋吐司",
+          "price": 25,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-起司蛋吐司",
+          "price": 30,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-素鬆蛋吐司",
+          "price": 35,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-芋泥吐司",
+          "price": 40,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-芋泥素鬆吐司",
+          "price": 50,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-玉米蛋吐司",
+          "price": 35,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-蔬果蛋吐司",
+          "price": 35,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-素排蛋吐司",
+          "price": 45,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-素香雞排蛋吐司",
+          "price": 45,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-重磅未來肉吐司",
+          "price": 160,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-泡菜重磅肉吐司",
+          "price": 175,
+          "category": "蔬食吐司"
+        },
+        {
+          "name": "蔬-夾蛋漢堡",
+          "price": 30,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-起司蛋漢堡",
+          "price": 40,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-素鬆蛋漢堡",
+          "price": 40,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-芋泥漢堡",
+          "price": 50,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-芋泥素鬆漢堡",
+          "price": 55,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-玉米蛋漢堡",
+          "price": 40,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-蔬果蛋漢堡",
+          "price": 40,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-素排蛋漢堡",
+          "price": 55,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-素香雞排蛋漢堡",
+          "price": 55,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-重磅未來肉漢堡",
+          "price": 165,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-泡菜重磅肉漢堡",
+          "price": 180,
+          "category": "蔬食漢堡"
+        },
+        {
+          "name": "蔬-素鬆蛋總匯",
+          "price": 50,
+          "category": "蔬食總匯"
+        },
+        {
+          "name": "蔬-玉米蛋總匯",
+          "price": 50,
+          "category": "蔬食總匯"
+        },
+        {
+          "name": "蔬-蔬果蛋總匯",
+          "price": 50,
+          "category": "蔬食總匯"
+        },
+        {
+          "name": "蔬-素排蛋總匯",
+          "price": 60,
+          "category": "蔬食總匯"
+        },
+        {
+          "name": "蔬-素香雞排蛋總匯",
+          "price": 60,
+          "category": "蔬食總匯"
+        },
+        {
+          "name": "蔬-重磅未來肉總匯",
+          "price": 175,
+          "category": "蔬食總匯"
+        }
+      ],
+      "source": "https://shop.ichefpos.com/store/wycUH1_S/ordering",
+      "fetchedOn": "2026-11-10",
+      "total": 175
+    },
+    "menuSource": "https://shop.ichefpos.com/store/wycUH1_S/ordering",
+    "menuCheckedAt": "2026-11-10"
   },
   {
     "id": "tt-scout-lead-6",
