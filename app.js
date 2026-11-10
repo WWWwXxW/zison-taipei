@@ -801,6 +801,10 @@
 
   /** Shops removed on 2026-10-22 (no verifiable source, or closed) -> their district listing. */
   var HIDDEN_SHOPS = {
+    /* 2026-11-10 closed (official ordering page empty) */
+    'scout-b5-177': 'district/nangang.html',
+    /* 2026-11-10 merged duplicates -> kept shop page */
+    'scout-b1-2': 'shop/daan-new-003.html',
     /* 2026-11-05 merged duplicates -> kept shop page */
     'dbd-609509': 'shop/cg-84.html',
     'scout-b10-209': 'shop/dbd-240190.html',

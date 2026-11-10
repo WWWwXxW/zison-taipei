@@ -1033,6 +1033,9 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 .cta-btns{display:flex;gap:8px}
 .cta-btn{flex:1;display:flex;align-items:center;justify-content:center;min-height:46px;border-radius:999px;font-size:17px;font-weight:700;text-decoration:none!important;border:1px solid var(--accent);color:var(--accent);background:#fffdf7}
 .cta-btns .cta-btn:last-child{background:var(--accent);color:#fffdf7}
+/* 2026-11-10 訂便當網店（看菜單＝第三方菜單頁、不能下單）：固定列改成「打電話訂」實心、「看菜單」外框，與店頁內按鈕一致 */
+.cta-btns:has(.cta-order[href*="dinbendon.net"]) .cta-tel{background:var(--accent);color:#fffdf7}
+.cta-btns .cta-btn.cta-order[href*="dinbendon.net"]{background:#fffdf7;color:var(--accent)}
 body.page-detail{padding-bottom:104px}
 }
 
