@@ -554566,5 +554566,564 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=628787",
     "menuCheckedAt": "2026-11-09"
+  },
+  {
+    "id": "dbd-531820",
+    "slug": "梁社漢排骨南港興華路",
+    "name": "梁社漢排骨（南港興華路）",
+    "city": "台北市",
+    "district": "南港區",
+    "address": "興華路90號",
+    "cuisine": "排骨飯、便當、中式",
+    "cuisineTags": [
+      "排骨飯",
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2783-6445",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=531820",
+    "evidence": "訂便當網店家頁「梁社漢排骨」地址 台北市南港區興華路90號、電話 27836445；外送範圍欄位 台北市；店家說明寫「滿500可外送」（2026/10/27 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=531820；Checked: 2026-11-10",
+    "checkedAt": "2026-11-10",
+    "chain": true,
+    "featured": false,
+    "origin": "dbd-daily-20261110",
+    "confidence": "medium",
+    "deliverySummary": "滿500可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=531820",
+    "deliveryCheckedAt": "2026-11-10",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=531820",
+    "menuCheckedAt": "2026-11-10",
+    "menu": {
+      "items": [
+        {
+          "name": "番茄牛三寶飯",
+          "price": 195,
+          "category": "便當"
+        },
+        {
+          "name": "橙汁排骨冬粉飯",
+          "price": 150,
+          "category": "便當"
+        },
+        {
+          "name": "椒麻雞飯",
+          "price": 145,
+          "category": "便當"
+        },
+        {
+          "name": "黃金塔塔鱈魚排飯",
+          "price": 118,
+          "category": "便當"
+        },
+        {
+          "name": "炸排骨飯",
+          "price": 125,
+          "category": "便當"
+        },
+        {
+          "name": "炸雞腿飯",
+          "price": 135,
+          "category": "便當"
+        },
+        {
+          "name": "炸紅糟肉飯",
+          "price": 105,
+          "category": "便當"
+        },
+        {
+          "name": "椒鹽雞塊飯",
+          "price": 99,
+          "category": "便當"
+        },
+        {
+          "name": "滷排骨飯",
+          "price": 125,
+          "category": "便當"
+        },
+        {
+          "name": "玫瑰油雞腿飯",
+          "price": 135,
+          "category": "便當"
+        },
+        {
+          "name": "椒鹽菲力排飯",
+          "price": 115,
+          "category": "便當"
+        },
+        {
+          "name": "秘醬雞菲力排飯",
+          "price": 115,
+          "category": "便當"
+        },
+        {
+          "name": "橙汁排骨",
+          "price": 120,
+          "category": "單點"
+        },
+        {
+          "name": "椒麻雞",
+          "price": 115,
+          "category": "單點"
+        },
+        {
+          "name": "炸排骨",
+          "price": 95,
+          "category": "單點"
+        },
+        {
+          "name": "香酥雞腿",
+          "price": 105,
+          "category": "單點"
+        },
+        {
+          "name": "黃金塔塔鱈魚排",
+          "price": 88,
+          "category": "單點"
+        },
+        {
+          "name": "紅糟肉",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "滷排骨",
+          "price": 95,
+          "category": "單點"
+        },
+        {
+          "name": "玫瑰油雞腿",
+          "price": 105,
+          "category": "單點"
+        },
+        {
+          "name": "椒鹽雞塊",
+          "price": 69,
+          "category": "單點"
+        },
+        {
+          "name": "椒鹽菲力排(3根)",
+          "price": 85,
+          "category": "單點"
+        },
+        {
+          "name": "秘醬雞菲力排(3根)",
+          "price": 85,
+          "category": "單點"
+        },
+        {
+          "name": "白飯",
+          "price": 15,
+          "category": "小菜"
+        },
+        {
+          "name": "燙青菜",
+          "price": 35,
+          "category": "小菜"
+        },
+        {
+          "name": "NEW椒麻皮蛋豆腐",
+          "price": 50,
+          "category": "小菜"
+        },
+        {
+          "name": "皮蛋嫩豆腐",
+          "price": 45,
+          "category": "小菜"
+        },
+        {
+          "name": "NEW柚香蘿蔔",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "黃金炸豆腐",
+          "price": 35,
+          "category": "小菜"
+        },
+        {
+          "name": "黃金泡菜",
+          "price": 35,
+          "category": "小菜"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=531820",
+      "fetchedOn": "2026-11-10"
+    },
+    "lat": 25.0561133,
+    "lng": 121.6055562,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送"
+  },
+  {
+    "id": "dbd-170649",
+    "slug": "八方雲集南港研究院店",
+    "name": "八方雲集（南港研究院店）",
+    "city": "台北市",
+    "district": "南港區",
+    "address": "研究院路二段19號",
+    "cuisine": "水餃、鍋貼、中式",
+    "cuisineTags": [
+      "中式",
+      "麵食"
+    ],
+    "phone": "02-2783-6079",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=170649",
+    "evidence": "訂便當網店家頁「八方雲集(南港研究院店)」地址 台北市南港區研究院路二段19號、電話 02-2783-6079；外送範圍欄位 台北市南港區、台北市；店家說明寫「滿$300可外送」（2026/09/08 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=170649；Checked: 2026-11-10",
+    "checkedAt": "2026-11-10",
+    "chain": true,
+    "featured": false,
+    "origin": "dbd-daily-20261110",
+    "confidence": "medium",
+    "deliverySummary": "滿$300可外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=170649",
+    "deliveryCheckedAt": "2026-11-10",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=170649",
+    "menuCheckedAt": "2026-11-10",
+    "menu": {
+      "items": [
+        {
+          "name": "A招牌水餃",
+          "price": 7,
+          "category": "水餃"
+        },
+        {
+          "name": "B韭菜水餃",
+          "price": 7,
+          "category": "水餃"
+        },
+        {
+          "name": "C韓式辣味水餃",
+          "price": 7,
+          "category": "水餃"
+        },
+        {
+          "name": "K咖哩雞水餃",
+          "price": 7,
+          "category": "水餃"
+        },
+        {
+          "name": "G玉米水餃",
+          "price": 7,
+          "category": "水餃"
+        },
+        {
+          "name": "E新蔬食水餃",
+          "price": 7.5,
+          "category": "水餃"
+        },
+        {
+          "name": "D鮮蝦水餃",
+          "price": 10.5,
+          "category": "水餃"
+        },
+        {
+          "name": "招牌鍋貼",
+          "price": 7,
+          "category": "鍋貼"
+        },
+        {
+          "name": "韭菜鍋貼",
+          "price": 7,
+          "category": "鍋貼"
+        },
+        {
+          "name": "韓式辣味鍋貼",
+          "price": 7,
+          "category": "鍋貼"
+        },
+        {
+          "name": "咖哩G鍋貼",
+          "price": 7,
+          "category": "鍋貼"
+        },
+        {
+          "name": "玉米鍋貼",
+          "price": 7,
+          "category": "鍋貼"
+        },
+        {
+          "name": "新蔬食鍋貼",
+          "price": 7.5,
+          "category": "鍋貼"
+        },
+        {
+          "name": "酸辣湯餃",
+          "price": 90,
+          "category": "湯餃類"
+        },
+        {
+          "name": "玉米湯餃",
+          "price": 90,
+          "category": "湯餃類"
+        },
+        {
+          "name": "紅燒牛湯餃",
+          "price": 120,
+          "category": "湯餃類"
+        },
+        {
+          "name": "麻辣牛湯餃",
+          "price": 125,
+          "category": "湯餃類"
+        },
+        {
+          "name": "酸辣湯湯麵",
+          "price": 70,
+          "category": "湯餃類"
+        },
+        {
+          "name": "酸辣湯",
+          "price": 35,
+          "category": "湯類"
+        },
+        {
+          "name": "玉米濃湯",
+          "price": 35,
+          "category": "湯類"
+        },
+        {
+          "name": "旗魚花枝丸湯",
+          "price": 35,
+          "category": "湯類"
+        },
+        {
+          "name": "蕈菇湯",
+          "price": 35,
+          "category": "湯類"
+        },
+        {
+          "name": "蘿蔔湯",
+          "price": 35,
+          "category": "湯類"
+        },
+        {
+          "name": "珍珠餛飩湯",
+          "price": 50,
+          "category": "湯類"
+        },
+        {
+          "name": "菜肉大餛飩湯",
+          "price": 60,
+          "category": "湯類"
+        },
+        {
+          "name": "豆漿(冰)",
+          "price": 20,
+          "category": "飲品"
+        },
+        {
+          "name": "黑豆漿(冰)",
+          "price": 20,
+          "category": "飲品"
+        },
+        {
+          "name": "古早味乾麵",
+          "price": 45,
+          "category": "乾麵"
+        },
+        {
+          "name": "麻將乾麵",
+          "price": 55,
+          "category": "乾麵"
+        },
+        {
+          "name": "招牌乾麵(微辣)",
+          "price": 55,
+          "category": "乾麵"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=170649",
+      "fetchedOn": "2026-11-10"
+    },
+    "lat": 25.046444,
+    "lng": 121.61545699999999,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿 $300 外送"
+  },
+  {
+    "id": "dbd-5",
+    "slug": "國王便當",
+    "name": "國王便當",
+    "city": "台北市",
+    "district": "南港區",
+    "address": "研究院路二段9-2號",
+    "cuisine": "便當、中式",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2788-2130、02-2788-2197",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=5",
+    "evidence": "訂便當網店家頁「國王便當」地址 台北市南港區研究院路二段9-2號、電話 2788-2130 02 2788 2197；外送範圍欄位 台北市南港區、中研院；店家說明寫「1)訂餐前要問老闆當日的新鮮餐及特餐\n2)中午12點前送餐快,可以常常訂購\n3)晚上不外送」（2025/12/16 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=5；Checked: 2026-11-10",
+    "checkedAt": "2026-11-10",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261110",
+    "confidence": "medium",
+    "deliverySummary": "中午12點前送餐快，可以常常訂購；晚上不外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=5",
+    "deliveryCheckedAt": "2026-11-10",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=5",
+    "menuCheckedAt": "2026-11-10",
+    "menu": {
+      "items": [
+        {
+          "name": "國王雞腿飯",
+          "price": 120
+        },
+        {
+          "name": "香酥雞排飯",
+          "price": 105
+        },
+        {
+          "name": "紅槽五花肉飯",
+          "price": 105
+        },
+        {
+          "name": "香滷扣肉",
+          "price": 105
+        },
+        {
+          "name": "蔥燒豬排飯",
+          "price": 100
+        },
+        {
+          "name": "鯖魚飯",
+          "price": 100
+        },
+        {
+          "name": "泰式無骨雞排飯",
+          "price": 90
+        },
+        {
+          "name": "香滷棒腿飯",
+          "price": 90
+        },
+        {
+          "name": "椒麻雞飯",
+          "price": 90
+        },
+        {
+          "name": "家常滷肉飯(3樣菜)",
+          "price": 80
+        },
+        {
+          "name": "方便素飯+滷汁(5樣菜)",
+          "price": 80
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=5",
+      "fetchedOn": "2026-11-10"
+    },
+    "lat": 25.046711,
+    "lng": 121.615558
+  },
+  {
+    "id": "dbd-584208",
+    "slug": "田軒食務所",
+    "name": "田軒食務所",
+    "city": "台北市",
+    "district": "南港區",
+    "address": "研究院路二段70巷12號",
+    "cuisine": "燒肉飯、便當",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "0976-362-519",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=584208",
+    "evidence": "訂便當網店家頁「田軒食務所」地址 台北市南港區研究院路二段70巷12號、電話 0976-362-519；外送範圍欄位 台北市南港區；店家說明寫「中研院滿五個外送，\n其他地區請洽詢老闆。」（2024/09/20 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=584208；Checked: 2026-11-10",
+    "checkedAt": "2026-11-10",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261110",
+    "confidence": "medium",
+    "deliverySummary": "中研院滿五個外送，其他地區請洽詢老闆。",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=584208",
+    "deliveryCheckedAt": "2026-11-10",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=584208",
+    "menuCheckedAt": "2026-11-10",
+    "menu": {
+      "items": [
+        {
+          "name": "01.火烤牛（飯／麵）",
+          "price": "120／120",
+          "category": "烤肉飯/麵系列"
+        },
+        {
+          "name": "02.鐵板羊（飯／麵）",
+          "price": "120／120",
+          "category": "烤肉飯/麵系列"
+        },
+        {
+          "name": "03.五花豬（飯／麵）",
+          "price": "110／110",
+          "category": "烤肉飯/麵系列"
+        },
+        {
+          "name": "04.放山雞（飯／麵）",
+          "price": "110／110",
+          "category": "烤肉飯/麵系列"
+        },
+        {
+          "name": "05.牛飯",
+          "price": 110,
+          "category": "壽喜燒系列"
+        },
+        {
+          "name": "06.羊飯",
+          "price": 110,
+          "category": "壽喜燒系列"
+        },
+        {
+          "name": "07.豬飯",
+          "price": 100,
+          "category": "壽喜燒系列"
+        },
+        {
+          "name": "08.雞飯",
+          "price": 100,
+          "category": "壽喜燒系列"
+        },
+        {
+          "name": "09.火山牛",
+          "price": 110,
+          "category": "醬燒馬鈴薯燉肉系列"
+        },
+        {
+          "name": "10.高原羊",
+          "price": 110,
+          "category": "醬燒馬鈴薯燉肉系列"
+        },
+        {
+          "name": "11.貪吃豬",
+          "price": 100,
+          "category": "醬燒馬鈴薯燉肉系列"
+        },
+        {
+          "name": "12.電子雞",
+          "price": 100,
+          "category": "醬燒馬鈴薯燉肉系列"
+        },
+        {
+          "name": "13.椒麻婆豆腐飯",
+          "price": 90,
+          "category": "粗飽系列"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=584208",
+      "fetchedOn": "2026-11-10"
+    },
+    "lat": 25.0455327,
+    "lng": 121.614583,
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "中研院滿 5 個外送"
   }
 ]
