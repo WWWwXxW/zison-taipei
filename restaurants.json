@@ -2883,10 +2883,6 @@
     "deliveryMinValue": 200,
     "deliveryMinLabel": "滿 $200",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/cg-45.webp",
-    "imageSource": "https://shop.ichefpos.com/store/RrYgvics/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/c1ded77a-f2e9-4c79-9bad-a6e674131f95/25f5c1b2-5628-11f0-8e7b-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿 $200 外送",
     "radiusKm": 8
   },
@@ -15103,7 +15099,10 @@
       "total": 31
     },
     "menuSource": "https://shop.ichefpos.com/store/D8ZTTWF1/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "大台北地區皆可外送；免運門檻：中山區 松山區 信義區 內湖區 大安區 滿1000／中正區 萬華區 大同區 滿1200／文山區 士林區 北投區 南港區 滿1500；以上未達數量依Lalamove運費收取；外送請外送日期前1-2天私訊我們",
+    "deliverySource": "https://shop.ichefpos.com/store/D8ZTTWF1/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-b3-74",
@@ -16188,7 +16187,10 @@
       "total": 65
     },
     "menuSource": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
-    "menuCheckedAt": "2026-11-10"
+    "menuCheckedAt": "2026-11-10",
+    "deliverySummary": "外送訂單請直接加官方LINE或是電話聯繫。(配合LALAMOVE外送 外送費由顧客支付)",
+    "deliverySource": "https://shop.ichefpos.com/store/DAVV7C0F/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-b4-81",
@@ -18742,9 +18744,9 @@
     "address": "內湖路一段623號",
     "evidence": "iCHEF：外送說明（現金外送常選外帶並備註地址；低消約 NT$200，依距離調整）",
     "source": "iCHEF; footinder 交叉",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 200,
+    "deliveryMinLabel": "外送最低 $200",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b4-96.webp",
     "imageSource": "https://shop.ichefpos.com/store/LKd-z5N5/ordering",
@@ -18908,7 +18910,10 @@
       "total": 146
     },
     "menuSource": "https://shop.ichefpos.com/store/LKd-z5N5/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "外送金額最低200元（金額依照遠近距離等因素再作調整）",
+    "deliverySource": "https://shop.ichefpos.com/store/LKd-z5N5/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-b4-97",
@@ -49525,9 +49530,9 @@
     "orderUrl": "https://page.line.me/@139fgvjo",
     "phone": "02-2651-5559",
     "address": "玉成街14-8號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "3 公里內 5 個外送",
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b8-177.webp",
     "imageSource": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
@@ -49665,7 +49670,10 @@
       "fetchedOn": "2026-11-10"
     },
     "menuSource": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
-    "menuCheckedAt": "2026-11-10"
+    "menuCheckedAt": "2026-11-10",
+    "deliverySummary": "3公里內5個餐盒／3～3.9公里內10個餐盒／4～4.9公里15個餐盒／5～5.9公里20個餐盒／6公里以上至少需25個餐盒；外送建議提前至少一天預訂",
+    "deliverySource": "https://shop.ichefpos.com/store/fDXHlM2V/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-b8-178",
@@ -52866,7 +52874,10 @@
       "total": 109
     },
     "menuSource": "https://shop.ichefpos.com/store/BE6hBvd5/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "外送服務區域：士林&天母&石牌。",
+    "deliverySource": "https://shop.ichefpos.com/store/BE6hBvd5/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-b11-238",
@@ -60922,10 +60933,6 @@
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 鍋",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-330.webp",
-    "imageSource": "https://shop.ichefpos.com/store/D_R43BBp/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f020ae1c-c3b0-4faf-9f17-79d886cc5a2f/9e45189a-c190-11ed-b619-0242ac110003.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "5 鍋以上就外送"
   },
   {
@@ -64834,10 +64841,6 @@
     "deliveryMinValue": 300,
     "deliveryMinLabel": "滿 $300",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-406.webp",
-    "imageSource": "https://shop.ichefpos.com/store/nvX5HnGo/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/76e23fd2-3796-4bf9-bd9b-b4f248be8a4f/f072c520-de98-11ed-a788-0242ac110005.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿 $300 外送",
     "officialUrl": "https://www.facebook.com/JinXianYiPinXiaJuanDianNeiHu737xiang/"
   },
@@ -69611,7 +69614,10 @@
       "total": 56
     },
     "menuSource": "https://shop.ichefpos.com/store/3Pty6OjA/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "台北市10公里內外送滿千免運費",
+    "deliverySource": "https://shop.ichefpos.com/store/3Pty6OjA/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "scout-lead-515",
@@ -71274,7 +71280,10 @@
       "total": 112
     },
     "menuSource": "https://shop.ichefpos.com/store/jCezc8Av/ordering",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "外送費：中永和地區皆為150，超過每公里增加15元，實際費用會以系統計算為主，再以電話通知。",
+    "deliverySource": "https://shop.ichefpos.com/store/jCezc8Av/ordering",
+    "deliveryCheckedAt": "2026-11-11"
   },
   {
     "id": "nt-scout-lead-15",
@@ -147797,10 +147806,6 @@
     "lineUrl": null,
     "phone": "04-2376-4576",
     "address": "西區忠明南路256號",
-    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-211.webp",
-    "imageSource": "https://shop.ichefpos.com/store/oDpuX14h/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/b3a24b50-2084-42f5-b48f-4461eab8a73d/3b264b48-bd2e-11eb-b2fa-0242ac110005.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "2 份以上就外送"
   },
   {
@@ -196054,10 +196059,6 @@
     "source": "toplocalplaces FB 鏡像；needmorefood／opengovtw",
     "phone": "05-6938633",
     "address": "麥津村中興路28之1號",
-    "imageUrl": "https://zisong.tw/assets/shops/yl-scout-lead-40.webp",
-    "imageSource": "https://shop.ichefpos.com/store/cIfzPsjv/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/36205d67-e921-4ebc-9931-be70e2585cb3/9238e9de-cbab-11ee-9185-0242ac110003.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿 $1000 外送（依距離或地區不同，請先電話確認）"
   },
   {
@@ -197755,12 +197756,7 @@
     "source": "dudu2.tw 2021-05；hotpot.footinder／目錄",
     "phone": "049-298-5393",
     "address": "中山路三段173號",
-    "deliverySummary": "2 鍋以上就外送",
-    "imageUrl": "https://zisong.tw/assets/shops/nto-scout-lead-32-1105.webp",
-    "imageSource": "https://shop.ichefpos.com/store/D_R43BBp/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/f020ae1c-c3b0-4faf-9f17-79d886cc5a2f/64e9afc8-c18d-11ed-b610-0242ac110003.jpeg",
-    "imageCheckedAt": "2026-11-05",
-    "imageKind": "brand"
+    "deliverySummary": "2 鍋以上就外送"
   },
   {
     "id": "nto-scout-lead-33",
@@ -211232,11 +211228,7 @@
     "evidence": "懶人包店卡明示：「市區滿三百即可免費外送」",
     "source": "zztaitung.com/19295/take-out",
     "phone": "089-333757",
-    "address": "台東市更生路148巷33號",
-    "imageUrl": "https://zisong.tw/assets/shops/tt-scout-lead-11.webp",
-    "imageSource": "https://shop.ichefpos.com/store/OMXd0y8k/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/7b9acd9c-f347-443b-a9e6-61861c6060d5/a0610044-d5c3-11ec-a792-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21"
+    "address": "台東市更生路148巷33號"
   },
   {
     "id": "tt-scout-lead-12",
@@ -231530,10 +231522,6 @@
     "address": "保平路9號",
     "phone": "0986-997-079",
     "hours": "10:30–21:00",
-    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-20260928-002.webp",
-    "imageSource": "https://shop.ichefpos.com/store/5Wcb_6xS/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/59990a21-f106-4b18-aba5-51fb4a3490a3/b76f3b4a-a4d4-11ec-8799-0242ac110003.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿5個餐盒"
   },
   {
