@@ -6329,7 +6329,7 @@
   {
     "id": "scout-b1-1",
     "slug": "蘇杭餐廳",
-    "name": "蘇杭餐廳",
+    "name": "蘇杭餐廳（濟南店）",
     "district": "中正區",
     "cuisine": "江浙／上海",
     "cuisineTags": [
@@ -6337,13 +6337,13 @@
       "上海"
     ],
     "hours": "分店略異",
-    "evidence": "官方 Oddle + 品牌官網 外送到府。電話取自蘇杭餐廳 Oddle 官方訂餐頁 JSON-LD telephone，2026-11-07 核對。",
+    "evidence": "官方 Oddle 訂餐頁（suhung.oddle.me）門市資料：蘇杭-濟南店，台北市中正區濟南路一段2-1號，電話 +886 2 2396 3186，開放外送與自取；2026-11-11 核對。（原誤植天母振興店電話 02-2828-6828，該店已是 蘇杭365 另一筆）",
     "source": "米其林餐盤",
     "chain": false,
     "featured": false,
     "origin": "scout",
     "confidence": "suhung",
-    "orderUrl": "https://suhung.oddle.me/en_TW",
+    "orderUrl": "https://suhung.oddle.me/zh_TW",
     "deliveryMinType": "other",
     "deliveryMinValue": null,
     "deliveryMinLabel": "近距離不限金額",
@@ -6511,11 +6511,12 @@
     "imageSource": "https://suhung.oddle.me/en_TW",
     "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/15e78b.jpg",
     "imageCheckedAt": "2026-10-29",
-    "phone": "02-2828-6828",
-    "checkedAt": "2026-11-07",
+    "phone": "02-2396-3186",
+    "checkedAt": "2026-11-11",
     "deliverySummary": "官方 Oddle 訂餐頁：1公里 不限金額、運費 $85、滿 $1,000 免運；最遠 5公里 最低消費 $999、運費 $135、滿 $1,000 免運（輸入地址判定能否送達）",
     "deliverySource": "https://suhung.oddle.me/zh_TW",
-    "deliveryCheckedAt": "2026-11-09"
+    "deliveryCheckedAt": "2026-11-09",
+    "address": "濟南路一段2-1號"
   },
   {
     "id": "scout-b1-3",
