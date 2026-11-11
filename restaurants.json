@@ -555257,5 +555257,560 @@
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "中研院滿 5 個外送"
+  },
+  {
+    "id": "dbd-595162",
+    "slug": "瑞哥雞肉飯南海",
+    "name": "瑞哥雞肉飯（南海）",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "南海路34號",
+    "cuisine": "雞肉飯、便當",
+    "cuisineTags": [
+      "雞肉飯",
+      "便當"
+    ],
+    "phone": "02-2396-1255",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=595162",
+    "evidence": "訂便當網店家頁「瑞哥雞肉飯(南海)」地址 台北市中正區南海路34號、電話 02 2396 1255；外送範圍欄位 台北市；店家說明寫「1. 600外送\n2. 2026/03 價格」（2026/04/02 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=595162；Checked: 2026-11-11",
+    "checkedAt": "2026-11-11",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261111",
+    "confidence": "medium",
+    "deliverySummary": "600外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=595162",
+    "deliveryCheckedAt": "2026-11-11",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 外送",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=595162",
+    "menuCheckedAt": "2026-11-11",
+    "menu": {
+      "items": [
+        {
+          "name": "好吃嫩雞飯",
+          "price": 130,
+          "category": "必點 (兩種青菜、荷包蛋)"
+        },
+        {
+          "name": "好吃烤雞飯",
+          "price": 140,
+          "category": "必點 (兩種青菜、荷包蛋)"
+        },
+        {
+          "name": "雙蛋嫩雞飯",
+          "price": 140,
+          "category": "老饕點法 (兩種青菜、荷包蛋)"
+        },
+        {
+          "name": "雙倍嫩雞飯",
+          "price": 190,
+          "category": "老饕點法 (兩種青菜、荷包蛋)"
+        },
+        {
+          "name": "嫩烤雙拼飯",
+          "price": 200,
+          "category": "老饕點法 (兩種青菜、荷包蛋)"
+        },
+        {
+          "name": "貢丸一顆",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "荷包蛋",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "雞油飯",
+          "price": 25,
+          "category": "單點"
+        },
+        {
+          "name": "嫩雞一份",
+          "price": 75,
+          "category": "單點"
+        },
+        {
+          "name": "烤雞一份",
+          "price": 85,
+          "category": "單點"
+        },
+        {
+          "name": "蘿蔔湯",
+          "price": 40,
+          "category": "湯"
+        },
+        {
+          "name": "貢丸湯",
+          "price": 40,
+          "category": "湯"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=595162",
+      "fetchedOn": "2026-11-11"
+    },
+    "lat": 25.0322066,
+    "lng": 121.5159781
+  },
+  {
+    "id": "dbd-437834",
+    "slug": "吉野烤肉飯-公園路",
+    "name": "吉野烤肉飯",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "公園路20巷8號",
+    "cuisine": "烤肉飯、便當",
+    "cuisineTags": [
+      "烤肉飯",
+      "便當"
+    ],
+    "phone": "02-2371-0179",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=437834",
+    "evidence": "訂便當網店家頁「吉野烤肉飯」地址 台北市中正區公園路20巷8號、電話 02 2371 0179；外送範圍欄位 台北市；店家說明寫「10個(不含素)才送~~假日休」（2025/02/06 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=437834；Checked: 2026-11-11",
+    "checkedAt": "2026-11-11",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261111",
+    "confidence": "medium",
+    "deliverySummary": "10個(不含素)才送~~假日休",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=437834",
+    "deliveryCheckedAt": "2026-11-11",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "10 個（不含素）才送",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=437834",
+    "menuCheckedAt": "2026-11-11",
+    "menu": {
+      "items": [
+        {
+          "name": "烤肉飯",
+          "price": 90,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤排骨飯",
+          "price": 95,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤五花肉飯",
+          "price": 95,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤雞排飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤雞柳飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤雞腿飯",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "烤豬排飯",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "黑胡椒排骨飯",
+          "price": 95,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "黑胡椒雞排飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "黑胡椒雞柳飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "黑胡椒雞腿飯",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香酥魚排飯",
+          "price": 95,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香酥排骨飯",
+          "price": 95,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香酥雞排飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香酥雞柳飯",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香酥雞腿飯",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "素食",
+          "price": 90,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "菜飯",
+          "price": 65,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "雞腿",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "豬排",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "雞柳",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "雞排",
+          "price": 70,
+          "category": "單點"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=437834",
+      "fetchedOn": "2026-11-11"
+    },
+    "lat": 25.0451879,
+    "lng": 121.5166945
+  },
+  {
+    "id": "dbd-508956",
+    "slug": "來喫飯低卡健康餐盒中正店",
+    "name": "來喫飯低卡健康餐盒（中正店）",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "中華路一段91巷9號",
+    "cuisine": "健康餐盒、低卡便當",
+    "cuisineTags": [
+      "健康餐盒",
+      "便當"
+    ],
+    "phone": "02-2388-4955",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=508956",
+    "evidence": "訂便當網店家頁「來喫飯低卡健康餐盒（中正店）」地址 台北市中正區中華路一段91巷9號、電話 02 2388 4955；外送範圍欄位 台北市；店家說明寫「外送免運：\n1 KM(5個)\n1.5~2.5 KM (10~15個)\n3~3.5 KM以上(20~25個)」（2024/01/03 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=508956；Checked: 2026-11-11",
+    "checkedAt": "2026-11-11",
+    "chain": true,
+    "featured": false,
+    "origin": "dbd-daily-20261111",
+    "confidence": "medium",
+    "deliverySummary": "外送免運：1 KM(5個)／1.5~2.5 KM (10~15個)／3~3.5 KM以上(20~25個)",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=508956",
+    "deliveryCheckedAt": "2026-11-11",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "1 公里內 5 個外送",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=508956",
+    "menuCheckedAt": "2026-11-11",
+    "menu": {
+      "items": [
+        {
+          "name": "泰式手撕雞",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "紐約街頭雞佐白醬",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "來喫香雞絲",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "蒜香椒鹽豬五花",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "越式嫩切豬排",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "開胃蒜泥白肉",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "活力蔬食",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "限量夏日沙拉碗",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "意式番茄雞",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "蔥油去骨雞腿",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "泰式打拋豬",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "頂級奔烤牛肉",
+          "price": 110,
+          "category": "___UNDEFINED___"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=508956",
+      "fetchedOn": "2026-11-11"
+    },
+    "lat": 25.0379128,
+    "lng": 121.5079074
+  },
+  {
+    "id": "dbd-559851",
+    "slug": "蘭庭川菜館中午便當",
+    "name": "蘭庭川菜館中午便當",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "武昌街一段16巷13號",
+    "cuisine": "川菜便當、中式",
+    "cuisineTags": [
+      "便當",
+      "川菜",
+      "中式"
+    ],
+    "phone": "02-2331-7298",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=559851",
+    "evidence": "訂便當網店家頁「蘭庭川菜館中午便當」地址 台北市中正區武昌街一段16巷13號、電話 02 2331 7298；外送範圍欄位 台北市；店家說明寫「中正紀念堂附近10個外送」（2024/01/15 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=559851；Checked: 2026-11-11",
+    "checkedAt": "2026-11-11",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261111",
+    "confidence": "medium",
+    "deliverySummary": "中正紀念堂附近10個外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=559851",
+    "deliveryCheckedAt": "2026-11-11",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "中正紀念堂附近 10 個外送",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=559851",
+    "menuCheckedAt": "2026-11-11",
+    "menu": {
+      "items": [
+        {
+          "name": "蔥爆肉絲",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "宮保雞丁",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "乾煎鯖魚",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "香炸豬排",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "打拋豬",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "洋蔥肉片",
+          "price": 120,
+          "category": "___UNDEFINED___"
+        },
+        {
+          "name": "炒飯(肉絲、雞丁、牛肉、蝦仁/備註選二)",
+          "price": 100,
+          "category": "___UNDEFINED___"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=559851",
+      "fetchedOn": "2026-11-11"
+    },
+    "lat": 25.0432336,
+    "lng": 121.5126064
+  },
+  {
+    "id": "dbd-617917",
+    "slug": "村長便當站前店",
+    "name": "村長便當（站前店）",
+    "city": "台北市",
+    "district": "中正區",
+    "address": "南陽街13號",
+    "cuisine": "便當、麵食",
+    "cuisineTags": [
+      "便當",
+      "麵食"
+    ],
+    "phone": "02-2370-0111",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=617917",
+    "evidence": "訂便當網店家頁「村長便當-站前店」地址 台北市中正區南陽街13號、電話 02-2370-0111；外送範圍欄位 要問老闆、台北市；店家說明沒寫外送條件（2026/06/26 更新）。",
+    "source": "https://www.dinbendon.net/do/idine?shop=617917；Checked: 2026-11-11",
+    "checkedAt": "2026-11-11",
+    "chain": true,
+    "featured": false,
+    "origin": "dbd-daily-20261111",
+    "confidence": "medium",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=617917",
+    "menuCheckedAt": "2026-11-11",
+    "menu": {
+      "items": [
+        {
+          "name": "120村長商業餐",
+          "price": 120,
+          "category": "商業餐"
+        },
+        {
+          "name": "100村長商業餐",
+          "price": 100,
+          "category": "商業餐"
+        },
+        {
+          "name": "村長烤肉飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "酥烤鱸魚飯",
+          "price": 155,
+          "category": "便當"
+        },
+        {
+          "name": "牛肉壽喜燒丼飯",
+          "price": 135,
+          "category": "便當"
+        },
+        {
+          "name": "村長招牌雞腿飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "黃金雞腿飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "嫩蒸雞柳飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "豬肉壽喜燒丼飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "蒲燒鯛魚飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "厚切鮭魚飯",
+          "price": 200,
+          "category": "便當"
+        },
+        {
+          "name": "大滿足海三寶(鮭魚、鱸魚、星鰻)",
+          "price": 350,
+          "category": "便當"
+        },
+        {
+          "name": "星鰻飯",
+          "price": 195,
+          "category": "便當"
+        },
+        {
+          "name": "六隻蝦蝦飯",
+          "price": 170,
+          "category": "便當"
+        },
+        {
+          "name": "蝦蝦雞柳飯",
+          "price": 150,
+          "category": "便當"
+        },
+        {
+          "name": "讚岐烏龍麵(素)",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "無飯豆腐蛋白餐",
+          "price": 170,
+          "category": "便當"
+        },
+        {
+          "name": "烤肉雙拼",
+          "price": 180,
+          "category": "雙拼便當"
+        },
+        {
+          "name": "招牌雞腿雙拼",
+          "price": 180,
+          "category": "雙拼便當"
+        },
+        {
+          "name": "牛肉壽喜燒雙拼",
+          "price": 180,
+          "category": "雙拼便當"
+        },
+        {
+          "name": "\"飯+配菜\"換\"讚岐烏龍麵\"",
+          "price": 30,
+          "category": "換烏龍麵請加選以下"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=617917",
+      "fetchedOn": "2026-11-11"
+    },
+    "lat": 25.0449919,
+    "lng": 121.5162658
   }
 ]
