@@ -801,6 +801,8 @@
 
   /** Shops removed on 2026-10-22 (no verifiable source, or closed) -> their district listing. */
   var HIDDEN_SHOPS = {
+    /* 2026-11-07 hidden pickup-only */
+    'ch-scout-lead-10': 'district/changhua-city.html',
     /* 2026-11-10 closed (official ordering page empty) */
     'scout-b5-177': 'district/nangang.html',
     /* 2026-11-10 merged duplicates -> kept shop page */
