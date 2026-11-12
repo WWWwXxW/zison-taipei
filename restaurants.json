@@ -65367,10 +65367,6 @@
     "deliveryMinValue": 700,
     "deliveryMinLabel": "滿 $700",
     "city": "台北市",
-    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-426.webp",
-    "imageSource": "https://www.instagram.com/p/Cys0kqgJqjb/",
-    "imageOriginal": "https://scontent-sea5-1.cdninstagram.com/v/t39.30808-6/481819112_642529568526062_4013432041020696888_n.jpg?stp=c153.0.459.459a_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OFkNNBBF84MQ7kNvwHnvhL3&_nc_oc=AdqgdRCMLZEIX6WqWGJLjNm7UdlLNzDg9kI_nYgtKuAS2bSmKpiu9jjXRJvjm6Shpb8dY0B91F9KWD41i4BJadB7&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=V1Kbk0QbMBCeU2FCTe8-7g&_nc_ss=7b60f&oh=00_AQNgFhGlhyIxthVmu7Q_5v5jSAGvsgYOBBQlGOkX3nmtZQ&oe=6ADE7187",
-    "imageCheckedAt": "2026-10-21",
     "menu": {
       "items": [
         {
@@ -154293,120 +154289,6 @@
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/394568387_771408618331064_1872458582498029984_n.jpg?stp=dst-jpg_tt6&cstp=mx455x458&ctp=s455x458&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=y14EhWqAPIUQ7kNvwHHrnGE&_nc_oc=AdpYasN3hWq4OUPKXAmZ6lf0EdixOc_B0sIX8GhHXaxKjgTFVmHxF1Op8OECHywkWSdfuxRwE7Iu4DOrAhU1r3lC&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=IjSKH5CuJ7F2L4waTRC9sA&_nc_ss=7b20f&oh=00_AQMbm8Ywm8djJF9az3vGlmdlAdXvdYNrxg9xGVVZ2ZZO9w&oe=6ADE4C77",
     "imageCheckedAt": "2026-10-21",
     "deliverySummary": "滿 $300 外送"
-  },
-  {
-    "id": "kh-scout-lead-71",
-    "slug": "桌上賓中式快餐-瑞隆店",
-    "name": "桌上賓中式快餐-瑞隆店",
-    "city": "高雄市",
-    "district": "前鎮區",
-    "cuisine": "中式便當",
-    "cuisineTags": [
-      "中式便當"
-    ],
-    "chain": false,
-    "featured": false,
-    "origin": "scout",
-    "confidence": "medium",
-    "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "freeDeliveryThreshold": null,
-    "deliveryFee": null,
-    "evidence": "整理站引店規：團體訂購30人以上免費外送（須提前約2小時）；距離約5分鐘車程內訂2個即可免費外送",
-    "source": "lovekhc／needmorefood 轉引；jsb1994",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=420844",
-    "phone": "07-721-6172",
-    "address": "瑞隆路365號",
-    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-71.webp",
-    "imageSource": "https://shop.ichefpos.com/store/aLpDRa-k/ordering",
-    "imageOriginal": "https://s3-ap-northeast-1.amazonaws.com/ichef-images/9db45a74-3de1-44ce-86f2-12f5d24e2a17/42d95658-91df-11ef-90eb-0242ac110002.jpeg?channel=online-restaurant",
-    "imageCheckedAt": "2026-10-21",
-    "menu": {
-      "items": [
-        {
-          "name": "雙拼A.雞腿+排骨飯",
-          "price": 105,
-          "category": "雙拼"
-        },
-        {
-          "name": "雙拼B.雞腿+魚排飯",
-          "price": 105,
-          "category": "雙拼"
-        },
-        {
-          "name": "雙拼C.魚排+排骨飯",
-          "price": 90,
-          "category": "雙拼"
-        },
-        {
-          "name": "三拚飯(雞腿+魚排+排骨)",
-          "price": 130,
-          "category": "三拼"
-        },
-        {
-          "name": "咖哩雞肉飯",
-          "price": 100,
-          "category": "燴飯"
-        },
-        {
-          "name": "紅燒牛肉飯",
-          "price": 100,
-          "category": "燴飯"
-        },
-        {
-          "name": "黑胡椒牛肉飯",
-          "price": 100,
-          "category": "燴飯"
-        },
-        {
-          "name": "翅腿飯",
-          "price": 85,
-          "category": "便當"
-        },
-        {
-          "name": "雞柳飯",
-          "price": 85,
-          "category": "便當"
-        },
-        {
-          "name": "排骨飯",
-          "price": 95,
-          "category": "便當"
-        },
-        {
-          "name": "鯖魚飯",
-          "price": 110,
-          "category": "便當"
-        },
-        {
-          "name": "魚排飯",
-          "price": 90,
-          "category": "便當"
-        },
-        {
-          "name": "雞排飯",
-          "price": 110,
-          "category": "便當"
-        },
-        {
-          "name": "雞腿飯",
-          "price": 115,
-          "category": "便當"
-        },
-        {
-          "name": "飯菜便當",
-          "price": 60,
-          "category": "便當"
-        }
-      ],
-      "source": "https://www.dinbendon.net/do/idine?shop=420844",
-      "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2025-03-03"
-    },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=420844",
-    "menuCheckedAt": "2026-10-22"
   },
   {
     "id": "kh-scout-lead-72",
@@ -251393,7 +251275,7 @@
   {
     "id": "dbd-590251",
     "slug": "汆食堂-南昌",
-    "name": "汆食堂【南昌】",
+    "name": "心食堂（原汆食堂南昌店）",
     "district": "中正區",
     "address": "南昌路一段127號",
     "cuisine": "便當、健康蔬食、中式",
@@ -251404,7 +251286,7 @@
     ],
     "phone": "02 2397 9795",
     "orderUrl": "https://dinbendon.net/do/idine?shop=590251",
-    "evidence": "訂便當網店家頁公開外送條件：「康養生餐盒，原型食物，優質澱粉，可做飯少or不飯換蔬菜，免費外送」；店家頁地址 台北市中正區南昌路一段127號、電話 02 2397 9795；店家資料最後更新 2025/09/11。下單前請先來電確認。",
+    "evidence": "訂便當網店家頁公開外送條件：「康養生餐盒，原型食物，優質澱粉，可做飯少or不飯換蔬菜，免費外送」；店家頁地址 台北市中正區南昌路一段127號、電話 02 2397 9795；店家資料最後更新 2025/09/11。下單前請先來電確認。 2026-11-12：FB 粉專已改名「心食堂-創意私房健康餐盒【原汆食堂南昌店】」，同址同電話（02-2397-9795），粉專寫「500就送」。",
     "source": "https://dinbendon.net/do/idine?shop=590251；Checked: 2026-10-22；Batch: 20261022-daily",
     "checkedAt": "2026-10-22",
     "chain": false,
