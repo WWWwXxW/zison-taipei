@@ -645722,5 +645722,397 @@
     },
     "lat": 25.0449919,
     "lng": 121.5162658
+  },
+  {
+    "id": "suhung-banqiao",
+    "slug": "suhung-banqiao",
+    "name": "蘇杭餐廳（板橋店）",
+    "city": "新北市",
+    "district": "板橋區",
+    "address": "北門街11號3樓（黃石市場）",
+    "cuisine": "江浙／上海",
+    "cuisineTags": [
+      "江浙",
+      "上海"
+    ],
+    "phone": "02-8969-3182",
+    "orderUrl": "https://suhung.oddle.me/zh_TW",
+    "officialUrl": "https://suhung.com.tw/branches.php?b=1",
+    "hours": "午餐 11:30–14:00、晚餐 17:30–21:00",
+    "evidence": "官方 Oddle 訂餐頁（suhung.oddle.me）門市資料：蘇杭-板橋店，新北市板橋區北門街11號3樓(黃石市場)，電話 02-8969-3182，開放外送（enableDelivery）與自取，外送區 1–6 公里；官網分店資訊（suhung.com.tw/branches.php）列同地址、電話與營業時間；2026-11-12 核對。",
+    "source": "https://suhung.oddle.me/zh_TW；https://suhung.com.tw/branches.php?b=1；Checked: 2026-11-12",
+    "checkedAt": "2026-11-12",
+    "chain": false,
+    "featured": false,
+    "origin": "daily-20261112",
+    "confidence": "high",
+    "deliveryMinType": "other",
+    "deliveryMinValue": null,
+    "deliveryMinLabel": "近距離不限金額",
+    "deliveryFee": 85,
+    "freeDeliveryThreshold": 1000,
+    "range": "官方 Oddle 外送區：門市周邊 6 公里內（依送達地址判定）",
+    "deliverySummary": "官方 Oddle 訂餐頁：4 公里內不限金額（運費 $85–$120）、5–6 公里最低消費 $999（運費 $135–$150），滿 $1,000 免運；輸入地址判定能否送達",
+    "deliverySource": "https://suhung.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-12",
+    "menu": {
+      "items": [
+        {
+          "name": "五人合菜(6道佳餚+砂鍋醃篤鮮+招牌豆沙鍋餅)",
+          "price": 3800,
+          "category": "闔家合菜【免運送到家】"
+        },
+        {
+          "name": "八人合菜(8道佳餚+砂鍋醃篤鮮+招牌豆沙鍋餅)",
+          "price": 5800,
+          "category": "闔家合菜【免運送到家】"
+        },
+        {
+          "name": "蔥油餅(1張)",
+          "price": 80,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "東坡肉(可加購刈包)",
+          "price": 520,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "老皮嫩肉",
+          "price": 340,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "上海砂鍋菜飯",
+          "price": 260,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "花雕醉雞",
+          "price": 300,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "陳皮油爆蝦",
+          "price": 500,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "清燉白玉牛腩",
+          "price": 480,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "紅燒獅子頭",
+          "price": 460,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "剁椒/清蒸/豆酥扁鱈",
+          "price": 560,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "麻辣口水雞",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "桂花甜芋",
+          "price": 200,
+          "category": "冷盤類"
+        },
+        {
+          "name": "上海烤麩",
+          "price": 220,
+          "category": "冷盤類"
+        },
+        {
+          "name": "紅油羊肚絲",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "香糟黃魚",
+          "price": 320,
+          "category": "冷盤類"
+        },
+        {
+          "name": "梅醬山藥",
+          "price": 260,
+          "category": "冷盤類"
+        },
+        {
+          "name": "蜂蜜南瓜",
+          "price": 260,
+          "category": "冷盤類"
+        },
+        {
+          "name": "油燜苦瓜",
+          "price": 220,
+          "category": "冷盤類"
+        },
+        {
+          "name": "紹興醉元寶",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "蔥烤鯽魚",
+          "price": 280,
+          "category": "冷盤類"
+        },
+        {
+          "name": "胡麻沙拉",
+          "price": 200,
+          "category": "冷盤類"
+        },
+        {
+          "name": "生菜蝦鬆",
+          "price": 520,
+          "category": "海鮮類"
+        },
+        {
+          "name": "豆苗蝦仁",
+          "price": 480,
+          "category": "海鮮類"
+        },
+        {
+          "name": "清炒蝦仁",
+          "price": 520,
+          "category": "海鮮類"
+        },
+        {
+          "name": "碧綠乾燒蝦仁",
+          "price": 480,
+          "category": "海鮮類"
+        },
+        {
+          "name": "蒜蓉鮮蝦粉絲",
+          "price": 500,
+          "category": "海鮮類"
+        },
+        {
+          "name": "百合蘆筍鮮貝",
+          "price": 600,
+          "category": "海鮮類"
+        },
+        {
+          "name": "蔥烤烏參",
+          "price": 620,
+          "category": "海鮮類"
+        },
+        {
+          "name": "清炒海三鮮",
+          "price": 600,
+          "category": "海鮮類"
+        }
+      ],
+      "source": "https://suhung.oddle.me/en_TW",
+      "fetchedOn": "2026-11-12",
+      "total": 95
+    },
+    "menuSource": "https://suhung.oddle.me/zh_TW",
+    "menuCheckedAt": "2026-11-12",
+    "imageUrl": "https://zisong.tw/assets/shops/suhung-banqiao.webp",
+    "imageSource": "https://suhung.oddle.me/zh_TW",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/27a41b.jpg",
+    "imageCheckedAt": "2026-11-12"
+  },
+  {
+    "id": "suhung-dapinglin",
+    "slug": "suhung-dapinglin",
+    "name": "蘇杭餐廳（大坪林店）",
+    "city": "新北市",
+    "district": "新店區",
+    "address": "民權路25號2樓",
+    "cuisine": "江浙／上海",
+    "cuisineTags": [
+      "江浙",
+      "上海"
+    ],
+    "phone": "02-2910-7522",
+    "orderUrl": "https://suhung.oddle.me/zh_TW",
+    "officialUrl": "https://suhung.com.tw/branches.php?b=1",
+    "hours": "午餐 11:30–14:00、晚餐 17:30–21:00",
+    "evidence": "官方 Oddle 訂餐頁（suhung.oddle.me）門市資料：蘇杭-大坪林店，新北市新店區民權路25號2樓（大坪林捷運站出口），電話 02-2910-7522，開放外送（enableDelivery）與自取，外送區 1–6 公里；官網分店資訊（suhung.com.tw/branches.php）列同地址、電話與營業時間；2026-11-12 核對。",
+    "source": "https://suhung.oddle.me/zh_TW；https://suhung.com.tw/branches.php?b=1；Checked: 2026-11-12",
+    "checkedAt": "2026-11-12",
+    "chain": false,
+    "featured": false,
+    "origin": "daily-20261112",
+    "confidence": "high",
+    "deliveryMinType": "other",
+    "deliveryMinValue": null,
+    "deliveryMinLabel": "近距離不限金額",
+    "deliveryFee": 85,
+    "freeDeliveryThreshold": 1000,
+    "range": "官方 Oddle 外送區：門市周邊 6 公里內（依送達地址判定）",
+    "deliverySummary": "官方 Oddle 訂餐頁：4 公里內不限金額（運費 $85–$120）、5–6 公里最低消費 $999（運費 $135–$150），滿 $1,000 免運；輸入地址判定能否送達",
+    "deliverySource": "https://suhung.oddle.me/zh_TW",
+    "deliveryCheckedAt": "2026-11-12",
+    "menu": {
+      "items": [
+        {
+          "name": "五人合菜(6道佳餚+砂鍋醃篤鮮+招牌豆沙鍋餅)",
+          "price": 3800,
+          "category": "闔家合菜【免運送到家】"
+        },
+        {
+          "name": "八人合菜(8道佳餚+砂鍋醃篤鮮+招牌豆沙鍋餅)",
+          "price": 5800,
+          "category": "闔家合菜【免運送到家】"
+        },
+        {
+          "name": "蔥油餅(1張)",
+          "price": 80,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "東坡肉(可加購刈包)",
+          "price": 520,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "老皮嫩肉",
+          "price": 340,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "上海砂鍋菜飯",
+          "price": 260,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "花雕醉雞",
+          "price": 300,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "陳皮油爆蝦",
+          "price": 500,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "清燉白玉牛腩",
+          "price": 480,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "紅燒獅子頭",
+          "price": 460,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "剁椒/清蒸/豆酥扁鱈",
+          "price": 560,
+          "category": "老饕推薦 必點單品"
+        },
+        {
+          "name": "麻辣口水雞",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "桂花甜芋",
+          "price": 200,
+          "category": "冷盤類"
+        },
+        {
+          "name": "上海烤麩",
+          "price": 220,
+          "category": "冷盤類"
+        },
+        {
+          "name": "紅油羊肚絲",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "香糟黃魚",
+          "price": 320,
+          "category": "冷盤類"
+        },
+        {
+          "name": "梅醬山藥",
+          "price": 260,
+          "category": "冷盤類"
+        },
+        {
+          "name": "蜂蜜南瓜",
+          "price": 260,
+          "category": "冷盤類"
+        },
+        {
+          "name": "油燜苦瓜",
+          "price": 220,
+          "category": "冷盤類"
+        },
+        {
+          "name": "紹興醉元寶",
+          "price": 300,
+          "category": "冷盤類"
+        },
+        {
+          "name": "蔥烤鯽魚",
+          "price": 280,
+          "category": "冷盤類"
+        },
+        {
+          "name": "胡麻沙拉",
+          "price": 200,
+          "category": "冷盤類"
+        },
+        {
+          "name": "生菜蝦鬆",
+          "price": 520,
+          "category": "海鮮類"
+        },
+        {
+          "name": "豆苗蝦仁",
+          "price": 480,
+          "category": "海鮮類"
+        },
+        {
+          "name": "清炒蝦仁",
+          "price": 520,
+          "category": "海鮮類"
+        },
+        {
+          "name": "碧綠乾燒蝦仁",
+          "price": 480,
+          "category": "海鮮類"
+        },
+        {
+          "name": "蒜蓉鮮蝦粉絲",
+          "price": 500,
+          "category": "海鮮類"
+        },
+        {
+          "name": "百合蘆筍鮮貝",
+          "price": 600,
+          "category": "海鮮類"
+        },
+        {
+          "name": "蔥烤烏參",
+          "price": 620,
+          "category": "海鮮類"
+        },
+        {
+          "name": "清炒海三鮮",
+          "price": 600,
+          "category": "海鮮類"
+        }
+      ],
+      "source": "https://suhung.oddle.me/en_TW",
+      "fetchedOn": "2026-11-12",
+      "total": 95
+    },
+    "menuSource": "https://suhung.oddle.me/zh_TW",
+    "menuCheckedAt": "2026-11-12",
+    "imageUrl": "https://zisong.tw/assets/shops/suhung-dapinglin.webp",
+    "imageSource": "https://suhung.oddle.me/zh_TW",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/11863e2.jpg",
+    "imageCheckedAt": "2026-11-12"
   }
 ]
