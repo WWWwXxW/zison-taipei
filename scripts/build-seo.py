@@ -403,15 +403,32 @@ def card_html(r: dict, prefix: str = "../") -> str:
         badges.append('<span class="badge chain">連鎖</span>')
     actions = []
     oh = order_href(r)
-    if oh:
-        actions.append(
-            f'<a class="btn btn-primary" href="{escape_html(oh)}" target="_blank" rel="noopener noreferrer">前往訂餐</a>'
-        )
     phone = r.get("phone")
-    if phone:
-        tel = re.sub(r"-", "", phone)
-        actions.append(f'<a class="btn btn-ghost" href="tel:{escape_html(tel)}">{escape_html(phone)}</a>')
     rid = r.get("id") or ""
+    # Pickup-only online ordering must not be labeled as if it places a delivery order.
+    if r.get("orderFulfillment") == "pickup":
+        if phone:
+            tel = re.sub(r"-", "", str(phone))
+            actions.append(f'<a class="btn btn-primary" href="tel:{escape_html(tel)}">{escape_html(phone)}</a>')
+        if oh and not re.search(r"line\.me|lin\.ee|line\.naver", oh, re.I):
+            actions.append(
+                f'<a class="btn btn-ghost" href="{escape_html(oh)}" target="_blank" rel="noopener noreferrer">官方線上外帶</a>'
+            )
+        line = r.get("lineUrl") or ""
+        if line and line != oh:
+            lid = str(r.get("lineId") or "").strip()
+            label = f"LINE {lid}" if lid else "LINE 官方帳號"
+            actions.append(
+                f'<a class="btn btn-ghost" href="{escape_html(line)}" target="_blank" rel="noopener noreferrer">{escape_html(label)}</a>'
+            )
+    else:
+        if oh:
+            actions.append(
+                f'<a class="btn btn-primary" href="{escape_html(oh)}" target="_blank" rel="noopener noreferrer">前往訂餐</a>'
+            )
+        if phone:
+            tel = re.sub(r"-", "", phone)
+            actions.append(f'<a class="btn btn-ghost" href="tel:{escape_html(tel)}">{escape_html(phone)}</a>')
     actions.append(f'<a class="btn btn-ghost" href="{prefix}detail.html?id={escape_html(rid)}">詳情</a>')
     parts = [
         f'<article class="card" data-id="{escape_html(rid)}">',

@@ -355,6 +355,30 @@
     return r.orderUrl || r.lineUrl || null;
   }
 
+  /** orderFulfillment "pickup": the online link is takeout only, not a delivery order. */
+  function pickupOrder(r) {
+    return !!(r && r.orderFulfillment === 'pickup');
+  }
+
+  function orderActionLabel(r, url, compact) {
+    if (groupMenuUrl(url)) return compact ? '看菜單（訂便當網）↗' : '看菜單（訂便當網）';
+    if (bendonDaoUrl(url)) return compact ? '前往訂餐（便當報報）↗' : '前往訂餐（便當報報）';
+    if (pickupOrder(r)) {
+      if (isLineUrl(url)) {
+        var id = r && r.lineId ? String(r.lineId) : '';
+        var lineLabel = id ? ('LINE ' + id) : 'LINE 外帶';
+        return compact ? (lineLabel + ' ↗') : lineLabel;
+      }
+      return compact ? '官方線上外帶 ↗' : '官方線上外帶';
+    }
+    return compact ? '前往官方訂餐 ↗' : '前往官方訂餐';
+  }
+
+  function lineButtonLabel(r) {
+    if (pickupOrder(r) && r.lineId) return 'LINE ' + r.lineId;
+    return 'LINE 官方帳號';
+  }
+
   function isLineUrl(u) {
     if (!u) return false;
     return /line\.me|lin\.ee|line\.naver/i.test(u);
@@ -501,14 +525,21 @@
     var actions = [];
     var oh = orderHref(r);
     var menuOnly = oh && groupMenuUrl(oh);
-    if (oh && !menuOnly) {
-      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + (bendonDaoUrl(oh) ? '前往訂餐（便當報報）↗' : '前往官方訂餐 ↗') + '</a>');
+    var pickup = pickupOrder(r) && !!oh && !menuOnly;
+    if (oh && !menuOnly && !pickup) {
+      actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + orderActionLabel(r, oh, true) + '</a>');
     }
     if (r.phone) {
-      actions.push('<a class="btn ' + (menuOnly ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
+      actions.push('<a class="btn ' + ((menuOnly || pickup) ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
     }
     if (menuOnly) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">看菜單（訂便當網）↗</a>');
+    }
+    if (pickup && !isLineUrl(oh)) {
+      actions.push('<a class="btn btn-ghost" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + orderActionLabel(r, oh, true) + '</a>');
+    }
+    if (pickup && r.lineUrl && r.lineUrl !== oh) {
+      actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(lineButtonLabel(r)) + '</a>');
     }
     actions.push('<a class="btn btn-ghost" href="shop/' + encodeURIComponent(r.id) + '.html">詳情</a>');
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
@@ -1090,7 +1121,7 @@
     var actions = [];
     var oh = orderHref(r);
     var menuOnly = oh && groupMenuUrl(oh);
-    var phoneFirst = menuOnly || (!oh && r.officialUrl && groupMenuUrl(r.officialUrl));
+    var phoneFirst = menuOnly || pickupOrder(r) || (!oh && r.officialUrl && groupMenuUrl(r.officialUrl));
     function phoneBtns() {
       if (!r.phone) return;
       phoneParts(r.phone).forEach(function (p, i) {
@@ -1101,15 +1132,16 @@
     }
     if (phoneFirst) phoneBtns();
     if (oh) {
-      actions.push('<a class="btn ' + (menuOnly ? 'btn-ghost' : 'btn-primary') + '" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + (menuOnly ? '看菜單（訂便當網）' : bendonDaoUrl(oh) ? '前往訂餐（便當報報）' : '前往官方訂餐') + '</a>');
+      var orderSolid = !menuOnly && !pickupOrder(r);
+      actions.push('<a class="btn ' + (orderSolid ? 'btn-primary' : 'btn-ghost') + '" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + orderActionLabel(r, oh, false) + '</a>');
     }
     if (r.officialUrl && r.officialUrl !== oh) {
       var offLabel = officialLabel(r.officialUrl, true);
       actions.push('<a class="btn ' + ((oh && !menuOnly) || phoneFirst ? 'btn-ghost' : 'btn-primary') + ' btn-official" href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + offLabel + '</a>');
     }
     if (!phoneFirst) phoneBtns();
-    if (r.lineUrl) {
-      actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">LINE 官方帳號</a>');
+    if (r.lineUrl && !(pickupOrder(r) && r.lineUrl === oh)) {
+      actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(lineButtonLabel(r)) + '</a>');
     }
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
@@ -1156,7 +1188,7 @@
           row('外送費', feeText || null) +
           row('電話', r.phone ? phoneLinksHtml(r.phone) : null, true) +
           row(r.officialUrl && groupMenuUrl(r.officialUrl) ? '菜單頁（第三方）' : '官網', r.officialUrl && r.officialUrl !== oh ? ('<a href="' + escapeHtml(r.officialUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(r.officialUrl)) + '</a>') : null, true) +
-          row(oh && groupMenuUrl(oh) ? '菜單頁（第三方）' : oh && bendonDaoUrl(oh) ? '訂餐平台' : '官方訂餐連結', oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(linkLabel(oh)) + '</a>') : null, true) +
+          row(oh && groupMenuUrl(oh) ? '菜單頁（第三方）' : oh && bendonDaoUrl(oh) ? '訂餐平台' : (pickupOrder(r) && !isLineUrl(oh) ? '官方線上外帶' : '官方訂餐連結'), oh ? ('<a href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(pickupOrder(r) && !isLineUrl(oh) ? linkLabel(oh).replace(/^店家菜單頁/, '官方線上外帶') : linkLabel(oh)) + '</a>') : null, true) +
           row('LINE', detailLineHtml(r), true) +
           (function () { var hs = readerHours(r.hours) || null; return row(hs && !HOURS_RE.test(hs) ? '時段／預訂說明' : '營業時間', hs); })() +
           row('配送範圍說明', readerProse(r.range) || null) +
