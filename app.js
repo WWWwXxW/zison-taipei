@@ -1017,7 +1017,8 @@
       lead = '菜單來源：' + srcBit + '。';
     }
     var upd = menu.sourceUpdated ? String(menu.sourceUpdated).trim() : '';
-    var sourceLine = '<p class="menu-source">' + lead + (upd ? '店家最後更新 ' + escapeHtml(upd) + '，' : '') + (when ? '本站核對 ' + escapeHtml(when) + '。' : '') + '價格與供應以店家為準。</p>';
+    var note = menu.note ? escapeHtml(String(menu.note).trim()) : '';
+    var sourceLine = '<p class="menu-source">' + lead + (note ? note + ' ' : '') + (upd ? '店家最後更新 ' + escapeHtml(upd) + '，' : '') + (when ? '本站核對 ' + escapeHtml(when) + '。' : '') + '價格與供應以店家為準。</p>';
     return '<section class="detail-menu" aria-label="菜單"><h2>菜單</h2><ul>' + rows.join('') + '</ul>' + sourceLine + '</section>';
   }
 
