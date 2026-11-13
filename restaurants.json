@@ -251285,8 +251285,8 @@
       "中式"
     ],
     "phone": "02 2397 9795",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=590251",
-    "evidence": "訂便當網店家頁公開外送條件：「康養生餐盒，原型食物，優質澱粉，可做飯少or不飯換蔬菜，免費外送」；店家頁地址 台北市中正區南昌路一段127號、電話 02 2397 9795；店家資料最後更新 2025/09/11。下單前請先來電確認。 2026-11-12：FB 粉專已改名「心食堂-創意私房健康餐盒【原汆食堂南昌店】」，同址同電話（02-2397-9795），粉專寫「500就送」。",
+    "orderUrl": "https://store.dudooeat.com/order/store/4fbb43d995d348678fad85930f70c97c",
+    "evidence": "訂便當網店家頁公開外送條件：「康養生餐盒，原型食物，優質澱粉，可做飯少or不飯換蔬菜，免費外送」；店家頁地址 台北市中正區南昌路一段127號、電話 02 2397 9795；店家資料最後更新 2025/09/11。下單前請先來電確認。 2026-11-12：FB 粉專已改名「心食堂-創意私房健康餐盒【原汆食堂南昌店】」，同址同電話（02-2397-9795），粉專寫「500就送」。 2026-11-13：店家官方 dudoo 線上點餐頁（store.dudooeat.com，店名仍顯示「汆食堂」、同址南昌路1段127號、同電話 02-23979795）提供外帶與外送下單，菜單 39 品項（餐盒 $110–$160）；公告「盡量前一天預訂，或當天上午9點用LINE或來電訂購」。",
     "source": "https://dinbendon.net/do/idine?shop=590251；Checked: 2026-10-22；Batch: 20261022-daily",
     "checkedAt": "2026-10-22",
     "chain": false,
@@ -251297,172 +251297,217 @@
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500 免費外送",
     "city": "台北市",
-    "orderChannel": "dinbendon",
+    "orderChannel": "own-web",
     "menu": {
       "items": [
         {
-          "name": "清蒸嫩扁鱈",
-          "price": 160,
+          "name": "黑金獅子頭餐盒",
+          "price": 110,
           "category": "餐盒"
         },
         {
-          "name": "香滷無刺虱目魚",
-          "price": 160,
+          "name": "鐵路滷雞腿餐盒",
+          "price": 110,
           "category": "餐盒"
         },
         {
-          "name": "薄鹽烤鯖魚",
-          "price": 160,
+          "name": "黑金滷肉飯餐盒",
+          "price": 110,
           "category": "餐盒"
         },
         {
-          "name": "雙倍醬燒烤雞腿",
-          "price": 150,
+          "name": "台式打拋豬餐盒",
+          "price": 120,
           "category": "餐盒"
         },
         {
-          "name": "國宴清燉牛（小／大）",
-          "price": "150／180",
-          "category": "餐盒"
-        },
-        {
-          "name": "炭火香雞腿（小／大）",
-          "price": "140／170",
-          "category": "餐盒"
-        },
-        {
-          "name": "雙倍滷雞腿",
-          "price": 140,
-          "category": "餐盒"
-        },
-        {
-          "name": "花雕東坡肉（小／大）",
-          "price": "140／170",
-          "category": "餐盒"
-        },
-        {
-          "name": "醬燒烤雞腿（小／大）",
-          "price": "140／170",
-          "category": "餐盒"
-        },
-        {
-          "name": "川味口水雞（小／大）",
-          "price": "140／170",
-          "category": "餐盒"
-        },
-        {
-          "name": "香滷雞腿獅子頭（小）",
+          "name": "私房烤野菇餐盒",
           "price": 130,
           "category": "餐盒"
         },
         {
-          "name": "舒肥嫩雞胸（小／大）",
-          "price": "130／160",
+          "name": "香滷雞腿獅子頭餐盒",
+          "price": 130,
           "category": "餐盒"
         },
         {
-          "name": "蒜香豬里肌（小／大）",
-          "price": "130／160",
+          "name": "蒜香豬里肌餐盒",
+          "price": 130,
           "category": "餐盒"
         },
         {
-          "name": "私房烤野菇【五辛素】（小／大）",
-          "price": "120／150",
+          "name": "舒肥嫩雞胸餐盒",
+          "price": 130,
           "category": "餐盒"
         },
         {
-          "name": "台式打拋豬（小／大）",
-          "price": "120／150",
+          "name": "炭火香雞腿餐盒",
+          "price": 140,
           "category": "餐盒"
         },
         {
-          "name": "黑金滷肉飯（小／大）",
-          "price": "110／140",
+          "name": "雙倍滷雞腿餐盒",
+          "price": 140,
           "category": "餐盒"
         },
         {
-          "name": "鐵路滷雞腿（小／大）",
-          "price": "110／140",
+          "name": "蜜汁烤大雞腿餐盒",
+          "price": 140,
           "category": "餐盒"
         },
         {
-          "name": "黑金獅子頭（小／大）",
-          "price": "110／140",
+          "name": "川味口水雞餐盒",
+          "price": 140,
           "category": "餐盒"
         },
         {
-          "name": "清燉牛肉湯",
+          "name": "花雕東坡肉",
+          "price": 140,
+          "category": "餐盒"
+        },
+        {
+          "name": "國宴清燉牛餐盒",
+          "price": 150,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽炙烤鯖魚餐盒",
+          "price": 160,
+          "category": "餐盒"
+        },
+        {
+          "name": "香滷虱目魚肚餐盒",
+          "price": 160,
+          "category": "餐盒"
+        },
+        {
+          "name": "清蒸嫩扁鱈餐盒",
+          "price": 160,
+          "category": "餐盒"
+        },
+        {
+          "name": "醬料",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "白米飯",
+          "price": 25,
+          "category": "單點"
+        },
+        {
+          "name": "溏心蛋",
+          "price": 30,
+          "category": "單點"
+        },
+        {
+          "name": "玉子燒",
           "price": 50,
           "category": "單點"
         },
         {
-          "name": "黑金滷肉",
+          "name": "白色蔬菜",
           "price": 50,
           "category": "單點"
         },
         {
-          "name": "滷雞腿",
+          "name": "綠色蔬菜",
           "price": 50,
           "category": "單點"
         },
         {
-          "name": "獅子頭",
+          "name": "單點黑金滷肉",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單點滷雞腿",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "單點烤野菇",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "炭燒香雞腿",
+          "name": "單點獅子頭",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "打拋豬",
+          "name": "單點嫩雞胸",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "嫩雞胸",
+          "name": "單點打拋豬",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "蒜香豬",
+          "name": "單點蒜香豬",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "烤野菇",
+          "name": "單點炭燒香雞腿",
           "price": 70,
           "category": "單點"
         },
         {
-          "name": "嫩扁鱈",
+          "name": "單點清燉牛",
           "price": 80,
           "category": "單點"
         },
         {
-          "name": "烤鯖魚",
+          "name": "單點口水雞",
           "price": 80,
           "category": "單點"
         },
         {
-          "name": "滷虱目魚",
+          "name": "單點烤雞腿",
           "price": 80,
           "category": "單點"
+        },
+        {
+          "name": "單點東坡肉",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單點烤鯖魚",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "單點虱目魚",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "單點清蒸嫩扁鱈",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "國宴清燉牛肉湯",
+          "price": 50,
+          "category": "湯品"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=590251",
-      "fetchedOn": "2026-10-22",
-      "total": 39,
-      "sourceUpdated": "2025-09-11"
+      "source": "https://store.dudooeat.com/order/store/4fbb43d995d348678fad85930f70c97c",
+      "fetchedOn": "2026-11-13",
+      "total": 39
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=590251",
-    "menuCheckedAt": "2026-10-22",
+    "menuSource": "https://store.dudooeat.com/order/store/4fbb43d995d348678fad85930f70c97c",
+    "menuCheckedAt": "2026-11-13",
     "deliverySummary": "滿 $500 免費外送",
     "imageUrl": "https://zisong.tw/assets/shops/dbd-590251.webp",
     "imageSource": "https://www.dinbendon.net/do/idine?shop=590251",
     "imageOriginal": "https://dinbendon.net/localstorage/shop/9db3800c-bca3-47be-8801-8c47c490e0cd.jpg",
-    "imageCheckedAt": "2026-10-23"
+    "imageCheckedAt": "2026-10-23",
+    "officialUrl": null
   },
   {
     "id": "dbd-640853",
