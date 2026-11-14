@@ -19,7 +19,11 @@
    2026-11-05: a repeat of the same event name within 2 s (double tap, click
    + auxclick on one press) is dropped, so one tap = one event. The title keeps
    the link host (e.g. www.dinbendon.net) so 訂便當網「看菜單／訂餐」 can be
-   told apart from other order- links in GoatCounter. */
+   told apart from other order- links in GoatCounter.
+   2026-11-14: a click after window load while count.js is still missing
+   (blocked; the error fired before this deferred file could listen) is
+   POSTed at once instead of waiting for pagehide, which could be lost on
+   same-tab navigation. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
@@ -95,7 +99,9 @@
     lastName = name;
     lastAt = now;
     var ev = [String(name).slice(0, 120), String(title || page()).slice(0, 200)];
-    if (!countReady() && gcFailed) { sendDirect(ev); return; }
+    // After window load, the async count.js has either run or failed, so a
+    // missing goatcounter.count means it was blocked: send now (2026-11-14).
+    if (!countReady() && (gcFailed || document.readyState === 'complete')) { sendDirect(ev); return; }
     queue.push(ev);
     if (!flush()) arm();
   }
