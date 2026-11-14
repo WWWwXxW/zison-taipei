@@ -48977,15 +48977,180 @@
     "origin": "scout",
     "confidence": "high",
     "hours": "約 11:00–14:00／17:00–19:30；週末多僅午市",
-    "evidence": "食記載明電話外送：滿約5個便當可送；東園街41號；街邊平價便當",
-    "source": "mibaoma.tw/jinxiangyuan",
-    "checkedAt": "2026-09-21",
+    "evidence": "訂便當網店家頁「金香園便當」同址同電話（台北市萬華區東園街41號、02 23034086，2023/07/26 更新）訂購說明「5個以上外送」、送達地區 台北市萬華區；米寶麻食記（mibaoma.tw/jinxiangyuan，2025/11）與愛食記店名「金品園便當」同址同電話、滿5個便當可外送；Google 地圖地點 +886223034086 同址。",
+    "source": "mibaoma.tw/jinxiangyuan；https://www.dinbendon.net/do/idine?shop=543104",
+    "checkedAt": "2026-11-14",
     "phone": "02-2303-4086",
     "address": "東園街41號",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
-    "city": "台北市"
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "5 個以上外送",
+    "city": "台北市",
+    "deliverySummary": "5個以上外送",
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=543104",
+    "deliveryCheckedAt": "2026-11-14",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=543104",
+    "orderChannel": "dinbendon",
+    "menu": {
+      "items": [
+        {
+          "name": "雞腿飯",
+          "price": 110,
+          "category": "肉類"
+        },
+        {
+          "name": "雞排飯",
+          "price": 110,
+          "category": "肉類"
+        },
+        {
+          "name": "紅麴燒肉飯",
+          "price": 100,
+          "category": "肉類"
+        },
+        {
+          "name": "無骨鹽酥雞飯",
+          "price": 90,
+          "category": "肉類"
+        },
+        {
+          "name": "卡啦雞飯",
+          "price": 90,
+          "category": "肉類"
+        },
+        {
+          "name": "排骨飯",
+          "price": 90,
+          "category": "肉類"
+        },
+        {
+          "name": "香腸飯",
+          "price": 80,
+          "category": "肉類"
+        },
+        {
+          "name": "招牌飯",
+          "price": 90,
+          "category": "肉類"
+        },
+        {
+          "name": "雞翅飯",
+          "price": 90,
+          "category": "肉類"
+        },
+        {
+          "name": "梅干滷排骨飯",
+          "price": 95,
+          "category": "滷味"
+        },
+        {
+          "name": "腿庫飯",
+          "price": 90,
+          "category": "滷味"
+        },
+        {
+          "name": "滷味雞腿飯",
+          "price": 90,
+          "category": "滷味"
+        },
+        {
+          "name": "花枝蝦排飯",
+          "price": 120,
+          "category": "魚類"
+        },
+        {
+          "name": "鯖魚飯",
+          "price": 100,
+          "category": "魚類"
+        },
+        {
+          "name": "柳葉魚飯",
+          "price": 90,
+          "category": "魚類"
+        },
+        {
+          "name": "雞腿",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "雞排",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "紅麴燒肉",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "無骨鹽酥雞",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "卡啦雞",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "排骨",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "香腸",
+          "price": 35,
+          "category": "單點"
+        },
+        {
+          "name": "招牌",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "雞翅",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "梅干滷排骨",
+          "price": 65,
+          "category": "單點"
+        },
+        {
+          "name": "腿庫",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "滷味雞腿",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "花枝蝦排",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "鯖魚",
+          "price": 70,
+          "category": "單點"
+        },
+        {
+          "name": "柳葉魚",
+          "price": 60,
+          "category": "單點"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=543104",
+      "fetchedOn": "2026-11-14",
+      "total": 30,
+      "sourceUpdated": "2023/07/26"
+    },
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=543104",
+    "menuCheckedAt": "2026-11-14"
   },
   {
     "id": "scout-b7-154",
@@ -80233,7 +80398,19 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=569446",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "5 個以上就外送"
+    "deliverySummary": "5 個以上就外送",
+    "deliverAreas": [
+      "新北市三重區",
+      "新北市蘆洲區",
+      "新北市新莊區",
+      "新北市五股區",
+      "台北市萬華區",
+      "台北市中正區",
+      "台北市中山區",
+      "台北市大安區",
+      "台北市信義區"
+    ],
+    "deliveryNote": "訂便當網店家說明：新北市三重、蘆洲、上新莊、五股區滿5個可外送，台北市萬華、中正、中山、大安、信義區滿10個可外送；外送超過10個須提前一日預定，並於下午5點前提供訂單"
   },
   {
     "id": "nt-scout-lead-157",
@@ -214650,7 +214827,17 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=415166",
     "menuCheckedAt": "2026-10-22",
     "officialUrl": "https://www.facebook.com/foundfood/",
-    "deliverySummary": "台北市滿 $500外送"
+    "deliverySummary": "台北市滿 $500外送",
+    "deliverAreas": [
+      "台北市大安區",
+      "台北市松山區",
+      "台北市信義區",
+      "台北市萬華區",
+      "台北市中正區",
+      "台北市大同區",
+      "台北市中山區"
+    ],
+    "deliveryNote": "訂便當網店家說明（2026/08/19 更新）：外送台北市區域 大安區、松山區、信義區、萬華區、中正區、大同區、中山區（信義路三段$500以上）；外送配送時段為11:00-19:00；Line 可詢問＆訂購 @foundfood"
   },
   {
     "id": "daan-new-026",
@@ -649960,6 +650147,164 @@
       "fetchedOn": "2026-11-13",
       "total": 33,
       "sourceUpdated": "2024/05/20"
+    }
+  },
+  {
+    "id": "dbd-621173",
+    "slug": "無敵燒臘國民便當-五常街",
+    "name": "無敵燒臘 國民便當",
+    "city": "台北市",
+    "district": "松山區",
+    "address": "五常街275號",
+    "cuisine": "燒臘便當",
+    "cuisineTags": [
+      "便當",
+      "燒臘"
+    ],
+    "phone": "02-2718-9077",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=621173",
+    "evidence": "訂便當網店家頁「無敵 & 國民」地址 台北市五常街275號、電話 27189077（2026/03/23 更新）；訂購說明寫「中山、松山、內湖 滿三個可外送 大同、信義、大安 滿五個可外送 中正、士林、南港 滿八個可外送 北投滿十五個可外送 萬華、榮總、振興醫院 滿十個可外送 其他地區請來電詢問」「請於 10:00 前來電訂購」。交叉：Uber Eats 店頁「無敵燒臘 國民便當 台北市松山區五常街275號」、Google 地圖／Exa 地點 +886227189077 同址（週一至週五 11:00–13:00）、FB 粉專 724846257388618；電話兩種寫法 02-2718-9077／27189077 皆對應同店；本站無同電話店家。",
+    "source": "https://www.dinbendon.net/do/idine?shop=621173；Checked: 2026-11-14",
+    "checkedAt": "2026-11-14",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261114",
+    "confidence": "medium",
+    "deliverySummary": "中山、松山、內湖 滿三個可外送；大同、信義、大安 滿五個；中正、士林、南港 滿八個；北投滿十五個；萬華、榮總、振興醫院 滿十個；其他地區請來電詢問",
+    "deliverAreas": [
+      "台北市松山區",
+      "台北市中山區",
+      "台北市內湖區",
+      "台北市大同區",
+      "台北市信義區",
+      "台北市大安區",
+      "台北市中正區",
+      "台北市士林區",
+      "台北市南港區",
+      "台北市北投區",
+      "台北市萬華區"
+    ],
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=621173",
+    "deliveryCheckedAt": "2026-11-14",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 3,
+    "deliveryMinLabel": "3 個以上外送（松山、中山、內湖）",
+    "hours": "週一至週五 11:00–13:00（Google 地圖）；請於 10:00 前來電訂購；沒提前一天訂，國民便當的雞腿可能缺貨",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=621173",
+    "menuCheckedAt": "2026-11-14",
+    "orderChannel": "dinbendon",
+    "menu": {
+      "items": [
+        {
+          "name": "蜜醬叉燒",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "招牌油雞腿",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "花椒櫻桃鴨",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "脆皮燒肉",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "烤鴨+叉燒雙拼",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "烤鴨+燒肉雙拼",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "叉燒+油雞雙拼",
+          "price": 130,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "無敵三寶(叉燒、油雞、燒肉)",
+          "price": 150,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "無敵大四喜(叉燒、油雞、烤鴨、燒肉)",
+          "price": 170,
+          "category": "無敵燒臘"
+        },
+        {
+          "name": "糖醋雞丁便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "宮保雞丁便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "碳烤雞排便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "酥炸雞排便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "唐揚雞便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "椒麻雞便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "香滷雞腿便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "日式豬排便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "蒜泥白肉便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "蔥爆豬肉便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "橙汁排骨(無骨)便當",
+          "price": 90,
+          "category": "國民平價便當"
+        },
+        {
+          "name": "古早味滷排骨便當",
+          "price": 90,
+          "category": "國民平價便當"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=621173",
+      "fetchedOn": "2026-11-14",
+      "total": 21,
+      "sourceUpdated": "2026/03/23"
     }
   }
 ]
