@@ -278500,7 +278500,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-279.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=2&cu=18&ipd=282",
+    "imageOriginal": "https://img.pizzahut.com.tw/w736/8b72eb6bcb8a8ccf9317a9c2c765a7fa.jpg",
+    "imageCheckedAt": "2026-11-15",
+    "imageKind": "brand",
+    "imageDish": "韓風醬烤雪花牛"
   },
   {
     "id": "pizzahut-47",
@@ -335167,7 +335173,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dominos-83117",
-    "deliverySummary": "滿 $399 免外送費"
+    "deliverySummary": "滿 $399 免外送費",
+    "imageUrl": "https://zisong.tw/assets/shops/dominos-83117.webp",
+    "imageSource": "https://www.dominos.com.tw/menu-volcano",
+    "imageOriginal": "https://www.dominos.com.tw/ManagedAssets/TW/product/PPMG12V/TW_PPMG12V_zh_menu_15102.jpg",
+    "imageCheckedAt": "2026-11-15",
+    "imageKind": "brand",
+    "imageDish": "番茄瑪格麗特(火山)"
   },
   {
     "id": "dominos-83118",
