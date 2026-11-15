@@ -16408,7 +16408,81 @@
     "imageSource": "https://iding.tw/store/b76defb0",
     "imageOriginal": "https://weiby-breakfast-store.s3-us-west-2.amazonaws.com/Weiby_Breakfast_Store_1739503864ECC0F6/1739503864ECC0F6_120_4_43.jpg",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "6 個以上就外送"
+    "deliverySummary": "6 個以上就外送",
+    "menu": {
+      "items": [
+        {
+          "name": "阿嬤祖傳魯雞腿",
+          "price": "120起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "經典蒜泥白肉",
+          "price": "115起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "銷魂爽口瓜子肉",
+          "price": "115起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "微脂醬燒扣肉",
+          "price": "125起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "韓式泡菜豬肉",
+          "price": "130起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "水煮多汁雞胸",
+          "price": "140起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "蒜香鹽味梅花牛",
+          "price": "165起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "甜味滿滿白蝦",
+          "price": "145起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "鮮甜清爽菜飯",
+          "price": "95起",
+          "category": "健康餐盒"
+        },
+        {
+          "name": "瓜子肉飯（小）",
+          "price": 45,
+          "category": "副餐"
+        },
+        {
+          "name": "味增豆腐湯",
+          "price": 30,
+          "category": "副餐"
+        },
+        {
+          "name": "白飯",
+          "price": 15,
+          "category": "副餐"
+        },
+        {
+          "name": "紫米",
+          "price": 20,
+          "category": "副餐"
+        }
+      ],
+      "source": "https://iding.tw/store/b76defb0",
+      "fetchedOn": "2026-11-15",
+      "total": 13
+    },
+    "menuSource": "https://iding.tw/store/b76defb0",
+    "menuCheckedAt": "2026-11-15"
   },
   {
     "id": "scout-b4-83",
@@ -650317,6 +650391,186 @@
       "fetchedOn": "2026-11-14",
       "total": 21,
       "sourceUpdated": "2026/03/23"
+    }
+  },
+  {
+    "id": "dbd-542146",
+    "slug": "貪greedy碳烤餐盒-尊賢街",
+    "name": "貪 Greedy 碳烤餐盒",
+    "city": "台北市",
+    "district": "北投區",
+    "address": "尊賢街228號",
+    "cuisine": "碳烤便當／餐盒",
+    "cuisineTags": [
+      "便當",
+      "健康餐盒"
+    ],
+    "phone": "0988-132-066",
+    "orderUrl": "https://www.dinbendon.net/do/idine?shop=542146",
+    "officialUrl": "https://www.facebook.com/greedytast/",
+    "evidence": "訂便當網店家頁「貪創意料理」台北市北投區尊賢街282號、電話 0988132066（2024/10/18 更新），公告「滿500外送，限士林/天母/北投/關渡」；WalkerLand 窩客島 2021/04 報導「貪GREEDY」同電話 0988132066，「士林/天母/北投/關渡滿500可外送」「份量多或有外送需求建議事先預訂」；Google 地點（Chew Map 轉載）「貪 Greedy 碳烤餐盒專賣店」現址尊賢街228號、電話 0988 132 066、官網連到 FB 粉專 greedytast；本站無同電話店家。",
+    "source": "https://www.dinbendon.net/do/idine?shop=542146；https://www.walkerland.com.tw/article/view/297581；Checked: 2026-11-15",
+    "checkedAt": "2026-11-15",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261115",
+    "confidence": "medium",
+    "deliverySummary": "滿 $500 外送，限士林／天母／北投／關渡；份量多或要外送建議事先預訂",
+    "deliverAreas": [
+      "台北市北投區",
+      "台北市士林區"
+    ],
+    "deliverySource": "https://www.dinbendon.net/do/idine?shop=542146",
+    "deliveryCheckedAt": "2026-11-15",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
+    "hours": "週日至週五 09:30–13:30、17:00–20:30；週六公休",
+    "menuSource": "https://www.dinbendon.net/do/idine?shop=542146",
+    "menuCheckedAt": "2026-11-15",
+    "orderChannel": "dinbendon",
+    "menu": {
+      "items": [
+        {
+          "name": "舒肥油蔥嫩雞胸飯",
+          "price": 120,
+          "category": "雞肉"
+        },
+        {
+          "name": "炭烤BBQ雞腿排飯",
+          "price": 120,
+          "category": "雞肉"
+        },
+        {
+          "name": "明太子雞腿排飯",
+          "price": 150,
+          "category": "雞肉"
+        },
+        {
+          "name": "炭烤BBQ里肌肉飯",
+          "price": 120,
+          "category": "豬肉"
+        },
+        {
+          "name": "炭烤味噌里肌肉飯",
+          "price": 120,
+          "category": "豬肉"
+        },
+        {
+          "name": "炭烤醬燒豬五花飯",
+          "price": 130,
+          "category": "豬肉"
+        },
+        {
+          "name": "炭烤豆乳辣豬肉飯",
+          "price": 150,
+          "category": "豬肉"
+        },
+        {
+          "name": "炭烤船凍透抽飯",
+          "price": 170,
+          "category": "海鮮"
+        },
+        {
+          "name": "香煎鮭魚飯",
+          "price": 210,
+          "category": "海鮮"
+        },
+        {
+          "name": "炭烤香料魚飯",
+          "price": 170,
+          "category": "海鮮"
+        },
+        {
+          "name": "炭烤香煎牛排飯",
+          "price": 190,
+          "category": "牛肉"
+        },
+        {
+          "name": "炭烤舒肥牛肉飯",
+          "price": 200,
+          "category": "牛肉"
+        },
+        {
+          "name": "白飯",
+          "price": 20,
+          "category": "加點"
+        },
+        {
+          "name": "温泉蛋",
+          "price": 30,
+          "category": "加點"
+        },
+        {
+          "name": "舒肥油蔥嫩雞胸",
+          "price": 70,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤味噌里肌肉",
+          "price": 70,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤里肌肉",
+          "price": 70,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤雞腿排",
+          "price": 70,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤醬燒豬五花",
+          "price": 80,
+          "category": "加點"
+        },
+        {
+          "name": "明太子雞腿排",
+          "price": 100,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤豆乳辣豬",
+          "price": 100,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤船凍透抽",
+          "price": 120,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤香料魚",
+          "price": 120,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤香煎牛排",
+          "price": 140,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤舒肥牛肉",
+          "price": 150,
+          "category": "加點"
+        },
+        {
+          "name": "香煎鮭魚",
+          "price": 160,
+          "category": "加點"
+        },
+        {
+          "name": "炭烤綜合時蔬盒",
+          "price": 200,
+          "category": "加點"
+        }
+      ],
+      "source": "https://www.dinbendon.net/do/idine?shop=542146",
+      "fetchedOn": "2026-11-15",
+      "total": 27,
+      "sourceUpdated": "2024/10/18"
     }
   }
 ]
