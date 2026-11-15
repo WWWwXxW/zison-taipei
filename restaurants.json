@@ -494705,7 +494705,7 @@
     "confidence": "medium",
     "deliveryMinType": "amount",
     "deliveryMinValue": 600,
-    "deliveryMinLabel": "外送條件：2公里內滿600元、3公里滿1000元；僅供電話訂餐",
+    "deliveryMinLabel": "2公里內滿600元、3公里滿1000元；僅供電話訂餐",
     "city": "台北市",
     "orderChannel": "dinbendon",
     "menu": {
@@ -494788,7 +494788,7 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=603390",
     "menuCheckedAt": "2026-10-27",
-    "deliverySummary": "外送條件：2公里內滿600元、3公里滿1000元；僅供電話訂餐"
+    "deliverySummary": "2公里內滿600元、3公里滿1000元；僅供電話訂餐"
   },
   {
     "id": "dbd-535626",
