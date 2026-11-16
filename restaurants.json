@@ -650650,5 +650650,269 @@
       "total": 27,
       "sourceUpdated": "2024/10/18"
     }
+  },
+  {
+    "id": "dbd-424168",
+    "slug": "饗初餐盒-南京東路五段",
+    "name": "饗初餐盒",
+    "city": "台北市",
+    "district": "松山區",
+    "address": "南京東路五段250巷18弄9號",
+    "cuisine": "手作餐盒／便當",
+    "cuisineTags": [
+      "便當",
+      "健康餐盒"
+    ],
+    "phone": "02-2503-6979",
+    "officialUrl": "https://www.hchu.com.tw/",
+    "lineUrl": "https://line.me/ti/p/@esm8023e",
+    "evidence": "店家官網 hchu.com.tw（Google Sites）：店址 105 台北市松山區南京東路五段250巷18弄9號、LINE @esm8023e、FB hchu1027，「提供雙北地區餐點外送服務」「你訂餐，我才做」，營業 11:00~14:00(一)~(五)，平日晚餐及假日午餐須提前一日預約；官網 Meals 頁列 16 款餐盒價格與「外送免運金額說明」（滿1000元-松山區、信義區…滿4000元-三重區、蘆洲區、中和區、永和區、新店區、文山區、北投區；餐盒由外送公司配送，未達免運另計）；訂便當網 424168「饗初餐盒」電話 (02)2503-6979、官網同 hchu.com.tw（2026/10/20 更新）；LINE 官方帳號 page.line.me/esm8023e「饗初餐盒」；MENU爸 menupapa 5229 同店；本站無同電話店家。",
+    "source": "https://www.hchu.com.tw/meals；https://dinbendon.net/do/idine?shop=424168；https://page.line.me/esm8023e；Checked: 2026-11-16",
+    "checkedAt": "2026-11-16",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261116",
+    "confidence": "high",
+    "deliverySummary": "需前一天預訂（中餐至少前一日提供外送資訊及大約數量，當日 9:30 前確認）；外送免運：松山、信義滿 $1000，中山、內湖滿 $1200，大安、中正、大同滿 $2000，南港滿 $2500，士林、萬華滿 $3000，三重、蘆洲、中和、永和、新店、文山、北投滿 $4000，未達由外送公司報價加收運費",
+    "deliverAreas": [
+      "台北市松山區",
+      "台北市信義區",
+      "台北市中山區",
+      "台北市內湖區",
+      "台北市大安區",
+      "台北市中正區",
+      "台北市大同區",
+      "台北市南港區",
+      "台北市士林區",
+      "台北市萬華區",
+      "台北市文山區",
+      "台北市北投區"
+    ],
+    "deliverySource": "https://www.hchu.com.tw/meals",
+    "deliveryCheckedAt": "2026-11-16",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "hours": "週一至週五 11:00–14:00；平日晚餐及假日午餐須提前一日預約",
+    "menuSource": "https://www.hchu.com.tw/meals",
+    "menuCheckedAt": "2026-11-16",
+    "orderChannel": "line",
+    "menu": {
+      "items": [
+        {
+          "name": "荷蘭醬爐烤鮭魚排（大餐盒）",
+          "price": 220,
+          "category": "大餐盒"
+        },
+        {
+          "name": "義式手工牛肉捲（大餐盒）",
+          "price": 220,
+          "category": "大餐盒"
+        },
+        {
+          "name": "勃根地紅酒燉牛肋（大餐盒）",
+          "price": 190,
+          "category": "大餐盒"
+        },
+        {
+          "name": "義大利青醬雞腿排（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "泰式綠咖哩牛五花（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "里昂風味豬雞雙拼（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "紅酒醬起司漢堡排（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "南法燉蔬香煎鱸魚（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "XO醬香煎綜合菇（蛋奶素）（大餐盒）",
+          "price": 140,
+          "category": "大餐盒"
+        },
+        {
+          "name": "薑汁照燒牛五花（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "薑汁照燒豬五花（大餐盒）",
+          "price": 160,
+          "category": "大餐盒"
+        },
+        {
+          "name": "爐烤雞腿（大餐盒）",
+          "price": 130,
+          "category": "大餐盒"
+        },
+        {
+          "name": "泰式椒麻雞（大餐盒）",
+          "price": 130,
+          "category": "大餐盒"
+        },
+        {
+          "name": "XO起司蝦捲（大餐盒）",
+          "price": 130,
+          "category": "大餐盒"
+        },
+        {
+          "name": "客家鹹豬肉（大餐盒）",
+          "price": 130,
+          "category": "大餐盒"
+        },
+        {
+          "name": "黑胡椒風味豬排（大餐盒）",
+          "price": 130,
+          "category": "大餐盒"
+        },
+        {
+          "name": "勃根地紅酒燉牛肋（小餐盒）",
+          "price": 170,
+          "category": "小餐盒"
+        },
+        {
+          "name": "義大利青醬雞腿排（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "泰式綠咖哩牛五花（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "里昂風味豬雞雙拼（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "紅酒醬起司漢堡排（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "南法燉蔬香煎鱸魚（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "XO醬香煎綜合菇（蛋奶素）（小餐盒）",
+          "price": 130,
+          "category": "小餐盒"
+        },
+        {
+          "name": "薑汁照燒牛五花（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "薑汁照燒豬五花（小餐盒）",
+          "price": 140,
+          "category": "小餐盒"
+        },
+        {
+          "name": "荷蘭醬爐烤鮭魚排（單點）",
+          "price": 150,
+          "category": "單點主菜"
+        },
+        {
+          "name": "義式手工牛肉捲（單點）",
+          "price": 150,
+          "category": "單點主菜"
+        },
+        {
+          "name": "勃根地紅酒燉牛肋（單點）",
+          "price": 130,
+          "category": "單點主菜"
+        },
+        {
+          "name": "義大利青醬雞腿排（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "泰式綠咖哩牛五花（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "里昂風味豬雞雙拼（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "紅酒醬起司漢堡排（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "南法燉蔬香煎鱸魚（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "XO醬香煎綜合菇（蛋奶素）（單點）",
+          "price": 90,
+          "category": "單點主菜"
+        },
+        {
+          "name": "薑汁照燒牛五花（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "薑汁照燒豬五花（單點）",
+          "price": 100,
+          "category": "單點主菜"
+        },
+        {
+          "name": "爐烤雞腿（單點）",
+          "price": 80,
+          "category": "單點主菜"
+        },
+        {
+          "name": "泰式椒麻雞（單點）",
+          "price": 80,
+          "category": "單點主菜"
+        },
+        {
+          "name": "XO起司蝦捲（單點）",
+          "price": 80,
+          "category": "單點主菜"
+        },
+        {
+          "name": "客家鹹豬肉（單點）",
+          "price": 80,
+          "category": "單點主菜"
+        },
+        {
+          "name": "黑胡椒風味豬排（單點）",
+          "price": 80,
+          "category": "單點主菜"
+        }
+      ],
+      "source": "https://www.hchu.com.tw/meals",
+      "fetchedOn": "2026-11-16",
+      "total": 41,
+      "note": "價格取自店家官網「餐盒口味 Meals」頁；荷蘭醬鮭魚、牛肉捲、雞腿、椒麻雞、蝦捲、鹹豬肉、豬排僅提供大餐盒。"
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-424168.webp",
+    "imageSource": "https://www.hchu.com.tw/meals",
+    "imageOriginal": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfj9SBodOvSLn6JtnQAn6PUnleBRFGYxpxIdjzIt5Qup1qvu2dq6UrhNedvaGptTwRF1eeSlc0g1Jzu1jAtXMhijDQPQrNJk_O4oQ6Dbkl-FrARRUJKr2zl1glfY4SO4Gwe4zb-N9JPj5rR264JtIeWQ2ufUYl4EEw3nDGovwxByprfuZnSu0_SfqZ-l7dS_-Ag0ceVCj7CBO50HOQ",
+    "imageCheckedAt": "2026-11-16"
   }
 ]
