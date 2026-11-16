@@ -1143,6 +1143,12 @@
     if (r.lineUrl && !(pickupOrder(r) && r.lineUrl === oh)) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(r.lineUrl) + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(lineButtonLabel(r)) + '</a>');
     }
+    // 2026-11-16: when the only ways to order are phone / LINE, make the first one the solid (primary) button
+    if (!actions.some(function (a) { return a.indexOf('btn-primary') !== -1; })) {
+      for (var ai = 0; ai < actions.length; ai++) {
+        if (/href="(tel:|https?:)/.test(actions[ai])) { actions[ai] = actions[ai].replace('class="btn btn-ghost', 'class="btn btn-primary'); break; }
+      }
+    }
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
     var freeText = '';
