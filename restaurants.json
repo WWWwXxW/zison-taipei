@@ -72154,14 +72154,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-17",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "店家自營外送：指定永和商圈（比漾／頂溪／樂華／永安市場／四號公園／永和國小一帶）滿 5 個；中和部分／景安／南勢角 滿 10 個；遠距需前一日預訂",
-    "source": "店家 PIXNET 訂餐文 2026-04",
+    "source": "店家 PIXNET 訂餐文 2026-04-21（https://jiawei.pixnet.net/blog/posts/887168612861884619）",
     "phone": "02-2922-2612",
     "address": "仁愛路30號",
     "city": "新北市",
@@ -72169,7 +72169,33 @@
     "imageSource": "https://www.facebook.com/Floweringgoodtaste",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/442497310_962796912205054_6474669846046471213_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=G9qmfa1sXMIQ7kNvwHcQtwl&_nc_oc=AdrSCxCesh_h6qfLY7-g-rDL4mNsdGoD4TK7qBpOQdO0jeZ-88z1Yu-9SdqNnBOGbhOD2dgg4kRnvyfUxtz6iuUg&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=EFjMlwiBr05IY8ga_euqgA&_nc_ss=7b20f&oh=00_AQPOnfp7RDHTBtSaPzKMLTl9yc9EsPNcSgbqYwFrSbJ0pg&oe=6ADE79BE",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "需前一天預訂、5 個以上就外送"
+    "deliverySummary": "「滿 5 個便當即可外送」：比漾廣場、頂溪捷運站商圈、樂華夜市周邊、永安市場站／四號公園、永和國小／永和國中／福和國中／竹林路商圈；其他區域（如中和部分地區、景安站、南勢角）「滿 10 個即可外送」，較遠區域中午便當「務必於前一天完成預訂」",
+    "officialUrl": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+    "menu": {
+      "items": [
+        {
+          "name": "秘製炸烤雞腿飯",
+          "price": 175,
+          "category": "便當"
+        },
+        {
+          "name": "佳味招牌飯（豬排＋燒肉）",
+          "price": 145,
+          "category": "便當"
+        },
+        {
+          "name": "勁爆鮮蝦飯",
+          "price": 160,
+          "category": "便當"
+        }
+      ],
+      "source": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+      "fetchedOn": "2026-11-17",
+      "total": 3,
+      "note": "店家 2026-04-21 訂餐文列出的招牌便當，店家註明「實際金額以門市菜單為主」；白飯可換滑嫩蒸蛋或小魚豆干。"
+    },
+    "menuSource": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+    "menuCheckedAt": "2026-11-17"
   },
   {
     "id": "nt-scout-lead-22",
