@@ -134152,9 +134152,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "店家沒寫（週六休）",
@@ -134322,7 +134322,8 @@
       "sourceUpdated": "2026-05-25"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=426260",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿 $500 外送"
   },
   {
     "id": "tc-scout-lead-61",
