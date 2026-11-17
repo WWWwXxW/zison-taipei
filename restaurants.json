@@ -651186,5 +651186,698 @@
     "imageSource": "https://www.hchu.com.tw/meals",
     "imageOriginal": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfj9SBodOvSLn6JtnQAn6PUnleBRFGYxpxIdjzIt5Qup1qvu2dq6UrhNedvaGptTwRF1eeSlc0g1Jzu1jAtXMhijDQPQrNJk_O4oQ6Dbkl-FrARRUJKr2zl1glfY4SO4Gwe4zb-N9JPj5rR264JtIeWQ2ufUYl4EEw3nDGovwxByprfuZnSu0_SfqZ-l7dS_-Ag0ceVCj7CBO50HOQ",
     "imageCheckedAt": "2026-11-16"
+  },
+  {
+    "id": "dbd-202359",
+    "slug": "三舅媽的店-中央路三段",
+    "name": "三舅媽的店",
+    "city": "新北市",
+    "district": "土城區",
+    "address": "中央路三段254之1號",
+    "cuisine": "小吃、麵食（油飯、魯肉飯、羹麵）",
+    "cuisineTags": [
+      "小吃",
+      "麵食"
+    ],
+    "phone": "02-2267-7158、0905-533-197",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=202359",
+    "officialUrl": "https://www.facebook.com/profile.php?id=61557434806899",
+    "evidence": "訂便當網公開店家頁 202359「三舅媽的店」（共用頁，可能由團購使用者維護；資料最後更新 2026/01/02、第 41 版）外送條件：「凡訂購400元以上可外送」「10:00前訂購(建議早一點訂,訂單滿不接單)」，電話 (02)2267-7158 0905-533-197，外送區 新北市土城區；食品業者登錄（統編 91552213）業者地址 新北市土城區中央路3段254之1號；Google 商家同址、電話 0905-533-197、FB 粉專 profile.php?id=61557434806899；本站無同電話店家。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=202359；食品業者登錄 F-200201192-00000-9；Checked: 2026-11-17",
+    "checkedAt": "2026-11-17",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261117",
+    "confidence": "medium",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "orderChannel": "dinbendon",
+    "deliverySummary": "訂便當網店家頁：「凡訂購400元以上可外送」；「10:00前訂購(建議早一點訂,訂單滿不接單)」",
+    "deliverAreas": [
+      "新北市土城區"
+    ],
+    "deliverySource": "https://dinbendon.net/do/idine?shop=202359",
+    "deliveryCheckedAt": "2026-11-17",
+    "menu": {
+      "items": [
+        {
+          "name": "白飯（大）",
+          "price": 25,
+          "category": "飯類"
+        },
+        {
+          "name": "白飯（小）",
+          "price": 15,
+          "category": "飯類"
+        },
+        {
+          "name": "油飯（大）",
+          "price": 55,
+          "category": "飯類"
+        },
+        {
+          "name": "油飯（小）",
+          "price": 40,
+          "category": "飯類"
+        },
+        {
+          "name": "魯肉飯（大）",
+          "price": 50,
+          "category": "飯類"
+        },
+        {
+          "name": "魯肉飯（小）",
+          "price": 35,
+          "category": "飯類"
+        },
+        {
+          "name": "乾油麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾油麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "油麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "油麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾陽春麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾陽春麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "陽春麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "陽春麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾板條（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾板條（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "板條(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "板條(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾意麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾意麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "意麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "意麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾冬粉（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾冬粉（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "冬粉(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "冬粉(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾米粉（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾米粉（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "米粉(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "米粉(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "麻醬麵（大）",
+          "price": 65,
+          "category": "麵類"
+        },
+        {
+          "name": "麻醬麵（小）",
+          "price": 45,
+          "category": "麵類"
+        },
+        {
+          "name": "餛飩乾麵（大）",
+          "price": 85,
+          "category": "麵類"
+        },
+        {
+          "name": "餛飩乾麵（小）",
+          "price": 65,
+          "category": "麵類"
+        },
+        {
+          "name": "赤肉羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸油麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸米粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸冬粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸板條",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸意麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸陽春麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸油麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸米粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸冬粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸板條",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸意麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸陽春麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連油麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連米粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連冬粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連板條",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連意麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連陽春麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心油麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心米粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心冬粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心板條",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心意麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心陽春麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合丸湯",
+          "price": 40,
+          "category": "羹湯類"
+        },
+        {
+          "name": "青菜湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "嘴邊肉湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "燙青菜",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "油豆腐",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "魯白菜",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "魯蛋",
+          "price": 15,
+          "category": "小菜"
+        },
+        {
+          "name": "皮蛋豆腐",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "肝連",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "嘴邊肉",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "三層肉",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "生腸",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "豬皮",
+          "price": 30,
+          "category": "小菜"
+        },
+        {
+          "name": "豬心",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "豬頭皮",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "海帶1份(2條)",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "豆干1份",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "素雞",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "香煎豆包",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "素胗",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "麻辣百頁",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "貢丸單點(2顆)",
+          "price": 25,
+          "category": "小菜"
+        }
+      ],
+      "source": "https://dinbendon.net/do/idine?shop=202359",
+      "fetchedOn": "2026-11-17",
+      "total": 130,
+      "note": "價格取自訂便當網店家頁（店家公告「部分價格調漲_2023.05.08」），以店家當天報價為準。店家公告「現在沒有豬腸系列 (2023/3/7)」，已略去豬腸類品項。"
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=202359",
+    "menuCheckedAt": "2026-11-17"
   }
 ]
