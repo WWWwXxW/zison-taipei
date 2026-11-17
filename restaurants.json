@@ -64444,7 +64444,13 @@
       "total": 55
     },
     "menuSource": "https://order.ocard.co/theproteinbox/w1Pv0K",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-374.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/flat-iron-steak.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "板腱牛排"
   },
   {
     "id": "scout-lead-376",
@@ -64599,7 +64605,13 @@
       "total": 73
     },
     "menuSource": "https://order.ocard.co/theproteinbox/wl87Zw",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-376.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/green-onion-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "青蔥海鹽雞胸"
   },
   {
     "id": "scout-lead-377",
@@ -70721,7 +70733,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/QgaZAK",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-4.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/kimchi-pork.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "正韓泡菜豬"
   },
   {
     "id": "nt-scout-lead-5",
@@ -72136,14 +72154,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-17",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "evidence": "店家自營外送：指定永和商圈（比漾／頂溪／樂華／永安市場／四號公園／永和國小一帶）滿 5 個；中和部分／景安／南勢角 滿 10 個；遠距需前一日預訂",
-    "source": "店家 PIXNET 訂餐文 2026-04",
+    "source": "店家 PIXNET 訂餐文 2026-04-21（https://jiawei.pixnet.net/blog/posts/887168612861884619）",
     "phone": "02-2922-2612",
     "address": "仁愛路30號",
     "city": "新北市",
@@ -72151,7 +72169,33 @@
     "imageSource": "https://www.facebook.com/Floweringgoodtaste",
     "imageOriginal": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-1/442497310_962796912205054_6474669846046471213_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s720x720&_nc_cat=101&ccb=1-7&_nc_sid=3ab345&_nc_ohc=G9qmfa1sXMIQ7kNvwHcQtwl&_nc_oc=AdrSCxCesh_h6qfLY7-g-rDL4mNsdGoD4TK7qBpOQdO0jeZ-88z1Yu-9SdqNnBOGbhOD2dgg4kRnvyfUxtz6iuUg&_nc_zt=24&_nc_ht=scontent-sea5-1.xx&_nc_gid=EFjMlwiBr05IY8ga_euqgA&_nc_ss=7b20f&oh=00_AQPOnfp7RDHTBtSaPzKMLTl9yc9EsPNcSgbqYwFrSbJ0pg&oe=6ADE79BE",
     "imageCheckedAt": "2026-10-21",
-    "deliverySummary": "需前一天預訂、5 個以上就外送"
+    "deliverySummary": "「滿 5 個便當即可外送」：比漾廣場、頂溪捷運站商圈、樂華夜市周邊、永安市場站／四號公園、永和國小／永和國中／福和國中／竹林路商圈；其他區域（如中和部分地區、景安站、南勢角）「滿 10 個即可外送」，較遠區域中午便當「務必於前一天完成預訂」",
+    "officialUrl": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+    "menu": {
+      "items": [
+        {
+          "name": "秘製炸烤雞腿飯",
+          "price": 175,
+          "category": "便當"
+        },
+        {
+          "name": "佳味招牌飯（豬排＋燒肉）",
+          "price": 145,
+          "category": "便當"
+        },
+        {
+          "name": "勁爆鮮蝦飯",
+          "price": 160,
+          "category": "便當"
+        }
+      ],
+      "source": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+      "fetchedOn": "2026-11-17",
+      "total": 3,
+      "note": "店家 2026-04-21 訂餐文列出的招牌便當，店家註明「實際金額以門市菜單為主」；白飯可換滑嫩蒸蛋或小魚豆干。"
+    },
+    "menuSource": "https://jiawei.pixnet.net/blog/posts/887168612861884619",
+    "menuCheckedAt": "2026-11-17"
   },
   {
     "id": "nt-scout-lead-22",
@@ -74370,7 +74414,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/QR12Lw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $800 免運"
+    "deliverySummary": "滿 $800 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-61.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-cheek.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "松阪豬"
   },
   {
     "id": "nt-scout-lead-62",
@@ -74526,7 +74576,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/mGe8ow",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-62.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/chicken-drumstick.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "漢方藥膳嫩雞腿"
   },
   {
     "id": "nt-scout-lead-63",
@@ -74682,7 +74738,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/mM133m",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-63.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/beef-brisket.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "壽喜牛五花"
   },
   {
     "id": "nt-scout-lead-64",
@@ -76587,7 +76649,13 @@
       "total": 61
     },
     "menuSource": "https://d.ocard.co/theproteinbox/mOMzJw",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-91.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pan-seared-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "香煎雞胸系列"
   },
   {
     "id": "nt-scout-lead-97",
@@ -76744,7 +76812,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/mj87Lw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $500 免運"
+    "deliverySummary": "滿 $500 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-97.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/new-orleans-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "紐奧良雞腿排"
   },
   {
     "id": "nt-scout-lead-98",
@@ -76901,7 +76975,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/w7k9ew",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-98.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/braised-beef-shank.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "私房滷牛腱"
   },
   {
     "id": "nt-scout-lead-99",
@@ -77058,7 +77138,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/Qabpjm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 免運"
+    "deliverySummary": "滿 $300 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-99.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/lemon-chicken-thigh.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "檸檬雞腿排"
   },
   {
     "id": "nt-scout-lead-101",
@@ -101585,7 +101671,13 @@
       "total": 65
     },
     "menuSource": "https://order.ocard.co/theproteinbox/m3OdJm",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-315.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/miso-grilled-seabass.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "減鹽味噌烤鱸魚"
   },
   {
     "id": "nt-scout-lead-316",
@@ -134060,9 +134152,9 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "店家沒寫（週六休）",
@@ -134230,7 +134322,8 @@
       "sourceUpdated": "2026-05-25"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=426260",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "deliverySummary": "滿 $500 外送"
   },
   {
     "id": "tc-scout-lead-61",
@@ -140241,7 +140334,13 @@
       "sourceUpdated": "2026-04-27"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=471519",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-131.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/vegetarian-ribs.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "素排骨"
   },
   {
     "id": "tc-scout-lead-132",
@@ -140977,7 +141076,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/KVAzMm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-141.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/sichuan-spicy-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "四川麻辣雞胸"
   },
   {
     "id": "tc-scout-lead-142",
@@ -142507,7 +142612,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/wv4Pxm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-163.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/savory-glazed-chicken-thigh.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬濃香烤雞腿排"
   },
   {
     "id": "tc-scout-lead-164",
@@ -144181,7 +144292,13 @@
       "total": 61
     },
     "menuSource": "https://d.ocard.co/theproteinbox/Kr5rAm",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-177.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/green-sichuan-pepper-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "青花椒雞腿排"
   },
   {
     "id": "tc-scout-lead-178",
@@ -215711,7 +215828,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-1.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/咔滋椒麻雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "咔滋椒麻雞"
   },
   {
     "id": "siammore-2",
@@ -215901,7 +216024,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-2.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2025秋季新菜/蠔氣爆炒牛.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "蠔氣爆炒牛"
   },
   {
     "id": "siammore-3",
@@ -216092,7 +216221,13 @@
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送",
-    "radiusKm": 5
+    "radiusKm": 5,
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-3.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026夏季新菜/秘醬炙烤肋排.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "秘醬炙烤肋排"
   },
   {
     "id": "siammore-4",
@@ -216282,7 +216417,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-4.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026夏季新菜/帕能咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "帕能咖哩雞"
   },
   {
     "id": "siammore-5",
@@ -216472,7 +216613,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-5.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_Q彈好咖餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "Q彈好咖餐盒"
   },
   {
     "id": "siammore-6",
@@ -216662,7 +216809,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-6.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2024 冬季新菜/饗帶走菜圖_打拋炸蛋.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "打拋炸蛋"
   },
   {
     "id": "siammore-20",
@@ -216852,7 +217005,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-20.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2024 冬季新菜/2412-饗帶走菜圖_椰香綠咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "椰香綠咖哩雞"
   },
   {
     "id": "siammore-19",
@@ -217042,7 +217201,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-19.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/202503春季新菜/扒飯打拋豬.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "扒飯打拋豬"
   },
   {
     "id": "siammore-18",
@@ -217233,7 +217398,13 @@
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送",
-    "radiusKm": 5
+    "radiusKm": 5,
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-18.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_醬香夠味餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬香夠味餐盒"
   },
   {
     "id": "siammore-17",
@@ -217423,7 +217594,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-17.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/202503春季新菜/爆爽辣炒牛.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "爆爽辣炒牛"
   },
   {
     "id": "siammore-16",
@@ -217613,7 +217790,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-16.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026冬季新菜/2025冬季_厚煎海鮮烘蛋.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "厚煎海鮮烘蛋"
   },
   {
     "id": "siammore-15",
@@ -217803,7 +217986,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-15.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/黃金咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黃金咖哩雞"
   },
   {
     "id": "siammore-13",
@@ -217993,7 +218182,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-13.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/炭烤松阪豬.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "香烤松阪豬"
   },
   {
     "id": "siammore-12",
@@ -218378,7 +218573,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-11.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/串烤沙嗲雞(4串).jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬烤沙嗲雞(4串)"
   },
   {
     "id": "siammore-10",
@@ -218730,7 +218931,13 @@
       "source": "https://siammore.eatogo.com.tw/zh-TW"
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-10.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/211110 新品/08飯麵 小象炒飯 (1).jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "小象炒飯"
   },
   {
     "id": "siammore-9",
@@ -218920,7 +219127,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-9.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_開胃扒飯餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "開胃扒飯餐盒"
   },
   {
     "id": "siammore-8",
@@ -219110,7 +219323,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-8.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/黃咖哩軟殼蟹.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黃咖哩軟殼蟹"
   },
   {
     "id": "eatogether-1",
@@ -262851,7 +263070,13 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=577255",
     "menuCheckedAt": "2026-10-22",
     "officialUrl": "https://www.facebook.com/theproteinbox.sanchong/",
-    "deliverySummary": "11:00 - 20:00 2公里內500元免外送費 滿2000打9折"
+    "deliverySummary": "11:00 - 20:00 2公里內500元免外送費 滿2000打9折",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-577255.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/hamburger-steak.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "燒肉店漢堡排"
   },
   {
     "id": "dbd-209477",
@@ -435126,7 +435351,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd221",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd221.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20241204143141fp0wf.png",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "咔滋脆皮炸雞"
   },
   {
     "id": "dicos-twd106",
@@ -435195,7 +435426,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd220",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd220.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202610201201520hjri.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金脆皮手槍腿餐"
   },
   {
     "id": "dicos-twd218",
@@ -435227,7 +435464,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd218",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd218.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020120003w5jel.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金萬聖節雙饗餐"
   },
   {
     "id": "dicos-twd216",
@@ -435259,7 +435502,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd216",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd216.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020115452lmfui.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金咔滋雞腿堡"
   },
   {
     "id": "dicos-twd209",
@@ -435291,7 +435540,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd209",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd209.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_01(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "雞腿堡＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd202",
@@ -435323,7 +435578,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd202",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd202.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_02(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "捲餅＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd217",
@@ -435419,7 +435680,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd104",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd104.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_03(2).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "起司雞腿堡＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd212",
@@ -435451,7 +435718,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd212",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd212.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_04(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "脆皮手槍腿套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd207",
@@ -650914,5 +651187,698 @@
     "imageSource": "https://www.hchu.com.tw/meals",
     "imageOriginal": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQfj9SBodOvSLn6JtnQAn6PUnleBRFGYxpxIdjzIt5Qup1qvu2dq6UrhNedvaGptTwRF1eeSlc0g1Jzu1jAtXMhijDQPQrNJk_O4oQ6Dbkl-FrARRUJKr2zl1glfY4SO4Gwe4zb-N9JPj5rR264JtIeWQ2ufUYl4EEw3nDGovwxByprfuZnSu0_SfqZ-l7dS_-Ag0ceVCj7CBO50HOQ",
     "imageCheckedAt": "2026-11-16"
+  },
+  {
+    "id": "dbd-202359",
+    "slug": "三舅媽的店-中央路三段",
+    "name": "三舅媽的店",
+    "city": "新北市",
+    "district": "土城區",
+    "address": "中央路三段254之1號",
+    "cuisine": "小吃、麵食（油飯、魯肉飯、羹麵）",
+    "cuisineTags": [
+      "小吃",
+      "麵食"
+    ],
+    "phone": "02-2267-7158、0905-533-197",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=202359",
+    "officialUrl": "https://www.facebook.com/profile.php?id=61557434806899",
+    "evidence": "訂便當網公開店家頁 202359「三舅媽的店」（共用頁，可能由團購使用者維護；資料最後更新 2026/01/02、第 41 版）外送條件：「凡訂購400元以上可外送」「10:00前訂購(建議早一點訂,訂單滿不接單)」，電話 (02)2267-7158 0905-533-197，外送區 新北市土城區；食品業者登錄（統編 91552213）業者地址 新北市土城區中央路3段254之1號；Google 商家同址、電話 0905-533-197、FB 粉專 profile.php?id=61557434806899；本站無同電話店家。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=202359；食品業者登錄 F-200201192-00000-9；Checked: 2026-11-17",
+    "checkedAt": "2026-11-17",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261117",
+    "confidence": "medium",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 400,
+    "deliveryMinLabel": "滿 $400",
+    "orderChannel": "dinbendon",
+    "deliverySummary": "訂便當網店家頁：「凡訂購400元以上可外送」；「10:00前訂購(建議早一點訂,訂單滿不接單)」",
+    "deliverAreas": [
+      "新北市土城區"
+    ],
+    "deliverySource": "https://dinbendon.net/do/idine?shop=202359",
+    "deliveryCheckedAt": "2026-11-17",
+    "menu": {
+      "items": [
+        {
+          "name": "白飯（大）",
+          "price": 25,
+          "category": "飯類"
+        },
+        {
+          "name": "白飯（小）",
+          "price": 15,
+          "category": "飯類"
+        },
+        {
+          "name": "油飯（大）",
+          "price": 55,
+          "category": "飯類"
+        },
+        {
+          "name": "油飯（小）",
+          "price": 40,
+          "category": "飯類"
+        },
+        {
+          "name": "魯肉飯（大）",
+          "price": 50,
+          "category": "飯類"
+        },
+        {
+          "name": "魯肉飯（小）",
+          "price": 35,
+          "category": "飯類"
+        },
+        {
+          "name": "乾油麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾油麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "油麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "油麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾陽春麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾陽春麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "陽春麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "陽春麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾板條（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾板條（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "板條(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "板條(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾意麵（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾意麵（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "意麵(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "意麵(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾冬粉（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾冬粉（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "冬粉(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "冬粉(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "乾米粉（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "乾米粉（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "米粉(湯)（大）",
+          "price": 60,
+          "category": "麵類"
+        },
+        {
+          "name": "米粉(湯)（小）",
+          "price": 40,
+          "category": "麵類"
+        },
+        {
+          "name": "麻醬麵（大）",
+          "price": 65,
+          "category": "麵類"
+        },
+        {
+          "name": "麻醬麵（小）",
+          "price": 45,
+          "category": "麵類"
+        },
+        {
+          "name": "餛飩乾麵（大）",
+          "price": 85,
+          "category": "麵類"
+        },
+        {
+          "name": "餛飩乾麵（小）",
+          "price": 65,
+          "category": "麵類"
+        },
+        {
+          "name": "赤肉羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "赤肉羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "花枝羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魷魚羹飯",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "榨菜肉絲陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸油麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸米粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸冬粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸板條",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸意麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "魚丸陽春麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸油麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸米粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸冬粉",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸板條",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸意麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "貢丸陽春麵",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連油麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連米粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連冬粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連板條",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連意麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "肝連陽春麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心油麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心米粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心冬粉",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心板條",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心意麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "豬心陽春麵",
+          "price": 75,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩湯",
+          "price": 50,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩油麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩米粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩冬粉",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩板條",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩意麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "餛飩陽春麵",
+          "price": 65,
+          "category": "羹湯類"
+        },
+        {
+          "name": "綜合丸湯",
+          "price": 40,
+          "category": "羹湯類"
+        },
+        {
+          "name": "青菜湯",
+          "price": 30,
+          "category": "羹湯類"
+        },
+        {
+          "name": "嘴邊肉湯",
+          "price": 60,
+          "category": "羹湯類"
+        },
+        {
+          "name": "燙青菜",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "油豆腐",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "魯白菜",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "魯蛋",
+          "price": 15,
+          "category": "小菜"
+        },
+        {
+          "name": "皮蛋豆腐",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "肝連",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "嘴邊肉",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "三層肉",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "生腸",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "豬皮",
+          "price": 30,
+          "category": "小菜"
+        },
+        {
+          "name": "豬心",
+          "price": 60,
+          "category": "小菜"
+        },
+        {
+          "name": "豬頭皮",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "海帶1份(2條)",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "豆干1份",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "素雞",
+          "price": 20,
+          "category": "小菜"
+        },
+        {
+          "name": "香煎豆包",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "素胗",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "麻辣百頁",
+          "price": 25,
+          "category": "小菜"
+        },
+        {
+          "name": "貢丸單點(2顆)",
+          "price": 25,
+          "category": "小菜"
+        }
+      ],
+      "source": "https://dinbendon.net/do/idine?shop=202359",
+      "fetchedOn": "2026-11-17",
+      "total": 130,
+      "note": "價格取自訂便當網店家頁（店家公告「部分價格調漲_2023.05.08」），以店家當天報價為準。店家公告「現在沒有豬腸系列 (2023/3/7)」，已略去豬腸類品項。"
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=202359",
+    "menuCheckedAt": "2026-11-17"
   }
 ]

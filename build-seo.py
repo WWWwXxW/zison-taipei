@@ -486,6 +486,12 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
         nav_items.append(f'        <li><a href="{oslug}.html">{escape_html(oname)}</a>（{oc}）</li>')
     nav = "\n".join(nav_items)
     desc = f"整理{name}可經餐廳官網、LINE 或電話直接外送／宅配的店家，目前 {n} 家。自送官方外送目錄，不經外送平台。"
+    # 2026-11-17 GSC CTR: area + count + 「店家自己外送、門檻與電話」 (same format as daily/w1117/F/ctr_meta.py)
+    _dc = (items[0].get("city") if items else "") or DISTRICT_CITY.get(name, "")
+    _k = sum(1 for r in items if ((r.get("deliverySummary") or "").strip() not in ("", "店家自己外送，條件請電話問店家")) or r.get("deliveryMinType"))
+    _m = sum(1 for r in items if (r.get("menu") or {}).get("items"))
+    seo_title = f"{_dc[:2]}{name}外送 {n} 家｜店家自己外送、門檻與電話｜自送"
+    desc = f"{_dc}{name} {n} 家店家自己外送的便當與餐廳：{_k} 家寫明外送門檻、{_m} 家附菜單，有電話與官方訂餐連結，直接跟店家訂。"
     city = ""
     if items:
         city = (items[0].get("city") or "") or DISTRICT_CITY.get(name, "")
@@ -505,7 +511,9 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{escape_html(desc)}" />
   <link rel="canonical" href="{BASE}/district/{slug}.html" />
-  <title>{escape_html(name)}自送餐廳｜官方外送目錄｜自送</title>
+  <title>{escape_html(seo_title)}</title>
+  <meta property="og:title" content="{escape_html(seo_title)}" />
+  <meta property="og:description" content="{escape_html(desc)}" />
   <link rel="stylesheet" href="../style.css" />
 </head>
 <body>

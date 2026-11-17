@@ -9,6 +9,21 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/style.css?v=20261111-404" />
+  <script>
+  /* 2026-11-17: Search Console listed old malformed links (a shop "source" written as a
+     bare domain or as the words 「weebly 官網」 became /shop/<text>). Those links are gone;
+     visitors who still land here are sent to the right page. Status stays 404 for crawlers. */
+  (function(){
+    var p=decodeURIComponent(location.pathname||'');
+    var MAP={'/shop/foshju-sach.weebly.com':'/shop/nt-scout-lead-566.html'};
+    var to=MAP[p];
+    if(!to&&/^\/shop\/[^\/]*(weebly|官網)/i.test(p)){
+      var r=document.referrer||'';
+      to=/^https:\/\/zisong\.tw\/shop\/[A-Za-z0-9-]+(\.html)?$/.test(r)?r:'/index.html';
+    }
+    if(to) location.replace(to);
+  })();
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#main">跳至主要內容</a>
