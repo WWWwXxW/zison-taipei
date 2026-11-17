@@ -64444,7 +64444,13 @@
       "total": 55
     },
     "menuSource": "https://order.ocard.co/theproteinbox/w1Pv0K",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-374.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/flat-iron-steak.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "板腱牛排"
   },
   {
     "id": "scout-lead-376",
@@ -64599,7 +64605,13 @@
       "total": 73
     },
     "menuSource": "https://order.ocard.co/theproteinbox/wl87Zw",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/scout-lead-376.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/green-onion-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "青蔥海鹽雞胸"
   },
   {
     "id": "scout-lead-377",
@@ -70721,7 +70733,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/QgaZAK",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-4.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/kimchi-pork.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "正韓泡菜豬"
   },
   {
     "id": "nt-scout-lead-5",
@@ -74370,7 +74388,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/QR12Lw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $800 免運"
+    "deliverySummary": "滿 $800 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-61.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pork-cheek.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "松阪豬"
   },
   {
     "id": "nt-scout-lead-62",
@@ -74526,7 +74550,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/mGe8ow",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-62.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/chicken-drumstick.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "漢方藥膳嫩雞腿"
   },
   {
     "id": "nt-scout-lead-63",
@@ -74682,7 +74712,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/mM133m",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-63.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/beef-brisket.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "壽喜牛五花"
   },
   {
     "id": "nt-scout-lead-64",
@@ -76587,7 +76623,13 @@
       "total": 61
     },
     "menuSource": "https://d.ocard.co/theproteinbox/mOMzJw",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-91.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/pan-seared-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "香煎雞胸系列"
   },
   {
     "id": "nt-scout-lead-97",
@@ -76744,7 +76786,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/mj87Lw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $500 免運"
+    "deliverySummary": "滿 $500 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-97.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/new-orleans-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "紐奧良雞腿排"
   },
   {
     "id": "nt-scout-lead-98",
@@ -76901,7 +76949,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/w7k9ew",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-98.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/braised-beef-shank.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "私房滷牛腱"
   },
   {
     "id": "nt-scout-lead-99",
@@ -77058,7 +77112,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/Qabpjm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 免運"
+    "deliverySummary": "滿 $300 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-99.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/lemon-chicken-thigh.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "檸檬雞腿排"
   },
   {
     "id": "nt-scout-lead-101",
@@ -101585,7 +101645,13 @@
       "total": 65
     },
     "menuSource": "https://order.ocard.co/theproteinbox/m3OdJm",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-315.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/miso-grilled-seabass.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "減鹽味噌烤鱸魚"
   },
   {
     "id": "nt-scout-lead-316",
@@ -140241,7 +140307,13 @@
       "sourceUpdated": "2026-04-27"
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=471519",
-    "menuCheckedAt": "2026-10-26"
+    "menuCheckedAt": "2026-10-26",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-131.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/vegetarian-ribs.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "素排骨"
   },
   {
     "id": "tc-scout-lead-132",
@@ -140977,7 +141049,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/KVAzMm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-141.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/sichuan-spicy-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "四川麻辣雞胸"
   },
   {
     "id": "tc-scout-lead-142",
@@ -142507,7 +142585,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/wv4Pxm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $200 外送"
+    "deliverySummary": "滿 $200 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-163.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/savory-glazed-chicken-thigh.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬濃香烤雞腿排"
   },
   {
     "id": "tc-scout-lead-164",
@@ -144181,7 +144265,13 @@
       "total": 61
     },
     "menuSource": "https://d.ocard.co/theproteinbox/Kr5rAm",
-    "menuCheckedAt": "2026-10-22"
+    "menuCheckedAt": "2026-10-22",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-177.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/green-sichuan-pepper-chicken.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "青花椒雞腿排"
   },
   {
     "id": "tc-scout-lead-178",
@@ -215711,7 +215801,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-1.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/咔滋椒麻雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "咔滋椒麻雞"
   },
   {
     "id": "siammore-2",
@@ -215901,7 +215997,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-2.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2025秋季新菜/蠔氣爆炒牛.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "蠔氣爆炒牛"
   },
   {
     "id": "siammore-3",
@@ -216092,7 +216194,13 @@
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送",
-    "radiusKm": 5
+    "radiusKm": 5,
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-3.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026夏季新菜/秘醬炙烤肋排.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "秘醬炙烤肋排"
   },
   {
     "id": "siammore-4",
@@ -216282,7 +216390,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-4.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026夏季新菜/帕能咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "帕能咖哩雞"
   },
   {
     "id": "siammore-5",
@@ -216472,7 +216586,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-5.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_Q彈好咖餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "Q彈好咖餐盒"
   },
   {
     "id": "siammore-6",
@@ -216662,7 +216782,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-6.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2024 冬季新菜/饗帶走菜圖_打拋炸蛋.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "打拋炸蛋"
   },
   {
     "id": "siammore-20",
@@ -216852,7 +216978,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-20.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2024 冬季新菜/2412-饗帶走菜圖_椰香綠咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "椰香綠咖哩雞"
   },
   {
     "id": "siammore-19",
@@ -217042,7 +217174,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-19.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/202503春季新菜/扒飯打拋豬.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "扒飯打拋豬"
   },
   {
     "id": "siammore-18",
@@ -217233,7 +217371,13 @@
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送",
-    "radiusKm": 5
+    "radiusKm": 5,
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-18.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_醬香夠味餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬香夠味餐盒"
   },
   {
     "id": "siammore-17",
@@ -217423,7 +217567,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-17.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/202503春季新菜/爆爽辣炒牛.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "爆爽辣炒牛"
   },
   {
     "id": "siammore-16",
@@ -217613,7 +217763,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-16.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026冬季新菜/2025冬季_厚煎海鮮烘蛋.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "厚煎海鮮烘蛋"
   },
   {
     "id": "siammore-15",
@@ -217803,7 +217959,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-15.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/黃金咖哩雞.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黃金咖哩雞"
   },
   {
     "id": "siammore-13",
@@ -217993,7 +218155,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-13.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/炭烤松阪豬.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "香烤松阪豬"
   },
   {
     "id": "siammore-12",
@@ -218378,7 +218546,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-11.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/串烤沙嗲雞(4串).jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "醬烤沙嗲雞(4串)"
   },
   {
     "id": "siammore-10",
@@ -218730,7 +218904,13 @@
       "source": "https://siammore.eatogo.com.tw/zh-TW"
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-10.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/211110 新品/08飯麵 小象炒飯 (1).jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "小象炒飯"
   },
   {
     "id": "siammore-9",
@@ -218920,7 +219100,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-9.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/2026 便當/260903_饗泰多_便當_數位_ETG商品圖_320x280_開胃扒飯餐盒.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "開胃扒飯餐盒"
   },
   {
     "id": "siammore-8",
@@ -219110,7 +219296,13 @@
     },
     "menuSource": "https://siammore.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/siammore-8.webp",
+    "imageSource": "https://siammore.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/stb/饗泰多外帶外送/黃咖哩軟殼蟹.jpg",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黃咖哩軟殼蟹"
   },
   {
     "id": "eatogether-1",
@@ -262851,7 +263043,13 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=577255",
     "menuCheckedAt": "2026-10-22",
     "officialUrl": "https://www.facebook.com/theproteinbox.sanchong/",
-    "deliverySummary": "11:00 - 20:00 2公里內500元免外送費 滿2000打9折"
+    "deliverySummary": "11:00 - 20:00 2公里內500元免外送費 滿2000打9折",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-577255.webp",
+    "imageSource": "https://theproteinbox.com.tw/menu",
+    "imageOriginal": "https://theproteinbox.com.tw/images/menu-items/hamburger-steak.webp",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "燒肉店漢堡排"
   },
   {
     "id": "dbd-209477",
@@ -435126,7 +435324,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd221",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd221.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20241204143141fp0wf.png",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "咔滋脆皮炸雞"
   },
   {
     "id": "dicos-twd106",
@@ -435195,7 +435399,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd220",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd220.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202610201201520hjri.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金脆皮手槍腿餐"
   },
   {
     "id": "dicos-twd218",
@@ -435227,7 +435437,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd218",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd218.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020120003w5jel.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金萬聖節雙饗餐"
   },
   {
     "id": "dicos-twd216",
@@ -435259,7 +435475,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd216",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd216.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020115452lmfui.png（裁掉上方標題與下方過敏原說明字）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "黑金咔滋雞腿堡"
   },
   {
     "id": "dicos-twd209",
@@ -435291,7 +435513,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd209",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd209.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_01(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "雞腿堡＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd202",
@@ -435323,7 +435551,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd202",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd202.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_02(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "捲餅＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd217",
@@ -435419,7 +435653,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd104",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd104.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_03(2).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "起司雞腿堡＋雞塊套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd212",
@@ -435451,7 +435691,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd212",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd212.webp",
+    "imageSource": "https://www.dicos.com.tw/",
+    "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_04(1).png（裁掉左上「線上訂餐專屬」標籤）",
+    "imageCheckedAt": "2026-11-17",
+    "imageKind": "brand",
+    "imageDish": "脆皮手槍腿套餐（官網線上點餐圖）"
   },
   {
     "id": "dicos-twd207",
