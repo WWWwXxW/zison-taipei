@@ -65490,9 +65490,9 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-18",
     "hours": "一–五約 10:30–14:00／16:30–19:30；六日休",
-    "evidence": "官網明示「目前提供外帶與外送服務」＋電話／LINE；食記：附近1 km 滿500／3 km 滿1500、需提前預訂",
+    "evidence": "官網明示「目前提供外帶與外送服務」＋電話／LINE；食記：附近1 km 滿500／3 km 滿1500、需提前預訂；2026-11-18 官網 shihfanglan.weebly.com 已打不開（404）；愛食記頁面仍列營業時間，最新食記 2025/08/20；目前無官網／最新菜單，請先打電話或 LINE 確認。",
     "source": "shihfanglan.weebly.com；mecocute 食記交叉",
     "lineUrl": "https://line.me/R/ti/p/@241byrsk",
     "phone": "02-2391-9768",
@@ -65503,7 +65503,7 @@
     "city": "台北市",
     "imageUrl": "https://zisong.tw/assets/shops/scout-lead-423.webp",
     "imageOriginal": "https://shihfanglan.weebly.com/uploads/1/4/4/9/144952195/shihfanglan-f-9.jpg",
-    "imageSource": "https://shihfanglan.weebly.com/uploads/1/4/4/9/144952195/shihfanglan-f-9.jpg",
+    "imageSource": "十方蘭舊官網（shihfanglan.weebly.com，2026-11-18 已 404）",
     "imageCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 起外送（依距離或地區不同，請先電話確認）"
   },
@@ -138335,7 +138335,13 @@
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2662-2210",
     "address": "沙鹿區中山路197-2號",
-    "deliverySummary": "10 個以上就外送"
+    "deliverySummary": "10 個以上就外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-99.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1583206266592152743.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "黃金豬排飯包"
   },
   {
     "id": "tc-scout-lead-100",
@@ -138524,7 +138530,13 @@
     },
     "menuSource": "https://order.ocard.co/toymodel/w6jRJw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "30 份以上外送，請電話訂"
+    "deliverySummary": "30 份以上外送，請電話訂",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-102.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1645666063401892368.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "悟饕經典排骨飯包"
   },
   {
     "id": "tc-scout-lead-103",
@@ -144591,7 +144603,13 @@
     "orderUrl": "https://order.ocard.co/toymodel/mWd6VK",
     "phone": "04-2639-3228",
     "address": "龍井區中央路二段148號",
-    "deliverySummary": "30 份以上外送，請電話訂"
+    "deliverySummary": "30 份以上外送，請電話訂",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-182.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1734059357703959352.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "鐵道排骨飯包"
   },
   {
     "id": "tc-scout-lead-183",
@@ -144691,7 +144709,13 @@
     },
     "menuSource": "https://order.ocard.co/toymodel/KyJNpw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "30 份以上外送，請電話訂"
+    "deliverySummary": "30 份以上外送，請電話訂",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-183.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1652685318819305407.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "土雞肉飯"
   },
   {
     "id": "tc-scout-lead-184",
@@ -205492,7 +205516,13 @@
     },
     "menuSource": "https://order.ocard.co/toymodel/w6JqDw",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "30 份以上外送，請電話訂"
+    "deliverySummary": "30 份以上外送，請電話訂",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-31.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1654831007023044835.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "蒲燒鯛魚飯包"
   },
   {
     "id": "yln-scout-lead-32",
@@ -205880,7 +205910,13 @@
     },
     "menuSource": "https://order.ocard.co/toymodel/wvgbWQ",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "30 份以上外送"
+    "deliverySummary": "30 份以上外送",
+    "imageUrl": "https://zisong.tw/assets/shops/yln-scout-lead-36.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1583205184099242438.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "養生飯包"
   },
   {
     "id": "yln-scout-lead-37",
@@ -232841,7 +232877,13 @@
     "menuSource": "https://www.dinbendon.net/do/idine?shop=90818",
     "menuCheckedAt": "2026-10-22",
     "officialUrl": "http://www.wu-tau.com",
-    "deliverySummary": "5 個以上就外送"
+    "deliverySummary": "5 個以上就外送",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-freeze-b2-20260928-010.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1773718277555963724.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "塩の花魚飯包"
   },
   {
     "id": "nt-freeze-b3-20260929-001",
@@ -534056,7 +534098,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=497034",
     "menuCheckedAt": "2026-10-29",
-    "deliverySummary": "外送需下樓自取（外送條件請電話問店家）"
+    "deliverySummary": "外送需下樓自取（外送條件請電話問店家）",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-497034.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1583216080891498072.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "薄鹽鯖魚飯包"
   },
   {
     "id": "dbd-129386",
@@ -575128,7 +575176,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=631050",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "5個外送"
+    "deliverySummary": "5個外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-631050.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1616118349056247083.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "灶咖豬排飯包"
   },
   {
     "id": "dbd-419654",
@@ -597744,7 +597798,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=172789",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "訂滿3個即可外送，請提前1個小時訂購；內湖、信義區6個以上外送"
+    "deliverySummary": "訂滿3個即可外送，請提前1個小時訂購；內湖、信義區6個以上外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-172789.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1741224203923095288.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "台式焢肉飯包"
   },
   {
     "id": "dbd-412929",
@@ -600875,7 +600935,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=453491",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "滿三個即可外送，請提早一小時訂購"
+    "deliverySummary": "滿三個即可外送，請提早一小時訂購",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-453491.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1793329832855719239.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "玫瑰油雞翅飯包"
   },
   {
     "id": "dbd-506937",
@@ -620181,7 +620247,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=78197",
     "menuCheckedAt": "2026-11-01",
-    "deliverySummary": "1小時前訂購, 滿4個外送"
+    "deliverySummary": "1小時前訂購, 滿4個外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-78197.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1583216181907905299.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "炭火烤肉飯包"
   },
   {
     "id": "dbd-454875",
@@ -633501,7 +633573,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=504084",
     "menuCheckedAt": "2026-11-01",
-    "deliverySummary": "五個外送,用餐前一小時訂購"
+    "deliverySummary": "五個外送,用餐前一小時訂購",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-504084.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1668408480427095889.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "椒來麻雞腿飯包"
   },
   {
     "id": "dbd-601393",
@@ -637610,7 +637688,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=391544",
     "menuCheckedAt": "2026-11-01",
-    "deliverySummary": "五個以上可外送"
+    "deliverySummary": "五個以上可外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-391544.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1583214965847228569.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "香酥雞腿飯包"
   },
   {
     "id": "dbd-50762",
@@ -641244,7 +641328,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=41755",
     "menuCheckedAt": "2026-11-02",
-    "deliverySummary": "3個即外送，請提前一小時訂購"
+    "deliverySummary": "3個即外送，請提前一小時訂購",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-41755.webp",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/product_intro/cover/1731037118937481680.png",
+    "imageCheckedAt": "2026-11-18",
+    "imageKind": "brand",
+    "imageDish": "悟厚大G排飯包"
   },
   {
     "id": "dbd-599614",
@@ -651880,5 +651970,396 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=202359",
     "menuCheckedAt": "2026-11-17"
+  },
+  {
+    "id": "dbd-561484",
+    "slug": "森度餐廚-民權店",
+    "name": "森度餐廚",
+    "city": "高雄市",
+    "district": "苓雅區",
+    "address": "民權一路120巷3號",
+    "cuisine": "健康餐盒、精緻餐盒、團體便當",
+    "cuisineTags": [
+      "健康餐盒",
+      "餐盒",
+      "便當"
+    ],
+    "phone": "07-223-0060",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=561484",
+    "evidence": "店家自己的 Threads 貼文（@sendo_healthy）寫「1公里內滿300外送免運，2公里內滿500可外送，3公里滿800可外送」、電話 07-2230060、營業時間 週一至週日 11:00-19:30、LINE 線上點餐；訂便當網共用店家頁（資料最後更新 2024/01/02）菜單與「高雄軟體園區八百外送」；愛食記、微碧愛點餐（iding.tw）另有同地址店頁；本站無同電話店家。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=561484；Checked: 2026-11-18",
+    "checkedAt": "2026-11-18",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261118",
+    "confidence": "medium",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "1公里內滿300",
+    "orderChannel": "dinbendon",
+    "deliverySummary": "店家 Threads 貼文：「1公里內滿300外送免運，2公里內滿500可外送，3公里滿800可外送」",
+    "deliverAreas": [
+      "高雄市苓雅區"
+    ],
+    "deliverySource": "https://dinbendon.net/do/idine?shop=561484",
+    "deliveryCheckedAt": "2026-11-18",
+    "menu": {
+      "items": [
+        {
+          "name": "香草舒肥雞胸時蔬餐盒",
+          "price": 130,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "油蔥舒肥雞胸時蔬餐盒",
+          "price": 130,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "巴薩米克櫻桃鴨胸時蔬餐盒",
+          "price": 200,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "炙燒舒肥嫩肩牛時蔬餐盒",
+          "price": 190,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "炙燒蒜香骰子豬時蔬餐盒",
+          "price": 140,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "阿嬤家的打拋豬時蔬餐盒",
+          "price": 110,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "香烤挪威鮭魚時蔬餐盒",
+          "price": 190,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "健康時蔬餐盒(素)",
+          "price": 110,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "森度瑞拉",
+          "price": 90,
+          "category": "時蔬餐盒"
+        },
+        {
+          "name": "香草舒肥雞胸肉",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "油蔥舒肥雞胸肉",
+          "price": 60,
+          "category": "單點"
+        },
+        {
+          "name": "巴薩米克櫻桃鴨胸",
+          "price": 110,
+          "category": "單點"
+        },
+        {
+          "name": "炙燒舒肥嫩肩牛",
+          "price": 100,
+          "category": "單點"
+        },
+        {
+          "name": "炙燒蒜香骰子豬",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "香烤挪威鮭魚",
+          "price": 195,
+          "category": "單點"
+        },
+        {
+          "name": "森度青蘋醋飲",
+          "price": 35,
+          "category": "飲品"
+        },
+        {
+          "name": "四季春冷泡茶",
+          "price": 35,
+          "category": "飲品"
+        },
+        {
+          "name": "阿里山冷泡茶",
+          "price": 35,
+          "category": "飲品"
+        }
+      ]
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=561484",
+    "menuCheckedAt": "2026-11-18",
+    "hours": "週一至週日 11:00–19:30（店家公告）",
+    "lineUrl": "https://lin.ee/4ZIpdbM"
+  },
+  {
+    "id": "dbd-59224",
+    "slug": "金國排骨-同慶路",
+    "name": "金國排骨",
+    "city": "高雄市",
+    "district": "苓雅區",
+    "address": "同慶路80號",
+    "cuisine": "排骨飯、雞腿飯、便當",
+    "cuisineTags": [
+      "排骨飯",
+      "便當"
+    ],
+    "phone": "07-223-7857",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=59224",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/08/19、第 13 版）店家公告「10-15個便當 就可以外送」；愛食記、熱血南臺灣、Uber Eats 與多篇食記皆列同地址 高雄市苓雅區同慶路80號、電話 07-223-7857，仍在營業；本站無同電話店家。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=59224；Checked: 2026-11-18",
+    "checkedAt": "2026-11-18",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261118",
+    "confidence": "medium",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "10-15個便當",
+    "orderChannel": "dinbendon",
+    "deliverySummary": "訂便當網店家頁：「10-15個便當 就可以外送」",
+    "deliverAreas": [
+      "高雄市苓雅區"
+    ],
+    "deliverySource": "https://dinbendon.net/do/idine?shop=59224",
+    "deliveryCheckedAt": "2026-11-18",
+    "menu": {
+      "items": [
+        {
+          "name": "炸排骨（飯）",
+          "price": 110,
+          "category": "主餐類"
+        },
+        {
+          "name": "炸排骨（麵）",
+          "price": 110,
+          "category": "主餐類"
+        },
+        {
+          "name": "炸雞腿（飯）",
+          "price": 130,
+          "category": "主餐類"
+        },
+        {
+          "name": "炸雞腿（麵）",
+          "price": 130,
+          "category": "主餐類"
+        },
+        {
+          "name": "炸雞排（飯）",
+          "price": 120,
+          "category": "主餐類"
+        },
+        {
+          "name": "炸雞排（麵）",
+          "price": 120,
+          "category": "主餐類"
+        },
+        {
+          "name": "滷排骨（飯）",
+          "price": 110,
+          "category": "主餐類"
+        },
+        {
+          "name": "滷排骨（麵）",
+          "price": 110,
+          "category": "主餐類"
+        },
+        {
+          "name": "滷雞腿（飯）",
+          "price": 130,
+          "category": "主餐類"
+        },
+        {
+          "name": "滷雞腿（麵）",
+          "price": 130,
+          "category": "主餐類"
+        },
+        {
+          "name": "鱈魚(大比目魚)（飯）",
+          "price": 160,
+          "category": "主餐類"
+        },
+        {
+          "name": "鱈魚(大比目魚)（麵）",
+          "price": 160,
+          "category": "主餐類"
+        },
+        {
+          "name": "單點排骨（炸）",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單點排骨（滷）",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "單點雞腿（炸）",
+          "price": 100,
+          "category": "單點"
+        },
+        {
+          "name": "單點雞腿（滷）",
+          "price": 100,
+          "category": "單點"
+        },
+        {
+          "name": "單點炸雞排",
+          "price": 90,
+          "category": "單點"
+        },
+        {
+          "name": "炸鱈魚(大比目魚)",
+          "price": 120,
+          "category": "單點"
+        },
+        {
+          "name": "飯菜",
+          "price": 50,
+          "category": "單點"
+        },
+        {
+          "name": "白飯",
+          "price": 10,
+          "category": "單點"
+        },
+        {
+          "name": "乾麵（大）",
+          "price": 55,
+          "category": "單點"
+        },
+        {
+          "name": "乾麵（小）",
+          "price": 45,
+          "category": "單點"
+        }
+      ]
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=59224",
+    "menuCheckedAt": "2026-11-18"
+  },
+  {
+    "id": "dbd-502774",
+    "slug": "懶人炒飯-忠孝二路",
+    "name": "懶人炒飯",
+    "city": "高雄市",
+    "district": "苓雅區",
+    "address": "忠孝二路87號",
+    "cuisine": "炒飯",
+    "cuisineTags": [
+      "炒飯"
+    ],
+    "phone": "0902-305-125",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=502774",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/09/18、第 6 版）店家公告「當日早上9:30分可訂餐」「5公里外送」「大量訂單前一天預訂」「外送低消問店家」；痞客邦食記《懶人炒飯》標示可外送、地址同 高雄市苓雅區忠孝二路87號；本站無同電話店家。下單前請先來電確認。",
+    "source": "https://dinbendon.net/do/idine?shop=502774；Checked: 2026-11-18",
+    "checkedAt": "2026-11-18",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261118",
+    "confidence": "medium",
+    "deliveryMinType": null,
+    "deliveryMinValue": null,
+    "deliveryMinLabel": null,
+    "orderChannel": "dinbendon",
+    "deliverySummary": "訂便當網店家頁：「5公里外送」「當日早上9:30分可訂餐」「大量訂單前一天預訂」「外送低消問店家」",
+    "deliverAreas": [
+      "高雄市苓雅區"
+    ],
+    "deliverySource": "https://dinbendon.net/do/idine?shop=502774",
+    "deliveryCheckedAt": "2026-11-18",
+    "menu": {
+      "items": [
+        {
+          "name": "蛋炒飯（原味）",
+          "price": 50,
+          "category": "炒飯"
+        },
+        {
+          "name": "蛋炒飯（辣味）",
+          "price": 50,
+          "category": "炒飯"
+        },
+        {
+          "name": "肉絲蛋炒飯（原味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "肉絲蛋炒飯（辣味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "蝦仁蛋炒飯（原味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "蝦仁蛋炒飯（辣味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "香腸蛋炒飯（原味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "香腸蛋炒飯（辣味）",
+          "price": 70,
+          "category": "炒飯"
+        },
+        {
+          "name": "燒肉蛋炒飯（原味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "燒肉蛋炒飯（辣味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "泡菜肉絲蛋炒飯（原味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "泡菜肉絲蛋炒飯（辣味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "牛肉蛋炒飯（原味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "牛肉蛋炒飯（辣味）",
+          "price": 80,
+          "category": "炒飯"
+        },
+        {
+          "name": "味噌湯",
+          "price": 15,
+          "category": "湯"
+        }
+      ]
+    },
+    "menuSource": "https://dinbendon.net/do/idine?shop=502774",
+    "menuCheckedAt": "2026-11-18"
   }
 ]
