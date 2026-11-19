@@ -1053,3 +1053,8 @@ body.page-detail{padding-bottom:104px}
 a.cta-tel{white-space:nowrap}
 @media (max-width:360px){.cta-tel .cta-num{font-size:14px}}
 @media (max-width:340px){.cta-btn.cta-tel{font-size:14px;padding:0 6px}.cta-tel .cta-num{font-size:12.5px;margin-left:3px}}
+/* 2026-11-19 店頁菜單看完後的「直接跟店家訂」按鈕（shop/*.html .menu-cta，data-cta="after-menu"） */
+.detail-menu .menu-cta{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:14px 0 6px;padding:12px 14px;background:#fff7e8;border:1px solid #f0dcb8;border-radius:12px}
+.detail-menu .menu-cta-q{flex:1 1 100%;margin:0;font-weight:700;color:#3d2a1c}
+.detail-menu .menu-cta .btn{flex:0 1 auto}
+@media (max-width:480px){.detail-menu .menu-cta .btn{flex:1 1 100%;text-align:center}}
