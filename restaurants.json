@@ -138593,7 +138593,13 @@
     "source": "recycle.epb.taichung.gov.tw",
     "phone": "04-2376-9859",
     "address": "西區南屯路一段23號",
-    "deliverySummary": "10 個以上就外送"
+    "deliverySummary": "10 個以上就外送",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-104.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E5%AE%98%E7%B6%B2%E7%BE%8E%E5%91%B3%E9%A4%90%E9%BB%9E%E5%9C%96_%E7%84%A1%E6%B9%AF.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "美國帶骨牛小排飯"
   },
   {
     "id": "tc-scout-lead-105",
@@ -153851,7 +153857,13 @@
     "source": "hotel.twagoda／safety.idataiwan 轉引訂購文",
     "phone": "07-6217001",
     "address": "岡燕路76號",
-    "deliverySummary": "滿 $100 外送"
+    "deliverySummary": "滿 $100 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/kh-scout-lead-51.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E7%A7%98%E9%86%AC%E9%9B%9E%E8%8F%B2%E5%8A%9B%E6%8E%92%E9%A3%AF.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "秘醬雞菲力排飯"
   },
   {
     "id": "kh-scout-lead-52",
@@ -192919,7 +192931,13 @@
     "orderUrl": "https://www.buygood.com.tw/",
     "phone": "05-2270058",
     "address": "仁愛路238號1樓",
-    "deliverySummary": "滿 $500 免運"
+    "deliverySummary": "滿 $500 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/cy-scout-lead-1.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n07-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "椒鹽雞塊飯"
   },
   {
     "id": "cy-scout-lead-3",
@@ -198892,7 +198910,13 @@
     "orderUrl": "https://www.buygood.com.tw/Stores.asp?Shop_id=360001",
     "phone": "037-365958",
     "address": "中正路1049號",
-    "deliverySummary": "滿 $100 外送"
+    "deliverySummary": "滿 $100 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/ml-scout-lead-8.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n03-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "炸紅糟肉飯"
   },
   {
     "id": "ml-scout-lead-9",
@@ -200727,7 +200751,13 @@
     "source": "txg.twagoda.com/entry/22616076；fonfood store/1025381",
     "phone": "037-551798",
     "address": "博愛街186號",
-    "deliverySummary": "10 個主餐（飯或麵）以上可外送"
+    "deliverySummary": "10 個主餐（飯或麵）以上可外送",
+    "imageUrl": "https://zisong.tw/assets/shops/ml-scout-lead-42.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E9%BB%83%E9%87%91%E5%A1%94%E5%A1%94%E9%B1%88%E9%AD%9A%E6%8E%92%E9%A3%AF1.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "黃金塔塔鱈魚排飯"
   },
   {
     "id": "ml-scout-lead-43",
@@ -202490,9 +202520,9 @@
     "phone": "02-2425-8966",
     "address": "孝三路50號1樓",
     "imageUrl": "https://zisong.tw/assets/shops/kl-scout-lead-26.webp",
-    "imageSource": "https://www.wu-tau.com.tw/",
-    "imageOriginal": "https://www.wu-tau.com.tw/data/product_intro/cover/1583202268932967026.png",
-    "imageCheckedAt": "2026-10-21",
+    "imageSource": "https://www.wu-tau.com/",
+    "imageOriginal": "https://www.wu-tau.com/data/news/cover/1793325748246292710.jpg（官網最新消息「玫瑰油雞翅」圖，裁掉標題字）",
+    "imageCheckedAt": "2026-11-19",
     "menu": {
       "items": [
         {
@@ -202518,7 +202548,9 @@
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=569778",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "6 個以上外送"
+    "deliverySummary": "6 個以上外送",
+    "imageKind": "brand",
+    "imageDish": "玫瑰油雞翅飯包"
   },
   {
     "id": "kl-scout-lead-27",
@@ -466570,7 +466602,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=415135",
     "menuCheckedAt": "2026-10-24",
-    "deliverySummary": "550元以上免外送費；公司行號請在9:00~10:00間訂購"
+    "deliverySummary": "550元以上免外送費；公司行號請在9:00~10:00間訂購",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-415135.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n05-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "滷排骨飯"
   },
   {
     "id": "dbd-219387",
@@ -467029,7 +467067,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=521990",
     "menuCheckedAt": "2026-10-24",
-    "deliverySummary": "滿500可外送"
+    "deliverySummary": "滿500可外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-521990.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n06-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "玫瑰油雞飯"
   },
   {
     "id": "dbd-137937",
@@ -494555,7 +494599,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=547014",
     "menuCheckedAt": "2026-10-27",
-    "deliverySummary": "滿8個便當，可外送"
+    "deliverySummary": "滿8個便當，可外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-547014.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n01-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "炸排骨飯"
   },
   {
     "id": "dbd-605236",
@@ -510431,7 +510481,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=602600",
     "menuCheckedAt": "2026-10-27",
-    "deliverySummary": "5個主餐（飯或麵）以上可外送（14:00-16:00滿100元即可外送）；外送服務費30元，滿650元免外送服務費"
+    "deliverySummary": "5個主餐（飯或麵）以上可外送（14:00-16:00滿100元即可外送）；外送服務費30元，滿650元免外送服務費",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-602600.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E6%A9%99%E6%B1%81%E6%8E%92%E9%AA%A8%E9%A3%AF.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "橙汁排骨冬粉飯"
   },
   {
     "id": "dbd-544982",
@@ -529675,7 +529731,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=519598",
     "menuCheckedAt": "2026-10-28",
-    "deliverySummary": "滿500元外送；外送的要10點前下單"
+    "deliverySummary": "滿500元外送；外送的要10點前下單",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-519598.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E7%95%AA%E8%8C%84%E7%89%9B%E4%B8%89%E5%AF%B6%E9%A3%AF.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "番茄牛三寶飯"
   },
   {
     "id": "dbd-632504",
@@ -563521,7 +563583,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=600391",
     "menuCheckedAt": "2026-10-30",
-    "deliverySummary": "5個主餐（飯或麵）以上可外送；外送服務費30元，訂餐滿650元免外送服務費"
+    "deliverySummary": "5個主餐（飯或麵）以上可外送；外送服務費30元，訂餐滿650元免外送服務費",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-600391.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n09-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "椒麻雞飯"
   },
   {
     "id": "dbd-631762",
@@ -602335,7 +602403,13 @@
     },
     "menuSource": "https://dinbendon.net/do/idine?shop=580843",
     "menuCheckedAt": "2026-10-31",
-    "deliverySummary": "滿500元外送，10:30前訂"
+    "deliverySummary": "滿500元外送，10:30前訂",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-580843.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E8%B1%AC%E8%85%B3%E8%B9%84%E8%86%80%E9%A3%AF.png（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "香滷豬腳蹄膀飯"
   },
   {
     "id": "dbd-150734",
@@ -647127,7 +647201,13 @@
       ]
     },
     "menuSource": "https://www.dinbendon.net/do/idine?shop=417493",
-    "menuCheckedAt": "2026-11-08"
+    "menuCheckedAt": "2026-11-08",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-417493.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/%E6%A4%92%E9%B9%BD%E9%9B%9E%E8%8F%B2%E5%8A%9B%E6%8E%92%E9%A3%AF.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "椒鹽雞菲力排飯"
   },
   {
     "id": "dbd-82916",
@@ -648409,7 +648489,13 @@
     "lng": 121.6055562,
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
-    "deliveryMinLabel": "滿 $500 外送"
+    "deliveryMinLabel": "滿 $500 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-531820.webp",
+    "imageSource": "https://www.buygood.com.tw/index0106.asp?t=3&dt=99",
+    "imageOriginal": "https://www.buygood.com.tw/images/n02-L.jpg（裁掉角落品名字）",
+    "imageCheckedAt": "2026-11-19",
+    "imageKind": "brand",
+    "imageDish": "炸雞腿飯"
   },
   {
     "id": "dbd-170649",
