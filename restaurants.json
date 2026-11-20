@@ -5214,17 +5214,18 @@
     "deliveryMinLabel": "滿 $300 免運",
     "city": "台北市",
     "deliverySummary": "滿 $300 免運",
-    "imageUrl": "https://zisong.tw/assets/shops/cg-68.webp",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-69.webp",
     "imageSource": "https://www.vegetsai.com.tw/",
-    "imageOriginal": "https://www.vegetsai.com.tw/img/C_2000X1463.webp",
-    "imageCheckedAt": "2026-10-30",
+    "imageOriginal": "https://www.vegetsai.com.tw/img/E_opt.jpg",
+    "imageCheckedAt": "2026-11-20",
     "imageKind": "brand",
     "deliverAreas": [
       "台北市中正區",
       "台北市萬華區"
     ],
     "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
-    "deliverAreasCheckedAt": "2026-11-03"
+    "deliverAreasCheckedAt": "2026-11-03",
+    "imageDish": "蔬食粥（官網餐點照）"
   },
   {
     "id": "cg-70",
@@ -234319,8 +234320,10 @@
     "deliverySummary": "滿 $400 外送",
     "imageUrl": "https://zisong.tw/assets/shops/tc-freeze-ch-20260929-004.webp",
     "imageSource": "https://fukdupfriedchicken.oddle.me",
-    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/80ac6c2.jpg",
-    "imageCheckedAt": "2026-10-27"
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/17c22d.jpg",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "披薩雞腿排"
   },
   {
     "id": "tc-freeze-ch-20260929-005",
@@ -264660,8 +264663,8 @@
     "deliveryFee": 60,
     "imageUrl": "https://zisong.tw/assets/shops/oddle-fukdupfriedchicken-banqiao.webp",
     "imageSource": "https://fukdupfriedchicken.oddle.me",
-    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/80ac6c2.jpg",
-    "imageCheckedAt": "2026-10-22",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/54fa9c.jpg",
+    "imageCheckedAt": "2026-11-20",
     "menu": {
       "items": [
         {
@@ -264821,7 +264824,9 @@
     },
     "menuSource": "https://fukdupfriedchicken.oddle.me",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $400 外送"
+    "deliverySummary": "滿 $400 外送",
+    "imageKind": "brand",
+    "imageDish": "卡拉雞排"
   },
   {
     "id": "oddle-sinchew-banqiao",
@@ -435431,7 +435436,121 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/products/20241204143141fp0wf.png",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "咔滋脆皮炸雞"
+    "imageDish": "咔滋脆皮炸雞",
+    "menu": {
+      "items": [
+        {
+          "name": "早-起司蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥脆雞堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-薯香蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬牛肉堡",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬嫩煎雞腿堡",
+          "price": 99,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司嫩煎蛋雞腿堡",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥炸雞卷",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-南洋炸雞卷",
+          "price": 119,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡超值餐",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡超值餐",
+          "price": 69,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡超值餐",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "薯香蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 129,
+          "category": "早餐"
+        },
+        {
+          "name": "起司嫩煎蛋雞腿堡餐",
+          "price": 139,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥炸雞卷餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 149,
+          "category": "早餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "薯餅",
+          "price": 38,
+          "category": "早餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/jGVkZkR",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 早上看到的早餐時段品項；午晚餐品項不同，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/jGVkZkR",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd106",
@@ -435468,7 +435587,91 @@
     "imageSource": "https://www.dicos.com.tw/",
     "imageOriginal": "https://www.dicos.com.tw/upload/products/202412041410580f0ff.png",
     "imageCheckedAt": "2026-10-30",
-    "imageKind": "brand"
+    "imageKind": "brand",
+    "menu": {
+      "items": [
+        {
+          "name": "新開幕獨享餐",
+          "price": 99,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕黑金手槍腿餐",
+          "price": 199,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕雞腿堡餐",
+          "price": 179,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金手槍腿餐",
+          "price": 249,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金雞腿堡餐",
+          "price": 229,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-香酥脆雞堡餐",
+          "price": 69,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-南洋炸雞卷餐",
+          "price": 129,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-椒香雞腿堡餐",
+          "price": 129,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-檸香雞腿堡餐",
+          "price": 129,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-黃金Q蝦堡餐",
+          "price": 149,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-炸雞中薯餐",
+          "price": 129,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-卡滋脆皮手槍腿餐",
+          "price": 159,
+          "category": "活動專區"
+        },
+        {
+          "name": "銘-卡滋脆皮炸雞餐",
+          "price": 160,
+          "category": "活動專區"
+        },
+        {
+          "name": "",
+          "price": 249,
+          "category": "分享餐"
+        },
+        {
+          "name": "銘-5塊炸雞桶",
+          "price": 319,
+          "category": "分享餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/dmzgSN4",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/dmzgSN4",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd220",
@@ -435506,7 +435709,141 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/products/202610201201520hjri.png（裁掉上方標題與下方過敏原說明字）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "黑金脆皮手槍腿餐"
+    "imageDish": "黑金脆皮手槍腿餐",
+    "menu": {
+      "items": [
+        {
+          "name": "新開幕獨享餐",
+          "price": 99,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕黑金手槍腿餐",
+          "price": 199,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕雞腿堡餐",
+          "price": 179,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金萬聖節雙響餐",
+          "price": 389,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金手槍腿餐",
+          "price": 249,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金雞腿堡餐",
+          "price": 229,
+          "category": "活動專區"
+        },
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "活動專區"
+        },
+        {
+          "name": "",
+          "price": 319,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-大口吃肉手槍腿餐",
+          "price": 149,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-重磅起司雞腿澎湃餐",
+          "price": 245,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-黃金Q蝦堡澎湃餐",
+          "price": 237,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-南洋炸雞卷澎湃餐",
+          "price": 221,
+          "category": "活動專區"
+        },
+        {
+          "name": "卡滋脆皮手槍腿餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "",
+          "price": 130,
+          "category": "獨享餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 114,
+          "category": "獨享餐"
+        },
+        {
+          "name": "重磅起司雞腿堡餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雞腿堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "檸香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "椒香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "雙層香酥脆雞堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 154,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雙牛堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 134,
+          "category": "獨享餐"
+        },
+        {
+          "name": "黃金Q蝦堡餐",
+          "price": 194,
+          "category": "獨享餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 174,
+          "category": "獨享餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/z0ycp54",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/z0ycp54",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd218",
@@ -435544,7 +435881,121 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020120003w5jel.png（裁掉上方標題與下方過敏原說明字）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "黑金萬聖節雙饗餐"
+    "imageDish": "黑金萬聖節雙饗餐",
+    "menu": {
+      "items": [
+        {
+          "name": "早-起司蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥脆雞堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-薯香蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬牛肉堡",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬嫩煎雞腿堡",
+          "price": 99,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司嫩煎蛋雞腿堡",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥炸雞卷",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-南洋炸雞卷",
+          "price": 119,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡超值餐",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡超值餐",
+          "price": 69,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡超值餐",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "薯香蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 129,
+          "category": "早餐"
+        },
+        {
+          "name": "起司嫩煎蛋雞腿堡餐",
+          "price": 139,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥炸雞卷餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 149,
+          "category": "早餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "薯餅",
+          "price": 38,
+          "category": "早餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/Z8yom7V",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 早上看到的早餐時段品項；午晚餐品項不同，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/Z8yom7V",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd216",
@@ -435582,7 +436033,151 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/products/20261020115452lmfui.png（裁掉上方標題與下方過敏原說明字）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "黑金咔滋雞腿堡"
+    "imageDish": "黑金咔滋雞腿堡",
+    "menu": {
+      "items": [
+        {
+          "name": "新開幕獨享餐",
+          "price": 99,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕黑金手槍腿餐",
+          "price": 199,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕雞腿堡餐",
+          "price": 179,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金萬聖節雙響餐",
+          "price": 389,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金手槍腿餐",
+          "price": 249,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金雞腿堡餐",
+          "price": 229,
+          "category": "活動專區"
+        },
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "活動專區"
+        },
+        {
+          "name": "",
+          "price": 319,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-大口吃肉手槍腿餐",
+          "price": 149,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-重磅起司雞腿澎湃餐",
+          "price": 245,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-黃金Q蝦堡澎湃餐",
+          "price": 237,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-南洋炸雞卷澎湃餐",
+          "price": 221,
+          "category": "活動專區"
+        },
+        {
+          "name": "新品和風咖哩炸雞飯套餐",
+          "price": 169,
+          "category": "獨享餐"
+        },
+        {
+          "name": "新品日式照燒嫩雞飯套餐",
+          "price": 169,
+          "category": "獨享餐"
+        },
+        {
+          "name": "卡滋脆皮手槍腿餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "",
+          "price": 130,
+          "category": "獨享餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 114,
+          "category": "獨享餐"
+        },
+        {
+          "name": "重磅起司雞腿堡餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雞腿堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "檸香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "椒香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "雙層香酥脆雞堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 154,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雙牛堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 134,
+          "category": "獨享餐"
+        },
+        {
+          "name": "黃金Q蝦堡餐",
+          "price": 194,
+          "category": "獨享餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 174,
+          "category": "獨享餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/TlDtdyE",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/TlDtdyE",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd209",
@@ -435620,7 +436215,121 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_01(1).png（裁掉左上「線上訂餐專屬」標籤）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "雞腿堡＋雞塊套餐（官網線上點餐圖）"
+    "imageDish": "雞腿堡＋雞塊套餐（官網線上點餐圖）",
+    "menu": {
+      "items": [
+        {
+          "name": "早-起司蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥脆雞堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-薯香蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬牛肉堡",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬嫩煎雞腿堡",
+          "price": 99,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司嫩煎蛋雞腿堡",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥炸雞卷",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-南洋炸雞卷",
+          "price": 119,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡超值餐",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡超值餐",
+          "price": 69,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡超值餐",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "薯香蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 129,
+          "category": "早餐"
+        },
+        {
+          "name": "起司嫩煎蛋雞腿堡餐",
+          "price": 139,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥炸雞卷餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 149,
+          "category": "早餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "薯餅",
+          "price": 38,
+          "category": "早餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/ZlpfkQK",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 早上看到的早餐時段品項；午晚餐品項不同，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/ZlpfkQK",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd202",
@@ -435658,7 +436367,121 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_02(1).png（裁掉左上「線上訂餐專屬」標籤）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "捲餅＋雞塊套餐（官網線上點餐圖）"
+    "imageDish": "捲餅＋雞塊套餐（官網線上點餐圖）",
+    "menu": {
+      "items": [
+        {
+          "name": "早-起司蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥脆雞堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-薯香蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬牛肉堡",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬嫩煎雞腿堡",
+          "price": 99,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司嫩煎蛋雞腿堡",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥炸雞卷",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-南洋炸雞卷",
+          "price": 119,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡超值餐",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡超值餐",
+          "price": 69,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡超值餐",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "薯香蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 129,
+          "category": "早餐"
+        },
+        {
+          "name": "起司嫩煎蛋雞腿堡餐",
+          "price": 139,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥炸雞卷餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 149,
+          "category": "早餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "薯餅",
+          "price": 38,
+          "category": "早餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/a9ueluY",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 早上看到的早餐時段品項；午晚餐品項不同，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/a9ueluY",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd217",
@@ -435690,7 +436513,127 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd217",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "新開幕獨享餐",
+          "price": 99,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕黑金手槍腿餐",
+          "price": 199,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕雞腿堡餐",
+          "price": 179,
+          "category": "活動專區"
+        },
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "活動專區"
+        },
+        {
+          "name": "",
+          "price": 319,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-重磅起司雞腿澎湃餐",
+          "price": 245,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-黃金Q蝦堡澎湃餐",
+          "price": 237,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-南洋炸雞卷澎湃餐",
+          "price": 221,
+          "category": "活動專區"
+        },
+        {
+          "name": "卡滋脆皮手槍腿餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "",
+          "price": 130,
+          "category": "獨享餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 114,
+          "category": "獨享餐"
+        },
+        {
+          "name": "重磅起司雞腿堡餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雞腿堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "檸香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "椒香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "雙層香酥脆雞堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 154,
+          "category": "獨享餐"
+        },
+        {
+          "name": "鳳梨鮮蔬雙牛堡餐",
+          "price": 184,
+          "category": "獨享餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 134,
+          "category": "獨享餐"
+        },
+        {
+          "name": "黃金Q蝦堡餐",
+          "price": 194,
+          "category": "獨享餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 174,
+          "category": "獨享餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/IRRU5lJ",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/IRRU5lJ",
+    "menuCheckedAt": "2026-11-20",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd217.webp",
+    "imageSource": "https://www.dicos.com.tw/products/lunch-dinner-burgers/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202412041449079dz05.png",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "重磅起司雞腿堡"
   },
   {
     "id": "dicos-twd204",
@@ -435722,7 +436665,122 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd204",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "menu": {
+      "items": [
+        {
+          "name": "新開幕獨享餐",
+          "price": 99,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕黑金手槍腿餐",
+          "price": 199,
+          "category": "活動專區"
+        },
+        {
+          "name": "新開幕雞腿堡餐",
+          "price": 179,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金萬聖節雙響餐",
+          "price": 389,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金手槍腿餐",
+          "price": 249,
+          "category": "活動專區"
+        },
+        {
+          "name": "黑金雞腿堡餐",
+          "price": 229,
+          "category": "活動專區"
+        },
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-大口吃肉手槍腿餐",
+          "price": 149,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-重磅起司雞腿澎湃餐",
+          "price": 245,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-黃金Q蝦堡澎湃餐",
+          "price": 237,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-南洋炸雞卷澎湃餐",
+          "price": 221,
+          "category": "活動專區"
+        },
+        {
+          "name": "卡滋脆皮手槍腿餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "",
+          "price": 130,
+          "category": "獨享餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 114,
+          "category": "獨享餐"
+        },
+        {
+          "name": "重磅起司雞腿堡餐",
+          "price": 204,
+          "category": "獨享餐"
+        },
+        {
+          "name": "檸香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "椒香雞腿堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "雙層香酥脆雞堡餐",
+          "price": 174,
+          "category": "獨享餐"
+        },
+        {
+          "name": "黃金Q蝦堡餐",
+          "price": 194,
+          "category": "獨享餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 174,
+          "category": "獨享餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/FQfLYrF",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/FQfLYrF",
+    "menuCheckedAt": "2026-11-20",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd204.webp",
+    "imageSource": "https://www.dicos.com.tw/products/lunch-dinner-burgers/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202412041454037xwz2.png",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "黃金Q蝦堡"
   },
   {
     "id": "dicos-twd104",
@@ -435760,7 +436818,121 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_03(2).png（裁掉左上「線上訂餐專屬」標籤）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "起司雞腿堡＋雞塊套餐（官網線上點餐圖）"
+    "imageDish": "起司雞腿堡＋雞塊套餐（官網線上點餐圖）",
+    "menu": {
+      "items": [
+        {
+          "name": "早-起司蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥脆雞堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-薯香蛋堡",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬牛肉堡",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司鮮蔬嫩煎雞腿堡",
+          "price": 99,
+          "category": "早餐"
+        },
+        {
+          "name": "早-起司嫩煎蛋雞腿堡",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "早-香酥炸雞卷",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "早-南洋炸雞卷",
+          "price": 119,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡超值餐",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡超值餐",
+          "price": 69,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡超值餐",
+          "price": 79,
+          "category": "早餐"
+        },
+        {
+          "name": "薯香蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司蛋堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥脆雞堡餐",
+          "price": 89,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬牛肉堡餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "起司鮮蔬嫩煎雞腿堡餐",
+          "price": 129,
+          "category": "早餐"
+        },
+        {
+          "name": "起司嫩煎蛋雞腿堡餐",
+          "price": 139,
+          "category": "早餐"
+        },
+        {
+          "name": "香酥炸雞卷餐",
+          "price": 109,
+          "category": "早餐"
+        },
+        {
+          "name": "南洋炸雞卷餐",
+          "price": 149,
+          "category": "早餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "早餐"
+        },
+        {
+          "name": "薯餅",
+          "price": 38,
+          "category": "早餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/wS7y3dy",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 早上看到的早餐時段品項；午晚餐品項不同，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/wS7y3dy",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd212",
@@ -435798,7 +436970,106 @@
     "imageOriginal": "https://www.dicos.com.tw/upload/images/640X640%20%E5%95%86%E5%9C%96_04(1).png（裁掉左上「線上訂餐專屬」標籤）",
     "imageCheckedAt": "2026-11-17",
     "imageKind": "brand",
-    "imageDish": "脆皮手槍腿套餐（官網線上點餐圖）"
+    "imageDish": "脆皮手槍腿套餐（官網線上點餐圖）",
+    "menu": {
+      "items": [
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "活動專區"
+        },
+        {
+          "name": "W-黃金Q蝦堡澎湃餐",
+          "price": 237,
+          "category": "活動專區"
+        },
+        {
+          "name": "黃金Q蝦堡餐",
+          "price": 194,
+          "category": "獨享餐"
+        },
+        {
+          "name": "",
+          "price": 249,
+          "category": "分享餐"
+        },
+        {
+          "name": "",
+          "price": 389,
+          "category": "分享餐"
+        },
+        {
+          "name": "黃金Q蝦堡",
+          "price": 139,
+          "category": "炸雞/漢堡"
+        },
+        {
+          "name": "爽吃歡樂拼盤",
+          "price": 239,
+          "category": "副餐"
+        },
+        {
+          "name": "4塊雞塊",
+          "price": 59,
+          "category": "副餐"
+        },
+        {
+          "name": "香辣雞翅",
+          "price": 55,
+          "category": "副餐"
+        },
+        {
+          "name": "BBQ烤翅",
+          "price": 55,
+          "category": "副餐"
+        },
+        {
+          "name": "洋蔥圈",
+          "price": 49,
+          "category": "副餐"
+        },
+        {
+          "name": "酥炸杏鮑菇",
+          "price": 69,
+          "category": "副餐"
+        },
+        {
+          "name": "大薯",
+          "price": 63,
+          "category": "副餐"
+        },
+        {
+          "name": "中薯",
+          "price": 53,
+          "category": "副餐"
+        },
+        {
+          "name": "地瓜薯霸(大)",
+          "price": 63,
+          "category": "副餐"
+        },
+        {
+          "name": "地瓜薯霸(中)",
+          "price": 53,
+          "category": "副餐"
+        },
+        {
+          "name": "紫金QQ球",
+          "price": 45,
+          "category": "副餐"
+        },
+        {
+          "name": "香濃乳酪條",
+          "price": 79,
+          "category": "副餐"
+        }
+      ],
+      "source": "https://omni.wixtar.com/s/AjUn0ag",
+      "fetchedOn": "2026-11-20",
+      "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
+    },
+    "menuSource": "https://omni.wixtar.com/s/AjUn0ag",
+    "menuCheckedAt": "2026-11-20"
   },
   {
     "id": "dicos-twd207",
@@ -435830,7 +437101,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd207",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd207.webp",
+    "imageSource": "https://www.dicos.com.tw/products/crispy-fried-chicken/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20241204140913ki9lr.jpg",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "椒麻咔滋脆皮手槍腿"
   },
   {
     "id": "ruikee-beian",
@@ -652895,5 +654172,501 @@
       "高雄市三民區"
     ],
     "hours": "11:00–20:00，週日公休"
+  },
+  {
+    "id": "dbd-432702",
+    "source": "https://dinbendon.net/do/idine?shop=432702；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=432702",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=432702",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=432702",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "羊肉燴飯",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒飯",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒麵",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒米粉",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉燴飯",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉炒麵",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉炒米粉",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉米粉湯",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉湯麵",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉米粉湯",
+          "price": 80,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉湯麵",
+          "price": 80,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉冬粉",
+          "price": 110,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "麻油炒飯",
+          "price": 110,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "白飯",
+          "price": 10,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "沙茶羊肉",
+          "price": 110,
+          "category": "快炒類"
+        },
+        {
+          "name": "沙茶豬肉",
+          "price": 100,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油骨髓",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油羊肉",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "苦瓜豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "苦瓜羊肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊肉",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "涼拌羊肚",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "涼拌羊腩",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊肚",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊腩",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "當歸羊肉湯",
+          "price": 80,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸排骨湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸大骨湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸羊肚湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸骨髓湯",
+          "price": 100,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸豬肉湯",
+          "price": 70,
+          "category": "當歸湯類"
+        }
+      ]
+    },
+    "slug": "好口味羊肉店-鎮興路",
+    "name": "好口味羊肉店",
+    "address": "鎮興路129號之一",
+    "cuisine": "羊肉燴飯、羊肉炒麵、當歸羊肉湯、快炒",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "0968-574-133、0939-955-780",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/09/11、第 10 版）店家公告「星期四店休，滿300送」、說明「營業時間 11：00 ~ 13:30，星期四店休」；食記（iceo.tw 2026/01）列同店名與地址 高雄市前鎮區鎮興路129號之一；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿300",
+    "deliverySummary": "訂便當網店家頁：「星期四店休，滿300送」",
+    "hours": "11:00–13:30，週四公休"
+  },
+  {
+    "id": "dbd-552183",
+    "source": "https://dinbendon.net/do/idine?shop=552183；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=552183",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=552183",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=552183",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "小籠湯包 5顆",
+          "price": 60,
+          "category": "湯包"
+        },
+        {
+          "name": "小籠湯包 7顆",
+          "price": 75,
+          "category": "湯包"
+        },
+        {
+          "name": "小籠湯包 9顆",
+          "price": 90,
+          "category": "湯包"
+        },
+        {
+          "name": "炒麵 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒麵 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉麵 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉麵 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "蘿蔔湯",
+          "price": 35,
+          "category": "湯品"
+        },
+        {
+          "name": "魚丸湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "貢丸湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "豬血湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "小腸豬血湯",
+          "price": 65,
+          "category": "湯品"
+        },
+        {
+          "name": "煙燻豆皮",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌海帶",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "煙燻豬耳",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "蜜香黑豆",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌干絲",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌黃瓜",
+          "price": 40,
+          "category": "小菜"
+        }
+      ]
+    },
+    "slug": "小盛豐湯包-文橫三路",
+    "name": "小盛豐湯包",
+    "address": "文橫三路166號",
+    "cuisine": "小籠湯包、炒麵、炒米粉、湯品",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "0906-390-247",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/07/06、第 6 版）店家公告「700送」；店家自己的 Facebook 粉專（facebook.com/xiaoshengfung）、LINE 官方帳號、食記皆列同地址 高雄市前鎮區文橫三路166號、電話 0906-390-247；本站無同電話店家。飲品價格未列入。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 700,
+    "deliveryMinLabel": "滿$700",
+    "deliverySummary": "訂便當網店家頁：「700送」",
+    "hours": "每日 06:00–14:00",
+    "officialUrl": "https://www.facebook.com/xiaoshengfung"
+  },
+  {
+    "id": "dbd-321321",
+    "source": "https://dinbendon.net/do/idine?shop=321321；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=321321",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=321321",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=321321",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "碗粿",
+          "price": 35
+        },
+        {
+          "name": "肉粽",
+          "price": 55
+        },
+        {
+          "name": "花生粽",
+          "price": 45
+        },
+        {
+          "name": "肉羹湯 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹湯 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹麵 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹麵 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹米粉 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹米粉 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹米粉麵 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹米粉麵 小",
+          "price": 65
+        },
+        {
+          "name": "土魠魚羹湯 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚羹湯 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚麵羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚麵羹 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚米粉羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚米粉羹 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚米粉麵羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚米粉麵羹 小",
+          "price": 70
+        },
+        {
+          "name": "綜合羹湯 大",
+          "price": 95
+        },
+        {
+          "name": "綜合羹湯 小",
+          "price": 75
+        },
+        {
+          "name": "綜合麵羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合麵羹 小",
+          "price": 75
+        },
+        {
+          "name": "綜合米粉羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合米粉羹 小",
+          "price": 75
+        },
+        {
+          "name": "綜合米粉麵羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合米粉麵羹 小",
+          "price": 75
+        },
+        {
+          "name": "單點炸魚",
+          "price": 75
+        },
+        {
+          "name": "蔬活湯",
+          "price": 65
+        }
+      ]
+    },
+    "slug": "甲仙碗粿肉粽-復興三路",
+    "name": "甲仙碗粿肉粽",
+    "address": "復興三路127號",
+    "cuisine": "碗粿、肉粽、肉羹、土魠魚羹",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "07-331-6779",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/01/09、第 15 版）店家公告「中午可外送，當天9:30前訂餐」「需依照路線安排」；愛食記、食尚玩家、高雄美食地圖皆列同地址 高雄市前鎮區復興三路127號、電話 07-331-6779；本站無同電話店家。下單前請先來電確認。",
+    "deliverySummary": "訂便當網店家頁：「中午可外送，當天9:30前訂餐」「需依照路線安排」",
+    "hours": "每日 06:30–15:00"
   }
 ]
