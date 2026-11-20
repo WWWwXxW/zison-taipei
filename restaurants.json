@@ -5214,17 +5214,18 @@
     "deliveryMinLabel": "滿 $300 免運",
     "city": "台北市",
     "deliverySummary": "滿 $300 免運",
-    "imageUrl": "https://zisong.tw/assets/shops/cg-68.webp",
+    "imageUrl": "https://zisong.tw/assets/shops/cg-69.webp",
     "imageSource": "https://www.vegetsai.com.tw/",
-    "imageOriginal": "https://www.vegetsai.com.tw/img/C_2000X1463.webp",
-    "imageCheckedAt": "2026-10-30",
+    "imageOriginal": "https://www.vegetsai.com.tw/img/E_opt.jpg",
+    "imageCheckedAt": "2026-11-20",
     "imageKind": "brand",
     "deliverAreas": [
       "台北市中正區",
       "台北市萬華區"
     ],
     "deliverAreasSource": "https://www.vegetsai.com.tw/branches.html",
-    "deliverAreasCheckedAt": "2026-11-03"
+    "deliverAreasCheckedAt": "2026-11-03",
+    "imageDish": "蔬食粥（官網餐點照）"
   },
   {
     "id": "cg-70",
@@ -234319,8 +234320,10 @@
     "deliverySummary": "滿 $400 外送",
     "imageUrl": "https://zisong.tw/assets/shops/tc-freeze-ch-20260929-004.webp",
     "imageSource": "https://fukdupfriedchicken.oddle.me",
-    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/80ac6c2.jpg",
-    "imageCheckedAt": "2026-10-27"
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/17c22d.jpg",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "披薩雞腿排"
   },
   {
     "id": "tc-freeze-ch-20260929-005",
@@ -264660,8 +264663,8 @@
     "deliveryFee": 60,
     "imageUrl": "https://zisong.tw/assets/shops/oddle-fukdupfriedchicken-banqiao.webp",
     "imageSource": "https://fukdupfriedchicken.oddle.me",
-    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/80ac6c2.jpg",
-    "imageCheckedAt": "2026-10-22",
+    "imageOriginal": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/54fa9c.jpg",
+    "imageCheckedAt": "2026-11-20",
     "menu": {
       "items": [
         {
@@ -264821,7 +264824,9 @@
     },
     "menuSource": "https://fukdupfriedchicken.oddle.me",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $400 外送"
+    "deliverySummary": "滿 $400 外送",
+    "imageKind": "brand",
+    "imageDish": "卡拉雞排"
   },
   {
     "id": "oddle-sinchew-banqiao",
