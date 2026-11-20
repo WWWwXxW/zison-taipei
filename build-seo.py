@@ -277,6 +277,23 @@ DISTRICTS = [
 DISTRICT_SLUG = {name: slug for name, slug in DISTRICTS}
 DISTRICT_NAME = {slug: name for name, slug in DISTRICTS}
 
+# Staged rollout (founder 2026-11-20): only districts whose guide is already
+# "Submitted and indexed" (or neither side is indexed). Canonicalize the district
+# page to the guide; keep the page live and linked; do not noindex. Omit these
+# district URLs from the sitemap. Leave daan-bento, zhongshan-delivery, editorial
+# guides, and the other 21 near-duplicate districts untouched until their guide
+# is Submitted and indexed.
+DISTRICT_CANONICAL_TO_GUIDE = {
+    "banqiao": "guide/banqiao-delivery.html",
+    "daan": "guide/daan-delivery.html",
+    "datong": "guide/datong-delivery.html",
+    "neihu": "guide/neihu-delivery.html",
+    "sanchong": "guide/sanchong-delivery.html",
+    "songshan": "guide/songshan-delivery.html",
+    "wanhua": "guide/wanhua-delivery.html",
+}
+
+
 CITY_ORDER = ["台北市", "新北市", "桃園市", "新竹市", "新竹縣", "台中市", "彰化市", "彰化縣", "雲林縣", "嘉義市", "嘉義縣", "台南市", "高雄市"]
 
 # District → city (same partitions as DISTRICTS list above)
@@ -502,6 +519,8 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
     else:
         filt_d = quote(name)
     city_q = f"&city={quote(city)}" if city else ""
+    guide_path = DISTRICT_CANONICAL_TO_GUIDE.get(slug)
+    canon_href = f"{BASE}/{guide_path}" if guide_path else f"{BASE}/district/{slug}.html"
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -510,7 +529,7 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1277341561644861" crossorigin="anonymous"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="{escape_html(desc)}" />
-  <link rel="canonical" href="{BASE}/district/{slug}.html" />
+  <link rel="canonical" href="{canon_href}" />
   <title>{escape_html(seo_title)}</title>
   <meta property="og:title" content="{escape_html(seo_title)}" />
   <meta property="og:description" content="{escape_html(desc)}" />
@@ -648,11 +667,13 @@ def cuisine_page(slug: str, label: str, items: list[dict], all_cuisine_counts: l
 def build_sitemap(district_slugs: list[str], cuisine_slugs: list[str]) -> str:
     urls = [
         ("/", 1.0, "weekly"),
-        ("/index.html", 1.0, "weekly"),
+        # Do not list /index.html: GitHub Pages serves it as the same document as /, and index.html already canonicalizes to https://zisong.tw/.
         ("/about.html", 0.5, "monthly"),
         ("/privacy.html", 0.3, "yearly"),
     ]
     for s in district_slugs:
+        if s in DISTRICT_CANONICAL_TO_GUIDE:
+            continue
         urls.append((f"/district/{s}.html", 0.8, "weekly"))
     for s in cuisine_slugs:
         urls.append((f"/cuisine/{s}.html", 0.7, "weekly"))
