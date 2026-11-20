@@ -652900,5 +652900,501 @@
       "高雄市三民區"
     ],
     "hours": "11:00–20:00，週日公休"
+  },
+  {
+    "id": "dbd-432702",
+    "source": "https://dinbendon.net/do/idine?shop=432702；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=432702",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=432702",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=432702",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "羊肉燴飯",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒飯",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒麵",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉炒米粉",
+          "price": 100,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉燴飯",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉炒麵",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉炒米粉",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉米粉湯",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉湯麵",
+          "price": 90,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉米粉湯",
+          "price": 80,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "豬肉湯麵",
+          "price": 80,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "羊肉冬粉",
+          "price": 110,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "麻油炒飯",
+          "price": 110,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "白飯",
+          "price": 10,
+          "category": "燴飯/炒麵"
+        },
+        {
+          "name": "沙茶羊肉",
+          "price": 110,
+          "category": "快炒類"
+        },
+        {
+          "name": "沙茶豬肉",
+          "price": 100,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油骨髓",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油羊肉",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "麻油豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "苦瓜豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "苦瓜羊肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆豬肉",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊肉",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "涼拌羊肚",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "涼拌羊腩",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊肚",
+          "price": 130,
+          "category": "快炒類"
+        },
+        {
+          "name": "蔥爆羊腩",
+          "price": 140,
+          "category": "快炒類"
+        },
+        {
+          "name": "當歸羊肉湯",
+          "price": 80,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸排骨湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸大骨湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸羊肚湯",
+          "price": 90,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸骨髓湯",
+          "price": 100,
+          "category": "當歸湯類"
+        },
+        {
+          "name": "當歸豬肉湯",
+          "price": 70,
+          "category": "當歸湯類"
+        }
+      ]
+    },
+    "slug": "好口味羊肉店-鎮興路",
+    "name": "好口味羊肉店",
+    "address": "鎮興路129號之一",
+    "cuisine": "羊肉燴飯、羊肉炒麵、當歸羊肉湯、快炒",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "0968-574-133、0939-955-780",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/09/11、第 10 版）店家公告「星期四店休，滿300送」、說明「營業時間 11：00 ~ 13:30，星期四店休」；食記（iceo.tw 2026/01）列同店名與地址 高雄市前鎮區鎮興路129號之一；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 300,
+    "deliveryMinLabel": "滿300",
+    "deliverySummary": "訂便當網店家頁：「星期四店休，滿300送」",
+    "hours": "11:00–13:30，週四公休"
+  },
+  {
+    "id": "dbd-552183",
+    "source": "https://dinbendon.net/do/idine?shop=552183；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=552183",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=552183",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=552183",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "小籠湯包 5顆",
+          "price": 60,
+          "category": "湯包"
+        },
+        {
+          "name": "小籠湯包 7顆",
+          "price": 75,
+          "category": "湯包"
+        },
+        {
+          "name": "小籠湯包 9顆",
+          "price": 90,
+          "category": "湯包"
+        },
+        {
+          "name": "炒麵 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒麵 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉麵 小",
+          "price": 45,
+          "category": "麵食"
+        },
+        {
+          "name": "炒米粉麵 大",
+          "price": 55,
+          "category": "麵食"
+        },
+        {
+          "name": "蘿蔔湯",
+          "price": 35,
+          "category": "湯品"
+        },
+        {
+          "name": "魚丸湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "貢丸湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "豬血湯",
+          "price": 45,
+          "category": "湯品"
+        },
+        {
+          "name": "小腸豬血湯",
+          "price": 65,
+          "category": "湯品"
+        },
+        {
+          "name": "煙燻豆皮",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌海帶",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "煙燻豬耳",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "蜜香黑豆",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌干絲",
+          "price": 40,
+          "category": "小菜"
+        },
+        {
+          "name": "涼拌黃瓜",
+          "price": 40,
+          "category": "小菜"
+        }
+      ]
+    },
+    "slug": "小盛豐湯包-文橫三路",
+    "name": "小盛豐湯包",
+    "address": "文橫三路166號",
+    "cuisine": "小籠湯包、炒麵、炒米粉、湯品",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "0906-390-247",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/07/06、第 6 版）店家公告「700送」；店家自己的 Facebook 粉專（facebook.com/xiaoshengfung）、LINE 官方帳號、食記皆列同地址 高雄市前鎮區文橫三路166號、電話 0906-390-247；本站無同電話店家。飲品價格未列入。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 700,
+    "deliveryMinLabel": "滿$700",
+    "deliverySummary": "訂便當網店家頁：「700送」",
+    "hours": "每日 06:00–14:00",
+    "officialUrl": "https://www.facebook.com/xiaoshengfung"
+  },
+  {
+    "id": "dbd-321321",
+    "source": "https://dinbendon.net/do/idine?shop=321321；Checked: 2026-11-20",
+    "checkedAt": "2026-11-20",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261120",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=321321",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=321321",
+    "deliveryCheckedAt": "2026-11-20",
+    "menuSource": "https://dinbendon.net/do/idine?shop=321321",
+    "menuCheckedAt": "2026-11-20",
+    "city": "高雄市",
+    "district": "前鎮區",
+    "deliverAreas": [
+      "高雄市前鎮區"
+    ],
+    "menu": {
+      "items": [
+        {
+          "name": "碗粿",
+          "price": 35
+        },
+        {
+          "name": "肉粽",
+          "price": 55
+        },
+        {
+          "name": "花生粽",
+          "price": 45
+        },
+        {
+          "name": "肉羹湯 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹湯 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹麵 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹麵 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹米粉 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹米粉 小",
+          "price": 65
+        },
+        {
+          "name": "肉羹米粉麵 大",
+          "price": 75
+        },
+        {
+          "name": "肉羹米粉麵 小",
+          "price": 65
+        },
+        {
+          "name": "土魠魚羹湯 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚羹湯 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚麵羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚麵羹 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚米粉羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚米粉羹 小",
+          "price": 70
+        },
+        {
+          "name": "土魠魚米粉麵羹 大",
+          "price": 90
+        },
+        {
+          "name": "土魠魚米粉麵羹 小",
+          "price": 70
+        },
+        {
+          "name": "綜合羹湯 大",
+          "price": 95
+        },
+        {
+          "name": "綜合羹湯 小",
+          "price": 75
+        },
+        {
+          "name": "綜合麵羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合麵羹 小",
+          "price": 75
+        },
+        {
+          "name": "綜合米粉羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合米粉羹 小",
+          "price": 75
+        },
+        {
+          "name": "綜合米粉麵羹 大",
+          "price": 95
+        },
+        {
+          "name": "綜合米粉麵羹 小",
+          "price": 75
+        },
+        {
+          "name": "單點炸魚",
+          "price": 75
+        },
+        {
+          "name": "蔬活湯",
+          "price": 65
+        }
+      ]
+    },
+    "slug": "甲仙碗粿肉粽-復興三路",
+    "name": "甲仙碗粿肉粽",
+    "address": "復興三路127號",
+    "cuisine": "碗粿、肉粽、肉羹、土魠魚羹",
+    "cuisineTags": [
+      "小吃",
+      "中式"
+    ],
+    "phone": "07-331-6779",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/01/09、第 15 版）店家公告「中午可外送，當天9:30前訂餐」「需依照路線安排」；愛食記、食尚玩家、高雄美食地圖皆列同地址 高雄市前鎮區復興三路127號、電話 07-331-6779；本站無同電話店家。下單前請先來電確認。",
+    "deliverySummary": "訂便當網店家頁：「中午可外送，當天9:30前訂餐」「需依照路線安排」",
+    "hours": "每日 06:30–15:00"
   }
 ]
