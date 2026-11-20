@@ -436627,7 +436627,13 @@
       "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
     },
     "menuSource": "https://omni.wixtar.com/s/IRRU5lJ",
-    "menuCheckedAt": "2026-11-20"
+    "menuCheckedAt": "2026-11-20",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd217.webp",
+    "imageSource": "https://www.dicos.com.tw/products/lunch-dinner-burgers/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202412041449079dz05.png",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "重磅起司雞腿堡"
   },
   {
     "id": "dicos-twd204",
@@ -436768,7 +436774,13 @@
       "note": "德克士該門市官方線上點餐頁 2026-11-20 上午看到的品項（含新開幕／活動價）；品項依時段變動，請以點餐頁為準。"
     },
     "menuSource": "https://omni.wixtar.com/s/FQfLYrF",
-    "menuCheckedAt": "2026-11-20"
+    "menuCheckedAt": "2026-11-20",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd204.webp",
+    "imageSource": "https://www.dicos.com.tw/products/lunch-dinner-burgers/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/202412041454037xwz2.png",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "黃金Q蝦堡"
   },
   {
     "id": "dicos-twd104",
@@ -437089,7 +437101,13 @@
     "deliveryFee": null,
     "chain": true,
     "slug": "dicos-twd207",
-    "deliverySummary": "店家自己外送，條件請電話問店家"
+    "deliverySummary": "店家自己外送，條件請電話問店家",
+    "imageUrl": "https://zisong.tw/assets/shops/dicos-twd207.webp",
+    "imageSource": "https://www.dicos.com.tw/products/crispy-fried-chicken/1",
+    "imageOriginal": "https://www.dicos.com.tw/upload/products/20241204140913ki9lr.jpg",
+    "imageCheckedAt": "2026-11-20",
+    "imageKind": "brand",
+    "imageDish": "椒麻咔滋脆皮手槍腿"
   },
   {
     "id": "ruikee-beian",
