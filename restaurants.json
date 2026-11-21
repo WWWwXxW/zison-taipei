@@ -396315,7 +396315,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi063.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/A玉米濃湯(小).png",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "玉米濃湯"
   },
   {
     "id": "kfc-twi132",
@@ -407343,7 +407349,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi232.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-花生脆雞堡 單點AB.png（去掉左上「NEW」標籤、裁掉下方說明字）",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "花生脆雞堡"
   },
   {
     "id": "kfc-twi204",
@@ -421371,7 +421383,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi088.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/New-香酥脆薯(中).jpg",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "香酥脆薯（中）"
   },
   {
     "id": "kfc-twi213",
@@ -428886,7 +428904,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi038.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/New-香酥脆薯(小).jpg",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "香酥脆薯（小）"
   },
   {
     "id": "kfc-twi168",
@@ -431892,7 +431916,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi186.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/1117-OLO餐圖-50483.png（去掉左上「限時優惠」標籤、裁掉下方品名字）",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "咔啦脆雞（7塊）"
   },
   {
     "id": "kfc-twi140",
