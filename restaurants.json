@@ -196181,16 +196181,17 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "約 15:00–23:00",
     "evidence": "findglocal 粉專（2026-07–08）明示：「外送：市區🈵500元 三個工業區🈵1000元」",
     "source": "findglocal 2026-08",
     "phone": "05-5324198",
-    "address": "中山路148號"
+    "address": "中山路148號",
+    "deliverySummary": "市區滿 $500、三個工業區滿 $1000 外送"
   },
   {
     "id": "yl-scout-lead-35",
