@@ -196181,16 +196181,17 @@
     "origin": "scout",
     "confidence": "high",
     "checkedAt": "2026-09-22",
-    "deliveryMinType": null,
-    "deliveryMinValue": null,
-    "deliveryMinLabel": null,
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "約 15:00–23:00",
     "evidence": "findglocal 粉專（2026-07–08）明示：「外送：市區🈵500元 三個工業區🈵1000元」",
     "source": "findglocal 2026-08",
     "phone": "05-5324198",
-    "address": "中山路148號"
+    "address": "中山路148號",
+    "deliverySummary": "市區滿 $500、三個工業區滿 $1000 外送"
   },
   {
     "id": "yl-scout-lead-35",
@@ -396314,7 +396315,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi063.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/A玉米濃湯(小).png",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "玉米濃湯"
   },
   {
     "id": "kfc-twi132",
@@ -407342,7 +407349,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi232.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-花生脆雞堡 單點AB.png（去掉左上「NEW」標籤、裁掉下方說明字）",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "花生脆雞堡"
   },
   {
     "id": "kfc-twi204",
@@ -421370,7 +421383,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi088.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/New-香酥脆薯(中).jpg",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "香酥脆薯（中）"
   },
   {
     "id": "kfc-twi213",
@@ -428885,7 +428904,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi038.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/New-香酥脆薯(小).jpg",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "香酥脆薯（小）"
   },
   {
     "id": "kfc-twi168",
@@ -431891,7 +431916,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi186.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/1117-OLO餐圖-50483.png（去掉左上「限時優惠」標籤、裁掉下方品名字）",
+    "imageCheckedAt": "2026-11-21",
+    "imageKind": "brand",
+    "imageDish": "咔啦脆雞（7塊）"
   },
   {
     "id": "kfc-twi140",
@@ -654668,5 +654699,379 @@
     "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/01/09、第 15 版）店家公告「中午可外送，當天9:30前訂餐」「需依照路線安排」；愛食記、食尚玩家、高雄美食地圖皆列同地址 高雄市前鎮區復興三路127號、電話 07-331-6779；本站無同電話店家。下單前請先來電確認。",
     "deliverySummary": "訂便當網店家頁：「中午可外送，當天9:30前訂餐」「需依照路線安排」",
     "hours": "每日 06:30–15:00"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=591282；Checked: 2026-11-21",
+    "checkedAt": "2026-11-21",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261121",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=591282",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=591282",
+    "deliveryCheckedAt": "2026-11-21",
+    "menuSource": "https://dinbendon.net/do/idine?shop=591282",
+    "menuCheckedAt": "2026-11-21",
+    "city": "高雄市",
+    "district": "三民區",
+    "deliverAreas": [
+      "高雄市三民區"
+    ],
+    "id": "dbd-591282",
+    "menu": {
+      "items": [
+        {
+          "name": "牛肉河粉",
+          "price": 140
+        },
+        {
+          "name": "海鮮河粉",
+          "price": 140
+        },
+        {
+          "name": "豬肉河粉",
+          "price": 110
+        },
+        {
+          "name": "雞肉河粉",
+          "price": 110
+        },
+        {
+          "name": "排骨飯",
+          "price": 120
+        },
+        {
+          "name": "香茅魚飯",
+          "price": 120
+        },
+        {
+          "name": "香茅雞飯",
+          "price": 120
+        },
+        {
+          "name": "腿排飯",
+          "price": 120
+        },
+        {
+          "name": "海鮮稀飯",
+          "price": 140
+        },
+        {
+          "name": "涼拌米線",
+          "price": 120
+        },
+        {
+          "name": "排骨涼麵",
+          "price": 120
+        },
+        {
+          "name": "牛肉湯",
+          "price": 130
+        },
+        {
+          "name": "海鮮湯",
+          "price": 130
+        },
+        {
+          "name": "炸排骨",
+          "price": 85
+        },
+        {
+          "name": "炸腿排",
+          "price": 90
+        },
+        {
+          "name": "炸春捲",
+          "price": 110
+        },
+        {
+          "name": "香茅魚",
+          "price": 90
+        },
+        {
+          "name": "生菜手捲",
+          "price": 80
+        },
+        {
+          "name": "涼拌木瓜",
+          "price": 90
+        },
+        {
+          "name": "越南麵包",
+          "price": 100
+        },
+        {
+          "name": "冰黑咖啡",
+          "price": 55
+        },
+        {
+          "name": "冰咖啡牛奶",
+          "price": 70
+        }
+      ]
+    },
+    "slug": "阿貞越式河粉-同盟一路",
+    "name": "阿貞越式河粉",
+    "address": "同盟一路393號",
+    "cuisine": "越式河粉、越南小吃、飯類",
+    "cuisineTags": [
+      "越南",
+      "麵食"
+    ],
+    "phone": "07-311-8889",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/05/15、第 7 版）店家公告「滿500送」、「營業時間11:00-20:00(週日公休)」，外送範圍欄位 高雄市三民區；食記（ㄚ兔到處趣）與店家資訊頁列同店名、地址 高雄市三民區同盟一路393號、電話 07-3118889；Uber Eats 頁面顯示 2024/10 起已停止營業（非外送平台店）；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿500",
+    "deliverySummary": "訂便當網店家頁：「滿500送」",
+    "hours": "11:00–20:00，週日公休（訂便當網店家頁；食記另寫 15:00–17:00 休息，請先來電）"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=626699；Checked: 2026-11-21",
+    "checkedAt": "2026-11-21",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261121",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=626699",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=626699",
+    "deliveryCheckedAt": "2026-11-21",
+    "menuSource": "https://dinbendon.net/do/idine?shop=626699",
+    "menuCheckedAt": "2026-11-21",
+    "city": "高雄市",
+    "district": "三民區",
+    "deliverAreas": [
+      "高雄市三民區"
+    ],
+    "id": "dbd-626699",
+    "menu": {
+      "items": [
+        {
+          "name": "雞腿飯",
+          "price": 120
+        },
+        {
+          "name": "排骨飯",
+          "price": 120
+        },
+        {
+          "name": "魚排飯",
+          "price": 130
+        },
+        {
+          "name": "雙拼(雞腿+排骨)",
+          "price": 135
+        },
+        {
+          "name": "綜合(雞腿+排骨+魚排)",
+          "price": 155
+        },
+        {
+          "name": "單點菜",
+          "price": 30
+        }
+      ]
+    },
+    "slug": "味津排骨大王-中庸街",
+    "name": "味津排骨大王",
+    "address": "中庸街57號",
+    "cuisine": "排骨飯、雞腿飯、魚排飯便當",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "07-231-2919",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/01/08）店家說明「每週三公休，須提早一天訂-10個以上才送」；食記（achingfoodie.tw）與 Google 地圖資料列同店名、地址 高雄市三民區中庸街57號、電話 07-2312919；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 10,
+    "deliveryMinLabel": "10個以上",
+    "deliverySummary": "訂便當網店家頁：「須提早一天訂-10個以上才送」",
+    "hours": "週三公休（訂便當網店家頁）；外送須提早一天訂"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=650555；Checked: 2026-11-21",
+    "checkedAt": "2026-11-21",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261121",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=650555",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=650555",
+    "deliveryCheckedAt": "2026-11-21",
+    "menuSource": "https://dinbendon.net/do/idine?shop=650555",
+    "menuCheckedAt": "2026-11-21",
+    "city": "高雄市",
+    "district": "三民區",
+    "deliverAreas": [
+      "高雄市三民區"
+    ],
+    "id": "dbd-650555",
+    "menu": {
+      "items": [
+        {
+          "name": "原味蛋炒飯（小$80／大$90）",
+          "price": 80,
+          "category": "炒飯類"
+        },
+        {
+          "name": "肉絲蛋炒飯（小$90／大$100）",
+          "price": 90,
+          "category": "炒飯類"
+        },
+        {
+          "name": "茄汁肉絲蛋炒飯（小$95／大$105）",
+          "price": 95,
+          "category": "炒飯類"
+        },
+        {
+          "name": "咖哩肉絲蛋炒飯（小$95／大$105）",
+          "price": 95,
+          "category": "炒飯類"
+        },
+        {
+          "name": "櫻花蝦蛋炒飯（小$100／大$110）",
+          "price": 100,
+          "category": "炒飯類"
+        },
+        {
+          "name": "鮭魚蛋炒飯（小$110／大$120）",
+          "price": 110,
+          "category": "炒飯類"
+        },
+        {
+          "name": "牛肉蛋炒飯（小$110／大$120）",
+          "price": 110,
+          "category": "炒飯類"
+        },
+        {
+          "name": "茄汁牛肉蛋炒飯（小$110／大$120）",
+          "price": 110,
+          "category": "炒飯類"
+        },
+        {
+          "name": "咖哩牛肉蛋炒飯（小$110／大$120）",
+          "price": 110,
+          "category": "炒飯類"
+        },
+        {
+          "name": "蝦仁肉絲蛋炒飯（小$120／大$130）",
+          "price": 120,
+          "category": "炒飯類"
+        },
+        {
+          "name": "蛋包飯",
+          "price": 115,
+          "category": "炒飯類"
+        },
+        {
+          "name": "香腸蛋炒飯（小$110／大$120）",
+          "price": 110,
+          "category": "炒飯類"
+        },
+        {
+          "name": "日式炒烏龍（小$95／大$110）",
+          "price": 95,
+          "category": "炒麵類"
+        },
+        {
+          "name": "日式炒拉麵（小$95／大$110）",
+          "price": 95,
+          "category": "炒麵類"
+        },
+        {
+          "name": "日式炒意麵（小$90／大$105）",
+          "price": 90,
+          "category": "炒麵類"
+        },
+        {
+          "name": "鍋燒烏龍麵（$100／加麵$115）",
+          "price": 100,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒拉麵（$100／加麵$115）",
+          "price": 100,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒意麵（$95／加麵$110）",
+          "price": 95,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒雞絲麵（$95／加麵$110）",
+          "price": 95,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒冬粉（$95／加麵$110）",
+          "price": 95,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒粥（$95／加粥$110）",
+          "price": 95,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "鍋燒湯",
+          "price": 85,
+          "category": "鍋燒類"
+        },
+        {
+          "name": "蛤蜊湯",
+          "price": 50,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "魚丸湯",
+          "price": 40,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "海帶芽蛋花湯",
+          "price": 40,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "櫻花蝦炒高麗菜",
+          "price": 70,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "涼拌小黃瓜",
+          "price": 40,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "柚香蘿蔔",
+          "price": 40,
+          "category": "湯類、小菜"
+        },
+        {
+          "name": "口水雞",
+          "price": 40,
+          "category": "湯類、小菜"
+        }
+      ]
+    },
+    "slug": "久伊食堂-自立一路",
+    "name": "久伊食堂",
+    "address": "自立一路78號",
+    "cuisine": "炒飯、日式炒麵、鍋燒麵",
+    "cuisineTags": [
+      "麵食",
+      "中式"
+    ],
+    "phone": "07-313-3660",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/11/02）店家說明含「千元外送」（說明欄另有使用者雜字，本站只引用外送門檻），外送範圍欄位 高雄市三民區；商業登記（統編 81194316）地址 高雄市三民區自立一路78號1樓（2025/11 遷入）；店家資訊頁同地址、電話 07-3133660；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 1000,
+    "deliveryMinLabel": "滿1000",
+    "deliverySummary": "訂便當網店家頁：「千元外送」",
+    "hours": "請先來電確認（店家資訊頁：週一至週六 11:00–14:00）"
   }
 ]
