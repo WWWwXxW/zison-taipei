@@ -85,6 +85,7 @@
 - 新北土城便當・外送（新北市土城區店家自己外送・依門檻排序・土城捷運站／海山／永寧／頂埔／裕民／學府路／金城路一帶）：https://zisong.tw/guide/tucheng-delivery.html
 - 高雄苓雅便當・外送（高雄市苓雅區店家自己外送・依門檻排序・三多商圈／四維路／五福路／自強夜市／苓雅市場／光華路一帶）：https://zisong.tw/guide/lingya-delivery.html
 - 高雄前鎮便當・外送（高雄市前鎮區店家自己外送・依門檻排序・獅甲／勞工公園／三多商圈南側／夢時代／高雄軟體園區／加工出口區／草衙一帶）：https://zisong.tw/guide/qianzhen-delivery.html
+- 高雄三民便當・外送（高雄市三民區店家自己外送・依門檻排序・高雄車站／高醫／建工路／九如路／十全路／民族路／大順路／三民市場一帶）：https://zisong.tw/guide/sanmin-delivery.html
 - 桃園區便當・外送（桃園市桃園區店家自己外送・依門檻排序・桃園火車站／中正路／藝文特區／經國路／南平路桃園夜市／小檜溪一帶）：https://zisong.tw/guide/taoyuan-district-delivery.html
 - 台北士林便當・外送（台北市士林區店家自己外送・依門檻排序・士林夜市／劍潭／芝山／天母／社子一帶）：https://zisong.tw/guide/shilin-delivery.html
 - 台北南港便當・外送（台北市南港區店家自己外送・依門檻排序・南港車站／南港軟體園區／南港展覽館／昆陽一帶）：https://zisong.tw/guide/nangang-delivery.html
