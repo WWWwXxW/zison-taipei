@@ -1036,6 +1036,9 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,su
 /* 2026-11-10 訂便當網店（看菜單＝第三方菜單頁、不能下單）：固定列改成「打電話訂」實心、「看菜單」外框，與店頁內按鈕一致 */
 .cta-btns:has(.cta-order[href*="dinbendon.net"]) .cta-tel{background:var(--accent);color:#fffdf7}
 .cta-btns .cta-btn.cta-order[href*="dinbendon.net"]{background:#fffdf7;color:var(--accent)}
+/* 2026-11-21 線上點餐只能外帶自取的店、只有電話的店（第二顆＝跳到本頁菜單）：打電話實心、另一顆外框 */
+.cta-btns:has(.cta-pickup) .cta-tel,.cta-btns:has(.cta-menu) .cta-tel{background:var(--accent);color:#fffdf7}
+.cta-btns .cta-btn.cta-pickup,.cta-btns .cta-btn.cta-menu{background:#fffdf7;color:var(--accent)}
 body.page-detail{padding-bottom:104px}
 }
 
