@@ -655121,5 +655121,523 @@
     "deliveryMinLabel": "滿1000",
     "deliverySummary": "訂便當網店家頁：「千元外送」",
     "hours": "請先來電確認（店家資訊頁：週一至週六 11:00–14:00）"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=169586；Checked: 2026-11-22",
+    "checkedAt": "2026-11-22",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261122",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=169586",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=169586",
+    "deliveryCheckedAt": "2026-11-22",
+    "menuSource": "https://dinbendon.net/do/idine?shop=169586",
+    "menuCheckedAt": "2026-11-22",
+    "city": "台北市",
+    "district": "信義區",
+    "deliverAreas": [
+      "台北市信義區"
+    ],
+    "id": "dbd-169586",
+    "menu": {
+      "items": [
+        {
+          "name": "酸辣麵(家常)",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "大滷麵(家常)",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "肉絲炒麵",
+          "price": 80,
+          "category": "麵類"
+        },
+        {
+          "name": "什錦湯麵",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "肉絲湯麵",
+          "price": 80,
+          "category": "麵類"
+        },
+        {
+          "name": "木須炒麵(家常)",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "泡菜炒麵",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "羊肉湯麵",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "羊肉炒麵",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "什錦炒麵",
+          "price": 100,
+          "category": "麵類"
+        },
+        {
+          "name": "泡菜炒飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "蝦仁炒飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "肉絲蛋炒飯",
+          "price": 85,
+          "category": "飯類"
+        },
+        {
+          "name": "玉米蛋炒飯",
+          "price": 90,
+          "category": "飯類"
+        },
+        {
+          "name": "火腿蛋炒飯",
+          "price": 90,
+          "category": "飯類"
+        },
+        {
+          "name": "炒羊肉蓋飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "羊肉燴飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "麻婆燴飯",
+          "price": 90,
+          "category": "飯類"
+        },
+        {
+          "name": "什錦燴飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "蛋包飯",
+          "price": 100,
+          "category": "飯類"
+        },
+        {
+          "name": "燙青菜",
+          "price": 55,
+          "category": "炒菜類"
+        },
+        {
+          "name": "炒青菜",
+          "price": 55,
+          "category": "炒菜類"
+        },
+        {
+          "name": "蔥花蛋",
+          "price": 80,
+          "category": "炒菜類"
+        },
+        {
+          "name": "炒羊肉",
+          "price": 130,
+          "category": "炒菜類"
+        },
+        {
+          "name": "炒三鮮",
+          "price": 130,
+          "category": "炒菜類"
+        },
+        {
+          "name": "什錦湯（大／中／小）",
+          "price": "100／80／60",
+          "category": "湯類"
+        },
+        {
+          "name": "貢丸湯（大／中／小）",
+          "price": "75／60／40",
+          "category": "湯類"
+        },
+        {
+          "name": "酸辣湯（大／中／小）",
+          "price": "75／55／40",
+          "category": "湯類"
+        },
+        {
+          "name": "大滷湯（大／中／小）",
+          "price": "75／55／40",
+          "category": "湯類"
+        },
+        {
+          "name": "海帶芽湯（大／中／小）",
+          "price": "60／50／40",
+          "category": "湯類"
+        },
+        {
+          "name": "青菜豆腐蛋花湯（大／中／小）",
+          "price": "70／55／40",
+          "category": "湯類"
+        },
+        {
+          "name": "羊肉湯（大／中／小）",
+          "price": "100／80／60",
+          "category": "湯類"
+        },
+        {
+          "name": "素雞",
+          "price": 40,
+          "category": "小菜類"
+        },
+        {
+          "name": "花生",
+          "price": 40,
+          "category": "小菜類"
+        },
+        {
+          "name": "干絲",
+          "price": 40,
+          "category": "小菜類"
+        },
+        {
+          "name": "小黃瓜",
+          "price": 40,
+          "category": "小菜類"
+        },
+        {
+          "name": "皮蛋豆腐",
+          "price": 50,
+          "category": "小菜類"
+        },
+        {
+          "name": "泡菜",
+          "price": 40,
+          "category": "小菜類"
+        },
+        {
+          "name": "酸辣湯餃(10個)",
+          "price": 115,
+          "category": "水餃類"
+        },
+        {
+          "name": "大滷湯餃(10個)",
+          "price": 115,
+          "category": "水餃類"
+        },
+        {
+          "name": "高麗菜豬肉水餃（8個／10個／12個／15個）",
+          "price": "64／80／96／120",
+          "category": "水餃類"
+        },
+        {
+          "name": "韭菜豬肉水餃（8個／10個／12個／15個）",
+          "price": "64／80／96／120",
+          "category": "水餃類"
+        },
+        {
+          "name": "泡菜水餃（8個／10個／12個／15個）",
+          "price": "88／110／132／165",
+          "category": "水餃類"
+        },
+        {
+          "name": "韭黃蝦仁豬肉水餃（8個／10個／12個／15個）",
+          "price": "104／130／156／195",
+          "category": "水餃類"
+        }
+      ]
+    },
+    "slug": "同客餃子館-莊敬路",
+    "name": "同客餃子館",
+    "address": "莊敬路406號",
+    "cuisine": "水餃、炒飯、麵食",
+    "cuisineTags": [
+      "麵食",
+      "中式"
+    ],
+    "phone": "02-2722-5312",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/11/12）店家說明「莊敬路上水餃 滿800外送」、公告「外送訂單10:30以後才接電話」；店家 Facebook 粉專寫「亦提供外送服務 距離合理即可」，粉專、愛食記、LINE 熱點同列地址 台北市信義區莊敬路406號、電話 02-2722-5312；本站無同電話店家。下單前請先來電確認。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿800",
+    "deliverySummary": "訂便當網店家頁：「滿800外送」；外送訂單 10:30 以後才接電話",
+    "hours": "約 11:00–21:30（外送訂單 10:30 以後接電話；週日時間請先來電）"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=372601；Checked: 2026-11-22",
+    "checkedAt": "2026-11-22",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261122",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=372601",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=372601",
+    "deliveryCheckedAt": "2026-11-22",
+    "menuSource": "https://dinbendon.net/do/idine?shop=372601",
+    "menuCheckedAt": "2026-11-22",
+    "city": "台北市",
+    "district": "信義區",
+    "deliverAreas": [
+      "台北市信義區"
+    ],
+    "id": "dbd-372601",
+    "menu": {
+      "items": [
+        {
+          "name": "烤肉飯",
+          "price": 110,
+          "category": "烤類"
+        },
+        {
+          "name": "烤排骨飯",
+          "price": 110,
+          "category": "烤類"
+        },
+        {
+          "name": "烤雞柳飯",
+          "price": 110,
+          "category": "烤類"
+        },
+        {
+          "name": "烤五花飯",
+          "price": 110,
+          "category": "烤類"
+        },
+        {
+          "name": "烤雙寶飯",
+          "price": 120,
+          "category": "烤類"
+        },
+        {
+          "name": "烤雞排飯",
+          "price": 120,
+          "category": "烤類"
+        },
+        {
+          "name": "烤雞腿飯",
+          "price": 130,
+          "category": "烤類"
+        },
+        {
+          "name": "黑胡椒魚排飯",
+          "price": 110,
+          "category": "黑胡椒類"
+        },
+        {
+          "name": "黑胡椒排骨飯",
+          "price": 110,
+          "category": "黑胡椒類"
+        },
+        {
+          "name": "黑胡椒雞柳飯",
+          "price": 110,
+          "category": "黑胡椒類"
+        },
+        {
+          "name": "黑胡椒雞排飯",
+          "price": 120,
+          "category": "黑胡椒類"
+        },
+        {
+          "name": "黑胡椒雞腿飯",
+          "price": 130,
+          "category": "黑胡椒類"
+        },
+        {
+          "name": "香酥魚排飯",
+          "price": 110,
+          "category": "香酥類"
+        },
+        {
+          "name": "香酥排骨飯",
+          "price": 110,
+          "category": "香酥類"
+        },
+        {
+          "name": "香酥雞柳飯",
+          "price": 110,
+          "category": "香酥類"
+        },
+        {
+          "name": "蝦捲飯",
+          "price": 110,
+          "category": "香酥類"
+        },
+        {
+          "name": "香酥雞排飯",
+          "price": 120,
+          "category": "香酥類"
+        },
+        {
+          "name": "香酥雞腿飯",
+          "price": 130,
+          "category": "香酥類"
+        },
+        {
+          "name": "滷排骨飯",
+          "price": 110,
+          "category": "滷類"
+        },
+        {
+          "name": "滷獅子頭飯",
+          "price": 110,
+          "category": "滷類"
+        },
+        {
+          "name": "滷雞腿飯",
+          "price": 130,
+          "category": "滷類"
+        },
+        {
+          "name": "雞腿",
+          "price": 85,
+          "category": "單點"
+        },
+        {
+          "name": "雞排.雙寶",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "菜飯",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "加飯",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "加菜",
+          "price": 15,
+          "category": "單點"
+        },
+        {
+          "name": "紅茶",
+          "price": 20,
+          "category": "單點"
+        }
+      ]
+    },
+    "slug": "鑫吉野烤肉飯信義店-吳興街",
+    "name": "鑫吉野烤肉飯（信義店）",
+    "address": "吳興街269巷11號（北醫巷內）",
+    "cuisine": "烤肉飯、雞腿飯、便當",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2720-8852、0981-194-020",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2026/04/14）店家說明「請先電洽詢問，視情況而定。※信義區東興路10個便當可外送 ※信義區信義路五段4個外送」；店家 Uber Eats 頁品項說明另寫「滿六個便當,可來電訂購外送」（平台價較高，本站菜單用訂便當網價格）；食記（賽肥膩膩）與店家資訊頁同列地址 台北市信義區吳興街269巷11號、電話 02-2720-8852；與本站信義永吉店（永吉路30巷）、新店、中和、淡水店是不同分店、不同電話。下單前請先來電確認價格與門檻。",
+    "deliveryMinType": "other",
+    "deliverySummary": "訂便當網店家頁：「信義區東興路10個便當可外送」「信義區信義路五段4個外送」，請先電洽",
+    "hours": "週一至週六約 09:00–20:30（週日請先來電）"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=494480；Checked: 2026-11-22",
+    "checkedAt": "2026-11-22",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261122",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=494480",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=494480",
+    "deliveryCheckedAt": "2026-11-22",
+    "menuSource": "https://dinbendon.net/do/idine?shop=494480",
+    "menuCheckedAt": "2026-11-22",
+    "city": "台北市",
+    "district": "信義區",
+    "deliverAreas": [
+      "台北市信義區"
+    ],
+    "id": "dbd-494480",
+    "menu": {
+      "items": [
+        {
+          "name": "招牌雞腿飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "炙燒雞腿飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "椒麻雞排飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "酥炸排骨飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "香滷排骨飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "東坡控肉飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "糖醋排骨飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "府城蝦捲飯",
+          "price": 120,
+          "category": "便當"
+        },
+        {
+          "name": "鹽燒鯖魚飯",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "商務餐盒",
+          "price": 180,
+          "category": "便當"
+        }
+      ]
+    },
+    "slug": "築田便當-忠孝東路五段",
+    "name": "築田便當",
+    "address": "忠孝東路五段191號",
+    "cuisine": "雞腿飯、排骨飯、便當",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2766-0868、02-2766-0768",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護；資料最後更新 2025/02/27、第 15 版）店家說明「外送門檻：問老闆(松高路5個就送) 信義路三段(大安森林公園)：15個便當OR$1500以上 汐止遠雄滿30個外送」「歡迎各大公司提前預定外送需提前訂餐」；方格子食記（2025/01 更新）與店家資訊頁同列地址 台北市信義區忠孝東路五段191號、電話 02-2766-0868；本站無同電話店家。本站只列在信義區。下單前請先來電確認。",
+    "deliveryMinType": "other",
+    "deliverySummary": "訂便當網店家頁：「問老闆（松高路5個就送）」；信義路三段 15 個便當或 $1500 以上",
+    "hours": "約 11:00–14:00、16:30–20:00（外送請提前訂）"
   }
 ]
