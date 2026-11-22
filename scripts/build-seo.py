@@ -544,7 +544,7 @@ def district_page(name: str, slug: str, items: list[dict], all_district_counts: 
     </div>
   </header>
 
-  <main class="wrap">
+  <main class="wrap" data-cta="district-list">
     <article class="prose district-intro">
       <h1>{escape_html(name)}自送餐廳</h1>
       <p>尋找<strong>{escape_html(name)}</strong>可用餐廳官方網站、LINE 或電話直接外送／宅配的店家。本頁以靜態方式列出目前目錄中的 {n} 家；點「前往訂餐」即前往店家官方通道。本站不代訂、不收款。</p>

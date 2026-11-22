@@ -530,7 +530,15 @@
       actions.push('<a class="btn btn-primary" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">' + orderActionLabel(r, oh, true) + '</a>');
     }
     if (r.phone) {
-      actions.push('<a class="btn ' + ((menuOnly || pickup) ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(r.phone.replace(/-/g, '')) + '">' + escapeHtml(r.phone) + '</a>');
+      // 2026-11-22: phone-only shops (no official order link) had no solid button on list cards, and
+      // shops with 2+ numbers got one broken tel: link. Use the first number; make it the solid
+      // 「打電話訂」 button whenever there is no official order button.
+      var ph0 = String(r.phone).split(/、|，|,|／|\/|;|；/).map(function (s) { return s.trim(); }).filter(Boolean)[0] || '';
+      var tel0 = phoneTel(ph0);
+      if (tel0) {
+        var telSolid = menuOnly || pickup || !oh;
+        actions.push('<a class="btn ' + (telSolid ? 'btn-primary' : 'btn-ghost') + '" href="tel:' + escapeHtml(tel0) + '">' + (telSolid ? '打電話訂 ' : '') + escapeHtml(ph0) + '</a>');
+      }
     }
     if (menuOnly) {
       actions.push('<a class="btn btn-ghost" href="' + escapeHtml(oh) + '" target="_blank" rel="noopener noreferrer">看菜單（訂便當網）↗</a>');
