@@ -1157,6 +1157,10 @@
         if (/href="(tel:|https?:)/.test(actions[ai])) { actions[ai] = actions[ai].replace('class="btn btn-ghost', 'class="btn btn-primary'); break; }
       }
     }
+    // 2026-11-23: the solid phone button says it is how you order
+    for (var ci = 0; ci < actions.length; ci++) {
+      if (actions[ci].indexOf('class="btn btn-primary" href="tel:') !== -1) { actions[ci] = actions[ci].replace('">撥打電話 ', '">打電話訂餐 '); break; }
+    }
     actions.push('<button type="button" class="btn btn-ghost" data-report-shop="' + escapeHtml(r.name) + '">通報問題</button>');
 
     var freeText = '';
