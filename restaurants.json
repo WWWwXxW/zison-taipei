@@ -655663,5 +655663,438 @@
     "deliveryMinType": "other",
     "deliverySummary": "訂便當網店家頁：「問老闆（松高路5個就送）」；信義路三段 15 個便當或 $1500 以上",
     "hours": "約 11:00–14:00、16:30–20:00（外送請提前訂）"
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=633662；Checked: 2026-11-23",
+    "checkedAt": "2026-11-23",
+    "chain": true,
+    "featured": false,
+    "origin": "dbd-daily-20261123",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=633662",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=633662",
+    "deliveryCheckedAt": "2026-11-23",
+    "menuSource": "https://dinbendon.net/do/idine?shop=633662",
+    "menuCheckedAt": "2026-11-23",
+    "city": "台北市",
+    "district": "士林區",
+    "deliverAreas": [
+      "台北市士林區"
+    ],
+    "id": "dbd-633662",
+    "slug": "悟饕池上飯包士林德行店-德行東路",
+    "name": "悟饕池上飯包（士林德行店）",
+    "address": "德行東路71號",
+    "cuisine": "池上飯包、排骨飯、雞腿飯",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2836-0289",
+    "officialUrl": "https://www.wu-tau.com/store.php?act=view&id=344",
+    "evidence": "悟饕池上飯包官網門市頁列「士林德行店 02-28360289 台北市士林區德行東路71號」；品牌官方 Ocard 線上點餐頁（士林德行店）寫「如有大量（30份以上）外送需求，煩請電話連繫店家訂購」；訂便當網公開店家頁（共用頁，資料最後更新 2026/04/03）公告「4個外送」，同址同電話。與本站悟饕士林中正店（中正路391號）是不同分店、不同電話。下單前請先來電確認門檻。",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 4,
+    "deliveryMinLabel": "滿 4 個",
+    "deliverySummary": "訂便當網店家頁：「4個外送」；官方點餐頁：30 份以上外送請電話訂",
+    "hours": "約 11:00–13:30、16:30–19:30（以官方點餐頁為準）",
+    "menu": {
+      "items": [
+        {
+          "name": "台式焢肉飯包",
+          "price": 120,
+          "category": "主打/新品"
+        },
+        {
+          "name": "蒜香雞菲力飯包",
+          "price": 115,
+          "category": "主打/新品"
+        },
+        {
+          "name": "經典池上飯包",
+          "price": 95,
+          "category": "一般飯包"
+        },
+        {
+          "name": "炭火烤肉飯包",
+          "price": 110,
+          "category": "一般飯包"
+        },
+        {
+          "name": "黃金豬排飯包",
+          "price": 120,
+          "category": "一般飯包"
+        },
+        {
+          "name": "悟饕經典排骨飯包",
+          "price": 120,
+          "category": "一般飯包"
+        },
+        {
+          "name": "鐵道排骨飯包",
+          "price": 125,
+          "category": "一般飯包"
+        },
+        {
+          "name": "土雞肉飯",
+          "price": 100,
+          "category": "一般飯包"
+        },
+        {
+          "name": "椒來麻雞腿飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "香酥雞腿飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "悟饕大G排飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "蒲燒鯛魚飯包",
+          "price": 115,
+          "category": "一般飯包"
+        },
+        {
+          "name": "極上油雞腿飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "塩の花魚飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "海陸雙拼飯包",
+          "price": 135,
+          "category": "一般飯包"
+        },
+        {
+          "name": "菜飯飯包",
+          "price": 85,
+          "category": "更多美味選擇"
+        },
+        {
+          "name": "香腸飯包",
+          "price": 95,
+          "category": "更多美味選擇"
+        },
+        {
+          "name": "燒肉飯包",
+          "price": 100,
+          "category": "更多美味選擇"
+        },
+        {
+          "name": "雞滷飯",
+          "price": 110,
+          "category": "更多美味選擇"
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=171626；Checked: 2026-11-23",
+    "checkedAt": "2026-11-23",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261123",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=171626",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=171626",
+    "deliveryCheckedAt": "2026-11-23",
+    "menuSource": "https://dinbendon.net/do/idine?shop=171626",
+    "menuCheckedAt": "2026-11-23",
+    "city": "台北市",
+    "district": "士林區",
+    "deliverAreas": [
+      "台北市士林區"
+    ],
+    "id": "dbd-171626",
+    "slug": "小南老蘇雞腿排骨便當-克強路",
+    "name": "小南老蘇雞腿排骨便當（天母克強店）",
+    "address": "克強路2號1樓",
+    "cuisine": "雞腿飯、排骨飯、便當",
+    "cuisineTags": [
+      "便當",
+      "中式"
+    ],
+    "phone": "02-2834-2334、02-2834-2884",
+    "officialUrl": "https://www.0228342884.com/contact.html",
+    "evidence": "店家官網「小南老蘇雞腿排骨便當 台北天母克強店」列訂購專線 02-28342334／02-28342884、地址台北市士林區克強路2號1樓；訂便當網公開店家頁（共用頁，資料最後更新 2026/05/19）店家說明「五個才送」，同址同電話。與本站高雄苓雅「小南老蘇便當」不同店。下單前請先來電確認。",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 5,
+    "deliveryMinLabel": "滿 5 個",
+    "deliverySummary": "訂便當網店家頁：「五個才送」",
+    "hours": "約 10:00–14:00、16:00–20:00（以店家為準）",
+    "menu": {
+      "items": [
+        {
+          "name": "招牌雞腿飯",
+          "price": 150,
+          "category": "便當"
+        },
+        {
+          "name": "香酥雞排飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "魔辣雞排飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "蔥滷雞腿飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "紅糟雞柳飯",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "酥皮梅子雞飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "幸福麻婆腿排(辣)",
+          "price": 160,
+          "category": "便當"
+        },
+        {
+          "name": "檸檬椒鹽腿排(無辣)",
+          "price": 160,
+          "category": "便當"
+        },
+        {
+          "name": "鳳梨旺旺雞飯",
+          "price": 160,
+          "category": "便當"
+        },
+        {
+          "name": "紅麴豬腳飯",
+          "price": 160,
+          "category": "便當"
+        },
+        {
+          "name": "蒜蓉控肉飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "小南排骨(炸)",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "鐵路排骨(滷)",
+          "price": 130,
+          "category": "便當"
+        },
+        {
+          "name": "豬排飯",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "咖哩豬排飯",
+          "price": 110,
+          "category": "便當"
+        },
+        {
+          "name": "虱目魚肚飯(大)",
+          "price": 190,
+          "category": "便當"
+        },
+        {
+          "name": "虱目魚肚飯(小)",
+          "price": 150,
+          "category": "便當"
+        },
+        {
+          "name": "日式鯖魚飯",
+          "price": 150,
+          "category": "便當"
+        },
+        {
+          "name": "椒鹽梅花肉飯",
+          "price": 140,
+          "category": "便當"
+        },
+        {
+          "name": "雙翅飯",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "特餐",
+          "price": 100,
+          "category": "便當"
+        },
+        {
+          "name": "菜飯",
+          "price": 75,
+          "category": "便當"
+        }
+      ]
+    }
+  },
+  {
+    "source": "https://dinbendon.net/do/idine?shop=167528；Checked: 2026-11-23",
+    "checkedAt": "2026-11-23",
+    "chain": false,
+    "featured": false,
+    "origin": "dbd-daily-20261123",
+    "confidence": "medium",
+    "orderChannel": "dinbendon",
+    "orderUrl": "https://dinbendon.net/do/idine?shop=167528",
+    "deliverySource": "https://dinbendon.net/do/idine?shop=167528",
+    "deliveryCheckedAt": "2026-11-23",
+    "menuSource": "https://dinbendon.net/do/idine?shop=167528",
+    "menuCheckedAt": "2026-11-23",
+    "city": "台北市",
+    "district": "士林區",
+    "deliverAreas": [
+      "台北市士林區"
+    ],
+    "id": "dbd-167528",
+    "slug": "及品鍋貼水餃專賣店-美崙街",
+    "name": "及品鍋貼水餃專賣店",
+    "address": "美崙街93號1樓",
+    "cuisine": "鍋貼、水餃、湯餃",
+    "cuisineTags": [
+      "麵食",
+      "中式"
+    ],
+    "phone": "02-2833-0217、02-2834-4049",
+    "officialUrl": "https://www.facebook.com/jipinjiaozi",
+    "evidence": "店家 Facebook 粉專「及品jipin-鍋貼水餃專賣店」列地址士林區美崙街93號1樓、電話 02-2833-0217；訂便當網公開店家頁（共用頁，資料最後更新 2026/01/02）公告「社子地區恕不外送，台北故宮外送須滿1200」，同址同電話；愛食記、食記（2026/03）同址同電話、寫有外送。每樣鍋貼／水餃 10 顆起。下單前請先來電確認可送範圍與門檻。",
+    "deliveryMinType": "other",
+    "deliverySummary": "訂便當網店家頁：「社子地區恕不外送，台北故宮外送須滿1200」；每樣 10 顆起",
+    "hours": "週一至週六約 11:10–14:30、16:00–20:30（週日公休，其他公休日見粉專）",
+    "menu": {
+      "items": [
+        {
+          "name": "原味鍋貼(高麗菜+韭菜)（10顆／12顆／14顆／15顆／20顆）",
+          "price": "70／84／98／105／140",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "翠玉白菜鍋貼(香菜+蝦米)（10顆／12顆／16顆）",
+          "price": "85／102／136",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "鮮牛肉鍋貼(青蔥+洋蔥+胡椒)（10顆／12顆／16顆）",
+          "price": "105／126／168",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "鮮肉高麗菜水餃（10顆／15顆）",
+          "price": "80／120",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "鮮肉韭菜水餃（10顆／15顆）",
+          "price": "80／120",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "鮮肉翠玉白菜水餃（10顆／15顆）",
+          "price": "85／128",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "鮮肉玉米蔬菜水餃（10顆／15顆）",
+          "price": "90／135",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "牛肉水餃（10顆／15顆）",
+          "price": "105／158",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "酸辣湯餃（高麗菜／韮菜／菜肉／白菜／玉米／牛肉）",
+          "price": "95／95／100／100／105／120",
+          "category": "鍋貼/水餃"
+        },
+        {
+          "name": "酸辣湯",
+          "price": 30,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "玉米濃湯",
+          "price": 30,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "每日一湯",
+          "price": 40,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "各式小菜",
+          "price": 50,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "豆漿",
+          "price": 30,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "紅茶",
+          "price": 30,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "招牌飲料",
+          "price": 30,
+          "category": "湯類/小菜/飲料"
+        },
+        {
+          "name": "鮮肉高麗菜冷凍水餃",
+          "price": 120,
+          "category": "生鮮/冷凍水餃"
+        },
+        {
+          "name": "鮮肉韭菜冷凍水餃",
+          "price": 120,
+          "category": "生鮮/冷凍水餃"
+        },
+        {
+          "name": "鮮肉菜肉冷凍水餃",
+          "price": 130,
+          "category": "生鮮/冷凍水餃"
+        },
+        {
+          "name": "鮮肉翠玉白菜冷凍水餃",
+          "price": 130,
+          "category": "生鮮/冷凍水餃"
+        },
+        {
+          "name": "鮮肉玉米蔬菜冷凍水餃",
+          "price": 150,
+          "category": "生鮮/冷凍水餃"
+        },
+        {
+          "name": "牛肉冷凍水餃",
+          "price": 165,
+          "category": "生鮮/冷凍水餃"
+        }
+      ]
+    }
   }
 ]
