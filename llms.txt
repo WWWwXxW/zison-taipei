@@ -87,7 +87,7 @@
 - 高雄前鎮便當・外送（高雄市前鎮區店家自己外送・依門檻排序・獅甲／勞工公園／三多商圈南側／夢時代／高雄軟體園區／加工出口區／草衙一帶）：https://zisong.tw/guide/qianzhen-delivery.html
 - 高雄三民便當・外送（高雄市三民區店家自己外送・依門檻排序・高雄車站／高醫／建工路／九如路／十全路／民族路／大順路／三民市場一帶）：https://zisong.tw/guide/sanmin-delivery.html
 - 桃園區便當・外送（桃園市桃園區店家自己外送・依門檻排序・桃園火車站／中正路／藝文特區／經國路／南平路桃園夜市／小檜溪一帶）：https://zisong.tw/guide/taoyuan-district-delivery.html
-- 台北士林便當・外送（台北市士林區店家自己外送・依門檻排序・士林夜市／劍潭／芝山／天母／社子一帶）：https://zisong.tw/guide/shilin-delivery.html
+- 士林便當・天母外送（士林區店家自己外送 59 家・依地段與門檻整理：士林夜市／劍潭／士林站／芝山／天母／社子／故宮）：https://zisong.tw/guide/shilin-delivery.html
 - 台北南港便當・外送（台北市南港區店家自己外送・依門檻排序・南港車站／南港軟體園區／南港展覽館／昆陽一帶）：https://zisong.tw/guide/nangang-delivery.html
 - 台中南屯便當・外送（台中市南屯區店家自己外送・依門檻排序・文心／公益／黎明一帶）：https://zisong.tw/guide/nantun-delivery.html
 - 竹北便當・外送（竹北市店家自己外送）：https://zisong.tw/guide/zhubei-bento-delivery.html
