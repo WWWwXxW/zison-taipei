@@ -655947,7 +655947,13 @@
           "category": "便當"
         }
       ]
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-171626.webp",
+    "imageSource": "https://www.0228342884.com/product.html",
+    "imageOriginal": "https://www.0228342884.com/images/pic/04.jpg",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "招牌雞腿飯"
   },
   {
     "source": "https://dinbendon.net/do/idine?shop=167528；Checked: 2026-11-23",
