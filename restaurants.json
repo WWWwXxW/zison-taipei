@@ -48242,9 +48242,9 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "evidence": "訂便當網店家頁：信義區滿約 5 個可外送，其他區請電話問；確切街道地址請電話問店家",
+    "evidence": "訂便當網店家頁：信義區滿約 5 個可外送，其他區請電話問；確切街道地址請電話問店家（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon 摘要",
-    "checkedAt": "2026-09-21",
+    "checkedAt": "2026-11-24",
     "phone": "02-2720-5203",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
@@ -48399,11 +48399,11 @@
           "category": "雙拼會議便當/主餐皆可客製"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=606159",
+      "source": "",
       "fetchedOn": "2026-10-26",
-      "sourceUpdated": "2025-05-22"
+      "sourceUpdated": "2025-05-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=606159",
     "menuCheckedAt": "2026-10-26",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b6-146.webp",
     "imageSource": "https://dinbendon.net/do/idine?shop=606159",
@@ -55296,9 +55296,9 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "hours": "請看上方外送條件",
-    "evidence": "訂便當網：內湖於瑞光路滿三百外送；午 10:30–14:00／晚 16:00–20:00",
+    "evidence": "訂便當網：內湖於瑞光路滿三百外送；午 10:30–14:00／晚 16:00–20:00（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=255183",
     "phone": "02-2798-5738",
     "address": "麗山街393巷4號",
@@ -55406,13 +55406,12 @@
           "category": "週一~週五特餐"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=255183",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2019-10-28"
+      "sourceUpdated": "2019-10-28",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=255183",
-    "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=255183"
+    "menuCheckedAt": "2026-10-22"
   },
   {
     "id": "scout-lead-284",
@@ -58170,8 +58169,8 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
-    "evidence": "訂便當網：金莊路3個外送；請 11 點前訂購（整理）",
+    "checkedAt": "2026-11-24",
+    "evidence": "訂便當網：金莊路3個外送；請 11 點前訂購（整理）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=303809；lovetpe 交叉",
     "phone": "02-2792-2079",
     "address": "新明路194號",
@@ -58302,14 +58301,13 @@
           "price": 100
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=303809",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 41,
-      "sourceUpdated": "2020-10-27"
+      "sourceUpdated": "2020-10-27",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=303809",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=303809",
     "deliverySummary": "11:00 前訂、3 個以上就外送"
   },
   {
@@ -61741,8 +61739,8 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
-    "evidence": "訂便當網：10點半以前預定，500公尺內滿500即可外送；電話公開",
+    "checkedAt": "2026-11-24",
+    "evidence": "訂便當網：10點半以前預定，500公尺內滿500即可外送；電話公開（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=401799",
     "phone": "02-2511-2618",
     "address": "民生西路38號",
@@ -61903,12 +61901,12 @@
           "category": "其他"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=401799",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 37,
-      "sourceUpdated": "2022-05-26"
+      "sourceUpdated": "2022-05-26",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=401799",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -81418,15 +81416,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網公開店家頁：主菜+3樣配菜；滿500即可外送",
+    "evidence": "訂便當網公開店家頁：主菜+3樣配菜；滿500即可外送（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=534043",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=534043",
     "phone": "02-2226-1277",
     "address": "員山路575號",
     "city": "新北市",
@@ -81477,11 +81474,11 @@
           "price": 80
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=534043",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-06-08"
+      "sourceUpdated": "2023-06-08",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=534043",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -89005,16 +89002,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 3,
     "deliveryMinLabel": "滿 3 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "午餐／晚餐外送時段見店家公告",
-    "evidence": "訂便當網店家介紹：訂購 3 個以上即可外送；午餐外送約 11:00–13:00、晚餐約 17:00–20:00；大量請提前",
+    "evidence": "訂便當網店家介紹：訂購 3 個以上即可外送；午餐外送約 11:00–13:00、晚餐約 17:00–20:00；大量請提前（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=34084",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=34084",
     "phone": "02-2903-0999",
     "address": "泰山區明志路二段369號",
     "city": "新北市",
@@ -89105,11 +89101,11 @@
           "price": 85
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=34084",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2019-09-18"
+      "sourceUpdated": "2019-09-18",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=34084",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "3 個以上就外送"
   },
@@ -95775,15 +95771,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：滿5個可外送享優惠；歡迎公司行號／學校團體團購",
+    "evidence": "訂便當網店家公告：滿5個可外送享優惠；歡迎公司行號／學校團體團購（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=534042",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=534042",
     "phone": "02-2221-5123",
     "address": "中和區立德街136號",
     "city": "新北市",
@@ -95838,11 +95833,11 @@
           "price": 80
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=534042",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-11-16"
+      "sourceUpdated": "2023-11-16",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=534042",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -112023,15 +112018,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網：寶橋路滿500元外送",
+    "evidence": "訂便當網：寶橋路滿500元外送（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=557461",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=557461",
     "phone": "02-2912-0669",
     "address": "北新路一段259號",
     "city": "新北市",
@@ -112158,11 +112152,11 @@
           "category": "小菜"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=557461",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-11-22"
+      "sourceUpdated": "2023-11-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=557461",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -118164,15 +118158,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：五個以上外送；自助餐同一主菜可作不同價位",
+    "evidence": "訂便當網店家公告：五個以上外送；自助餐同一主菜可作不同價位（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=266974",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=266974",
     "phone": "02-8667-5591",
     "address": "民權路101號",
     "city": "新北市",
@@ -118251,11 +118244,11 @@
           "price": "70／80／90"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=266974",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-04-28"
+      "sourceUpdated": "2023-04-28",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=266974",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -136097,15 +136090,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
     "deliveryMinLabel": "滿 $2000",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網：「前一天預訂 當日9:30前致電訂餐 滿2000外送」",
+    "evidence": "訂便當網：「前一天預訂 當日9:30前致電訂餐 滿2000外送」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=429954；peigogo 2026",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=429954",
     "phone": "0980-590-146",
     "address": "南屯區忠勇路12-6號",
     "menu": {
@@ -136261,12 +136253,12 @@
           "category": "飲料"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=429954",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 32,
-      "sourceUpdated": "2023-11-22"
+      "sourceUpdated": "2023-11-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=429954",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "需前一天預訂、滿 $2000 外送"
   },
@@ -150142,14 +150134,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "週一至五 10:30–13:30／16:30–19:30；週六僅午；週日公休",
-    "evidence": "店家訂購頁：「午餐3公里內滿五個便當免費外送，晚餐滿三個即可」；hoolee：「範圍內免費外送請電洽詢問」",
+    "evidence": "店家訂購頁：「午餐3公里內滿五個便當免費外送，晚餐滿三個即可」；hoolee：「範圍內免費外送請電洽詢問」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "permio1；hoolee.tw",
     "phone": "07-5582277",
     "address": "明華一路225號",
@@ -150216,11 +150208,11 @@
           "category": "單點"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=424624",
+      "source": "",
       "fetchedOn": "2026-10-26",
-      "sourceUpdated": "2024-12-04"
+      "sourceUpdated": "2024-12-04",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=424624",
     "menuCheckedAt": "2026-10-26",
     "deliverySummary": "午餐3公里內滿五個便當免費外送，晚餐滿三個即可"
   },
@@ -150430,16 +150422,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "訂購 08:00–21:00（日休）；外送 10:30–12:30、16:30–18:00",
-    "evidence": "訂便當網訂購說明／索引：「滿5個外送」；「加工區10個外送」；送達前鎮／苓雅",
+    "evidence": "訂便當網訂購說明／索引：「滿5個外送」；「加工區10個外送」；送達前鎮／苓雅（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=558248",
     "phone": "07-7269309",
     "address": "中華五路973號",
     "menu": {
@@ -150493,11 +150484,11 @@
           "price": 85
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=558248",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2024-09-02"
+      "sourceUpdated": "2024-09-02",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=558248",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -173762,16 +173753,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
     "deliveryMinLabel": "滿 $350",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "店家沒寫（週一公休）",
-    "evidence": "訂便當網簡介明示：「滿350外送，周一公休」",
+    "evidence": "訂便當網簡介明示：「滿350外送，周一公休」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=300766",
     "phone": "06-256-7055",
     "address": "本原街三段253號",
     "menu": {
@@ -173927,12 +173917,12 @@
           "category": "麵類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=300766",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 49,
-      "sourceUpdated": "2021-02-04"
+      "sourceUpdated": "2021-02-04",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=300766",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $350 外送"
   },
@@ -179630,15 +179620,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "目錄／食記：科學園區附近滿5個便當可外送（另有文寫 7–10 份）",
+    "evidence": "目錄／食記：科學園區附近滿5個便當可外送（另有文寫 7–10 份）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon／目錄彙整",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=62132",
     "phone": "03-563-2330",
     "address": "光復路一段316號",
     "menu": {
@@ -179734,11 +179723,11 @@
           "category": "單點"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=62132",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2022-11-30"
+      "sourceUpdated": "2022-11-30",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=62132",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -197311,16 +197300,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "約 10:30–20:00；星期二休息（以現場為準）",
-    "evidence": "訂便當網店家詳細說明／訂購說明明示：「市區300外送，非市區500外送 (EX草商)」；簡介亦寫 「500外送」；送達地區 南投縣草屯鎮",
+    "evidence": "訂便當網店家詳細說明／訂購說明明示：「市區300外送，非市區500外送 (EX草商)」；簡介亦寫 「500外送」；送達地區 南投縣草屯鎮（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=395123",
     "phone": "049-232-8966",
     "address": "碧山路28號",
     "menu": {
@@ -197476,12 +197464,12 @@
           "category": "當歸麵類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=395123",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 67,
-      "sourceUpdated": "2022-02-11"
+      "sourceUpdated": "2022-02-11",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=395123",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送（依距離或地區不同，請先電話確認）"
   },
@@ -243411,18 +243399,17 @@
     "featured": false,
     "origin": "zhubei-freeze-20261002",
     "confidence": "high",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿5個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「20220928 麵食&湯品暫不提供，滿5個外送，只送到碼頭」（店家最後更新 2023/05/11）",
+    "evidence": "訂便當網店家公告：「20220928 麵食&湯品暫不提供，滿5個外送，只送到碼頭」（店家最後更新 2023/05/11）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=286715",
     "address": "博愛街595號",
     "phone": "03-6563399",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=286715",
     "deliveryNote": "5個起送，送達新竹縣、竹北市。",
     "menu": {
       "items": [
@@ -243507,9 +243494,9 @@
           "category": "飯類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=286715"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=286715",
     "deliverySummary": "5 個以上就外送"
   },
   {
@@ -244323,18 +244310,17 @@
     "featured": false,
     "origin": "zhubei-freeze-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "高鐵區滿500元",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「台元滿2000元可外送」（店家最後更新 2022/10/03）",
+    "evidence": "訂便當網店家公告：「台元滿2000元可外送」（店家最後更新 2022/10/03）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=413254",
     "address": "文興路一段272號",
     "phone": "03-6581158",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=413254",
     "deliveryNote": "滿500元外送（含高鐵）；滿2000元外送（含台元），送達竹北市。",
     "menu": {
       "items": [
@@ -244439,9 +244425,9 @@
           "category": "想來點魚"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=413254"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=413254",
     "deliverySummary": "高鐵區滿500元"
   },
   {
@@ -251389,18 +251375,17 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "台元500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「台元500外送」（店家最後更新 2023/05/12）",
+    "evidence": "訂便當網店家公告：「台元500外送」（店家最後更新 2023/05/12）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=299789",
     "address": "博愛街605號",
     "phone": "03-5528002",
     "hours": "10:30–21:30",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=299789",
     "deliveryNote": "滿500元外送（含台元），送達新竹縣、竹北市。",
     "menu": {
       "items": [
@@ -251505,9 +251490,9 @@
           "category": "炒菜類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=299789"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=299789",
     "deliverySummary": "台元500"
   },
   {
@@ -251524,13 +251509,13 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-11-07",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "5個以上才有外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「5個以上才有外送」（店家最後更新 2023/10/16）",
+    "evidence": "訂便當網店家公告：「5個以上才有外送」（店家最後更新 2023/10/16）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=392297",
     "address": "華興街179號",
     "phone": "0989-391-800",
@@ -251639,9 +251624,9 @@
           "category": "里肌豬排飯"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=392297"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=392297",
     "deliverySummary": "5個以上才有外送"
   },
   {
@@ -251793,18 +251778,17 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "500外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「500外送園區」（店家最後更新 2023/08/01）",
+    "evidence": "訂便當網店家公告：「500外送園區」（店家最後更新 2023/08/01）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=545591",
     "address": "新泰路86號",
     "phone": "03-5551535",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=545591",
     "deliveryNote": "滿500元外送（含園區），送達新竹縣。",
     "menu": {
       "items": [
@@ -251909,9 +251893,9 @@
           "category": "熟食丼飯 套餐附湯、蒸蛋"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=545591"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=545591",
     "deliverySummary": "500外送"
   },
   {
@@ -623788,10 +623772,9 @@
       "便當"
     ],
     "phone": "07-241-6652",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=460895",
-    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300外送(高軟)\r」；店家頁地址 高雄市前金區自強三路265號、電話 07-241-6652；店家資料最後更新 2025/06/24。下單前請先來電確認。",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300外送(高軟)\r」；店家頁地址 高雄市前金區自強三路265號、電話 07-241-6652；店家資料最後更新 2025/06/24。下單前請先來電確認。（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "https://dinbendon.net/do/idine?shop=460895；Checked: 2026-11-01",
-    "checkedAt": "2026-11-01",
+    "checkedAt": "2026-11-24",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261101",
@@ -623800,7 +623783,7 @@
     "deliveryMinValue": 300,
     "deliveryMinLabel": "300外送(高軟)\r",
     "city": "高雄市",
-    "orderChannel": "dinbendon",
+    "orderChannel": "phone",
     "menu": {
       "items": [
         {
@@ -623869,12 +623852,12 @@
           "category": "便當"
         }
       ],
-      "source": "https://dinbendon.net/do/idine?shop=460895",
+      "source": "",
       "fetchedOn": "2026-11-01",
       "total": 13,
-      "sourceUpdated": "2025-06-24"
+      "sourceUpdated": "2025-06-24",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://dinbendon.net/do/idine?shop=460895",
     "menuCheckedAt": "2026-11-01",
     "deliverySummary": "300外送(高軟)\r"
   },
