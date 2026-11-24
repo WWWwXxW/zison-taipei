@@ -48242,9 +48242,9 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "evidence": "訂便當網店家頁：信義區滿約 5 個可外送，其他區請電話問；確切街道地址請電話問店家",
+    "evidence": "訂便當網店家頁：信義區滿約 5 個可外送，其他區請電話問；確切街道地址請電話問店家（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon 摘要",
-    "checkedAt": "2026-09-21",
+    "checkedAt": "2026-11-24",
     "phone": "02-2720-5203",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
@@ -48399,11 +48399,11 @@
           "category": "雙拼會議便當/主餐皆可客製"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=606159",
+      "source": "",
       "fetchedOn": "2026-10-26",
-      "sourceUpdated": "2025-05-22"
+      "sourceUpdated": "2025-05-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=606159",
     "menuCheckedAt": "2026-10-26",
     "imageUrl": "https://zisong.tw/assets/shops/scout-b6-146.webp",
     "imageSource": "https://dinbendon.net/do/idine?shop=606159",
@@ -55296,9 +55296,9 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "hours": "請看上方外送條件",
-    "evidence": "訂便當網：內湖於瑞光路滿三百外送；午 10:30–14:00／晚 16:00–20:00",
+    "evidence": "訂便當網：內湖於瑞光路滿三百外送；午 10:30–14:00／晚 16:00–20:00（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=255183",
     "phone": "02-2798-5738",
     "address": "麗山街393巷4號",
@@ -55406,13 +55406,12 @@
           "category": "週一~週五特餐"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=255183",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2019-10-28"
+      "sourceUpdated": "2019-10-28",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=255183",
-    "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=255183"
+    "menuCheckedAt": "2026-10-22"
   },
   {
     "id": "scout-lead-284",
@@ -58170,8 +58169,8 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
-    "evidence": "訂便當網：金莊路3個外送；請 11 點前訂購（整理）",
+    "checkedAt": "2026-11-24",
+    "evidence": "訂便當網：金莊路3個外送；請 11 點前訂購（整理）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=303809；lovetpe 交叉",
     "phone": "02-2792-2079",
     "address": "新明路194號",
@@ -58302,14 +58301,13 @@
           "price": 100
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=303809",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 41,
-      "sourceUpdated": "2020-10-27"
+      "sourceUpdated": "2020-10-27",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=303809",
     "menuCheckedAt": "2026-10-22",
-    "officialUrl": "https://www.dinbendon.net/do/idine?shop=303809",
     "deliverySummary": "11:00 前訂、3 個以上就外送"
   },
   {
@@ -61741,8 +61739,8 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
-    "evidence": "訂便當網：10點半以前預定，500公尺內滿500即可外送；電話公開",
+    "checkedAt": "2026-11-24",
+    "evidence": "訂便當網：10點半以前預定，500公尺內滿500即可外送；電話公開（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=401799",
     "phone": "02-2511-2618",
     "address": "民生西路38號",
@@ -61903,12 +61901,12 @@
           "category": "其他"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=401799",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 37,
-      "sourceUpdated": "2022-05-26"
+      "sourceUpdated": "2022-05-26",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=401799",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -73227,7 +73225,13 @@
     },
     "menuSource": "https://order.ocard.co/theproteinbox/wJdZpm",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $600 免運"
+    "deliverySummary": "滿 $600 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/nt-scout-lead-34.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/wJdZpm",
+    "imageOriginal": "https://cdn.dudooeat.com/e2a0809c-dfd6-4607-957b-a9d5097b592f",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "乾碟香辣雞胸"
   },
   {
     "id": "nt-scout-lead-36",
@@ -81412,15 +81416,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網公開店家頁：主菜+3樣配菜；滿500即可外送",
+    "evidence": "訂便當網公開店家頁：主菜+3樣配菜；滿500即可外送（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=534043",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=534043",
     "phone": "02-2226-1277",
     "address": "員山路575號",
     "city": "新北市",
@@ -81471,11 +81474,11 @@
           "price": 80
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=534043",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-06-08"
+      "sourceUpdated": "2023-06-08",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=534043",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -88999,16 +89002,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 3,
     "deliveryMinLabel": "滿 3 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "午餐／晚餐外送時段見店家公告",
-    "evidence": "訂便當網店家介紹：訂購 3 個以上即可外送；午餐外送約 11:00–13:00、晚餐約 17:00–20:00；大量請提前",
+    "evidence": "訂便當網店家介紹：訂購 3 個以上即可外送；午餐外送約 11:00–13:00、晚餐約 17:00–20:00；大量請提前（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=34084",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=34084",
     "phone": "02-2903-0999",
     "address": "泰山區明志路二段369號",
     "city": "新北市",
@@ -89099,11 +89101,11 @@
           "price": 85
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=34084",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2019-09-18"
+      "sourceUpdated": "2019-09-18",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=34084",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "3 個以上就外送"
   },
@@ -95769,15 +95771,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：滿5個可外送享優惠；歡迎公司行號／學校團體團購",
+    "evidence": "訂便當網店家公告：滿5個可外送享優惠；歡迎公司行號／學校團體團購（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=534042",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=534042",
     "phone": "02-2221-5123",
     "address": "中和區立德街136號",
     "city": "新北市",
@@ -95832,11 +95833,11 @@
           "price": 80
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=534042",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-11-16"
+      "sourceUpdated": "2023-11-16",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=534042",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -112017,15 +112018,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "滿 $500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網：寶橋路滿500元外送",
+    "evidence": "訂便當網：寶橋路滿500元外送（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=557461",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=557461",
     "phone": "02-2912-0669",
     "address": "北新路一段259號",
     "city": "新北市",
@@ -112152,11 +112152,11 @@
           "category": "小菜"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=557461",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-11-22"
+      "sourceUpdated": "2023-11-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=557461",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $500 外送"
   },
@@ -118158,15 +118158,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：五個以上外送；自助餐同一主菜可作不同價位",
+    "evidence": "訂便當網店家公告：五個以上外送；自助餐同一主菜可作不同價位（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=266974",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=266974",
     "phone": "02-8667-5591",
     "address": "民權路101號",
     "city": "新北市",
@@ -118245,11 +118244,11 @@
           "price": "70／80／90"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=266974",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2023-04-28"
+      "sourceUpdated": "2023-04-28",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=266974",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -136091,15 +136090,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 2000,
     "deliveryMinLabel": "滿 $2000",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網：「前一天預訂 當日9:30前致電訂餐 滿2000外送」",
+    "evidence": "訂便當網：「前一天預訂 當日9:30前致電訂餐 滿2000外送」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=429954；peigogo 2026",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=429954",
     "phone": "0980-590-146",
     "address": "南屯區忠勇路12-6號",
     "menu": {
@@ -136255,12 +136253,12 @@
           "category": "飲料"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=429954",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 32,
-      "sourceUpdated": "2023-11-22"
+      "sourceUpdated": "2023-11-22",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=429954",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "需前一天預訂、滿 $2000 外送"
   },
@@ -150136,14 +150134,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "週一至五 10:30–13:30／16:30–19:30；週六僅午；週日公休",
-    "evidence": "店家訂購頁：「午餐3公里內滿五個便當免費外送，晚餐滿三個即可」；hoolee：「範圍內免費外送請電洽詢問」",
+    "evidence": "店家訂購頁：「午餐3公里內滿五個便當免費外送，晚餐滿三個即可」；hoolee：「範圍內免費外送請電洽詢問」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "permio1；hoolee.tw",
     "phone": "07-5582277",
     "address": "明華一路225號",
@@ -150210,11 +150208,11 @@
           "category": "單點"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=424624",
+      "source": "",
       "fetchedOn": "2026-10-26",
-      "sourceUpdated": "2024-12-04"
+      "sourceUpdated": "2024-12-04",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=424624",
     "menuCheckedAt": "2026-10-26",
     "deliverySummary": "午餐3公里內滿五個便當免費外送，晚餐滿三個即可"
   },
@@ -150424,16 +150422,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "訂購 08:00–21:00（日休）；外送 10:30–12:30、16:30–18:00",
-    "evidence": "訂便當網訂購說明／索引：「滿5個外送」；「加工區10個外送」；送達前鎮／苓雅",
+    "evidence": "訂便當網訂購說明／索引：「滿5個外送」；「加工區10個外送」；送達前鎮／苓雅（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=558248",
     "phone": "07-7269309",
     "address": "中華五路973號",
     "menu": {
@@ -150487,11 +150484,11 @@
           "price": 85
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=558248",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2024-09-02"
+      "sourceUpdated": "2024-09-02",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=558248",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -173756,16 +173753,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 350,
     "deliveryMinLabel": "滿 $350",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "店家沒寫（週一公休）",
-    "evidence": "訂便當網簡介明示：「滿350外送，周一公休」",
+    "evidence": "訂便當網簡介明示：「滿350外送，周一公休」（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=300766",
     "phone": "06-256-7055",
     "address": "本原街三段253號",
     "menu": {
@@ -173921,12 +173917,12 @@
           "category": "麵類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=300766",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 49,
-      "sourceUpdated": "2021-02-04"
+      "sourceUpdated": "2021-02-04",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=300766",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $350 外送"
   },
@@ -179624,15 +179620,14 @@
     "featured": false,
     "origin": "scout",
     "confidence": "medium",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "quantity",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿 5 個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "目錄／食記：科學園區附近滿5個便當可外送（另有文寫 7–10 份）",
+    "evidence": "目錄／食記：科學園區附近滿5個便當可外送（另有文寫 7–10 份）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon／目錄彙整",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=62132",
     "phone": "03-563-2330",
     "address": "光復路一段316號",
     "menu": {
@@ -179728,11 +179723,11 @@
           "category": "單點"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=62132",
+      "source": "",
       "fetchedOn": "2026-10-22",
-      "sourceUpdated": "2022-11-30"
+      "sourceUpdated": "2022-11-30",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=62132",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "5 個以上就外送"
   },
@@ -197305,16 +197300,15 @@
     "featured": false,
     "origin": "scout",
     "confidence": "high",
-    "checkedAt": "2026-09-22",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": null,
     "deliveryMinValue": null,
     "deliveryMinLabel": null,
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
     "hours": "約 10:30–20:00；星期二休息（以現場為準）",
-    "evidence": "訂便當網店家詳細說明／訂購說明明示：「市區300外送，非市區500外送 (EX草商)」；簡介亦寫 「500外送」；送達地區 南投縣草屯鎮",
+    "evidence": "訂便當網店家詳細說明／訂購說明明示：「市區300外送，非市區500外送 (EX草商)」；簡介亦寫 「500外送」；送達地區 南投縣草屯鎮（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=395123",
     "phone": "049-232-8966",
     "address": "碧山路28號",
     "menu": {
@@ -197470,12 +197464,12 @@
           "category": "當歸麵類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=395123",
+      "source": "",
       "fetchedOn": "2026-10-22",
       "total": 67,
-      "sourceUpdated": "2022-02-11"
+      "sourceUpdated": "2022-02-11",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=395123",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送（依距離或地區不同，請先電話確認）"
   },
@@ -243405,18 +243399,17 @@
     "featured": false,
     "origin": "zhubei-freeze-20261002",
     "confidence": "high",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "滿5個",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「20220928 麵食&湯品暫不提供，滿5個外送，只送到碼頭」（店家最後更新 2023/05/11）",
+    "evidence": "訂便當網店家公告：「20220928 麵食&湯品暫不提供，滿5個外送，只送到碼頭」（店家最後更新 2023/05/11）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=286715",
     "address": "博愛街595號",
     "phone": "03-6563399",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=286715",
     "deliveryNote": "5個起送，送達新竹縣、竹北市。",
     "menu": {
       "items": [
@@ -243501,9 +243494,9 @@
           "category": "飯類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=286715"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=286715",
     "deliverySummary": "5 個以上就外送"
   },
   {
@@ -244317,18 +244310,17 @@
     "featured": false,
     "origin": "zhubei-freeze-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "高鐵區滿500元",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「台元滿2000元可外送」（店家最後更新 2022/10/03）",
+    "evidence": "訂便當網店家公告：「台元滿2000元可外送」（店家最後更新 2022/10/03）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=413254",
     "address": "文興路一段272號",
     "phone": "03-6581158",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=413254",
     "deliveryNote": "滿500元外送（含高鐵）；滿2000元外送（含台元），送達竹北市。",
     "menu": {
       "items": [
@@ -244433,9 +244425,9 @@
           "category": "想來點魚"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=413254"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=413254",
     "deliverySummary": "高鐵區滿500元"
   },
   {
@@ -251383,18 +251375,17 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "台元500",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「台元500外送」（店家最後更新 2023/05/12）",
+    "evidence": "訂便當網店家公告：「台元500外送」（店家最後更新 2023/05/12）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=299789",
     "address": "博愛街605號",
     "phone": "03-5528002",
     "hours": "10:30–21:30",
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=299789",
     "deliveryNote": "滿500元外送（含台元），送達新竹縣、竹北市。",
     "menu": {
       "items": [
@@ -251499,9 +251490,9 @@
           "category": "炒菜類"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=299789"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=299789",
     "deliverySummary": "台元500"
   },
   {
@@ -251518,13 +251509,13 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-11-07",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "count",
     "deliveryMinValue": 5,
     "deliveryMinLabel": "5個以上才有外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「5個以上才有外送」（店家最後更新 2023/10/16）",
+    "evidence": "訂便當網店家公告：「5個以上才有外送」（店家最後更新 2023/10/16）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=392297",
     "address": "華興街179號",
     "phone": "0989-391-800",
@@ -251633,9 +251624,9 @@
           "category": "里肌豬排飯"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=392297"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=392297",
     "deliverySummary": "5個以上才有外送"
   },
   {
@@ -251787,18 +251778,17 @@
     "featured": false,
     "origin": "zhubei-freeze-batch2-20261002",
     "confidence": "medium",
-    "checkedAt": "2026-10-02",
+    "checkedAt": "2026-11-24",
     "deliveryMinType": "amount",
     "deliveryMinValue": 500,
     "deliveryMinLabel": "500外送",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「500外送園區」（店家最後更新 2023/08/01）",
+    "evidence": "訂便當網店家公告：「500外送園區」（店家最後更新 2023/08/01）（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "dinbendon shop=545591",
     "address": "新泰路86號",
     "phone": "03-5551535",
     "hours": null,
-    "orderUrl": "https://www.dinbendon.net/do/idine?shop=545591",
     "deliveryNote": "滿500元外送（含園區），送達新竹縣。",
     "menu": {
       "items": [
@@ -251903,9 +251893,9 @@
           "category": "熟食丼飯 套餐附湯、蒸蛋"
         }
       ],
-      "source": "https://www.dinbendon.net/do/idine?shop=545591"
+      "source": "",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://www.dinbendon.net/do/idine?shop=545591",
     "deliverySummary": "500外送"
   },
   {
@@ -623782,10 +623772,9 @@
       "便當"
     ],
     "phone": "07-241-6652",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=460895",
-    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300外送(高軟)\r」；店家頁地址 高雄市前金區自強三路265號、電話 07-241-6652；店家資料最後更新 2025/06/24。下單前請先來電確認。",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300外送(高軟)\r」；店家頁地址 高雄市前金區自強三路265號、電話 07-241-6652；店家資料最後更新 2025/06/24。下單前請先來電確認。（2026-11-24 核對：訂便當網店家頁已下架，外送條件與菜單請先來電確認。）",
     "source": "https://dinbendon.net/do/idine?shop=460895；Checked: 2026-11-01",
-    "checkedAt": "2026-11-01",
+    "checkedAt": "2026-11-24",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261101",
@@ -623794,7 +623783,7 @@
     "deliveryMinValue": 300,
     "deliveryMinLabel": "300外送(高軟)\r",
     "city": "高雄市",
-    "orderChannel": "dinbendon",
+    "orderChannel": "phone",
     "menu": {
       "items": [
         {
@@ -623863,12 +623852,12 @@
           "category": "便當"
         }
       ],
-      "source": "https://dinbendon.net/do/idine?shop=460895",
+      "source": "",
       "fetchedOn": "2026-11-01",
       "total": 13,
-      "sourceUpdated": "2025-06-24"
+      "sourceUpdated": "2025-06-24",
+      "note": "原菜單取自訂便當網，該頁 2026-11-24 已下架，價格可能已變，訂餐前請電話向店家確認。"
     },
-    "menuSource": "https://dinbendon.net/do/idine?shop=460895",
     "menuCheckedAt": "2026-11-01",
     "deliverySummary": "300外送(高軟)\r"
   },
@@ -654773,6 +654762,7 @@
     "hours": "每日 06:30–15:00"
   },
   {
+    "id": "dbd-591282",
     "source": "https://dinbendon.net/do/idine?shop=591282；Checked: 2026-11-21",
     "checkedAt": "2026-11-21",
     "chain": false,
@@ -654790,7 +654780,6 @@
     "deliverAreas": [
       "高雄市三民區"
     ],
-    "id": "dbd-591282",
     "menu": {
       "items": [
         {
@@ -654900,6 +654889,7 @@
     "hours": "11:00–20:00，週日公休；下午 15:00–17:00 可能休息，請先來電"
   },
   {
+    "id": "dbd-626699",
     "source": "https://dinbendon.net/do/idine?shop=626699；Checked: 2026-11-21",
     "checkedAt": "2026-11-21",
     "chain": false,
@@ -654917,7 +654907,6 @@
     "deliverAreas": [
       "高雄市三民區"
     ],
-    "id": "dbd-626699",
     "menu": {
       "items": [
         {
@@ -654963,6 +654952,7 @@
     "hours": "週三公休；外送須提早一天訂"
   },
   {
+    "id": "dbd-650555",
     "source": "https://dinbendon.net/do/idine?shop=650555；Checked: 2026-11-21",
     "checkedAt": "2026-11-21",
     "chain": false,
@@ -654980,7 +654970,6 @@
     "deliverAreas": [
       "高雄市三民區"
     ],
-    "id": "dbd-650555",
     "menu": {
       "items": [
         {
@@ -655147,6 +655136,7 @@
     "hours": "請先來電確認（店家資訊頁：週一至週六 11:00–14:00）"
   },
   {
+    "id": "dbd-169586",
     "source": "https://dinbendon.net/do/idine?shop=169586；Checked: 2026-11-22",
     "checkedAt": "2026-11-22",
     "chain": false,
@@ -655164,7 +655154,6 @@
     "deliverAreas": [
       "台北市信義區"
     ],
-    "id": "dbd-169586",
     "menu": {
       "items": [
         {
@@ -655406,6 +655395,7 @@
     "hours": "約 11:00–21:30（外送訂單 10:30 以後接電話；週日時間請先來電）"
   },
   {
+    "id": "dbd-372601",
     "source": "https://dinbendon.net/do/idine?shop=372601；Checked: 2026-11-22",
     "checkedAt": "2026-11-22",
     "chain": false,
@@ -655423,7 +655413,6 @@
     "deliverAreas": [
       "台北市信義區"
     ],
-    "id": "dbd-372601",
     "menu": {
       "items": [
         {
@@ -655578,6 +655567,7 @@
     "hours": "週一至週六約 09:00–20:30（週日請先來電）"
   },
   {
+    "id": "dbd-494480",
     "source": "https://dinbendon.net/do/idine?shop=494480；Checked: 2026-11-22",
     "checkedAt": "2026-11-22",
     "chain": false,
@@ -655595,7 +655585,6 @@
     "deliverAreas": [
       "台北市信義區"
     ],
-    "id": "dbd-494480",
     "menu": {
       "items": [
         {
@@ -655665,6 +655654,7 @@
     "hours": "約 11:00–14:00、16:30–20:00（外送請提前訂）"
   },
   {
+    "id": "dbd-633662",
     "source": "https://dinbendon.net/do/idine?shop=633662；Checked: 2026-11-23",
     "checkedAt": "2026-11-23",
     "chain": true,
@@ -655682,7 +655672,6 @@
     "deliverAreas": [
       "台北市士林區"
     ],
-    "id": "dbd-633662",
     "slug": "悟饕池上飯包士林德行店-德行東路",
     "name": "悟饕池上飯包（士林德行店）",
     "address": "德行東路71號",
@@ -655800,6 +655789,7 @@
     }
   },
   {
+    "id": "dbd-171626",
     "source": "https://dinbendon.net/do/idine?shop=171626；Checked: 2026-11-23",
     "checkedAt": "2026-11-23",
     "chain": false,
@@ -655817,7 +655807,6 @@
     "deliverAreas": [
       "台北市士林區"
     ],
-    "id": "dbd-171626",
     "slug": "小南老蘇雞腿排骨便當-克強路",
     "name": "小南老蘇雞腿排骨便當（天母克強店）",
     "address": "克強路2號1樓",
@@ -655947,9 +655936,16 @@
           "category": "便當"
         }
       ]
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-171626.webp",
+    "imageSource": "https://www.0228342884.com/product.html",
+    "imageOriginal": "https://www.0228342884.com/images/pic/04.jpg",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "招牌雞腿飯"
   },
   {
+    "id": "dbd-167528",
     "source": "https://dinbendon.net/do/idine?shop=167528；Checked: 2026-11-23",
     "checkedAt": "2026-11-23",
     "chain": false,
@@ -655967,7 +655963,6 @@
     "deliverAreas": [
       "台北市士林區"
     ],
-    "id": "dbd-167528",
     "slug": "及品鍋貼水餃專賣店-美崙街",
     "name": "及品鍋貼水餃專賣店",
     "address": "美崙街93號1樓",
@@ -656096,5 +656091,897 @@
         }
       ]
     }
+  },
+  {
+    "id": "tpb-zhanqian",
+    "source": "https://order.ocard.co/theproteinbox/QgaPJK；Checked: 2026-11-24",
+    "checkedAt": "2026-11-24",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261124",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/QgaPJK",
+    "deliverySource": "https://order.ocard.co/theproteinbox/QgaPJK",
+    "deliveryCheckedAt": "2026-11-24",
+    "menuSource": "https://order.ocard.co/theproteinbox/QgaPJK",
+    "menuCheckedAt": "2026-11-24",
+    "city": "台北市",
+    "district": "中正區",
+    "deliverAreas": [
+      "台北市中正區"
+    ],
+    "slug": "蛋白盒子-開封街",
+    "name": "蛋白盒子（站前店）",
+    "address": "開封街一段19號1樓",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-2383-2996",
+    "officialUrl": "https://order.ocard.co/theproteinbox/QgaPJK",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（站前店，台北市中正區開封街一段19號1樓，電話 02-2383-2996）提供外送：「外送距離上限 2 公里；0–1 公里運費 $50、最低消費 $800、滿 $800 免運；1–2 公里運費 $90、最低消費 $800、滿 $1,200 免運」，訂餐須知「如需要客製化大量訂購及外送，歡迎來電詢問」。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 800,
+    "deliveryMinLabel": "滿 $800 外送",
+    "deliverySummary": "官方訂餐頁：外送距離 2 公里內；0–1 公里最低消費 $800（運費 $50，滿 $800 免運）；1–2 公里最低消費 $800（運費 $90，滿 $1,200 免運）",
+    "hours": "週一～週五 11:00–19:00（六日公休；線上最晚 18:30 下單）",
+    "menu": {
+      "items": [
+        {
+          "name": "正韓泡菜豬餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "打拋豬餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "漢方藥膳嫩雞腿餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)板腱牛排",
+          "price": 170,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)正韓泡菜豬",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)漢方藥膳雞腿",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)韓式泡菜",
+          "price": 40,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "單點配餐"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "飲料"
+        },
+        {
+          "name": "冷泡玄米茶",
+          "price": 30,
+          "category": "飲料"
+        },
+        {
+          "name": "冷泡烏龍茶",
+          "price": 30,
+          "category": "飲料"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "飲料"
+        },
+        {
+          "name": "復刻紅茶拿鐵",
+          "price": 40,
+          "category": "飲料"
+        },
+        {
+          "name": "復刻紅茶豆漿",
+          "price": 30,
+          "category": "飲料"
+        },
+        {
+          "name": "虱目魚丸湯",
+          "price": 35,
+          "category": "湯品"
+        },
+        {
+          "name": "麻油雞腿排餐盒",
+          "price": 145,
+          "category": "Trending Now"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "板腱牛排餐盒",
+          "price": 230,
+          "category": "本季推薦"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-zhanqian.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/QgaPJK",
+    "imageOriginal": "https://cdn.dudooeat.com/4308db32-1f41-4902-947c-76346c0fbd7b",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "日式鹽味豬排"
+  },
+  {
+    "id": "tpb-ningboxi",
+    "source": "https://order.ocard.co/theproteinbox/wv4kxm；Checked: 2026-11-24",
+    "checkedAt": "2026-11-24",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261124",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/wv4kxm",
+    "deliverySource": "https://order.ocard.co/theproteinbox/wv4kxm",
+    "deliveryCheckedAt": "2026-11-24",
+    "menuSource": "https://order.ocard.co/theproteinbox/wv4kxm",
+    "menuCheckedAt": "2026-11-24",
+    "city": "台北市",
+    "district": "中正區",
+    "deliverAreas": [
+      "台北市中正區"
+    ],
+    "slug": "蛋白盒子-寧波西街",
+    "name": "蛋白盒子（寧波西店）",
+    "address": "寧波西街78-1號1樓",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-2322-2595",
+    "officialUrl": "https://order.ocard.co/theproteinbox/wv4kxm",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（寧波西店，台北市中正區寧波西街78-1號1樓，電話 02-2322-2595）外送說明：「運費90元，1公里內滿600元、1-2公里內滿800元、2-3公里內滿1200元則免運費，3公里以上或大量客製餐盒請來電洽詢」；外送距離上限 3 公里。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 免運",
+    "deliverySummary": "官方訂餐頁：運費 $90；1 公里內滿 $600、1–2 公里滿 $800、2–3 公里滿 $1,200 免運；3 公里以上或大量客製餐盒請來電",
+    "hours": "10:30–14:00、16:00–20:00（無公休）",
+    "menu": {
+      "items": [
+        {
+          "name": "醬濃香烤雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "打拋豬餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎蒙特婁雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)板腱牛排",
+          "price": 170,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)醬濃香烤雞腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎蒙特婁雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)炭火燒肉雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)青花菜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "配餐加點"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡烏龍茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "莊園紅茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "板腱牛排餐盒",
+          "price": 230,
+          "category": "本季推薦"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-ningboxi.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/wv4kxm",
+    "imageOriginal": "https://cdn.dudooeat.com/c77352ec-d15d-40ad-a74f-b1ea3bd141b5",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "日式鹽味雞胸"
+  },
+  {
+    "id": "tpb-guanghua",
+    "source": "https://order.ocard.co/theproteinbox/mGP8zK；Checked: 2026-11-24",
+    "checkedAt": "2026-11-24",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261124",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/mGP8zK",
+    "deliverySource": "https://order.ocard.co/theproteinbox/mGP8zK",
+    "deliveryCheckedAt": "2026-11-24",
+    "menuSource": "https://order.ocard.co/theproteinbox/mGP8zK",
+    "menuCheckedAt": "2026-11-24",
+    "city": "台北市",
+    "district": "中正區",
+    "deliverAreas": [
+      "台北市中正區"
+    ],
+    "slug": "蛋白盒子-新生南路",
+    "name": "蛋白盒子（台北光華店）",
+    "address": "新生南路一段6-8號",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-3393-6288",
+    "officialUrl": "https://order.ocard.co/theproteinbox/mGP8zK",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（台北光華店，台北市中正區新生南路一段6-8號，電話 02-3393-6288，官方 LINE @158lcgdo）寫「我們也有提供外送服務」；外送距離上限 6 公里，0–1 公里運費 $70、滿 $700 免運，1–2 公里 $85／滿 $900，2–3 公里 $105／滿 $1,200，3–4 公里 $150／滿 $1,500，4–6 公里 $200／滿 $2,000 免運。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 700,
+    "deliveryMinLabel": "滿 $700 免運",
+    "deliverySummary": "官方訂餐頁：外送距離 6 公里內；0–1 公里運費 $70、滿 $700 免運；1–2 公里 $85、滿 $900；2–3 公里 $105、滿 $1,200；3–4 公里 $150、滿 $1,500；4–6 公里 $200、滿 $2,000 免運",
+    "hours": "週一～週五 11:00–19:30（午間不休息）",
+    "menu": {
+      "items": [
+        {
+          "name": "醬濃香烤雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "正韓泡菜豬餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "打拋豬餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "青花椒雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎蒙特婁雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "素排骨餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)板腱牛排",
+          "price": 170,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)醬濃香烤雞腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)正韓泡菜豬",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎蒙特婁雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)素排骨",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)炭火燒肉雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青花椒腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)青花菜",
+          "price": 30,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)玉米筍",
+          "price": 35,
+          "category": "單點配餐"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡玄米茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡烏龍茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "莊園紅茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "復刻紅茶豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "虱目魚丸湯",
+          "price": 35,
+          "category": "單點湯品"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "Trending Now"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "Trending Now"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "板腱牛排餐盒",
+          "price": 230,
+          "category": "本季推薦"
+        },
+        {
+          "name": "炭火燒肉雞胸餐盒",
+          "price": 135,
+          "category": "本季推薦"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-guanghua.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/mGP8zK",
+    "imageOriginal": "https://cdn.dudooeat.com/b42579aa-355a-4c75-85f0-5ff14b827b17",
+    "imageCheckedAt": "2026-11-24",
+    "imageKind": "brand",
+    "imageDish": "乾碟香辣豬排"
   }
 ]

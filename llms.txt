@@ -77,7 +77,7 @@
 - 台北大同便當・外送（台北市大同區店家自己外送・依門檻排序・大橋頭／迪化街／延平北路一帶）：https://zisong.tw/guide/datong-delivery.html
 - 新竹東區便當・外送（新竹市東區店家自己外送・依門檻排序・新竹火車站／東門城／光復路一帶）：https://zisong.tw/guide/hsinchu-east-delivery.html
 - 台中北區便當・外送（台中市北區店家自己外送・依門檻排序・一中街／中友／台中公園／科博館一帶）：https://zisong.tw/guide/taichung-north-delivery.html
-- 台北中正便當・外送（台北市中正區店家自己外送・依門檻排序・台北車站南側／公館／古亭／中正紀念堂／博愛特區一帶）：https://zisong.tw/guide/zhongzheng-delivery.html
+- 中正區便當・台北車站外送（台北市中正區店家自己外送 67 家・依地段與門檻整理：台北車站／館前路／中正紀念堂／東門／南門／古亭／公館）：https://zisong.tw/guide/zhongzheng-delivery.html
 - 台北文山便當・外送（台北市文山區店家自己外送・依門檻排序・景美／木柵／萬芳／興隆／政大一帶）：https://zisong.tw/guide/wenshan-delivery.html
 - 台北萬華便當・外送（台北市萬華區店家自己外送・依門檻排序・西門町／龍山寺／艋舺／華江／青年公園／南機場一帶）：https://zisong.tw/guide/wanhua-delivery.html
 - 台北北投便當・外送（台北市北投區店家自己外送・依門檻排序・石牌／唭哩岸／奇岩／新北投／復興崗／關渡／榮總一帶）：https://zisong.tw/guide/beitou-delivery.html
