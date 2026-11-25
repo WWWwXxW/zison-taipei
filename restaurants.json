@@ -142864,7 +142864,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/mq47kQ",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 免運"
+    "deliverySummary": "滿 $300 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/tc-scout-lead-164.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/mq47kQ",
+    "imageOriginal": "https://cdn.dudooeat.com/cb847598-022b-402c-b6e9-a716a1919c7a",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "炭火燒肉雞胸餐盒",
+    "imageKind": "brand"
   },
   {
     "id": "tc-scout-lead-167",
@@ -190986,7 +190992,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/w0kM4K",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $800 免運"
+    "deliverySummary": "滿 $800 免運",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-16.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/w0kM4K",
+    "imageOriginal": "https://cdn.dudooeat.com/fde950eb-9def-4f01-bf16-7214aba2de46",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "香煎蒙特婁雞胸餐盒",
+    "imageKind": "brand"
   },
   {
     "id": "ch-scout-lead-17",
@@ -191143,7 +191155,13 @@
     },
     "menuSource": "https://d.ocard.co/theproteinbox/KrD8vQ",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "3 公里內：0–1 公里運費 $85／滿 $800 免運；1–2 公里 $95／滿 $1,000；2–3 公里 $105／滿 $1,500"
+    "deliverySummary": "3 公里內：0–1 公里運費 $85／滿 $800 免運；1–2 公里 $95／滿 $1,000；2–3 公里 $105／滿 $1,500",
+    "imageUrl": "https://zisong.tw/assets/shops/ch-scout-lead-17.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/KrD8vQ",
+    "imageOriginal": "https://cdn.dudooeat.com/6e905fa8-98df-43c9-8536-9220609d93df",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "漢方藥膳嫩雞腿餐盒",
+    "imageKind": "brand"
   },
   {
     "id": "ch-scout-lead-18",
@@ -219652,7 +219670,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-1.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/饗食天堂春季_單道數位媒體_鐵板牛柳_320x280.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "鐵板牛柳",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-2",
@@ -220032,7 +220056,13 @@
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
     "deliverySummary": "滿 $300 外送",
-    "radiusKm": 5
+    "radiusKm": 5,
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-3.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_紅酒燴牛肉.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "紅酒燴牛肉",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-5",
@@ -220219,7 +220249,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-5.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_德國豬腳.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "德國豬腳",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-8",
@@ -220406,7 +220442,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-8.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/單道_醬烤豬肋排佐季節時蔬320X280.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "醬烤豬肋排佐季節時蔬",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-9",
@@ -220593,7 +220635,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-9.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_和風照燒雞腿排.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "和風照燒雞腿排",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-4",
@@ -220780,7 +220828,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-4.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_經典鹽焗雞.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "福利經典鹽焗雞",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-6",
@@ -220967,7 +221021,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-6.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_日式唐揚炸雞.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "日式唐揚炸雞",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-7",
@@ -221154,7 +221214,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-7.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大口吃肉_香烤鹹豬肉.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "香烤鹹豬肉",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-13",
@@ -221341,7 +221407,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-13.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大啖海鮮_油爆鹹酥蝦.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "油爆鹽酥蝦",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-12",
@@ -221528,7 +221600,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-12.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大啖海鮮_姿燒香魚.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "姿燒香魚",
+    "imageKind": "brand"
   },
   {
     "id": "eatogether-11",
@@ -221715,7 +221793,13 @@
     },
     "menuSource": "https://eatogether.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/eatogether-11.webp",
+    "imageSource": "https://eatogether.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/eat/2024ETG翻新/大啖海鮮_現燙甜白蝦.png",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "現燙甜白蝦",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-10",
@@ -221905,7 +221989,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-10.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/呷雞起家/千金三杯雞.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "千金三杯雞",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-8",
@@ -222095,7 +222185,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-8.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/呷雞起家/琥珀糖醋雞.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "琥珀糖醋雞",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-7",
@@ -222285,7 +222381,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-7.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/牛就是牛/青蔥爆嫩牛.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "青蔥爆嫩牛",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-6",
@@ -222475,7 +222577,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-6.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/珍豬好味/脆皮糖醋梅花肉.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "脆皮糖醋梅花肉",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-5",
@@ -222665,7 +222773,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-5.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/珍豬好味/蜜棗燒排骨.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "蜜棗燒排骨",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-4",
@@ -222855,7 +222969,13 @@
     },
     "menuSource": "https://jinzhu.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/jinzhu-4.webp",
+    "imageSource": "https://jinzhu.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/jiz/單點圖/牛就是牛/番茄牛腩.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "紅燒番茄牛腩",
+    "imageKind": "brand"
   },
   {
     "id": "jinzhu-3",
@@ -230880,7 +231000,13 @@
     },
     "menuSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/fruitfulfood-11.webp",
+    "imageSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/guo/fruitfulfood/九宮格餐盒.jpeg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "蔬食九品御膳盒",
+    "imageKind": "brand"
   },
   {
     "id": "fruitfulfood-8",
@@ -231070,7 +231196,13 @@
     },
     "menuSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
     "menuCheckedAt": "2026-10-22",
-    "deliverySummary": "滿 $300 外送"
+    "deliverySummary": "滿 $300 外送",
+    "imageUrl": "https://zisong.tw/assets/shops/fruitfulfood-8.webp",
+    "imageSource": "https://fruitfulfood.eatogo.com.tw/zh-TW",
+    "imageOriginal": "https://img.eatogo.com.tw/guo/fruitfulfood/松露奶油野蕈燉飯.jpg",
+    "imageCheckedAt": "2026-11-25",
+    "imageDish": "松露奶油野蕈燉飯",
+    "imageKind": "brand"
   },
   {
     "id": "fruitfulfood-14",

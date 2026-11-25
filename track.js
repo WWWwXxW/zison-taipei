@@ -23,7 +23,13 @@
    2026-11-14: a click after window load while count.js is still missing
    (blocked; the error fired before this deferred file could listen) is
    POSTed at once instead of waiting for pagehide, which could be lost on
-   same-tab navigation. */
+   same-tab navigation.
+   2026-11-25: GoatCounter keeps one title per path, so the " #where" suffix
+   in the title of order-/tel-/line- events only shows the first click ever
+   recorded for that shop, not each click. Each shop tel/order/line click now
+   also sends pos-<kind>-<where> (e.g. pos-tel-shop-top, pos-order-sticky,
+   pos-order-home) so button positions can be counted per row. pos- events
+   are not order-/tel- events and are not part of the click-rate sum. */
 (function () {
   if (window.zisongTrack) return;
   var DEFAULT_ENDPOINT = 'https://zisong.goatcounter.com/count';
@@ -126,6 +132,15 @@
   });
   window.addEventListener('pagehide', flushOnLeave);
 
+  function pos(kind, where) {
+    var w = where ? where.replace(/^ #/, '') : '';
+    if (!w) {
+      var pth = location.pathname;
+      w = /^\/(index\.html)?$/.test(pth) ? 'home' : /\/detail\.html$/.test(pth) ? 'detail' : 'none';
+    }
+    track('pos-' + kind + '-' + w, page());
+  }
+
   function shopId(el) {
     var c = el.closest && el.closest('[data-id]');
     if (c) return c.getAttribute('data-id');
@@ -151,7 +166,7 @@
       var href = a.getAttribute('href') || '';
       var id = shopId(a);
       var where = a.closest('[data-cta]') ? ' #' + a.closest('[data-cta]').getAttribute('data-cta') : '';
-      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page() + where); return; }
+      if (/^tel:/i.test(href)) { track(id ? 'tel-' + id : 'tel', page() + where); if (id) pos('tel', where); return; }
       if (/^mailto:/i.test(href)) { track('mailto', page()); return; }
       var external = /^https?:/i.test(href) || /^\/\//.test(href);
       if (external && a.hostname && a.hostname !== location.hostname) {
@@ -161,6 +176,7 @@
         }
         var kind = lineHost(a.hostname) ? 'line' : 'order';
         track(kind + '-' + id, a.hostname + ' @ ' + page() + where);
+        pos(kind, where);
         return;
       }
     }
