@@ -90,6 +90,6 @@
 - 士林便當・天母外送（士林區店家自己外送 59 家・依地段與門檻整理：士林夜市／劍潭／士林站／芝山／天母／社子／故宮）：https://zisong.tw/guide/shilin-delivery.html
 - 台北南港便當・外送（台北市南港區店家自己外送・依門檻排序・南港車站／南港軟體園區／南港展覽館／昆陽一帶）：https://zisong.tw/guide/nangang-delivery.html
 - 台中南屯便當・外送（台中市南屯區店家自己外送・依門檻排序・文心／公益／黎明一帶）：https://zisong.tw/guide/nantun-delivery.html
-- 竹北便當・外送（竹北市店家自己外送）：https://zisong.tw/guide/zhubei-bento-delivery.html
+- 竹北便當・外送（新竹縣竹北市店家自己外送 161 家・依地段與門檻整理：竹北火車站／博愛街／光明路／縣政特區／高鐵特區／六家／台元）：https://zisong.tw/guide/zhubei-bento-delivery.html
 
 這些指南只整理 restaurants.json 中的店家資料；起送、運費、配送範圍與接單狀態可能變動，請以下單時的官方頁面或電話為準。
