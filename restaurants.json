@@ -303100,7 +303100,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-101.webp",
+    "imageSource": "https://www.pizzahut.com.tw/menu/",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/4ee0b8f7b99039b0d02f464c8d702374.jpg",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "紅酒嫩牛松露大蝦雙拼"
   },
   {
     "id": "pizzahut-103",
@@ -385445,7 +385451,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi133.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO-義式香草紙包雞.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "義式香草紙包雞"
   },
   {
     "id": "kfc-twi173",
@@ -401030,7 +401042,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twb528.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO-餐圖-末日漢堡.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "末日漢堡"
   },
   {
     "id": "kfc-twi228",
@@ -415565,7 +415583,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi143.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-爆脆無骨雞腿霸XL.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "爆脆無骨雞腿霸 XL全明星餐"
   },
   {
     "id": "kfc-twi225",
@@ -423587,7 +423611,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi215.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/1013-OLO餐圖-B餐-青花椒醬脆雞飯單點.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "青花椒醬脆雞飯"
   },
   {
     "id": "kfc-twi044",
@@ -424088,7 +424118,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi044.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-麻油紙包雞 XL全明星餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "麻油紙包雞 XL全明星餐"
   },
   {
     "id": "kfc-twi180",
@@ -427094,7 +427130,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twb576.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/1124-餐圖-青花椒雙拼點心盒.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "青花椒雙拼點心盒"
   },
   {
     "id": "kfc-twi156",
@@ -427595,7 +427637,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi156.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO-8塊雞半半桶.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "8塊雞半半桶"
   },
   {
     "id": "kfc-twi177",
@@ -433619,7 +433667,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi138.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日嚼起無骨雞腿霸兩塊.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand",
+    "imageDish": "末日嚼起無骨雞腿霸（2塊）"
   },
   {
     "id": "kfc-twi233",
