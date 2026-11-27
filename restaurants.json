@@ -475802,7 +475802,7 @@
     "slug": "小春日食堂",
     "name": "小春日食堂",
     "district": "桃園區",
-    "address": "慈文路122號",
+    "address": "慈文路122號1樓",
     "cuisine": "便當、麵食、飲料",
     "cuisineTags": [
       "便當",
@@ -475810,235 +475810,197 @@
       "飲料"
     ],
     "phone": "03-355-3175",
-    "orderUrl": "https://dinbendon.net/do/idine?shop=432773",
-    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送條件：「滿400可外送，10:00後可訂餐」；店家頁地址 桃園市桃園區慈文路122號、電話 03-355-3175(11:00營業)；店家資料最後更新 2025/04/14。下單前請先來電確認。",
-    "source": "https://dinbendon.net/do/idine?shop=432773；Checked: 2026-10-24",
-    "checkedAt": "2026-10-24",
+    "orderUrl": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+    "evidence": "店家官方 Posky 線上訂餐頁（店名小春日食堂，地址桃園市桃園區慈文路122號1樓，電話 (03)3553175）2026-11-15 起公告：「兩公里內外送門檻調整為滿 500 元」；線上外送設定運費 60 元、滿 500 元免運、最遠 3 公里。營業時間每天 10:50–13:30、16:50–20:30。下單前請先確認地址在外送範圍內。",
+    "source": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu；Checked: 2026-11-27",
+    "checkedAt": "2026-11-27",
     "chain": false,
     "featured": false,
     "origin": "dbd-daily-20261024",
-    "confidence": "medium",
+    "confidence": "high",
     "deliveryMinType": "amount",
-    "deliveryMinValue": 400,
-    "deliveryMinLabel": "滿400可外送，10:00後可訂餐",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 可外送",
     "city": "桃園市",
-    "orderChannel": "dinbendon",
     "menu": {
       "items": [
         {
-          "name": "牛五花丼(Beef belly rice bowl)",
-          "price": 100,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "豬五花丼(Pork belly rice bowl)",
-          "price": 100,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "親子丼(Oyakodon)",
-          "price": 100,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "小春日燒肉丼(Grilled Pork Bowl)",
-          "price": 130,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "唐揚炸雞丼(Karaage Chicken Donburi)",
-          "price": 130,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "鹽烤雞腿丼(Salt-baked chicken donburi )",
-          "price": 130,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "照燒雞腿丼(Teriyaki chicken donburi)",
-          "price": 130,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "勝丼/豬排丼(Pork cutlet rice bowl)",
-          "price": 130,
-          "category": "招牌日式丼"
-        },
-        {
-          "name": "花枝蝦排丼(Squid and shrimp tempura rice bowl)",
+          "name": "酥炸豬排飯",
           "price": 150,
-          "category": "招牌日式丼"
+          "category": "丼飯"
         },
         {
-          "name": "鹽烤秋刀魚丼(Salt-grilled saury rice bowl)",
+          "name": "慢火細烤鯖魚飯",
+          "price": 195,
+          "category": "丼飯"
+        },
+        {
+          "name": "卡滋脆皮・唐揚炸雞飯",
           "price": 150,
-          "category": "招牌日式丼"
+          "category": "丼飯"
         },
         {
-          "name": "鯛魚下巴丼",
+          "name": "小春日燒肉飯(豬肉)",
           "price": 150,
-          "category": "招牌日式丼"
+          "category": "丼飯"
         },
         {
-          "name": "鹽烤鯖魚丼",
-          "price": 170,
-          "category": "招牌日式丼"
+          "name": "職人慢火嚴烤雞腿飯",
+          "price": 150,
+          "category": "丼飯"
         },
         {
-          "name": "蒲燒魚肚丼(Grilled fish belly and rice bowl)",
-          "price": 160,
-          "category": "招牌日式丼"
+          "name": "照燒雞腿飯",
+          "price": 150,
+          "category": "丼飯"
         },
         {
-          "name": "麻油炒飯",
-          "price": 110,
-          "category": "炒飯/麵"
+          "name": "壽喜風味・豬排丼(勝丼)",
+          "price": 150,
+          "category": "丼飯"
         },
         {
-          "name": "黃金泡菜炒飯",
+          "name": "壽喜風味・牛五花丼",
+          "price": 130,
+          "category": "丼飯"
+        },
+        {
+          "name": "壽喜風味・親子丼(是雞肉片，不是雞丁)",
           "price": 120,
-          "category": "炒飯/麵"
+          "category": "丼飯"
         },
         {
-          "name": "鮭魚炒飯",
-          "price": 130,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "吻仔魚炒飯",
-          "price": 130,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "咖哩炒飯",
-          "price": 120,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "蝦仁炒飯",
-          "price": 130,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "日式炒烏龍麵",
-          "price": 130,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "日式湯烏龍麵",
-          "price": 130,
-          "category": "炒飯/麵"
-        },
-        {
-          "name": "咖哩炒烏龍麵",
+          "name": "春日櫻花粉・鮭魚炒飯",
           "price": 140,
           "category": "炒飯/麵"
         },
         {
-          "name": "咖哩豬排飯",
-          "price": 170,
-          "category": "咖哩"
+          "name": "招牌必點・黃金泡菜炒飯",
+          "price": 140,
+          "category": "炒飯/麵"
         },
         {
-          "name": "咖哩唐揚雞飯",
-          "price": 170,
-          "category": "咖哩"
+          "name": "高湯收汁・醬香炒烏龍",
+          "price": 150,
+          "category": "炒飯/麵"
         },
         {
-          "name": "酥炸柳葉魚",
-          "price": 100,
+          "name": "極・鮮味柴魚湯烏龍",
+          "price": 150,
+          "category": "炒飯/麵"
+        },
+        {
+          "name": "蝦仁金黃蛋炒飯",
+          "price": 140,
+          "category": "炒飯/麵"
+        },
+        {
+          "name": "黃金泡菜-單點",
+          "price": 40,
           "category": "單點"
         },
         {
-          "name": "酥炸雞軟骨",
+          "name": "北海道風味・綿密可樂餅-單點",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "牛蒡絲-單點",
+          "price": 40,
+          "category": "單點"
+        },
+        {
+          "name": "梅香竹輪天婦羅",
+          "price": 80,
+          "category": "單點"
+        },
+        {
+          "name": "爆汁・日式唐揚雞-單點",
           "price": 90,
           "category": "單點"
         },
         {
-          "name": "小春日燒肉(豬肉)",
+          "name": "鹽烤鯖魚-單點",
+          "price": 135,
+          "category": "單點"
+        },
+        {
+          "name": "黃金麵衣・熟成炸豬排-單點",
           "price": 90,
           "category": "單點"
         },
         {
-          "name": "唐揚炸雞",
+          "name": "鹽烤雞腿-單點",
           "price": 90,
           "category": "單點"
         },
         {
-          "name": "鹽烤鯛魚下巴",
-          "price": 110,
-          "category": "單點"
-        },
-        {
-          "name": "酥炸豬排",
+          "name": "照燒雞腿-單點",
           "price": 90,
           "category": "單點"
         },
         {
-          "name": "鹽烤雞腿",
-          "price": 90,
+          "name": "樹子水蓮-單點",
+          "price": 140,
           "category": "單點"
         },
         {
-          "name": "照燒雞腿",
-          "price": 90,
+          "name": "白飯-單點",
+          "price": 30,
           "category": "單點"
         },
         {
-          "name": "鹽烤秋刀魚",
-          "price": 110,
-          "category": "單點"
-        },
-        {
-          "name": "清炒時蔬（小／大）",
-          "price": "50／100",
-          "category": "單點"
-        },
-        {
-          "name": "花枝蝦排",
-          "price": 110,
-          "category": "單點"
-        },
-        {
-          "name": "樹子炒水蓮",
+          "name": "爆卵・黃金酥炸柳葉魚-單點",
           "price": 120,
           "category": "單點"
         },
         {
-          "name": "鹽烤鯖魚",
+          "name": "清炒時蔬-單點",
           "price": 130,
           "category": "單點"
         },
         {
-          "name": "吻仔魚/蝦仁烘蛋",
-          "price": 130,
+          "name": "春日燒肉-單點",
+          "price": 90,
           "category": "單點"
         },
         {
-          "name": "泰式奶茶",
-          "price": 60,
-          "category": "飲品"
+          "name": "可口可樂",
+          "price": 30,
+          "category": "飲品/湯品"
         },
         {
-          "name": "大麥決明子茶",
+          "name": "飲品-🇹🇭 黃金比例・手標泰式奶茶(甜度固定，去冰，400ml)",
           "price": 40,
-          "category": "飲品"
+          "category": "飲品/湯品"
         },
         {
-          "name": "蒜頭蛤蠣湯",
-          "price": 100,
-          "category": "飲品"
+          "name": "飲品-解膩神器・決明子大麥茶 (無糖，去冰，400ml)",
+          "price": 35,
+          "category": "飲品/湯品"
+        },
+        {
+          "name": "家庭版料多多玉米濃湯（當日限定賣完為止）",
+          "price": 50,
+          "category": "小春日家常料理"
         }
       ],
-      "source": "https://dinbendon.net/do/idine?shop=432773",
-      "fetchedOn": "2026-10-24",
-      "total": 41,
-      "sourceUpdated": "2025-04-14"
+      "source": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+      "fetchedOn": "2026-11-27",
+      "total": 32
     },
-    "menuSource": "https://dinbendon.net/do/idine?shop=432773",
-    "menuCheckedAt": "2026-10-24",
-    "deliverySummary": "滿400可外送，10:00後可訂餐"
+    "menuSource": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+    "menuCheckedAt": "2026-11-27",
+    "deliverySummary": "官方訂餐頁（2026-11-15 起公告）：兩公里內滿 $500 可外送；線上外送運費 $60，滿 $500 免運，距離上限 3 公里",
+    "officialUrl": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+    "hours": "每天 10:50–13:30、16:50–20:30",
+    "deliverySource": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+    "deliveryCheckedAt": "2026-11-27",
+    "imageUrl": "https://zisong.tw/assets/shops/dbd-432773.webp",
+    "imageSource": "https://customer.posky.net/store/1e24c80b-175d-4841-8671-4025e5ea807b/menu",
+    "imageOriginal": "https://d2jpir35pj7e36.cloudfront.net/public/1e24c80b-175d-4841-8671-4025e5ea807b/product-204413-54842",
+    "imageCheckedAt": "2026-11-27",
+    "imageDish": "職人慢火嚴烤雞腿飯"
   },
   {
     "id": "dbd-390129",
@@ -660275,5 +660237,38 @@
     "imageOriginal": "https://cdn.dudooeat.com/c3b7d66b-acaa-4c7f-b40d-990d445315a2",
     "imageCheckedAt": "2026-11-27",
     "imageKind": "brand"
+  },
+  {
+    "id": "flsx-hsinchu",
+    "slug": "福祿壽囍鯛魚燒-新竹店",
+    "name": "福祿壽囍鯛魚燒（新竹店）",
+    "city": "新竹市",
+    "district": "北區",
+    "address": "北門街172號",
+    "cuisine": "甜點",
+    "cuisineTags": [
+      "甜點",
+      "鯛魚燒"
+    ],
+    "phone": "0912-445-648",
+    "orderUrl": "https://line.me/ti/g2/dDQ3PGX4aFtX4ttwkcy2FYS21FBTRfAAXf05Pg",
+    "lineUrl": "https://line.me/ti/g2/dDQ3PGX4aFtX4ttwkcy2FYS21FBTRfAAXf05Pg",
+    "officialUrl": "https://line.me/ti/g2/dDQ3PGX4aFtX4ttwkcy2FYS21FBTRfAAXf05Pg",
+    "deliveryMinType": "quantity",
+    "deliveryMinValue": 15,
+    "deliveryMinLabel": "3公里內滿15隻",
+    "deliverySummary": "3公里以內滿15隻、3公里以上滿30隻可外送",
+    "deliverAreas": [
+      "新竹市北區"
+    ],
+    "evidence": "店家自薦表單提供地址新竹市北區北門街172號、電話 0912-445-648，外送條件：「外送距離3公里以內需滿15隻，3公里以上需滿30隻」；官方 LINE OpenChat「新竹店 - 福禄寿囍 鯛焼き専門店」（2026-11-27 核對仍可加入）。本站未在官方 LINE 頁面見到營業時間或菜單價格，故不刊登。下單前請先向店家確認。",
+    "source": "店家自薦表單；https://line.me/ti/g2/dDQ3PGX4aFtX4ttwkcy2FYS21FBTRfAAXf05Pg；Checked: 2026-11-27",
+    "checkedAt": "2026-11-27",
+    "chain": false,
+    "featured": false,
+    "origin": "shop-submission-20261127",
+    "confidence": "high",
+    "deliverySource": "shop-submission",
+    "deliveryCheckedAt": "2026-11-27"
   }
 ]
