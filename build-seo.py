@@ -444,11 +444,11 @@ def card_html(r: dict, prefix: str = "../") -> str:
         if phone:
             tel = re.sub(r"-", "", phone)
             actions.append(f'<a class="btn btn-ghost" href="tel:{escape_html(tel)}">{escape_html(phone)}</a>')
-    actions.append(f'<a class="btn btn-ghost" href="{prefix}detail.html?id={escape_html(rid)}">詳情</a>')
+    actions.append(f'<a class="btn btn-ghost" href="{prefix}shop/{escape_html(rid)}.html">詳情</a>')
     parts = [
         f'<article class="card" data-id="{escape_html(rid)}">',
         f'<div class="badges">{"".join(badges)}</div>',
-        f'<h2><a href="{prefix}detail.html?id={escape_html(rid)}">{escape_html(r.get("name"))}</a></h2>',
+        f'<h2><a href="{prefix}shop/{escape_html(rid)}.html">{escape_html(r.get("name"))}</a></h2>',
     ]
     if r.get("cuisine"):
         parts.append(f'<p class="cuisine-line">{escape_html(r["cuisine"])}</p>')

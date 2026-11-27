@@ -7,6 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="自送店家詳情" />
   <title>店家詳情｜自送</title>
+  <script>
+    // 2026-11-27: Google indexed ~950 detail.html?id= URLs as duplicates of the static shop pages; point them to /shop/<id>.html
+    (function(){var m=location.search.match(/[?&]id=([A-Za-z0-9_-]+)/);if(!m)return;var l=document.createElement('link');l.rel='canonical';l.href='https://zisong.tw/shop/'+m[1]+'.html';document.head.appendChild(l);})();
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
