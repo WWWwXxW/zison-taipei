@@ -246625,9 +246625,9 @@
     "deliveryMinLabel": "滿10碗",
     "freeDeliveryThreshold": null,
     "deliveryFee": null,
-    "evidence": "訂便當網店家公告：「滿10碗外送」（店家最後更新 2024/10/28）",
+    "evidence": "訂便當網店家公告：「滿10碗外送」（店家最後更新 2024/10/28）；地址依店家 Facebook 說明「位於竹北三民路14號」（2026-11-27 更正，原資料誤作「三民區14號」）",
     "source": "dinbendon shop=145320",
-    "address": "三民區14號",
+    "address": "三民路14號",
     "phone": "03-5540217、0910-052-111",
     "hours": null,
     "orderUrl": "https://www.dinbendon.net/do/idine?shop=145320",
@@ -381944,7 +381944,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi013.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-麻油紙包雞歡聚分享餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "麻油紙包雞歡聚分享餐"
   },
   {
     "id": "kfc-twi154",
@@ -400040,7 +400046,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi131.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日煙燻風味綠醬無骨霸XL全明星餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日煙燻風味綠醬無骨霸 XL全明星餐"
   },
   {
     "id": "kfc-twi219",
@@ -401549,7 +401561,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi228.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日煙燻風味綠醬雙拼點心盒.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日煙燻風味綠醬雙拼點心盒"
   },
   {
     "id": "kfc-twi195",
@@ -402050,7 +402068,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi195.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日煙燻風味綠醬無骨霸兩塊.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日煙燻風味綠醬無骨霸（2塊）"
   },
   {
     "id": "kfc-twi170",
@@ -408068,7 +408092,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi204.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/1117-OLO餐圖-50541.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "原味蛋撻（12入）"
   },
   {
     "id": "kfc-twb582",
@@ -417593,7 +417623,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi150.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日派對盒.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日派對盒"
   },
   {
     "id": "kfc-twi158",
@@ -420599,7 +420635,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twb597.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-雞腿霸沾沾樂分享盒(2-3人).png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "雞腿霸沾沾樂分享盒（2–3人）"
   },
   {
     "id": "kfc-twi043",
@@ -421100,7 +421142,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi043.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日漢堡XL全明星餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日漢堡 XL全明星餐"
   },
   {
     "id": "kfc-twi088",
@@ -426128,7 +426176,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twi089.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/OLO餐圖-末日嚼起無骨雞腿霸XL全明星餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "末日嚼起無骨雞腿霸 XL全明星餐"
   },
   {
     "id": "kfc-twb559",
@@ -431156,7 +431210,13 @@
         }
       ],
       "note": "價格取自肯德基官網美味菜單（未選門市）；官網訂購須知：外送不限金額、每筆外送費 $39、早餐時段不外送，實際單價以官網結帳頁為準。"
-    }
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/kfc-twb506.webp",
+    "imageSource": "https://www.kfcclub.com.tw/menu",
+    "imageOriginal": "https://kfcoosfs.kfcclub.com.tw/newOLO-義式香草紙包雞XL全明星餐.png（裁掉活動標籤與說明字）",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand",
+    "imageDish": "義式香草紙包雞 XL全明星餐"
   },
   {
     "id": "kfc-twi110",
@@ -623354,15 +623414,15 @@
     "id": "dbd-281617",
     "slug": "龍品魚丸店-西屯店",
     "name": "龍品魚丸店(西屯店)",
-    "district": "西屯區",
-    "address": "一段335號",
+    "district": "北區",
+    "address": "北區西屯路一段335號",
     "cuisine": "便當",
     "cuisineTags": [
       "便當"
     ],
     "phone": "04-2310-0459",
     "orderUrl": "https://dinbendon.net/do/idine?shop=281617",
-    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300以上可外送\r」；店家頁地址 台中市西屯區一段335號、電話 04-23100459\t（精誠04-2310-2808）；店家資料最後更新 2025/02/24。下單前請先來電確認。",
+    "evidence": "訂便當網公開店家頁（共用頁，可能由團購使用者維護）外送相關文字：「300以上可外送\r」；店家頁地址 台中市西屯區一段335號、電話 04-23100459\t（精誠04-2310-2808）；店家資料最後更新 2025/02/24。下單前請先來電確認。（2026-11-27 更正：食藥署食品業者登錄 B-200152486-00001-7 地址為台中市北區西屯路一段335號，店在北區，不在西屯區。）",
     "source": "https://dinbendon.net/do/idine?shop=281617；Checked: 2026-11-01",
     "checkedAt": "2026-11-01",
     "chain": false,
@@ -659172,6 +659232,1048 @@
     "imageSource": "https://order.ocard.co/theproteinbox/KVOdOw",
     "imageOriginal": "https://cdn.dudooeat.com/09ec53d2-ae9e-4cf4-ad55-67b19f00bcbf",
     "imageCheckedAt": "2026-11-26",
+    "imageKind": "brand"
+  },
+  {
+    "id": "tpb-minan",
+    "source": "https://order.ocard.co/theproteinbox/Kny6dm；Checked: 2026-11-27",
+    "checkedAt": "2026-11-27",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261127",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/Kny6dm",
+    "deliverySource": "https://order.ocard.co/theproteinbox/Kny6dm",
+    "deliveryCheckedAt": "2026-11-27",
+    "menuSource": "https://order.ocard.co/theproteinbox/Kny6dm",
+    "menuCheckedAt": "2026-11-27",
+    "city": "新北市",
+    "district": "新莊區",
+    "deliverAreas": [
+      "新北市新莊區"
+    ],
+    "slug": "蛋白盒子-民安西路",
+    "name": "蛋白盒子（新莊民安店）",
+    "address": "民安西路14號",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-2206-5700",
+    "officialUrl": "https://order.ocard.co/theproteinbox/Kny6dm",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（新莊民安店，新北市新莊區民安西路14號，電話 02-2206-5700）外送說明：「運費90元，1公里內滿600元、1-2公里內滿800元、2-3公里內滿1200元則免運費，3公里以上或大量客製餐盒請來電洽詢」；線上外送距離上限 2 公里；門市須知「外送距離2公里以上歡迎來電洽詢」。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 免運",
+    "deliverySummary": "官方訂餐頁：運費 $90；1 公里內滿 $600、1–2 公里滿 $800、2–3 公里滿 $1,200 免運（線上外送 2 公里內）；2 公里以上或大量客製餐盒請來電",
+    "hours": "週一～週日 10:30–14:00、16:00–20:30",
+    "imageDish": "香煎黑胡椒雞胸",
+    "menu": {
+      "items": [
+        {
+          "name": "(蝦皮VIP限定)雞腿排套餐",
+          "price": 165,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "(蝦皮VIP限定)香煎雞胸套餐",
+          "price": 155,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "(兒童餐)香煎雞胸套餐",
+          "price": 125,
+          "category": "兒童餐"
+        },
+        {
+          "name": "(兒童餐)壽喜牛五花套餐",
+          "price": 125,
+          "category": "兒童餐"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "板腱牛排餐盒",
+          "price": 230,
+          "category": "本季推薦"
+        },
+        {
+          "name": "醬濃香烤雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "正韓泡菜豬餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎霜降松阪豬餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "私房滷牛腱餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "漢方藥膳嫩雞腿餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "素排骨餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎蒙特婁雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)私房滷牛腱",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)板腱牛排",
+          "price": 170,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)醬濃香烤雞腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)正韓泡菜豬",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎蒙特婁雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)素排骨",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)炭火燒肉雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)漢方藥膳雞腿",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎松阪豬",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)韓式泡菜",
+          "price": 40,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)玉米筍",
+          "price": 35,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)青花菜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "配餐加點"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡玄米茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡烏龍茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "莊園紅茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "復刻紅茶豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "虱目魚丸湯",
+          "price": 35,
+          "category": "單點湯品"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-minan.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/Kny6dm",
+    "imageOriginal": "https://cdn.dudooeat.com/6c8e9ff1-fa3b-43f4-87fe-7222afcae10a",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand"
+  },
+  {
+    "id": "tpb-tiyuguan",
+    "source": "https://order.ocard.co/theproteinbox/w8dM8w；Checked: 2026-11-27",
+    "checkedAt": "2026-11-27",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261127",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/w8dM8w",
+    "deliverySource": "https://order.ocard.co/theproteinbox/w8dM8w",
+    "deliveryCheckedAt": "2026-11-27",
+    "menuSource": "https://order.ocard.co/theproteinbox/w8dM8w",
+    "menuCheckedAt": "2026-11-27",
+    "city": "新北市",
+    "district": "新莊區",
+    "deliverAreas": [
+      "新北市新莊區"
+    ],
+    "slug": "蛋白盒子-中華路一段",
+    "name": "蛋白盒子（新莊體育館店）",
+    "address": "中華路一段40號1樓",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-2998-5995",
+    "officialUrl": "https://order.ocard.co/theproteinbox/w8dM8w",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（新莊體育館店，新北市新莊區中華路一段40號1樓，電話 02-2998-5995）外送說明：「外送距離上限3km；0~1.5 km，運費80元 滿500元免運；1.5~3 km，運費90元 滿1000元免運；大量或客製餐盒請先來電洽詢」（線上最低消費 0–1.5 公里 $500、1.5–3 公里 $1,000）。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 500,
+    "deliveryMinLabel": "滿 $500 外送",
+    "deliverySummary": "官方訂餐頁：外送 3 公里內；1.5 公里內低消 $500（滿 $500 免運，運費 $80）、1.5–3 公里低消 $1,000（滿 $1,000 免運，運費 $90）；大量或客製餐盒請先來電",
+    "hours": "週一～週五 11:00–14:00、17:00–20:00（週六、週日、國定假日店休）",
+    "imageDish": "薄鹽烤鮭魚",
+    "menu": {
+      "items": [
+        {
+          "name": "(蝦皮VIP限定)香煎雞胸套餐",
+          "price": 155,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "(蝦皮VIP限定)雞腿排套餐",
+          "price": 165,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "炭火燒肉雞胸餐盒",
+          "price": 135,
+          "category": "本季推薦"
+        },
+        {
+          "name": "醬濃香烤雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "正韓泡菜豬餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "私房滷牛腱餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "打拋豬餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎蒙特婁雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "素排骨餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)私房滷牛腱",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)醬濃香烤雞腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)正韓泡菜豬",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎蒙特婁雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)炭火燒肉雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)素排骨",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)青花菜",
+          "price": 30,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)玉米筍",
+          "price": 35,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "單點配餐"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "單點配餐"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡玄米茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "復刻紅茶豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "莊園紅茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "虱目魚丸湯",
+          "price": 35,
+          "category": "單點湯品"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-tiyuguan.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/w8dM8w",
+    "imageOriginal": "https://cdn.dudooeat.com/396dbd5f-b530-4b40-ac7a-4ffd99e31437",
+    "imageCheckedAt": "2026-11-27",
+    "imageKind": "brand"
+  },
+  {
+    "id": "tpb-mingde",
+    "source": "https://order.ocard.co/theproteinbox/wlA7VQ；Checked: 2026-11-27",
+    "checkedAt": "2026-11-27",
+    "chain": true,
+    "featured": false,
+    "origin": "ocard-daily-20261127",
+    "confidence": "high",
+    "orderUrl": "https://order.ocard.co/theproteinbox/wlA7VQ",
+    "deliverySource": "https://order.ocard.co/theproteinbox/wlA7VQ",
+    "deliveryCheckedAt": "2026-11-27",
+    "menuSource": "https://order.ocard.co/theproteinbox/wlA7VQ",
+    "menuCheckedAt": "2026-11-27",
+    "city": "新北市",
+    "district": "土城區",
+    "deliverAreas": [
+      "新北市土城區"
+    ],
+    "slug": "蛋白盒子-明德路一段",
+    "name": "蛋白盒子（土城明德店）",
+    "address": "明德路一段34號",
+    "cuisine": "健康低卡餐盒",
+    "cuisineTags": [
+      "健康低卡餐盒"
+    ],
+    "phone": "02-2270-3033",
+    "officialUrl": "https://order.ocard.co/theproteinbox/wlA7VQ",
+    "evidence": "蛋白盒子品牌官方 Ocard 線上點餐頁（土城明德店，新北市土城區明德路一段34號，電話 02-2270-3033）外送說明：「運費90元，1公里內滿600元、1-2公里內滿800元、2-3公里內滿1200元則免運費，3公里以上或大量客製餐盒請來電洽詢」；線上外送距離上限 3 公里。下單前請先確認地址在外送範圍內。",
+    "deliveryMinType": "amount",
+    "deliveryMinValue": 600,
+    "deliveryMinLabel": "滿 $600 免運",
+    "deliverySummary": "官方訂餐頁：運費 $90；1 公里內滿 $600、1–2 公里滿 $800、2–3 公里滿 $1,200 免運（線上外送 3 公里內）；3 公里以上或大量客製餐盒請來電",
+    "hours": "每天 11:00–14:30、16:00–20:00（無公休）",
+    "imageDish": "無肉",
+    "menu": {
+      "items": [
+        {
+          "name": "(蝦皮VIP限定)雞腿排套餐",
+          "price": 165,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "(蝦皮VIP限定)香煎雞胸套餐",
+          "price": 155,
+          "category": "蝦皮VIP活動限定"
+        },
+        {
+          "name": "麻油雞腿排餐盒",
+          "price": 145,
+          "category": "本月有購划算特餐"
+        },
+        {
+          "name": "乾碟香辣雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "乾碟香辣豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "日式鹽味雞胸餐盒",
+          "price": 130,
+          "category": "本季推薦"
+        },
+        {
+          "name": "日式鹽味豬排餐盒",
+          "price": 150,
+          "category": "本季推薦"
+        },
+        {
+          "name": "菲力豬排餐盒",
+          "price": 145,
+          "category": "本季推薦"
+        },
+        {
+          "name": "板腱牛排餐盒",
+          "price": 230,
+          "category": "本季推薦"
+        },
+        {
+          "name": "醬濃香烤雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "紐奧良雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎霜降松阪豬餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "私房滷牛腱餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "檸檬雞腿排餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "漢方藥膳嫩雞腿餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "青花椒雞腿排餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "無肉餐盒",
+          "price": 95,
+          "category": "餐盒"
+        },
+        {
+          "name": "減鹽味噌烤鱸魚餐盒",
+          "price": 165,
+          "category": "餐盒"
+        },
+        {
+          "name": "薄鹽烤鮭魚餐盒",
+          "price": 180,
+          "category": "餐盒"
+        },
+        {
+          "name": "打拋豬餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "青蔥海鹽雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "四川麻辣雞胸餐盒",
+          "price": 135,
+          "category": "餐盒"
+        },
+        {
+          "name": "素排骨餐盒",
+          "price": 130,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎海苔雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎蒙特婁雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "壽喜牛五花餐盒",
+          "price": 145,
+          "category": "餐盒"
+        },
+        {
+          "name": "香煎黑胡椒雞胸餐盒",
+          "price": 125,
+          "category": "餐盒"
+        },
+        {
+          "name": "(單)乾碟香辣雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)乾碟香辣豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味豬排",
+          "price": 90,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)日式鹽味雞胸",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)私房滷牛腱",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)菲力豬排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)板腱牛排",
+          "price": 170,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)醬濃香烤雞腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)紐奧良腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎蒙特婁雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎黑胡椒雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)四川麻辣雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)檸檬雞腿排",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎海苔雞胸",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青蔥海鹽雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)素排骨",
+          "price": 70,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)炭火燒肉雞胸",
+          "price": 75,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)薄鹽烤鮭魚",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)味噌烤鱸魚",
+          "price": 105,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)壽喜牛五花",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)漢方藥膳雞腿",
+          "price": 65,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)青花椒腿排",
+          "price": 85,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)香煎松阪豬",
+          "price": 120,
+          "category": "單點肉品"
+        },
+        {
+          "name": "(單)水煮蛋（一顆）",
+          "price": 16,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)水煮蛋（半顆）",
+          "price": 8,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)蒸地瓜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)玉米筍",
+          "price": 35,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)青花菜",
+          "price": 30,
+          "category": "配餐加點"
+        },
+        {
+          "name": "(單)黑米飯",
+          "price": 10,
+          "category": "配餐加點"
+        },
+        {
+          "name": "微糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡玄米茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "冷泡烏龍茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "莊園紅茶",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "無糖白豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        },
+        {
+          "name": "復刻紅茶豆漿",
+          "price": 30,
+          "category": "單點飲品"
+        }
+      ]
+    },
+    "imageUrl": "https://zisong.tw/assets/shops/tpb-mingde.webp",
+    "imageSource": "https://order.ocard.co/theproteinbox/wlA7VQ",
+    "imageOriginal": "https://cdn.dudooeat.com/c3b7d66b-acaa-4c7f-b40d-990d445315a2",
+    "imageCheckedAt": "2026-11-27",
     "imageKind": "brand"
   }
 ]
