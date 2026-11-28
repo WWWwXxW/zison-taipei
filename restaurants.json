@@ -8657,7 +8657,7 @@
       "會議餐盒"
     ],
     "hours": "週一–六 11:00–14:00 / 17:00–20:00",
-    "evidence": "官網電話",
+    "evidence": "官網電話；地址依店家公開貼文「台北市大安區樂業街57號」（六張犁站附近，食記多篇一致），2026-11-28 補",
     "source": "多區配送",
     "chain": false,
     "featured": false,
@@ -8669,7 +8669,8 @@
     "deliveryMinLabel": "滿10個免費外送（大安／松山／信義／公館）",
     "city": "台北市",
     "orderChannel": "own-web",
-    "deliverySummary": "滿10個免費外送（大安／松山／信義／公館）"
+    "deliverySummary": "滿10個免費外送（大安／松山／信義／公館）",
+    "address": "樂業街57號"
   },
   {
     "id": "scout-b1-25",
