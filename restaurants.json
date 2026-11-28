@@ -303878,7 +303878,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-104.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=6",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/8209a6b7ff24a18fbcdc40f58c15ee88.jpg（裁掉標題字）",
+    "imageCheckedAt": "2026-11-28",
+    "imageKind": "brand",
+    "imageDish": "冰藏起司塔"
   },
   {
     "id": "pizzahut-255",
@@ -315656,7 +315662,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-288.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=3",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/ee9d8592f404fa06136f278f2dbcbddb.jpg",
+    "imageCheckedAt": "2026-11-28",
+    "imageKind": "brand",
+    "imageDish": "豪享嫩牛鮮蝦比薩"
   },
   {
     "id": "pizzahut-274",
@@ -322990,7 +323002,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-254.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=1",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/ac27a198a4cca966a600f0d0edcfdfc8.jpg（裁掉標題字）",
+    "imageCheckedAt": "2026-11-28",
+    "imageKind": "brand",
+    "imageDish": "青花椒香麻烤雞（4翅4腿）"
   },
   {
     "id": "pizzahut-204",
@@ -325306,7 +325324,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-291.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=5",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/01a9e1a7e2fac0f1219143096cf241bc.jpg",
+    "imageCheckedAt": "2026-11-28",
+    "imageKind": "brand",
+    "imageDish": "爆汁帶骨腸拼盤"
   },
   {
     "id": "pizzahut-147",
@@ -328394,7 +328418,13 @@
       ]
     },
     "menuSource": "https://www.pizzahut.com.tw/order/",
-    "menuCheckedAt": "2026-10-24"
+    "menuCheckedAt": "2026-10-24",
+    "imageUrl": "https://zisong.tw/assets/shops/pizzahut-352.webp",
+    "imageSource": "https://www.pizzahut.com.tw/order/?mode=step_2&ct=3",
+    "imageOriginal": "https://img.pizzahut.com.tw/w460/dccad00964173efa89181839ddd98b1a.jpg",
+    "imageCheckedAt": "2026-11-28",
+    "imageKind": "brand",
+    "imageDish": "丸勝日式章魚燒比薩"
   },
   {
     "id": "pizzahut-223",
